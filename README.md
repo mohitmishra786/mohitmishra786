@@ -21,7 +21,10 @@ Passionate machine learning student with the ability to apply the ML techniques 
 ## 🛠 Stats
 
 ![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitmishra786&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra786&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Mohit Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=dark)](https://git.io/streak-stats)
+
+
 
 
 ## 🔗 Links
