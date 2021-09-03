@@ -6,7 +6,7 @@
 Passionate machine learning student with the ability to apply the ML techniques and leverage algorithms and having experience in Python programming. I love to work with data.
 
 - 👋 Hi, I’m @mohitmishra786
-- 👀 I’m interested in Machine Learning / Deep Learning
+- 👀 I’m interested in Machine Learning / Deep Learning / Competitive Coding
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Projects , Hackathons
 
@@ -21,6 +21,8 @@ Passionate machine learning student with the ability to apply the ML techniques 
 ## 🛠 Stats
 
 ![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitmishra786&count_private=true&show_icons=true&theme=radical)
+[![Mohit Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=dark)](https://git.io/streak-stats)
+
 
 ## 🔗 Links
 
