@@ -25,8 +25,6 @@ Passionate machine learning student with the ability to apply the ML techniques 
 [![Mohit Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=dark)](https://git.io/streak-stats)
 
 
-
-
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-mishra-5b3492204/)
