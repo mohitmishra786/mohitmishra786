@@ -41,16 +41,24 @@ Passionate machine learning student with the ability to apply the ML techniques 
 ![](https://img.shields.io/badge/Package-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
 ## &#x1f4c8; GitHub Stats
 
+<p align="center">
+    <a href="https://github.com/MartinHeinz/MartinHeinz">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitmishra786&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=GitHub+Stats" alt="Martin's GitHub Stats" />
+    </a>
+    <a href="https://github.com/MartinHeinz/MartinHeinz">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+    </a>
+</p>
+
+<details>
+  <summary>Top Languages</summary>
+<br/>
+
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra786&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra786&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitmishra786&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-  
+
+</details>
 
 ## 🔗 Links
 
