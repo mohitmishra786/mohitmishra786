@@ -20,6 +20,31 @@ Passionate machine learning student with the ability to apply the ML techniques 
 
 ---
 
+## 🚀 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohitmishra786&theme=onedark)](https://github.com/mohitmishra786/github-profile-trophy)
+
+## 🔗 Links
+
+<p align="center">
+
+  <a href="https://twitter.com/duKe92102424" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-Mohit%20Mishra-blue?logo=twitter&logoColor=blue&color=blue" />
+ </a>
+
+  <a href="https://gitlab.com/mohitmishra786" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitLab-mohitmishra786-orange?logo=gitlab&logoColor=orange&color=orange" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/9848114/duke786" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/StackOverflow-duke786-orange?logo=stackoverflow&logoColor=orange&color=purple" />
+  </a>
+  </br>
+  <a href="https://www.linkedin.com/in/mohit-mishra-5b3492204/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Mishra-yellow?logo=youtube&logoColor=red&color=yellow" />
+  </a>
+</p>
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=window&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -67,9 +92,5 @@ Passionate machine learning student with the ability to apply the ML techniques 
 
 ---
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-mishra-5b3492204/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=en)
 
   
