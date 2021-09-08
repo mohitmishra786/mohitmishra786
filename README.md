@@ -1,9 +1,7 @@
-
 # Hi, I'm Mohit! 👋
 
-![](https://komarev.com/ghpvc/?username=mohitmishra786&color=green)
-
 ## 🚀 About Me
+
 Passionate machine learning student with the ability to apply the ML techniques and leverage algorithms and having experience in Python programming. I love to work with data.
 
 - 👋 Hi, I’m @mohitmishra786
@@ -22,6 +20,7 @@ Passionate machine learning student with the ability to apply the ML techniques 
 ---
 
 ## 🚀 Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohitmishra786&theme=onedark)](https://github.com/mohitmishra786/github-profile-trophy)
 
 ## 🔗 Links
@@ -45,28 +44,28 @@ Passionate machine learning student with the ability to apply the ML techniques 
   </a>
 </p>
 
-
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=window&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jupyter_Notebook-informational?style=flat&logo=jupyter-notebook&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Package-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Package-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Package-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
+
+![Windows](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=window&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![Atom](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
+![Sublime Text](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
+![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![CMake](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![Vue](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter_Notebook-informational?style=flat&logo=jupyter-notebook&logoColor=white&color=2bbc8a)
+![Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![Scikit Learn](https://img.shields.io/badge/Package-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![Numpy](https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![Pandas](https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![NLTK](https://img.shields.io/badge/Package-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=2bbc8a)
+![Matplotlib](https://img.shields.io/badge/Package-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
 
 ---
 
@@ -94,6 +93,5 @@ Passionate machine learning student with the ability to apply the ML techniques 
 ---
 
 ## Contribution Graph
-  [![Mohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohitmishra786&theme=react-dark)](https://github.com/mohitmishra786/github-readme-activity-graph)
 
-  
+  [![Mohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohitmishra786&theme=react-dark)](https://github.com/mohitmishra786/github-readme-activity-graph)
