@@ -40,7 +40,7 @@ Passionate machine learning student with the ability to apply the ML techniques 
   </a>
   </br>
   <a href="https://www.linkedin.com/in/mohit-mishra-5b3492204/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Mishra-yellow?logo=youtube&logoColor=red&color=yellow" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Mishra-yellow?logo=linkedin&logoColor=blue&color=yellow" />
   </a>
 </p>
 
