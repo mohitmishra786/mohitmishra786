@@ -1,5 +1,6 @@
 # Hi, I'm Mohit! 👋
 
+![](https://komarev.com/ghpvc/?username=mohitmishra786&color=green)
 ## 🚀 About Me
 
 Passionate machine learning student with the ability to apply the ML techniques and leverage algorithms and having experience in Python programming. I love to work with data.
