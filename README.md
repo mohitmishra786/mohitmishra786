@@ -100,7 +100,7 @@ Passionate machine learning student with the ability to apply the ML techniques 
   
 ```
 //░░░░░░░░░░ // You have struggled your way here with no guidance from anyone,keep the faith
-//░░░░░░░░▄▐░▄▄█████▄▄     //You have practiced a hell lot of questions,have faith in yourself
+//░░░░░░░░▄▐░▄▄█████▄▄     //You have worked hard, have faith in yourself
 //░░░░░░▄█████████████▄▀▄▄▄▄▄    //Dont just stare at the problem use that damn pen and paper
 //░░░░░█████████████████▄██████ // write down whats in ur head !
 //░░░░████▐█████▌████████▌█████▌
