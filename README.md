@@ -98,30 +98,3 @@ Passionate machine learning student with the ability to apply the ML techniques 
   [![Mohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohitmishra786&theme=react-dark)](https://github.com/mohitmishra786/github-readme-activity-graph)
   
   
-```
-//░░░░░░░░░░ // You have struggled your way here with no guidance from anyone,keep the faith
-//░░░░░░░░▄▐░▄▄█████▄▄     //You have worked hard, have faith in yourself
-//░░░░░░▄█████████████▄▀▄▄▄▄▄    //Dont just stare at the problem use that damn pen and paper
-//░░░░░█████████████████▄██████ // write down whats in ur head !
-//░░░░████▐█████▌████████▌█████▌
-//░░░████▌█████▌█░████████▐▀██▀
-//░▄█████░█████▌░█░▀██████▌█▄▄▀▄
-//░▌███▌█░▐███▌▌░░▄▄░▌█▌███▐███░▀
-//▐░▐██░░▄▄▐▀█░░░▐▄█▀▌█▐███▐█
-//░░███░▌▄█▌░░▀░░▀██░░▀██████▌
-//░░░▀█▌▀██▀░▄░░░░░░░░░███▐███
-//░░░░██▌░░░░░░░░░░░░░▐███████▌
-//░░░░███░░░░░▀█▀░░░░░▐██▐███▀▌
-//░░░░▌█▌█▄░░░░░░░░░▄▄████▀░▀    
-//░░░░░░█▀██▄▄▄░▄▄▀▀▒█▀█░▀
-//░░░░░░░░░▀░▀█▀▌▒▒▒░▐▄▄
-//░░░░░░░░▄▄▀▀▄░░░░░░▄▀░▀▀▄▄
-//░░░░░░▄▀░▄▀▄░▌░░░▄▀░░░░░░▄▀▀▄
-//░░░░░▐▒▄▀▄▀░▌▀▄▄▀░░░░░░▄▀▒▒▒▐
-//░░░░▐▒▒▌▀▄░░░░░▌░░░░▄▄▀▒▐▒▒▒▒▌
-//░░░▐▒▒▐░▌░▀▄░░▄▀▀▄▀▀▒▌▒▐▒▒▒▒▐▐
-//░░░▌▄▀░░░▄▀░█▀▒▒▒▒▀▄▒▌▐▒▒▒▒▒▌▌
-//░░▄▀▒▐░▄▀░░░▌▒▐▒▐▒▒▒▌▀▒▒▒▒▒▐▒▌
-
-//AFTER STRUGGLE,PEACE RESIDES,WORK HARD TODAY FOR THE BETTER TOMORROW !
-```
