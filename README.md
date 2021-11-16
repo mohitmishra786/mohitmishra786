@@ -1,4 +1,4 @@
-# Hi, I'm Mohit! 👋
+# Hi, I'm Mohit!👋
 
 ![](https://komarev.com/ghpvc/?username=mohitmishra786&color=green)
 ## 🚀 About Me
