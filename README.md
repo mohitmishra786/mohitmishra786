@@ -1,6 +1,12 @@
 # Hi, I'm Mohit!👋
-
 ![](https://komarev.com/ghpvc/?username=mohitmishra786&color=green)
+
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Developer;I'm+a+Competitive+Programmer;I'm+a+DevOps+Enthusiast" /></a>
+</p>
+<p>I am a Machine Learning Developer, I'm a Competitive Programmer, I also like to write blogs over <a href="https://medium.com/@mohit-mishra">Medium</a> </p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
 ## 🚀 About Me
 
 Passionate machine learning student with the ability to apply the ML techniques and leverage algorithms and having experience in Python programming. I love to work with data.
@@ -11,7 +17,20 @@ Passionate machine learning student with the ability to apply the ML techniques 
 - 💞️ I’m looking to collaborate on Projects , Hackathons
 
 ---
-  
+
+#### A little more about me
+```javascript
+const badri = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["Machine Learning","Deep Learning", "MLOps", "DevOps","Frontend Dev", "Python", "Flask" , "Competitive Programming"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      backend: ["Flask", "JS"],
+  }
+}
+```
+
 ## 🛠 Skills
 
 - Tools - Python, C++
@@ -44,6 +63,7 @@ Passionate machine learning student with the ability to apply the ML techniques 
     <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Mishra-yellow?logo=linkedin&logoColor=blue&color=yellow" />
   </a>
 </p>
+
 
 ## 🔧 Technologies & Tools
 
