@@ -102,10 +102,12 @@ const badri = {
     </a>
 </p>
 
-<details>
-  <summary>Top Languages</summary>
-<br/>
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+
+## My Language Performance
 <!--START_SECTION:waka-->
 ```text
 Other        1 hr 29 mins    ███████████████▓░░░░░░░░░   62.70 % 
@@ -113,6 +115,10 @@ C++          32 mins         █████▓░░░░░░░░░░░
 JavaScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 ```
 <!--END_SECTION:waka-->
+<details>
+  <summary>Top Languages</summary>
+<br/>
+
 <a href="https://github.com/MartinHeinz/MartinHeinz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra786&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
