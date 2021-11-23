@@ -106,6 +106,11 @@ const badri = {
 <br/>
 
 <!--START_SECTION:waka-->
+```text
+Other        1 hr 29 mins    ███████████████▓░░░░░░░░░   62.70 % 
+C++          32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 % 
+JavaScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+```
 <!--END_SECTION:waka-->
 <a href="https://github.com/MartinHeinz/MartinHeinz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra786&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
