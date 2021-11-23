@@ -31,6 +31,23 @@ const badri = {
   }
 }
 ```
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Building First Deep Learning Project With Python Using Keras](https://mohit-mishra.medium.com/building-first-deep-learning-project-with-python-using-keras-265ca036e161?source=rss-7629070be433------2)
+- [What is Container?](https://mohit-mishra.medium.com/getting-into-4e078789098d?source=rss-7629070be433------2)
+- [Deploying Pre-Trained Keras Model into AWS Sagemaker](https://mohit-mishra.medium.com/deploying-pre-trained-keras-or-tensorlfow-models-into-aws-sagemaker-1f16d88ec807?source=rss-7629070be433------2)
+- [Basics about Helm](https://mohit-mishra.medium.com/basics-about-helm-b6445aee1afc?source=rss-7629070be433------2)
+<!-- BLOG-POST-LIST:END -->
+
+
+## My Language Performance
+<!--START_SECTION:waka-->
+```text
+Other        1 hr 29 mins    ███████████████▓░░░░░░░░░   62.70 % 
+C++          32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 % 
+JavaScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+```
+<!--END_SECTION:waka-->
 
 ## 🛠 Skills
 
@@ -102,23 +119,6 @@ const badri = {
     </a>
 </p>
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Building First Deep Learning Project With Python Using Keras](https://mohit-mishra.medium.com/building-first-deep-learning-project-with-python-using-keras-265ca036e161?source=rss-7629070be433------2)
-- [What is Container?](https://mohit-mishra.medium.com/getting-into-4e078789098d?source=rss-7629070be433------2)
-- [Deploying Pre-Trained Keras Model into AWS Sagemaker](https://mohit-mishra.medium.com/deploying-pre-trained-keras-or-tensorlfow-models-into-aws-sagemaker-1f16d88ec807?source=rss-7629070be433------2)
-- [Basics about Helm](https://mohit-mishra.medium.com/basics-about-helm-b6445aee1afc?source=rss-7629070be433------2)
-<!-- BLOG-POST-LIST:END -->
-
-
-## My Language Performance
-<!--START_SECTION:waka-->
-```text
-Other        1 hr 29 mins    ███████████████▓░░░░░░░░░   62.70 % 
-C++          32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 % 
-JavaScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-```
-<!--END_SECTION:waka-->
 <details>
   <summary>Top Languages</summary>
 <br/>
