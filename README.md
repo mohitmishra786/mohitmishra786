@@ -40,15 +40,6 @@ const badri = {
 <!-- BLOG-POST-LIST:END -->
 
 
-## My Language Performance
-<!--START_SECTION:waka-->
-```text
-Other        1 hr 29 mins    ███████████████▓░░░░░░░░░   62.70 % 
-C++          32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 % 
-JavaScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-```
-<!--END_SECTION:waka-->
-
 ## 🛠 Skills
 
 - Tools - Python, C++
@@ -118,6 +109,15 @@ JavaScript   20 mins         ███▓░░░░░░░░░░░░░
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
     </a>
 </p>
+
+## My Wakatime Stats
+<!--START_SECTION:waka-->
+```text
+Other        1 hr 29 mins    ███████████████▓░░░░░░░░░   62.70 % 
+C++          32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 % 
+JavaScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+```
+<!--END_SECTION:waka-->
 
 <details>
   <summary>Top Languages</summary>
