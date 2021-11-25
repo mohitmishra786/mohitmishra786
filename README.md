@@ -136,4 +136,7 @@ JavaScript   20 mins         █░░░░░░░░░░░░░░░░
 
 ## Contribution Graph
 
-[![Mohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohitmishra786&theme=dracula)](https://github.com/mohitmishra786/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!-- [![Mohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohitmishra786&theme=dracula)](https://github.com/mohitmishra786/github-readme-activity-graph)
+ -->
