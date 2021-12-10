@@ -114,7 +114,7 @@ const badri = {
 ## My Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-C++     2 hrs 3 mins    █████████████████████████   100.00 % 
+C++   2 hrs 3 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
