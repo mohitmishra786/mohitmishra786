@@ -114,11 +114,9 @@ const badri = {
 ## My Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-C++      5 hrs 3 mins    █████████████▒░░░░░░░░░░░   53.45 % 
-Python   3 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.55 % 
-Other    1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Docker   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+C++      3 hrs 27 mins   ████████████▒░░░░░░░░░░░░   49.59 % 
+Python   2 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   34.00 % 
+Other    1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 ```
 <!--END_SECTION:waka-->
 
