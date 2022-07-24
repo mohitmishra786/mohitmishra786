@@ -115,8 +115,7 @@ const badri = {
 <!--START_SECTION:waka-->
 
 ```text
-Python     11 mins         ████████████████████████▓   98.65 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
