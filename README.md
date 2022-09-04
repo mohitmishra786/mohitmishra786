@@ -33,7 +33,6 @@ const badri = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fastest and Easiest Path Towards 100 Followers in 2 Days](https://medium.com/@mohitmishra786687/fastest-and-easiest-path-towards-100-followers-in-2-days-348bb9591fb3?source=rss-678bb511886d------2)
 - [[Paper Review] Machine Learning Operations: Overview, Definition, and Architecture](https://medium.com/@mohitmishra786687/paper-review-machine-learning-operations-overview-definition-and-architecture-8255a5e2ad28?source=rss-678bb511886d------2)
 - [[Paper Review] Language Models Prompting Elicits Reasoning in Large Language Models](https://medium.com/@mohitmishra786687/paper-review-language-models-prompting-elicits-reasoning-in-large-language-models-b03f727f2c81?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
