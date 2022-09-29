@@ -113,7 +113,11 @@ const badri = {
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   6 mins          █████████████████████████   100.00 %
+TypeScript   2 hrs 46 mins   ███████████████░░░░░░░░░░   59.72 %
+Markdown     1 hr 37 mins    ████████▓░░░░░░░░░░░░░░░░   34.86 %
+CSS          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
