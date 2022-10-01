@@ -21,13 +21,13 @@ Passionate machine learning student with the ability to apply the ML techniques 
 
 #### A little more about me
 ```javascript
-const badri = {
+const mohit = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["Machine Learning","Deep Learning", "MLOps", "DevOps","Frontend Dev", "Python", "Flask" , "Competitive Programming"],
+  code: ["Javascript", "Python", "HTML", "CSS", "C++", "React.Js", "TyperScript", "Next.Js"],
+  askMeAbout: ["Machine Learning","Deep Learning", "MLOps", "DevOps","Frontend Dev", "Python", "Flask" , "Competitive Programming", "MongoDB", "SQL",  "MySQL"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React.JS", "Next.Js", "Tailwind CSS"],
+      backend: ["Flask", "JS", "TyperScript", "MongoDB"],
   }
 }
 ```
@@ -42,9 +42,14 @@ const badri = {
 
 ## 🛠 Skills
 
-- Tools - Python, C++
-- Packages - Scikit-Learn, Numpy, Pandas, NLTK, BeautifulSoup, Matplotlib, Jupyter Notebook
-- Statistics/Machine Learning - Linear/Logistic Regression, Regularization , SVM,Neural Network
+- **Programming :** Python (NumPy, Pandas, Scikit-learn, Matplotlib), C++, C, Java, JavaScript
+- **Data Science :** Tensorflow, Keras, Algorithms, NLTK, Spark ML, Git, MLOps. MLFlow, Data Wrangling, Data Science,
+Data Analysis, Modelling
+- **Data Analytics :** ETL, Databases, Data Gathering, Analysis, Data Visualization, MySQL, Tableau
+- **Cloud Technologies :** Amazon Web Services (AWS), Google Cloud (GCP), Azure, Heroku
+- **Other :** Unit Testing, CI/CD Pipeline, Linux, Creativity, Probability and Statistics, Quantitative Analysis,Strong
+Communication Skills, Research, Problem Solver, Independent, HTML, CSS, MySQL, Git, Pytorch, Image Classification,
+Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
 
 ---
 
@@ -71,6 +76,12 @@ const badri = {
   <a href="https://www.linkedin.com/in/mohit-mishra-5b3492204/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Mishra-yellow?logo=linkedin&logoColor=blue&color=yellow" />
   </a>
+  <a href="https://mohitmishra786687.medium.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-mohitmishra786-green?logo=medium&logoColor=black&color=green" />
+ </a>
+ <a href="https://github.com/mohitmishra786" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Github-mohitmishra786-red?logo=github&logoColor=red&color=red" />
+ </a>
 </p>
 
 
@@ -95,7 +106,11 @@ const badri = {
 ![Numpy](https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![Pandas](https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![NLTK](https://img.shields.io/badge/Package-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=2bbc8a)
-![Matplotlib](https://img.shields.io/badge/Package-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
+![AWS](https://img.shields.io/badge/CloudAWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![Heroku](https://img.shields.io/badge/CloudHeroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![SQL](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 
 ---
 
