@@ -33,6 +33,7 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Backpropagation of Simple Expression](https://mohitmishra786687.medium.com/backpropagation-of-simple-expression-71da8603f216?source=rss-678bb511886d------2)
 - [Everything about HTTP](https://mohitmishra786687.medium.com/everything-about-http-55c9aba440eb?source=rss-678bb511886d------2)
 - [Domain Name System](https://mohitmishra786687.medium.com/domain-name-system-d988239fdb15?source=rss-678bb511886d------2)
 - [[Paper Review] Machine Learning Operations: Overview, Definition, and Architecture](https://mohitmishra786687.medium.com/paper-review-machine-learning-operations-overview-definition-and-architecture-8255a5e2ad28?source=rss-678bb511886d------2)
