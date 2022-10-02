@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-Passionate machine learning student with the ability to apply the ML techniques and leverage algorithms and having experience in Python programming. I love to work with data.
+I'm a Machine learning Developer and a competitive programmer. Most of my time is spent staring at a computer screen. During the day, I am usually programming, working to derive insight from large datasets. My skills include Data Analysis, Data Visualization, Machine learning and Deep Learning. I have developed a strong acumen for problem solving, and I enjoy an occasional challenge.
 
 - 👋 Hi, I’m @mohitmishra786
 - 👀 I’m interested in Machine Learning / Deep Learning / Competitive Coding
