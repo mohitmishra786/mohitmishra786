@@ -78,7 +78,7 @@ Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
 
 <p align="center">
 
-  <a href="https://twitter.com/duKe92102424" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/chessMan786" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-Mohit%20Mishra-blue?logo=twitter&logoColor=blue&color=blue" />
  </a>
 
