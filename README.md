@@ -7,6 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohitmishra786.mohitmishra786)
 
 
+
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Developer;I'm+a+Competitive+Programmer;I'm+a+DevOps+Enthusiast" /></a>
 </p>
