@@ -50,11 +50,11 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus](https://mohitmishra786687.medium.com/quarkus-9a686b46c9e1?source=rss-678bb511886d------2)
 - [Kafka](https://mohitmishra786687.medium.com/kafka-485a40493c4?source=rss-678bb511886d------2)
 - [Docker](https://mohitmishra786687.medium.com/docker-513f26227578?source=rss-678bb511886d------2)
 - [Backpropagation of Simple Expression](https://mohitmishra786687.medium.com/backpropagation-of-simple-expression-71da8603f216?source=rss-678bb511886d------2)
 - [Everything about HTTP](https://mohitmishra786687.medium.com/everything-about-http-55c9aba440eb?source=rss-678bb511886d------2)
-- [Domain Name System](https://mohitmishra786687.medium.com/domain-name-system-d988239fdb15?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
