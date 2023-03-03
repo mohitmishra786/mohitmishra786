@@ -50,11 +50,11 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IntroductiTypeScript](https://mohitmishra786687.medium.com/introductitypescript-1d4eed2c2094?source=rss-678bb511886d------2)
 - [Introduction to Angular](https://mohitmishra786687.medium.com/introduction-to-angular-1087f1639b39?source=rss-678bb511886d------2)
 - [Kubernetes](https://mohitmishra786687.medium.com/kubernetes-d77d1ab438c0?source=rss-678bb511886d------2)
 - [Quarkus](https://mohitmishra786687.medium.com/quarkus-9a686b46c9e1?source=rss-678bb511886d------2)
 - [Kafka](https://mohitmishra786687.medium.com/kafka-485a40493c4?source=rss-678bb511886d------2)
-- [Docker](https://mohitmishra786687.medium.com/docker-513f26227578?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
