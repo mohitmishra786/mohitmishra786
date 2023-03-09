@@ -50,11 +50,11 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting into Component of Angular](https://mohitmishra786687.medium.com/getting-into-component-of-angular-5d43e5b10c26?source=rss-678bb511886d------2)
 - [Components, Metadata and Data Binding](https://mohitmishra786687.medium.com/components-metadata-and-data-binding-1703d5c5a592?source=rss-678bb511886d------2)
 - [Modules and Routers](https://mohitmishra786687.medium.com/modules-and-routers-6ef6896ab25?source=rss-678bb511886d------2)
 - [IntroductiTypeScript](https://mohitmishra786687.medium.com/introductitypescript-1d4eed2c2094?source=rss-678bb511886d------2)
 - [Introduction to Angular](https://mohitmishra786687.medium.com/introduction-to-angular-1087f1639b39?source=rss-678bb511886d------2)
-- [Kubernetes](https://mohitmishra786687.medium.com/kubernetes-d77d1ab438c0?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
