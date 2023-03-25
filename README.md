@@ -50,11 +50,11 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recurrent Neural Network &lpar;RNN&rpar;](https://mohitmishra786687.medium.com/recurrent-neural-network-rnn-671b69089734?source=rss-678bb511886d------2)
 - [Activation Functions in Neural Networks](https://mohitmishra786687.medium.com/activation-functions-in-neural-networks-56dc526ad63c?source=rss-678bb511886d------2)
 - [[Paper Review] Locating and Editing Factual Associations in GP](https://mohitmishra786687.medium.com/paper-review-locating-and-editing-factual-associations-in-gp-5ad61f82441e?source=rss-678bb511886d------2)
 - [[Paper Review] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://mohitmishra786687.medium.com/paper-review-swin-transformer-hierarchical-vision-transformer-using-shifted-windows-7a3a03e47bba?source=rss-678bb511886d------2)
 - [Getting into Component of Angular](https://mohitmishra786687.medium.com/getting-into-component-of-angular-5d43e5b10c26?source=rss-678bb511886d------2)
-- [Components, Metadata and Data Binding](https://mohitmishra786687.medium.com/components-metadata-and-data-binding-1703d5c5a592?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
