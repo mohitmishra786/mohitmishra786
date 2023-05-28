@@ -50,11 +50,11 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Learning Rate: A Hyperparameter That Matters](https://mohitmishra786687.medium.com/the-learning-rate-a-hyperparameter-that-matters-b2f3b68324ab?source=rss-678bb511886d------2)
 - [Exploring Loss Functions in Machine Learning](https://mohitmishra786687.medium.com/exploring-loss-functions-in-machine-learning-3a2d63fd4211?source=rss-678bb511886d------2)
 - [Overfitting Has Many Faces](https://mohitmishra786687.medium.com/overfitting-has-many-faces-7ab43353f207?source=rss-678bb511886d------2)
 - [ArgMax and SoftMax](https://mohitmishra786687.medium.com/argmax-and-softmax-5d80a07a0eba?source=rss-678bb511886d------2)
 - [The Power of Recurrent Neural Networks: A Fun Introduction](https://mohitmishra786687.medium.com/recurrent-neural-network-rnn-671b69089734?source=rss-678bb511886d------2)
-- [Activation Functions in Neural Networks](https://mohitmishra786687.medium.com/activation-functions-in-neural-networks-56dc526ad63c?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
