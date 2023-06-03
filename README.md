@@ -218,9 +218,11 @@ Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
 ## My Wakatime Stats
 <!--START_SECTION:waka-->
 
-```text
-Other        3 hrs 50 mins   ████████████████████████▓   98.41 %
-TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+```txt
+Other        6 hrs 45 mins   ███████████████████▓░░░░░   78.47 %
+TypeScript   1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
+HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
