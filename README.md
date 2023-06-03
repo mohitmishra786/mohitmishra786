@@ -50,11 +50,11 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Gentle Introduction to Optimizing Gradient Descent](https://mohitmishra786687.medium.com/a-gentle-introduction-to-optimizing-gradient-descent-93670305826c?source=rss-678bb511886d------2)
 - [The Curse of Local Minima: How to Escape and Find the Global Minimum](https://mohitmishra786687.medium.com/the-curse-of-local-minima-how-to-escape-and-find-the-global-minimum-fdabceb2cd6a?source=rss-678bb511886d------2)
 - [Gradient Descent: Applications in Machine Learning](https://mohitmishra786687.medium.com/gradient-descent-applications-in-machine-learning-857e85db7aa9?source=rss-678bb511886d------2)
 - [The Learning Rate: A Hyperparameter That Matters](https://mohitmishra786687.medium.com/the-learning-rate-a-hyperparameter-that-matters-b2f3b68324ab?source=rss-678bb511886d------2)
 - [Exploring Loss Functions in Machine Learning](https://mohitmishra786687.medium.com/exploring-loss-functions-in-machine-learning-3a2d63fd4211?source=rss-678bb511886d------2)
-- [Overfitting Has Many Faces](https://mohitmishra786687.medium.com/overfitting-has-many-faces-7ab43353f207?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
