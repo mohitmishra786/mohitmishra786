@@ -50,11 +50,11 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Regularization: The Key to Building Better Machine Learning Models](https://mohitmishra786687.medium.com/regularization-the-key-to-building-better-machine-learning-models-7b24c03550e7?source=rss-678bb511886d------2)
 - [Stochastic Gradient Descent: A Basic Explanation](https://mohitmishra786687.medium.com/stochastic-gradient-descent-a-basic-explanation-cbddc63f08e0?source=rss-678bb511886d------2)
 - [A Gentle Introduction to Optimizing Gradient Descent](https://mohitmishra786687.medium.com/a-gentle-introduction-to-optimizing-gradient-descent-93670305826c?source=rss-678bb511886d------2)
 - [The Curse of Local Minima: How to Escape and Find the Global Minimum](https://mohitmishra786687.medium.com/the-curse-of-local-minima-how-to-escape-and-find-the-global-minimum-fdabceb2cd6a?source=rss-678bb511886d------2)
 - [Gradient Descent: Applications in Machine Learning](https://mohitmishra786687.medium.com/gradient-descent-applications-in-machine-learning-857e85db7aa9?source=rss-678bb511886d------2)
-- [The Learning Rate: A Hyperparameter That Matters](https://mohitmishra786687.medium.com/the-learning-rate-a-hyperparameter-that-matters-b2f3b68324ab?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
