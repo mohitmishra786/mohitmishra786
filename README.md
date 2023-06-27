@@ -50,11 +50,11 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Learning with Machine Learning](https://mohitmishra786687.medium.com/adaptive-learning-with-machine-learning-18b9a8a1e0a7?source=rss-678bb511886d------2)
 - [Correlation in Machine Learning: What You Need to Know](https://mohitmishra786687.medium.com/correlation-in-machine-learning-what-you-need-to-know-6be28903c04?source=rss-678bb511886d------2)
 - [Ensemble Learning: A Beginner’s Guide](https://mohitmishra786687.medium.com/ensemble-learning-a-beginners-guide-c8d6bf283e6d?source=rss-678bb511886d------2)
 - [The Art of Feature Engineering](https://mohitmishra786687.medium.com/the-art-of-feature-engineering-d44e6ca041ea?source=rss-678bb511886d------2)
 - [Curse of Dimensionality](https://mohitmishra786687.medium.com/curse-of-dimensionality-ad949c04e77?source=rss-678bb511886d------2)
-- [Regularization: The Key to Building Better Machine Learning Models](https://mohitmishra786687.medium.com/regularization-the-key-to-building-better-machine-learning-models-7b24c03550e7?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
