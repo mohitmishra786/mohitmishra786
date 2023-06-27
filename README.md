@@ -219,11 +219,11 @@ Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
 <!--START_SECTION:waka-->
 
 ```txt
-Other        27 hrs 57 mins  ████████████████████▒░░░░   81.27 %
-TypeScript   2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Markdown     2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-HTML         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other        25 hrs 52 mins  ██████████████████████▓░░   90.65 %
+Markdown     2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+HTML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
