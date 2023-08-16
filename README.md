@@ -50,11 +50,11 @@ const mohit = {
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to CUDA](https://mohitmishra786687.medium.com/introduction-to-cuda-bc7331f0f987?source=rss-678bb511886d------2)
 - [Pooling: A Key Concept in Machine Learning](https://mohitmishra786687.medium.com/pooling-a-key-concept-in-machine-learning-81c05dcbce98?source=rss-678bb511886d------2)
 - [[Paper Summary] ImageNet Classification with Deep Convolutional Neural Networks](https://mohitmishra786687.medium.com/paper-summary-imagenet-classification-with-deep-convolutional-neural-networks-543145f29f58?source=rss-678bb511886d------2)
 - [Adaptive Learning with Machine Learning](https://mohitmishra786687.medium.com/adaptive-learning-with-machine-learning-18b9a8a1e0a7?source=rss-678bb511886d------2)
 - [Correlation in Machine Learning: What You Need to Know](https://mohitmishra786687.medium.com/correlation-in-machine-learning-what-you-need-to-know-6be28903c04?source=rss-678bb511886d------2)
-- [Ensemble Learning: A Beginner’s Guide](https://mohitmishra786687.medium.com/ensemble-learning-a-beginners-guide-c8d6bf283e6d?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
