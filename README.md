@@ -14,10 +14,8 @@
 </p>
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/mohitmishra786?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
-## My Twitter Profile
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=chessMan786)](https://github.com/gazf/github-readme-twitter)
 
 <p>I am a Machine Learning Developer, I'm a Competitive Programmer, I also like to write blogs over <a href="https://medium.com/@mohitmishra786">Medium</a> </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
@@ -78,6 +76,7 @@ Communication Skills, Research, Problem Solver, Independent, HTML, CSS, MySQL, G
 Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
 
 ---
+
 
 ## 🚀 Trophies
 
