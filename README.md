@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/mohitmishra786/mohitmishra786/master/intro.gif" alt="👋 Hi there! I'm (Mohit Mishra)|https://bit.ly/3fzHyPn)" title="👋 Hi there! I'm (Mohit Mishra)|https://bit.ly/3fzHyPn)"/>](https://bit.ly/3fzHyPn)
 
 ![](https://komarev.com/ghpvc/?username=mohitmishra786&color=green)
 ![visitors](https://vbr.wocr.tk/badge?page_id=mohitmishra786.mohitmishra786&color=00cf00)
