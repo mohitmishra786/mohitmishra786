@@ -63,6 +63,7 @@ const mohit = {
 - [Correlation in Machine Learning: What You Need to Know](https://mohitmishra786687.medium.com/correlation-in-machine-learning-what-you-need-to-know-6be28903c04?source=rss-678bb511886d------2)
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:activity-->
 
 ## 🛠 Skills
 
