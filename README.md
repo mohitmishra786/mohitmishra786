@@ -3,12 +3,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 ![](https://komarev.com/ghpvc/?username=mohitmishra786&color=green)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mohitmishra786.mohitmishra786)
+![visitors](https://vbr.wocr.tk/badge?page_id=mohitmishra786.mohitmishra786&color=00cf00)
+<!--
 
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Developer;I'm+a+Competitive+Programmer;I'm+a+DevOps+Enthusiast" /></a>
 </p>
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
 <p>I am a Machine Learning Developer, I'm a Competitive Programmer, I also like to write blogs over <a href="https://medium.com/@mohitmishra786">Medium</a> </p>
