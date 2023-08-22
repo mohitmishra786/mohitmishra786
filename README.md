@@ -51,9 +51,6 @@ const mohit = {
       backend: ["Flask", "JS", "TyperScript", "MongoDB"],
   }
 }
-
-
-[![Mohit Mishra Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@mohitmishra786)
 ```
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
