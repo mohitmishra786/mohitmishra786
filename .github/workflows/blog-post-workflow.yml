@@ -1,18 +1,21 @@
 name: Update README with Blog Posts
 
 on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Create new branch
         run: git checkout -b update-readme-$(date +"%Y-%m-%d-%H-%M-%S")
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Pull in dev.to posts 
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "http://medium.com/feed/@mohitmishra786687"
       - name: Commit changes
