@@ -22,8 +22,8 @@ jobs:
           feed_list: "http://medium.com/feed/@mohitmishra786687"
       - name: Print Action Output
           run: |
-          echo "Action output: ${{ steps.blog-post-workflow.outputs.result }}"
-          echo "Error message: ${{ steps.blog-post-workflow.outputs.error }}"
+            echo "Action output: ${{ steps.blog-post-workflow.outputs.result }}"
+            echo "Error message: ${{ steps.blog-post-workflow.outputs.error }}"
       - name: Commit changes
         run: |
           git config --local user.email "actions@github.com"
