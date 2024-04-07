@@ -9,9 +9,11 @@ permissions:
 
 jobs:
   update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Create new branch
         run: git checkout -b update-readme-$(date +"%Y-%m-%d-%H-%M-%S")
       - name: Pull in dev.to posts 
