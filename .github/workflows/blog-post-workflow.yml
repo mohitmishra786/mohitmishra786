@@ -1,14 +1,36 @@
-name: Latest blog post workflow
+name: Update README with Blog Posts
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Create new branch
+        run: git checkout -b update-readme-$(date +"%Y-%m-%d-%H-%M-%S")
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "http://medium.com/feed/@mohitmishra786687"
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README with latest blog posts"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: 'Update README with latest blog posts'
+          body: 'This PR updates the README with the latest blog posts.'
+          base: main
+          branch: ${{ github.ref }}
