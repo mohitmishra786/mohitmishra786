@@ -1,45 +1,46 @@
-name: Update README with Blog Posts
+name: Update README.md
 
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */6 * * *'
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Create new branch
-        run: git checkout -b update-readme-$(date +"%Y-%m-%d-%H-%M-%S")
-      - name: Pull in dev.to posts 
-        uses: gautamkrishnar/blog-post-workflow@v1
+
+      - uses: actions/checkout@v2
         with:
-          feed_list: "http://medium.com/feed/@mohitmishra786687"
-      - name: Print Action Output
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
         run: |
-          echo "Action output: ${{ steps.blog-post-workflow.outputs.result }}"
-          echo "Error message: ${{ steps.blog-post-workflow.outputs.error }}"
-      - name: Commit changes
+          pip install -r requirements.txt
+
+      - name: Update README.md
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          python feed.py
+
+      - name: Commit README.md
+        run: |
+          timestamp=$(date -u)
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update README with latest blog posts"
-      - name: Push changes
+          git commit -m "Automated update: ${timestamp} ${GITHUB_SHA}" || echo "No changes to commit"
+
+      - name: Push README.md
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          title: 'Update README with latest blog posts'
-          body: 'This PR updates the README with the latest blog posts.'
-          base: main
           branch: ${{ github.ref }}
