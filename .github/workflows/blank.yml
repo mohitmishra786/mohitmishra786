@@ -32,8 +32,13 @@ jobs:
           git config user.name "Automated Workflow"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "Update Readme with WakaTime metrics"
-          git push origin main
+          # Check if there are changes to commit
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "Update Readme with WakaTime metrics"
+            git push origin main
+          else
+            echo "No changes detected. Skipping commit and push."
+          fi
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
