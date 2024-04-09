@@ -4,7 +4,6 @@
 </h3>
 
 ![](https://komarev.com/ghpvc/?username=mohitmishra786&color=green)
-![visitors](https://vbr.wocr.tk/badge?page_id=mohitmishra786.mohitmishra786&color=00cf00)
 <!--
 
 <p align="center">
