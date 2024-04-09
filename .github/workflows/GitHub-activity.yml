@@ -10,6 +10,53 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+
+      - name: Enable debug logging
+        run: |
+          echo "::add-mask::$GITHUB_TOKEN"
+          echo "ACTIONS_STEP_DEBUG: true" >> $GITHUB_ENV
+
+      - name: Create Fork
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ github.repository }}
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: fork
+
+      - name: Update Readme with GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GH_USERNAME: mohitmishra786
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_MSG: ":zap: Update README with the recent activity"
+          MAX_LINES: 5
+          TARGET_FILE: README.md
+          EMPTY_COMMIT_MSG: ":memo: empty commit to keep workflow active after 60 days of no activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WORKING_DIRECTORY: ./fork
+
+      - name: Commit and push changes
+        run: |
+          cd fork
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "Update README with recent activity"
+            git push origin main
+          else
+            echo "No changes detected. Skipping commit and push."
+          fi
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update README with recent activity"
+          title: "Update README with recent activity"
+          body: "This pull request updates the README with the latest GitHub activity."
+          branch: "update-readme"
+          base: "main"
