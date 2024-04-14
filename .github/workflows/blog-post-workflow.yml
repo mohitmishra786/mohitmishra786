@@ -1,5 +1,4 @@
 name: Update README.md
-
 on:
   push:
     branches:
@@ -10,27 +9,29 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-
       - uses: actions/checkout@v2
         with:
-          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+          persist-credentials: false
+          fetch-depth: 0
+          submodules: true  # This line ensures submodules are fetched
+
+      # Add this step to initialize and update submodules
+      - name: Initialize and update submodules
+        run: |
+          git submodule init
+          git submodule update
 
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-
       - name: Update README.md
         run: |
           python feed.py
-
       - name: Commit README.md
         run: |
           timestamp=$(date -u)
@@ -38,7 +39,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Automated update: ${timestamp} ${GITHUB_SHA}" || echo "No changes to commit"
-
       - name: Push README.md
         uses: ad-m/github-push-action@master
         with:
