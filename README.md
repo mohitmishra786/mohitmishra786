@@ -62,6 +62,11 @@ const mohit = {
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#16](https://github.com/mohitmishra786/mohitmishra786/pull/16) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
+2. 🎉 Merged PR [#17](https://github.com/mohitmishra786/mohitmishra786/pull/17) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
+3. 🎉 Merged PR [#15](https://github.com/mohitmishra786/mohitmishra786/pull/15) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
+4. ❌ Closed PR [#14](https://github.com/mohitmishra786/mohitmishra786/pull/14) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
+5. 🎉 Merged PR [#13](https://github.com/mohitmishra786/mohitmishra786/pull/13) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
 <!--END_SECTION:activity-->
 
 ## 🛠 Skills
