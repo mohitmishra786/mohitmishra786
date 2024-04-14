@@ -10,12 +10,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      - name: Enable debug logging
-        run: |
-          echo "::add-mask::$GITHUB_TOKEN"
-          echo "ACTIONS_STEP_DEBUG: true" >> $GITHUB_ENV
-
       - name: Create Fork
         uses: actions/checkout@v3
         with:
