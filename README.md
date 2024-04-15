@@ -62,11 +62,11 @@ const mohit = {
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/mohitmishra786/mohitmishra786/pull/18) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
-2. 🎉 Merged PR [#16](https://github.com/mohitmishra786/mohitmishra786/pull/16) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
-3. 🎉 Merged PR [#17](https://github.com/mohitmishra786/mohitmishra786/pull/17) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
-4. 🎉 Merged PR [#15](https://github.com/mohitmishra786/mohitmishra786/pull/15) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
-5. ❌ Closed PR [#14](https://github.com/mohitmishra786/mohitmishra786/pull/14) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
+1. ❌ Closed PR [#19](https://github.com/mohitmishra786/mohitmishra786/pull/19) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
+2. 🎉 Merged PR [#20](https://github.com/mohitmishra786/mohitmishra786/pull/20) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
+3. 🎉 Merged PR [#18](https://github.com/mohitmishra786/mohitmishra786/pull/18) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
+4. 🎉 Merged PR [#16](https://github.com/mohitmishra786/mohitmishra786/pull/16) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
+5. 🎉 Merged PR [#17](https://github.com/mohitmishra786/mohitmishra786/pull/17) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
 <!--END_SECTION:activity-->
 
 ## 🛠 Skills
