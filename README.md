@@ -62,11 +62,11 @@ const mohit = {
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/mohitmishra786/WhyNotNow/pull/12) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
-2. 💪 Opened PR [#12](https://github.com/mohitmishra786/WhyNotNow/pull/12) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
-3. 🎉 Merged PR [#11](https://github.com/mohitmishra786/WhyNotNow/pull/11) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
-4. 💪 Opened PR [#11](https://github.com/mohitmishra786/WhyNotNow/pull/11) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
-5. 🔒 Closed issue [#6](https://github.com/mohitmishra786/WhyNotNow/issues/6) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
+1. ❗ Opened issue [#7](https://github.com/code100x/job-board/issues/7) in [code100x/job-board](https://github.com/code100x/job-board)
+2. 🎉 Merged PR [#12](https://github.com/mohitmishra786/WhyNotNow/pull/12) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
+3. 💪 Opened PR [#12](https://github.com/mohitmishra786/WhyNotNow/pull/12) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
+4. 🎉 Merged PR [#11](https://github.com/mohitmishra786/WhyNotNow/pull/11) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
+5. 💪 Opened PR [#11](https://github.com/mohitmishra786/WhyNotNow/pull/11) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
 <!--END_SECTION:activity-->
 
 ## 🛠 Skills
