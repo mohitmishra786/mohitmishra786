@@ -42,7 +42,6 @@ I'm a Machine learning Developer and a competitive programmer. Most of my time i
 #### A little more about me
 ```javascript
 const mohit = {
-  pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "C++", "React.Js", "TyperScript", "Next.Js"],
   askMeAbout: ["Machine Learning","Deep Learning", "MLOps", "DevOps","Frontend Dev", "Python", "Flask" , "Competitive Programming", "MongoDB", "SQL",  "MySQL"],
   technologies: {
