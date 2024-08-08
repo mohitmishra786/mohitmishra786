@@ -1,51 +1,28 @@
 name: GitHub-Profile-3D-Contrib
-
 on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
-      
-      - name: Create Fork
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
-          repository: ${{ github.repository }}
-          ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: fork
-
       - uses: yoshi389111/github-profile-3d-contrib@0.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          WORKING_DIRECTORY: ./fork
-          
       - name: Commit and push changes
         run: |
-          cd fork
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          # Check for changes before committing
           if ! git diff-index --quiet HEAD --; then
             git commit -m "generated"
-            git push origin main
+            git push
           else
             echo "No changes detected. Skipping commit and push."
           fi
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "generated"
-          title: "Update GitHub Profile 3D Contrib"
-          body: "This pull request updates the GitHub Profile 3D Contrib."
-          branch: "update-contrib"
-          base: "main"
