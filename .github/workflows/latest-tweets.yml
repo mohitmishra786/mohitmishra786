@@ -1,0 +1,35 @@
+name: Latest Tweets
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+      
+    - name: Get Latest Tweets
+      uses: tsubaki/twitter-timeline@v1
+      with:
+        consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+        access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+        access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        username: 'chessMan786'
+        tweet-count: 5
+        
+    - name: Update README
+      run: |
+        echo "## Latest Tweets" >> README.md
+        echo "${{ steps.get-tweets.outputs.tweets }}" >> README.md
+        
+    - name: Commit and Push
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'Update latest tweets'
+        branch: main
