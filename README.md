@@ -51,7 +51,7 @@ const mohit = {
 }
 ```
 ## Tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=chessMan786)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=chessMan786)]
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
