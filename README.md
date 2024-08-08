@@ -50,6 +50,9 @@ const mohit = {
   }
 }
 ```
+## Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=chessMan786)](https://github.com/gazf/github-readme-twitter)
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to CUDA](https://pub.aimind.so/introduction-to-cuda-bc7331f0f987?source=rss-678bb511886d------2)
