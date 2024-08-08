@@ -13,12 +13,13 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Update Readme with Latest Tweets
       uses: jamesgeorge007/github-activity-readme@master
       with:
-        TWITTER_USERNAME: 'chessMan786'
+        GITHUB_TOKEN: ${{ github.token }}
+        TWITTER_USERNAME: 'your_twitter_username'
         COMMIT_MESSAGE: 'Update README with latest tweets'
         MAX_LINES: 5
         COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
