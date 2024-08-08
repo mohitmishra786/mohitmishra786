@@ -50,16 +50,16 @@ const mohit = {
   }
 }
 ```
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/0" alt="Recent Article 0"> 
+
 
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to CUDA](https://pub.aimind.so/introduction-to-cuda-bc7331f0f987?source=rss-678bb511886d------2)
-- [Pooling: A Key Concept in Machine Learning](https://mohitmishra786687.medium.com/pooling-a-key-concept-in-machine-learning-81c05dcbce98?source=rss-678bb511886d------2)
-- [[Paper Summary] ImageNet Classification with Deep Convolutional Neural Networks](https://mohitmishra786687.medium.com/paper-summary-imagenet-classification-with-deep-convolutional-neural-networks-543145f29f58?source=rss-678bb511886d------2)
-- [Adaptive Learning with Machine Learning](https://mohitmishra786687.medium.com/adaptive-learning-with-machine-learning-18b9a8a1e0a7?source=rss-678bb511886d------2)
-- [Correlation in Machine Learning: What You Need to Know](https://mohitmishra786687.medium.com/correlation-in-machine-learning-what-you-need-to-know-6be28903c04?source=rss-678bb511886d------2)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/3" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/4" alt="Recent Article 4"> 
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
