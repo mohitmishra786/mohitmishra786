@@ -50,8 +50,8 @@ const mohit = {
   }
 }
 ```
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/0" alt="Recent Article 0"> 
 
-https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/0
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
