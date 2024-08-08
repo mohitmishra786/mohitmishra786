@@ -12,21 +12,17 @@ jobs:
     
     steps:
     - uses: actions/checkout@v2
-      
-    - name: Get Latest Tweets
-      uses: tsubaki/twitter-timeline@v1
       with:
-        consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
-        consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-        access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-        access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-        username: 'chessMan786'
-        tweet-count: 5
+        token: ${{ secrets.GITHUB_TOKEN }}
         
-    - name: Update README
-      run: |
-        echo "## Latest Tweets" >> README.md
-        echo "${{ steps.get-tweets.outputs.tweets }}" >> README.md
+    - name: Update Readme with Latest Tweets
+      uses: jamesgeorge007/github-activity-readme@master
+      with:
+        TWITTER_USERNAME: 'chessMan786'
+        COMMIT_MESSAGE: 'Update README with latest tweets'
+        MAX_LINES: 5
+        COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
+        COMMIT_NAME: 'github-actions[bot]'
         
     - name: Commit and Push
       uses: stefanzweifel/git-auto-commit-action@v4
