@@ -1,10 +1,8 @@
 name: Waka Readme
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -12,40 +10,20 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Create Fork
-        uses: actions/checkout@v3
         with:
-          repository: ${{ github.repository }}
-          ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: fork
-
       - name: Update Readme with WakaTime
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          working-directory: ./fork
-
       - name: Commit and push changes
         run: |
-          cd fork
           git config user.name "Automated Workflow"
           git config user.email "actions@github.com"
           git add .
-          # Check if there are changes to commit
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Update Readme with WakaTime metrics"
-            git push origin main
+            git push
           else
             echo "No changes detected. Skipping commit and push."
           fi
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Update Readme with WakaTime metrics"
-          title: "Update Readme with WakaTime metrics"
-          body: "This pull request updates the Readme with the latest WakaTime metrics."
-          branch: "update-readme"
-          base: "main"
