@@ -14,7 +14,7 @@
 ![Metrics](https://metrics.lecoq.io/mohitmishra786?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
-<p>I am a Machine Learning Developer, I'm a Competitive Programmer, I also like to write blogs over <a href="https://medium.com/@mohitmishra786">Medium</a> </p>
+<p>I am an Engineer, Learning to learn Low-Level Systems, and I also like to write blogs over <a href="https://medium.com/@mohitmishra786">Medium</a> </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 
@@ -30,13 +30,12 @@
 
 ## 🚀 About Me
 
-I'm a Machine learning Developer and a competitive programmer. Most of my time is spent staring at a computer screen. During the day, I am usually programming, working to derive insight from large datasets. My skills include Data Analysis, Data Visualization, Machine learning and Deep Learning. I have developed a strong acumen for problem solving, and I enjoy an occasional challenge.
+I am an Engineer, Learning to learn Low-Level Systems. Most of my time is spent staring at a computer screen. During the day, I am usually ... leave it.
 
 - 👋 Hi, I’m @mohitmishra786
-- 👀 I’m interested in Machine Learning / Deep Learning / Competitive Coding
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Projects , Hackathons
-
+- 👀 I’m interested in Low-Level System/ Machine Learning/ Statistics
+- 🌱 I’m currently learning Compiler
+- 💞️ I’m looking to collaborate on Projects
 ---
 
 #### A little more about me
