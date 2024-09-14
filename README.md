@@ -41,7 +41,7 @@ I am an Engineer, Learning to learn Low-Level Systems. Most of my time is spent 
 #### A little more about me
 ```javascript
 const mohit = {
-  code: ["Javascript", "Python", "HTML", "CSS", "C++", "React.Js", "TyperScript", "Next.Js"],
+  code: ["C", "Javascript", "Python", "C++", "React.Js", "TyperScript", "Next.Js"],
   askMeAbout: ["Machine Learning","Deep Learning", "MLOps", "DevOps","Frontend Dev", "Python", "Flask" , "Competitive Programming", "MongoDB", "SQL",  "MySQL"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap", "React.JS", "Next.Js", "Tailwind CSS"],
