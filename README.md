@@ -51,25 +51,6 @@ const mohit = {
 ```
 
 
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/2" alt="Recent Article 2"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/3" alt="Recent Article 3"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitmishra786687/4" alt="Recent Article 4"> 
-<!-- BLOG-POST-LIST:END -->
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/mohitmishra786/WhyNotNow/pull/13) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
-2. 🎉 Merged PR [#38](https://github.com/mohitmishra786/mohitmishra786/pull/38) in [mohitmishra786/mohitmishra786](https://github.com/mohitmishra786/mohitmishra786)
-3. ❗ Opened issue [#7](https://github.com/code100x/job-board/issues/7) in [code100x/job-board](https://github.com/code100x/job-board)
-4. 🎉 Merged PR [#12](https://github.com/mohitmishra786/WhyNotNow/pull/12) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
-5. 💪 Opened PR [#12](https://github.com/mohitmishra786/WhyNotNow/pull/12) in [mohitmishra786/WhyNotNow](https://github.com/mohitmishra786/WhyNotNow)
-<!--END_SECTION:activity-->
-
 ## 🛠 Skills
 
 - **Programming :** Python (NumPy, Pandas, Scikit-learn, Matplotlib), C++, C, Java, JavaScript
