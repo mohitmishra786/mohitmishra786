@@ -44,7 +44,6 @@ const mohit = {
 }
 ```
 
-
 ## 🛠 Skills
 
 - **Programming :** Python (NumPy, Pandas, Scikit-learn, Matplotlib), C++, C, Java, JavaScript
@@ -63,11 +62,6 @@ Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
         <img width="500" src="./assets/gen/metrics.svg" />
     </a>
 </div>
-
-
-## 🚀 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohitmishra786&theme=onedark)](https://github.com/mohitmishra786/github-profile-trophy)
 
 ## 🔗 Links
 
@@ -103,7 +97,7 @@ Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitmishra786&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=GitHub+Stats" alt="Martin's GitHub Stats" />
     </a>
     <a href="https://github.com/MartinHeinz/MartinHeinz">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
     </a>
 </p>
 
