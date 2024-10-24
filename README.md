@@ -21,12 +21,6 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/mohitmishra786/custom-icon-badges -->
 <!-- View counter - https://github.com/mohitmishra786/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/mohitmishra786?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mohitmishra786?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/mohitmishra786?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mohitmishra786?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
 
 ## 🚀 About Me
 
@@ -122,16 +116,6 @@ Markdown   1 hr 45 mins    ███▓░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<details>
-  <summary>Top Languages</summary>
-<br/>
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra786&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-</details>
 
 ---
 
