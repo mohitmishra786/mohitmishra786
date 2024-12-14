@@ -6,30 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v2
-      with:
-        github-token: ${{ github.token }}
-        
-    - name: Update Readme with Latest Tweets
-      uses: jamesgeorge007/github-activity-readme@master
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
-      with:
-        GH_USERNAME: mohitmishra786
-        COMMIT_NAME: github-actions[bot]
-        COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
-        COMMIT_MSG: ':zap: Update README with the recent activity'
-        MAX_LINES: 5
-        TARGET_FILE: README.md
-        EMPTY_COMMIT_MSG: ':memo: empty commit to keep workflow active after 60 days of no activity'
-        
-    - name: Commit and Push
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: 'Update latest tweets'
-        branch: main
+      - uses: actions/checkout@v2
+      
+      - name: Pull in Latest Tweets
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "TWEETS"
+          feed_list: "https://nitter.net/chessMan786/rss"
+          max_post_count: 5
+          template: "[$title]($url)"
+          
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Update latest tweets'
+          branch: main
