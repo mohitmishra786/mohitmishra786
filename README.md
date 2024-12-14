@@ -57,6 +57,9 @@ Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
 
 ---
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <div align="center">
     <a href="https://mohitmishra786.github.io/" target="_blank" title="GitHub metrics!">
         <img width="500" src="./assets/gen/metrics.svg" />
