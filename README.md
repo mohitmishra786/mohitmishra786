@@ -108,8 +108,8 @@ Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
 <!--START_SECTION:waka-->
 
 ```txt
-Other      11 hrs 30 mins  ████████████████████████▓   98.84 %
-Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other      8 hrs 8 mins    ████████████████████████░   96.10 %
+Markdown   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
