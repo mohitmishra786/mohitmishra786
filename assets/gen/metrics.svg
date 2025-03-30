@@ -26,7 +26,9 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>No recent push activity found</small>
+                <small>No recent push activity found
+                
+                  over last 1 day</small>
                 <div class="row fill-width">
                     <section>
                     </section>
