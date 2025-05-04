@@ -4,9 +4,11 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=mohitmishra786&color=blueviolet&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/mohitmishra786?logo=GitHub&style=for-the-badge)](https://github.com/mohitmishra786)
-  [![GitHub Stars](https://img.shields.io/github/stars/mohitmishra786?logo=github&style=for-the-badge)](https://github.com/mohitmishra786)
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=mohitmishra786&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" height="30"/>
+    <img src="https://img.shields.io/github/followers/mohitmishra786?logo=GitHub&style=for-the-badge" alt="GitHub Followers" height="30"/>
+    <img src="https://img.shields.io/github/stars/mohitmishra786?logo=github&style=for-the-badge" alt="GitHub Stars" height="30"/>
+  </div>
   
   <p align="center">
     <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Developer;I'm+a+Competitive+Programmer;I'm+a+DevOps+Enthusiast" /></a>
@@ -14,7 +16,9 @@
   
 </div>
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<div align="center">
+  <img align="center" height="280px" alt="Coding GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
 ## 🚀 About Me
 
@@ -34,13 +38,38 @@ I am an Engineer, Learning to learn Low-Level Systems. Most of my time is spent 
 
 ```javascript
 const mohit = {
-  code: ["C", "Javascript", "Python", "C++", "React.Js", "TyperScript", "Next.Js"],
-  askMeAbout: ["Machine Learning","Deep Learning", "MLOps", "DevOps","Frontend Dev", "Python", "Flask" , "Competitive Programming", "MongoDB", "SQL",  "MySQL"],
+  code: ["C", "Python", "JavaScript", "C++", "TypeScript", "Java", "R", "React.js", "Next.js"],
+  askMeAbout: [
+    "Machine Learning",
+    "Deep Learning",
+    "MLOps",
+    "DevOps",
+    "Frontend Development",
+    "Backend Development",
+    "Competitive Programming",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Flask",
+    "TensorFlow",
+    "Keras",
+    "PyTorch",
+    "REST APIs",
+    "GraphQL",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Data Structures",
+    "Algorithms"
+  ],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React.JS", "Next.Js", "Tailwind CSS"],
-      backend: ["Flask", "JS", "TyperScript", "MongoDB"],
+    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Tailwind CSS", "Bootstrap", "Redux", "Material-UI"],
+    backend: ["Flask", "Node.js", "Express.js", "TypeScript", "MongoDB", "MySQL", "PostgreSQL", "GraphQL"],
+    devops: ["AWS", "Docker", "Kubernetes", "Jenkins", "Git", "CI/CD"],
+    machineLearning: ["TensorFlow", "Keras", "PyTorch", "Scikit-learn", "Pandas", "NumPy"]
   }
-}
+};
 ```
 
 ---
