@@ -114,9 +114,9 @@ const mohit = {
 <!--START_SECTION:waka-->
 
 ```txt
-Other        18 hrs 53 mins  ████████████████████████▓   98.04 %
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Other        14 hrs 35 mins  ████████████████████████▒   97.84 %
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
