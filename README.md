@@ -24,7 +24,9 @@ I am an Engineer, Learning to learn Low-Level Systems. Most of my time is spent 
 - 👀 I'm interested in Low-Level System/ Machine Learning/ Statistics
 - 🌱 I'm currently learning Compiler
 - 💞️ I'm looking to collaborate on Projects
-- ✍️ I also like to write blogs over [Medium](https://medium.com/@mohitmishra786)
+- ✍️ I also like to write blogs over
+    - [Medium](https://medium.com/@mohitmishra786)
+    - [Substack](https://chessman7.substack.com)
 
 <br>
 
