@@ -16,10 +16,6 @@
   
 </div>
 
-<div align="center">
-  <img align="center" height="280px" alt="Coding GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
 ## 🚀 About Me
 
 I am an Engineer, Learning to learn Low-Level Systems. Most of my time is spent staring at a computer screen. During the day, I am usually ... leave it.
