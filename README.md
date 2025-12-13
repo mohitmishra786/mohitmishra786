@@ -112,9 +112,9 @@ const mohit = {
 <!--START_SECTION:waka-->
 
 ```txt
-Other         4 hrs 42 mins   ████████████████████████▓   98.00 %
-Image (svg)   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Markdown      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other         2 hrs 5 mins    ████████████████████████░   95.60 %
+Image (svg)   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Markdown      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
