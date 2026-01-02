@@ -1,94 +1,123 @@
-<h1 align="center">Mohit Mishra</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=200&section=header&text=Mohit%20Mishra&fontSize=70&animation=fadeIn&fontColor=fff" alt="Header Banner" />
+</p>
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=mohitmishra786&color=4285F4&style=for-the-badge&label=VISITS" alt="Profile Views" height="30"/>
-    <img src="https://img.shields.io/github/followers/mohitmishra786?logo=GitHub&style=for-the-badge&color=212121" alt="GitHub Followers" height="30"/>
-    <img src="https://img.shields.io/github/stars/mohitmishra786?logo=github&style=for-the-badge&color=212121" alt="GitHub Stars" height="30"/>
-  </div>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Systems+Programmer;OS+Dev+Specialist;Low-Level+Engineer;Kernel+Enthusiast" alt="Typing SVG" /></a>
+  </p>
   
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=66CCFF&size=25&center=true&vCenter=true&lines=Systems+Programmer;OS+Dev+Specialist;Low-Level+Engineer;Kernel+Enthusiast" /></a>
+    <a href="https://www.mohitmishra7.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://x.com/chessMan786" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="https://www.linkedin.com/in/mohitmishraml/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mohitmishra786687@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://discord.gg/2QWN9y3B9M" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 </div>
 
 ---
 
-### Systems Programming & OS Development
+### About Me
 
-I am a Systems Programmer deeply passionate about low-level engineering, performance optimization, and building robust system architectures from the ground up. My expertise lies in kernel development, memory management, and processor architectures. I believe that to truly understand computing, one must look below the abstractions and embrace the complexity of the hardware-software interface.
+I am a **Systems Programmer** deeply passionate about low-level engineering, performance optimization, and building robust system architectures from the ground up. My journey into low-level programming started with a simple question: "How does the hardware actually talk to the software?" This curiosity led me down the rabbit hole of kernel development, memory management, and processor architectures.
 
-- **Specialization**: Operating Systems, Kernel Internals, Low-Level Systems.
 - **Current Focus**: Building experimental system software and exploring hardware-software interfaces.
-- **Publications & Writing**: 
-    - [Low-Level Lore (Substack)](https://chessman7.substack.com)
-    - [TheCoreDump](https://mohitmishra786.github.io/TheCoreDump/)
-    - [Medium](https://medium.com/@mohitmishra786687)
+- **Learning**: Deep dives into Compiler design and experimental OS kernels.
+- **Ask Me About**: Operating Systems, Kernel Internals, MLOps, and High-Performance Computing.
+- **Fun Fact**: I spend more time staring at binary dumps than I do at actual people (sometimes).
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,js,ts,java,react,nextjs,flask,mongodb,mysql,postgres,aws,docker,kubernetes,jenkins,linux,tensorflow,pytorch,githubactions,git" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
 ### GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitmishra786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra786&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=radical" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra786&theme=tokyonight&area=true" alt="Activity Graph" />
 </div>
+</p>
+
+---
+
+### Achievements
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra786&theme=tokyonight&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitmishra786&theme=radical&column=7" alt="GitHub Trophy" />
 </div>
 
----
-
-### Tools & Technologies
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <h4>The Contribution Snake</h4>
+  <img src="https://github.com/mohitmishra786/mohitmishra786/blob/output/github-contribution-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### Recent Posts
+### Latest Activity
 
-<!-- BLOG_START -->
-- [Preprocessing Magic: Copy-Paste and Guards That Save Your Sanity](https://chessman7.substack.com/p/preprocessing-magic-copy-paste-and) (2025-12-25)
-- [The Compilation Puzzle: From Messy Code to Running Program](https://chessman7.substack.com/p/the-compilation-puzzle-from-messy) (2025-12-21)
-- [The Exact Mechanics of the DynamoDB DNS Race Condition](https://chessman7.substack.com/p/the-exact-mechanics-of-the-dynamodb) (2025-11-15)
-- [Turbocharging Your Code: A No-BS Guide to Software Prefetching in C](https://mohitmishra786687.medium.com/turbocharging-your-code-a-no-bs-guide-to-software-prefetching-in-c-7db1abacd92f?source=rss-678bb511886d------2) (2025-12-22)
-- [Hybrid Prefetching: Unlocking Peak Performance Through Hardware-Software Collaboration](https://mohitmishra786687.medium.com/hybrid-prefetching-unlocking-peak-performance-through-hardware-software-collaboration-6dd7507b3213?source=rss-678bb511886d------2) (2025-08-19)
-- [The Hidden Cost of Context Switches in Modern Applications](https://mohitmishra786687.medium.com/the-hidden-cost-of-context-switches-in-modern-applications-26e45043dba5?source=rss-678bb511886d------2) (2025-08-02)
-- [2025 Database Upgrades Recap: Real Code Walkthroughs, Query Hacks, and Setup Tips from This Year's Big Releases](https://mohitmishra786.github.io/TheCoreDump/posts/2025-Database-Upgrades-A-Comprehensive-Breakdown-of-Core-Features-Query-Optimizations-and-Deployment-Strategies/) (2025-12-28)
-- [HTTP Message Size Handling: Content-Length and Chunked Transfer Encoding](https://mohitmishra786.github.io/TheCoreDump/posts/Handling-HTTP-Message-Sizes-Content-Length-vs-Chunked-Encoding-in-Modern-Web-Architectures/) (2025-12-22)
-- [Microsoft Azure Front Door Part 5: Integration, Monitoring, and Best Practices](https://mohitmishra786.github.io/TheCoreDump/posts/Microsoft-Azure-Front-Door-Part-5-Integration-Monitoring-and-Best-Practices/) (2025-12-18)
-<!-- BLOG_END -->
-
----
-
-### Recent Tweets
-
-<!-- TWITTER_START -->
-<!-- TWITTER_END -->
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h4>Latest Blog Posts</h4>
+      <!-- BLOG-POST-LIST:START -->
+      <!-- BLOG-POST-LIST:END -->
+      <p align="left">
+        <a href="https://chessman7.substack.com" target="_blank">Substack</a> | 
+        <a href="https://mohitmishra786.github.io/TheCoreDump/" target="_blank">TheCoreDump</a> | 
+        <a href="https://medium.com/@mohitmishra786687" target="_blank">Medium</a>
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h4>Twitter / X</h4>
+      <p align="center">
+        <a href="https://twitter.com/chessMan786" target="_blank">
+          <img src="https://img.shields.io/twitter/follow/chessMan786?style=social&logo=twitter" alt="Twitter Follow" />
+        </a>
+      </p>
+      <p>Stay updated with my technical rants and low-level lore on X.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Connect with Me
 
 <div align="center">
-  <a href="https://www.mohitmishra7.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://x.com/chessMan786" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohitmishraml/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mohitmishra786687@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.gg/2QWN9y3B9M" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohitmishraml/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/chessMan786" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter" />
+  </a>
+  <a href="https://discord.gg/2QWN9y3B9M" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="Discord" />
+  </a>
+  <a href="mailto:mohitmishra786687@gmail.com">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=D14836&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" />
+  </a>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mohitmishra786&color=4285F4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=mohitmishra786.mohitmishra786" alt="Visitors" />
+  </p>
+  
+  <p><i>Last Updated: 2026-01-03</i></p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=100&section=footer&fontColor=fff" alt="Footer Banner" />
 </div>

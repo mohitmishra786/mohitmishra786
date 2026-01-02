@@ -1,4 +1,4 @@
-name: Update Profile Content
+name: Update Profile Metrics
 on:
   schedule:
     - cron: "0 * * * *" # Every 1 hour
@@ -9,7 +9,7 @@ on:
       - master
 
 jobs:
-  update-readme:
+  update-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -33,6 +33,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           if ! git diff-index --quiet HEAD --; then
-            git commit -m "docs: update dynamic content [skip ci]"
+            git commit -m "docs: maintenance update [skip ci]"
             git push
           fi
