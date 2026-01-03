@@ -103,7 +103,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           if ! git diff-index --quiet HEAD --; then
-             git pull --rebase
+             git pull origin main --rebase
              git commit -m "Update commit statistics"
              git push
           fi

@@ -33,7 +33,7 @@ jobs:
           git add assets/profile-3d-contrib
           if ! git diff-index --quiet HEAD --; then
             git commit -m "generated 3d profile"
-            git pull --rebase
+            git pull origin main --rebase
             git push
           else
             echo "No changes detected. Skipping commit and push."
