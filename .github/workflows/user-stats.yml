@@ -1,0 +1,29 @@
+name: User Statistician
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          featured-repository: mohitmishra786/mohitmishra786
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add github-user-stats.svg
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "update stats"
+            git push
+          fi

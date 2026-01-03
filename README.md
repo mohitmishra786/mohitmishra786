@@ -42,18 +42,25 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 ## GitHub Analytics
 
 <div align="center">
+  <img src="./github-user-stats.svg" alt="User Statistics" />
+</div>
+
+<br/>
+
+<div align="center">
   <table border="0">
     <tr>
       <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitmishra786&theme=solarized" alt="Profile Details" /></td>
-      <td width="50%"><img src="https://streak-stats.demolab.com?user=mohitmishra786&theme=tokyonight" alt="GitHub Streak" /></td>
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitmishra786&theme=solarized" alt="Stats" /></td>
     </tr>
     <tr>
       <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitmishra786&theme=solarized" alt="Repos per Language" /></td>
       <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitmishra786&theme=solarized" alt="Most Commit Language" /></td>
     </tr>
     <tr>
-      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitmishra786&theme=solarized" alt="Stats" /></td>
-      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitmishra786&theme=solarized&utcOffset=8" alt="Productive Time" /></td>
+      <td colspan="2" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitmishra786&theme=solarized&utcOffset=8" alt="Productive Time" />
+      </td>
     </tr>
   </table>
 </div>
@@ -127,7 +134,7 @@ Systems Programmer deeply passionate about low-level engineering, performance op
   <img src="https://hits.sh/github.com/mohitmishra786.svg?style=for-the-badge&label=Profile%20Hits&color=fe7d37" alt="Hits" />
   <img src="https://img.shields.io/github/stars/mohitmishra786?style=for-the-badge&logo=github&label=Total%20Stars" alt="Stars" />
 
-  <p><i>Last Updated: 2026-01-03</i></p>
+  <p><i>Last Updated: 2026-01-04</i></p>
 
 </div>
 

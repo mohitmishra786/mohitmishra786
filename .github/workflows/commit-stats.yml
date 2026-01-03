@@ -9,7 +9,7 @@ jobs:
   update-commit-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       
@@ -87,6 +87,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           if ! git diff-index --quiet HEAD --; then
-             git commit -m "📊 Update commit statistics"
+             git commit -m "Update commit statistics"
              git push
           fi

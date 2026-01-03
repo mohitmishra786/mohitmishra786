@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       
       - name: Fetch LOC Stats
         run: |
@@ -38,7 +38,7 @@ jobs:
                print("Unexpected data format")
                sys.exit(0)
 
-          markdown = "## 📊 Lines of Code Statistics\n\n"
+          markdown = "## Lines of Code Statistics\n\n"
           markdown += "| Language | Files | Lines | Code | Comments | Blanks |\n"
           markdown += "|----------|-------|-------|------|----------|--------|\n"
           
@@ -81,6 +81,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           if ! git diff-index --quiet HEAD --; then
-             git commit -m "📊 Update LOC statistics"
+             git commit -m "Update LOC statistics"
              git push
           fi
