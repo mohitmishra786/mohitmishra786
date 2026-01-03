@@ -1,94 +1,348 @@
-name: Lines of Code Stats
+name: LOC Stats - All Repositories
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Weekly on Sunday
-  workflow_dispatch:
+    # Run daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
-  update-loc:
+  count-loc:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Need write permission to commit results
+    
     steps:
-      - name: Checkout
+      - name: Checkout Current Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Update LOC Stats
-        id: loc
+      - name: Install Dependencies
         run: |
-          # Fetch JSON from CodeTabs with correct repo path
-          if ! curl -L "https://api.codetabs.com/v1/loc?github=mohitmishra786/mohitmishra786" > loc-stats.json; then
-             echo "Failed to fetch LOC stats"
-             exit 1
-          fi
+          sudo apt-get update
+          sudo apt-get install -y cloc jq curl
+      
+      - name: Fetch All Repositories
+        id: fetch_repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: mohitmishra786
+        run: |
+          echo "Fetching all repositories for user: $USERNAME"
           
-          python3 << 'EOF'
-          import json
-          import sys
-          import os
-
-          try:
-              with open('loc-stats.json', 'r') as f:
-                  data = json.load(f)
-          except Exception as e:
-              print(f"Error reading JSON: {e}")
-              sys.exit(0)
-
-          if isinstance(data, list):
-              markdown = "## Lines of Code Statistics\n\n"
-              markdown += "| Language | Files | Lines | Code | Comments | Blanks |\n"
-              markdown += "|----------|-------|-------|------|----------|--------|\n"
+          # Create directory for cloning repos
+          mkdir -p /tmp/all_repos
+          
+          # Fetch all repositories (including private if token has access)
+          # Using GitHub API pagination to get all repos
+          page=1
+          per_page=100
+          all_repos="[]"
+          
+          while true; do
+            echo "Fetching page $page..."
+            
+            # Fetch repositories
+            response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+              "https://api.github.com/user/repos?per_page=$per_page&page=$page&type=all&sort=updated")
+            
+            # Check if response is empty array
+            if [ "$(echo "$response" | jq '. | length')" -eq 0 ]; then
+              break
+            fi
+            
+            # Merge with existing repos
+            all_repos=$(echo "$all_repos" "$response" | jq -s '.[0] + .[1]')
+            
+            page=$((page + 1))
+          done
+          
+          # Save repository data
+          echo "$all_repos" > /tmp/repos.json
+          
+          # Count total repos
+          total_repos=$(echo "$all_repos" | jq '. | length')
+          echo "Total repositories found: $total_repos"
+          echo "total_repos=$total_repos" >> $GITHUB_OUTPUT
+      
+      - name: Clone and Count LOC for Each Repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Starting LOC counting for all repositories..."
+          
+          # Create results directory
+          mkdir -p loc_results
+          
+          # Initialize result files
+          echo "Repository,Language,Files,Blank,Comment,Code" > loc_results/detailed_results.csv
+          echo "# LOC Statistics - All Repositories" > loc_results/summary.md
+          echo "" >> loc_results/summary.md
+          echo "Generated on: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> loc_results/summary.md
+          echo "" >> loc_results/summary.md
+          
+          # Initialize counters
+          total_files=0
+          total_blank=0
+          total_comment=0
+          total_code=0
+          processed_repos=0
+          failed_repos=0
+          
+          # Read repos and process each one
+          while IFS= read -r repo; do
+            repo_name=$(echo "$repo" | jq -r '.name')
+            repo_full_name=$(echo "$repo" | jq -r '.full_name')
+            clone_url=$(echo "$repo" | jq -r '.clone_url')
+            is_fork=$(echo "$repo" | jq -r '.fork')
+            is_archived=$(echo "$repo" | jq -r '.archived')
+            
+            echo "----------------------------------------"
+            echo "Processing: $repo_full_name"
+            echo "Fork: $is_fork, Archived: $is_archived"
+            
+            # Create clone URL with token for authentication
+            auth_clone_url=$(echo "$clone_url" | sed "s|https://|https://$GITHUB_TOKEN@|")
+            
+            # Clone repository to temp directory
+            temp_dir="/tmp/all_repos/$repo_name"
+            
+            if git clone --depth 1 --quiet "$auth_clone_url" "$temp_dir" 2>/dev/null; then
+              echo "✓ Cloned successfully"
               
-              total = {'files': 0, 'lines': 0, 'code': 0, 'comments': 0, 'blanks': 0}
-              
-              for item in data:
-                  lang = item.get('language', 'Unknown')
-                  files = item.get('files', 0)
-                  lines = item.get('lines', 0)
-                  code = item.get('linesOfCode', 0)
-                  comments = item.get('comments', 0)
-                  blanks = item.get('blanks', 0)
+              # Run cloc on the repository
+              if cloc "$temp_dir" --json --quiet --out=/tmp/cloc_output.json 2>/dev/null; then
+                # Parse cloc output
+                languages=$(jq -r 'del(.header, .SUM) | keys[]' /tmp/cloc_output.json 2>/dev/null)
+                
+                if [ -n "$languages" ]; then
+                  echo "✓ LOC counted successfully"
                   
-                  markdown += f"| {lang} | {files:,} | {lines:,} | {code:,} | {comments:,} | {blanks:,} |\n"
-                  if lang != 'Total':
-                      total['files'] += files
-                      total['lines'] += lines
-                      total['code'] += code
-                      total['comments'] += comments
-                      total['blanks'] += blanks
-              
-              # Use calculated total if "Total" entry is missing or double check
-              markdown += f"| **Total** | **{total['files']:,}** | **{total['lines']:,}** | **{total['code']:,}** | **{total['comments']:,}** | **{total['blanks']:,}** |\n"
-              
-              # Read README
-              with open('README.md', 'r') as f:
-                  content = f.read()
-
-              start_marker = "<!--START_LOC-->"
-              end_marker = "<!--END_LOC-->"
-              
-              if start_marker in content and end_marker in content:
-                  start_idx = content.find(start_marker) + len(start_marker)
-                  end_idx = content.find(end_marker)
+                  # Process each language
+                  while IFS= read -r lang; do
+                    if [ -n "$lang" ]; then
+                      files=$(jq -r --arg lang "$lang" '.[$lang].nFiles' /tmp/cloc_output.json)
+                      blank=$(jq -r --arg lang "$lang" '.[$lang].blank' /tmp/cloc_output.json)
+                      comment=$(jq -r --arg lang "$lang" '.[$lang].comment' /tmp/cloc_output.json)
+                      code=$(jq -r --arg lang "$lang" '.[$lang].code' /tmp/cloc_output.json)
+                      
+                      # Add to CSV
+                      echo "$repo_full_name,$lang,$files,$blank,$comment,$code" >> loc_results/detailed_results.csv
+                      
+                      # Update totals
+                      total_files=$((total_files + files))
+                      total_blank=$((total_blank + blank))
+                      total_comment=$((total_comment + comment))
+                      total_code=$((total_code + code))
+                    fi
+                  done <<< "$languages"
                   
-                  new_content = content[:start_idx] + "\n" + markdown + "\n" + content[end_idx:]
-                  
-                  with open('README.md', 'w') as f:
-                      f.write(new_content)
-                  print("Updated README.md")
-              else:
-                  print("Markers not found in README.md")
-          else:
-              print("Invalid data format received from API")
+                  processed_repos=$((processed_repos + 1))
+                else
+                  echo "⚠ No code files found"
+                fi
+              else
+                echo "✗ Failed to count LOC"
+                failed_repos=$((failed_repos + 1))
+              fi
+              
+              # Clean up cloned repo
+              rm -rf "$temp_dir"
+            else
+              echo "✗ Failed to clone"
+              failed_repos=$((failed_repos + 1))
+            fi
+            
+          done < <(jq -c '.[]' /tmp/repos.json)
+          
+          # Generate summary
+          echo "## Summary Statistics" >> loc_results/summary.md
+          echo "" >> loc_results/summary.md
+          echo "| Metric | Count |" >> loc_results/summary.md
+          echo "|--------|-------|" >> loc_results/summary.md
+          echo "| Total Repositories Processed | $processed_repos |" >> loc_results/summary.md
+          echo "| Failed Repositories | $failed_repos |" >> loc_results/summary.md
+          echo "| Total Files | $(printf '%s' "$total_files" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta') |" >> loc_results/summary.md
+          echo "| Total Lines of Code | $(printf '%s' "$total_code" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta') |" >> loc_results/summary.md
+          echo "| Total Blank Lines | $(printf '%s' "$total_blank" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta') |" >> loc_results/summary.md
+          echo "| Total Comment Lines | $(printf '%s' "$total_comment" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta') |" >> loc_results/summary.md
+          echo "" >> loc_results/summary.md
+          
+          # Save totals to environment for next steps
+          echo "total_code=$total_code" >> $GITHUB_ENV
+          echo "total_files=$total_files" >> $GITHUB_ENV
+          echo "processed_repos=$processed_repos" >> $GITHUB_ENV
+      
+      - name: Generate Language Statistics
+        run: |
+          echo "Generating language-based statistics..."
+          
+          # Skip header and aggregate by language
+          tail -n +2 loc_results/detailed_results.csv | \
+          awk -F',' '{
+            lang[$2]+=$5
+            files[$2]+=$3
+            blank[$2]+=$4
+            comment[$2]+=$5
+          } 
+          END {
+            for (l in lang) {
+              printf "%s,%d,%d,%d,%d\n", l, files[l], blank[l], comment[l], lang[l]
+            }
+          }' | sort -t',' -k5 -nr > loc_results/language_summary.csv
+          
+          # Add header
+          echo "Language,Files,Blank,Comment,Code" | cat - loc_results/language_summary.csv > /tmp/lang_temp && mv /tmp/lang_temp loc_results/language_summary.csv
+          
+          # Generate markdown table for languages
+          echo "" >> loc_results/summary.md
+          echo "## Top 15 Languages by LOC" >> loc_results/summary.md
+          echo "" >> loc_results/summary.md
+          echo "| Language | Files | Code Lines | Comment Lines | Blank Lines |" >> loc_results/summary.md
+          echo "|----------|-------|------------|---------------|-------------|" >> loc_results/summary.md
+          
+          head -n 16 loc_results/language_summary.csv | tail -n 15 | \
+          awk -F',' '{
+            printf "| %-12s | %6d | %10s | %13s | %11s |\n", 
+              $1, $2, 
+              sprintf("%'"'"'d", $5), 
+              sprintf("%'"'"'d", $4), 
+              sprintf("%'"'"'d", $3)
+          }' >> loc_results/summary.md
+      
+      - name: Generate Top Repositories by LOC
+        run: |
+          echo "Generating top repositories by LOC..."
+          
+          # Skip header and aggregate by repository
+          tail -n +2 loc_results/detailed_results.csv | \
+          awk -F',' '{
+            repo[$1]+=$6
+          } 
+          END {
+            for (r in repo) {
+              printf "%s,%d\n", r, repo[r]
+            }
+          }' | sort -t',' -k2 -nr > loc_results/repo_summary.csv
+          
+          # Generate markdown table for top repos
+          echo "" >> loc_results/summary.md
+          echo "## Top 20 Repositories by LOC" >> loc_results/summary.md
+          echo "" >> loc_results/summary.md
+          echo "| Repository | Lines of Code |" >> loc_results/summary.md
+          echo "|------------|---------------|" >> loc_results/summary.md
+          
+          head -n 20 loc_results/repo_summary.csv | \
+          awk -F',' '{
+            printf "| %-50s | %13s |\n", 
+              $1, sprintf("%'"'"'d", $2)
+          }' >> loc_results/summary.md
+      
+      - name: Generate Visualization Data
+        run: |
+          echo "Generating JSON data for visualizations..."
+          
+          # Create JSON output
+          cat > loc_results/stats.json <<EOF
+          {
+            "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')",
+            "total_repositories": $processed_repos,
+            "total_code_lines": $total_code,
+            "total_files": $total_files,
+            "languages": $(head -n 16 loc_results/language_summary.csv | tail -n 15 | \
+              awk -F',' 'BEGIN{print "["} NR>1{printf ","} {printf "{\"language\":\"%s\",\"files\":%d,\"code\":%d,\"comment\":%d,\"blank\":%d}", $1,$2,$5,$4,$3} END{print "]"}'),
+            "top_repos": $(head -n 20 loc_results/repo_summary.csv | \
+              awk -F',' 'BEGIN{print "["} NR>1{printf ","} {printf "{\"repo\":\"%s\",\"code\":%d}", $1,$2} END{print "]"}')
+          }
           EOF
-          rm -f loc-stats.json
-          
-      - name: Commit changes
+      
+      - name: Create Badge Data
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          if ! git diff-index --quiet HEAD --; then
-             git commit -m "Update LOC statistics"
-             git pull origin main --rebase --autostash
-             git push
+          # Format total LOC for badge
+          formatted_loc=$(printf "%'d" $total_code)
+          
+          # Create badge URL
+          echo "![Total LOC](https://img.shields.io/badge/Total%20LOC-${formatted_loc}-blue?style=for-the-badge)" > loc_results/badge.md
+          
+          echo "" >> loc_results/badge.md
+          echo "**Last Updated:** $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> loc_results/badge.md
+      
+      - name: Update README with Stats
+        run: |
+          # Check if README exists
+          if [ -f "README.md" ]; then
+            # Create markers if they don't exist
+            if ! grep -q "<!-- LOC-STATS-START -->" README.md; then
+              echo "" >> README.md
+              echo "<!-- LOC-STATS-START -->" >> README.md
+              echo "<!-- LOC-STATS-END -->" >> README.md
+            fi
+            
+            # Replace content between markers
+            sed -i '/<!-- LOC-STATS-START -->/,/<!-- LOC-STATS-END -->/c\
+            <!-- LOC-STATS-START -->\
+            \
+            '"$(cat loc_results/badge.md)"'\
+            \
+            <details>\
+            <summary> Detailed Statistics</summary>\
+            \
+            '"$(cat loc_results/summary.md)"'\
+            \
+            </details>\
+            \
+            <!-- LOC-STATS-END -->' README.md
+            
+            echo "✓ README.md updated with LOC stats"
+          else
+            echo "⚠ README.md not found, skipping update"
           fi
+      
+      - name: Upload Results as Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: loc-statistics
+          path: loc_results/
+          retention-days: 90
+
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Configure git
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add changes
+          git add README.md loc_results/ 2>/dev/null || true
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Commit changes
+            git commit -m "Update LOC statistics - $(date -u '+%Y-%m-%d')"
+            
+            # Push changes
+            git push
+            
+            echo "✓ Changes committed and pushed"
+          fi
+      
+      - name: Display Summary
+        run: |
+          echo "========================================="
+          echo "LOC Statistics Summary"
+          echo "========================================="
+          echo ""
+          cat loc_results/summary.md
+          echo ""
+          echo "========================================="
+          echo "Total Lines of Code: $(printf '%s' "$total_code" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta')"
+          echo "Repositories Processed: $processed_repos"
+          echo "========================================="

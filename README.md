@@ -97,33 +97,6 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 ---
 
-## Commit Analytics
-
-<!--START_COMMITS-->
-## Commit Analytics
-
-**Total Commits (Last Year):** 978
-
-### Commits by Day of Week
-Monday: ████████████ (120)  
-Tuesday: ██████████████ (140)  
-Wednesday: ██████████████ (142)  
-Thursday: ██████████████ (143)  
-Friday: █████████████ (135)  
-Saturday: ████████████████ (160)  
-Sunday: █████████████ (138)  
-
-### Most Active Hours
-01:00 - 447 commits  
-18:00 - 375 commits  
-02:00 - 97 commits  
-03:00 - 9 commits  
-22:00 - 8 commits  
-
-<!--END_COMMITS-->
-
----
-
 ## 3D Contribution Graph
 
 <div align="center">
