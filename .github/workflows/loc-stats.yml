@@ -289,22 +289,54 @@ jobs:
               echo "<!-- LOC-STATS-END -->" >> README.md
             fi
             
-            # Replace content between markers
-            sed -i '/<!-- LOC-STATS-START -->/,/<!-- LOC-STATS-END -->/c\
-            <!-- LOC-STATS-START -->\
-            \
-            '"$(cat loc_results/badge.md)"'\
-            \
-            <details>\
-            <summary> Detailed Statistics</summary>\
-            \
-            '"$(cat loc_results/summary.md)"'\
-            \
-            </details>\
-            \
-            <!-- LOC-STATS-END -->' README.md
-            
-            echo "✓ README.md updated with LOC stats"
+            # Use Python for safe replacement to avoid sed escaping issues
+            python3 -c "
+          import sys
+          import os
+
+          try:
+              with open('README.md', 'r') as f:
+                  content = f.read()
+
+              start_marker = '<!-- LOC-STATS-START -->'
+              end_marker = '<!-- LOC-STATS-END -->'
+
+              start_idx = content.find(start_marker)
+              end_idx = content.find(end_marker)
+
+              if start_idx != -1 and end_idx != -1:
+                  # Read new content parts
+                  with open('loc_results/badge.md', 'r') as f:
+                      badge_content = f.read()
+                  
+                  with open('loc_results/summary.md', 'r') as f:
+                      summary_content = f.read()
+                  
+                  # Construct new block
+                  new_block = (
+                      f'{start_marker}\n\n'
+                      f'{badge_content}\n'
+                      f'<details>\n'
+                      f'<summary> Detailed Statistics</summary>\n\n'
+                      f'{summary_content}\n'
+                      f'</details>\n\n'
+                      f'{end_marker}'
+                  )
+                  
+                  # Replace content
+                  end_idx += len(end_marker)
+                  new_content = content[:start_idx] + new_block + content[end_idx:]
+                  
+                  with open('README.md', 'w') as f:
+                      f.write(new_content)
+                  print('✓ README.md updated successfully')
+              else:
+                  print('⚠ Markers not found in README.md')
+                  sys.exit(1)
+          except Exception as e:
+              print(f'✗ Error updating README: {e}')
+              sys.exit(1)
+          "
           else
             echo "⚠ README.md not found, skipping update"
           fi
