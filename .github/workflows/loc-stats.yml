@@ -29,7 +29,7 @@ jobs:
       - name: Fetch All Repositories
         id: fetch_repos
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           USERNAME: mohitmishra786
         run: |
           echo "Fetching all repositories for user: $USERNAME"
@@ -37,8 +37,7 @@ jobs:
           # Create directory for cloning repos
           mkdir -p /tmp/all_repos
           
-          # Fetch all repositories (including private if token has access)
-          # Using GitHub API pagination to get all repos
+          # Fetch all repositories (including private) using GH_PAT
           page=1
           per_page=100
           all_repos="[]"
@@ -46,12 +45,20 @@ jobs:
           while true; do
             echo "Fetching page $page..."
             
-            # Fetch repositories
+            # Fetch repositories using authenticated /user/repos endpoint
             response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
               "https://api.github.com/user/repos?per_page=$per_page&page=$page&type=all&sort=updated")
             
+            # Check if response is valid JSON array
+            if ! echo "$response" | jq -e 'if type=="array" then true else false end' > /dev/null; then
+              echo "Error: API returned non-array response"
+              echo "$response"
+              break
+            fi
+
             # Check if response is empty array
-            if [ "$(echo "$response" | jq '. | length')" -eq 0 ]; then
+            local_length=$(echo "$response" | jq '. | length')
+            if [ "$local_length" -eq 0 ]; then
               break
             fi
             
@@ -71,7 +78,7 @@ jobs:
       
       - name: Clone and Count LOC for Each Repository
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }} # Use PAT to clone private repos
         run: |
           echo "Starting LOC counting for all repositories..."
           
