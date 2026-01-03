@@ -33,5 +33,6 @@ jobs:
           git add assets/github-snake.svg assets/github-snake-dark.svg
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Update snake animation"
+            git pull --rebase
             git push
           fi
