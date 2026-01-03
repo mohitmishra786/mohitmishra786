@@ -351,7 +351,7 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           # Configure git
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -366,6 +366,9 @@ jobs:
           else
             # Commit changes
             git commit -m "Update LOC statistics - $(date -u '+%Y-%m-%d')"
+            
+            # Pull latest changes to avoid conflicts
+            git pull origin main--rebase --autostash
             
             # Push changes
             git push
