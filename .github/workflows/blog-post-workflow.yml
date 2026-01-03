@@ -22,16 +22,13 @@ jobs:
           persist-credentials: true
           submodules: recursive
 
-      - name: Generate latest blog-post content (no push)
+      - name: Generate latest blog-post content
         uses: gautamkrishnar/blog-post-workflow@v1
-        # Prevent the action from pushing by not giving it a push-capable token.
-        # The action may require GH_TOKEN for read-only access; set to empty to stop auto-push.
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://medium.com/feed/@mohitmishra786687, https://mohitmishra786.github.io/TheCoreDump/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url)"
+          template: "- [$title]($url)$newline"
           commit_message: "Updated README with latest blog posts"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
