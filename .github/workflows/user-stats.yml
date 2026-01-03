@@ -9,11 +9,18 @@ on:
       - main
       - master
 
+# Ensure the workflow can push changes
+permissions:
+  contents: write
+
 jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Generate Statistics
         uses: cicirello/user-statistician@v1
@@ -26,10 +33,30 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          set -e
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
+          # Stage the generated file
           git add github-user-stats.svg
+
+          # Only proceed if there are staged changes
           if ! git diff --cached --quiet; then
+            # Determine branch name (e.g., "main")
+            BRANCH="${GITHUB_REF#refs/heads/}"
+
+            # Ensure local branch exists and is checked out
+            if ! git rev-parse --verify "$BRANCH" >/dev/null 2>&1; then
+              git checkout -b "$BRANCH"
+            else
+              git checkout "$BRANCH"
+            fi
+
+            # Fetch latest remote branch and rebase local changes on top to avoid non-fast-forward pushes
+            git fetch origin "$BRANCH"
+            git pull --rebase --autostash origin "$BRANCH"
+
+            # Commit and push
             git commit -m "update stats"
-            git push
+            git push origin "$BRANCH"
           fi
