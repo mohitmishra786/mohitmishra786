@@ -36,9 +36,9 @@ jobs:
           set -e
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add assets/github-user-stats.svg
+          git add .
           if ! git diff-index --quiet HEAD --; then
             git commit -m "update stats"
-            git pull origin main --rebase
+            git pull origin main --rebase --autostash
             git push
           fi

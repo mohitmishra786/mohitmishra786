@@ -30,10 +30,10 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add assets/profile-3d-contrib
+          git add .
           if ! git diff-index --quiet HEAD --; then
             git commit -m "generated 3d profile"
-            git pull origin main --rebase
+            git pull origin main --rebase --autostash
             git push
           else
             echo "No changes detected. Skipping commit and push."

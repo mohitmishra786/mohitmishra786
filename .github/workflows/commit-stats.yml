@@ -101,9 +101,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add .
           if ! git diff-index --quiet HEAD --; then
              git commit -m "Update commit statistics"
-             git pull origin main --rebase
+             git pull origin main --rebase --autostash
              git push
           fi
