@@ -81,6 +81,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           if ! git diff-index --quiet HEAD --; then
+             git pull --rebase
              git commit -m "Update LOC statistics"
              git push
           fi

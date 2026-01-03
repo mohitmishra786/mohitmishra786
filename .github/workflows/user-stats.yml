@@ -16,6 +16,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Generate Statistics
         uses: cicirello/user-statistician@v1
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           featured-repository: mohitmishra786/mohitmishra786
       - name: Commit and push changes

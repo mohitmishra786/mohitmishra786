@@ -17,6 +17,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Pull in my medium posts and thecoredump posts
         uses: gautamkrishnar/blog-post-workflow@v1
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           feed_list: "https://medium.com/feed/@mohitmishra786687, https://mohitmishra786.github.io/TheCoreDump/feed.xml"
           max_post_count: 5
