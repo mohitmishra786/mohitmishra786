@@ -28,7 +28,7 @@ jobs:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://medium.com/feed/@mohitmishra786687, https://mohitmishra786.github.io/TheCoreDump/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)"
           commit_message: "Updated README with latest blog posts"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
