@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add assets/profile-3d-contrib
           if ! git diff-index --quiet HEAD --; then
             git commit -m "generated 3d profile"

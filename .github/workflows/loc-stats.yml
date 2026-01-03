@@ -80,6 +80,7 @@ jobs:
           else:
               print("Invalid data format received from API")
           EOF
+          rm -f loc-stats.json
           
       - name: Commit changes
         run: |
@@ -87,7 +88,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           if ! git diff-index --quiet HEAD --; then
-             git pull origin main --rebase
              git commit -m "Update LOC statistics"
+             git pull origin main --rebase
              git push
           fi

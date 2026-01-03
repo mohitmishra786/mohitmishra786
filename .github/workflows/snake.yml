@@ -41,28 +41,12 @@ jobs:
           GIT_COMMITTER_NAME: "github-actions"
           GIT_COMMITTER_EMAIL: "github-actions@github.com"
         run: |
-          set -euo pipefail
-
-          # Ensure git user is configured
-          git config user.name "${GIT_COMMITTER_NAME}"
-          git config user.email "${GIT_COMMITTER_EMAIL}"
-
-          # Add any generated SVGs (handles potential filename variations)
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add assets/*.svg || true
-
-          # Only proceed if there are changes compared to HEAD
           if ! git diff-index --quiet HEAD --; then
-            git commit -m "Update snake animation" || true
-
-            # Ensure we have the latest remote commits and rebase our commit on top
-            git fetch origin main
-
-            # Rebase local commits onto origin/main to avoid non-fast-forward push errors.
-            # If this step fails due to conflicts, the job will exit with non-zero status
-            # so conflicts can be resolved manually.
-            git rebase origin/main
-
-            # Push the rebased commit to main
+            git commit -m "Update snake animation"
+            git pull origin main --rebase
             git push origin HEAD:main
           else
             echo "No changes to commit."
