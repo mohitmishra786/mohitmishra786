@@ -10,16 +10,42 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Pull in my medium posts and thecoredump posts
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+          submodules: recursive
+
+      - name: Generate latest blog-post content (no push)
         uses: gautamkrishnar/blog-post-workflow@v1
+        # Prevent the action from pushing by not giving it a push-capable token.
+        # The action may require GH_TOKEN for read-only access; set to empty to stop auto-push.
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           feed_list: "https://medium.com/feed/@mohitmishra786687, https://mohitmishra786.github.io/TheCoreDump/feed.xml"
           max_post_count: 5
           template: "- [$title]($url) ($date)"
+
+      - name: Configure git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit generator output
+        run: |
+          git add README.md || true
+          git commit -m "Updated with the latest blog posts" || echo "No changes to commit"
+
+      - name: Create pull request with changes
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: update/readme-blog
+          base: main
+          title: "Update README: latest blog posts"
+          body: "Automated update of README with latest posts"
+          commit-message: "Updated README with latest blog posts"
