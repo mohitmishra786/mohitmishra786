@@ -39,24 +39,27 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitmishra786&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com?user=mohitmishra786&theme=tokyonight" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra786&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra786&theme=tokyo-night&area=true" alt="Activity Graph" />
+  <table border="0">
+    <tr>
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitmishra786&theme=solarized" alt="Profile Details" /></td>
+      <td width="50%"><img src="https://streak-stats.demolab.com?user=mohitmishra786&theme=tokyonight" alt="GitHub Streak" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitmishra786&theme=solarized" alt="Repos per Language" /></td>
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitmishra786&theme=solarized" alt="Most Commit Language" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitmishra786&theme=solarized" alt="Stats" /></td>
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitmishra786&theme=solarized&utcOffset=8" alt="Productive Time" /></td>
+    </tr>
+  </table>
+</div>
 
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra786&theme=tokyo-night&area=true" alt="Activity Graph" />
 </div>
 
 ---

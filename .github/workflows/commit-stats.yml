@@ -55,7 +55,7 @@ jobs:
                   continue
           
           # Generate markdown
-          md = "## 📅 Commit Analytics\n\n"
+          md = "## Commit Analytics\n\n"
           md += f"**Total Commits (Last Year):** {stats['total_commits']:,}\n\n"
           
           md += "### Commits by Day of Week\n"
@@ -63,6 +63,7 @@ jobs:
           for day in days_order:
               count = stats['commits_by_day'].get(day, 0)
               bar = '█' * (count // 10 if count > 0 else 0)
+              if not bar: bar = '░'
               md += f"{day}: {bar} ({count})  \n"
           
           md += "\n### Most Active Hours\n"
