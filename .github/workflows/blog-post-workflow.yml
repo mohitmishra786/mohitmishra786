@@ -11,6 +11,9 @@ on:
 jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,24 +31,7 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@mohitmishra786687, https://mohitmishra786.github.io/TheCoreDump/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url) ($date)"
-
-      - name: Configure git user
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit generator output
-        run: |
-          git add README.md || true
-          git commit -m "Updated with the latest blog posts" || echo "No changes to commit"
-
-      - name: Create pull request with changes
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: update/readme-blog
-          base: main
-          title: "Update README: latest blog posts"
-          body: "Automated update of README with latest posts"
-          commit-message: "Updated README with latest blog posts"
+          template: "- [$title]($url)"
+          commit_message: "Updated README with latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"

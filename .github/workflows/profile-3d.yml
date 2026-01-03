@@ -20,13 +20,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Move to assets
+        run: |
+          mkdir -p assets/profile-3d-contrib
+          mv profile-3d-contrib/* assets/profile-3d-contrib/
+          rm -rf profile-3d-contrib
+
       - name: Commit and push changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
+          git add assets/profile-3d-contrib
           if ! git diff-index --quiet HEAD --; then
-            git commit -m "generated"
+            git commit -m "generated 3d profile"
             git push
           else
             echo "No changes detected. Skipping commit and push."

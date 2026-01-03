@@ -19,6 +19,7 @@ jobs:
           import subprocess
           import json
           from datetime import datetime, timedelta
+          import os
           
           # Get commits from last year
           one_year_ago = (datetime.now() - timedelta(days=365)).strftime('%Y-%m-%d')
@@ -54,6 +55,8 @@ jobs:
               except ValueError:
                   continue
           
+          print(f"DEBUG: Found {stats['total_commits']} commits")
+          
           # Generate markdown
           md = "## Commit Analytics\n\n"
           md += f"**Total Commits (Last Year):** {stats['total_commits']:,}\n\n"
@@ -71,15 +74,28 @@ jobs:
               count = stats['commits_by_hour'][hour]
               md += f"{hour:02d}:00 - {count} commits  \n"
           
-          with open('COMMIT_STATS.md', 'w') as f:
-              f.write(md)
+          # Inject into README
+          try:
+              with open('README.md', 'r') as f:
+                  content = f.read()
+
+              start_marker = "<!--START_COMMITS-->"
+              end_marker = "<!--END_COMMITS-->"
+              
+              if start_marker in content and end_marker in content:
+                  start_idx = content.find(start_marker) + len(start_marker)
+                  end_idx = content.find(end_marker)
+                  
+                  new_content = content[:start_idx] + "\n" + md + "\n" + content[end_idx:]
+                  
+                  with open('README.md', 'w') as f:
+                      f.write(new_content)
+                  print("Updated README.md")
+              else:
+                  print("Markers not found in README.md")
+          except Exception as e:
+              print(f"Error updating README: {e}")
           EOF
-      
-      - name: Update README
-        run: |
-          if [ -f COMMIT_STATS.md ]; then
-            sed -i '/<!--START_COMMITS-->/,/<!--END_COMMITS-->/!b; /<!--START_COMMITS-->/!d; r COMMIT_STATS.md' README.md
-          fi
           
       - name: Commit changes
         run: |

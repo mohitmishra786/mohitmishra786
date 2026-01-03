@@ -28,7 +28,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           featured-repository: mohitmishra786/mohitmishra786
-          image-file: github-user-stats.svg
+          image-file: assets/github-user-stats.svg
           commit-and-push: false
 
       - name: Commit and push changes
@@ -38,7 +38,7 @@ jobs:
           git config user.email "github-actions@github.com"
 
           # Stage the generated file
-          git add github-user-stats.svg
+          git add assets/github-user-stats.svg
 
           # Only proceed if there are staged changes
           if ! git diff --cached --quiet; then

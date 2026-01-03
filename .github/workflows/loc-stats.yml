@@ -12,40 +12,34 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
-      - name: Fetch LOC Stats
+      - name: Update LOC Stats
+        id: loc
         run: |
-          # Fetch JSON from CodeTabs
-          if ! curl -L "https://api.codetabs.com/v1/loc?github=mohitmishra786" > loc-stats.json; then
+          # Fetch JSON from CodeTabs with correct repo path
+          if ! curl -L "https://api.codetabs.com/v1/loc?github=mohitmishra786/mohitmishra786" > loc-stats.json; then
              echo "Failed to fetch LOC stats"
              exit 1
           fi
           
-      - name: Generate LOC Markdown
-        run: |
           python3 << 'EOF'
           import json
           import sys
-          
+          import os
+
           try:
               with open('loc-stats.json', 'r') as f:
                   data = json.load(f)
-          except json.JSONDecodeError:
-              print("Invalid JSON received")
-              sys.exit(0) # Exit gracefully if API returns garbage
-          
-          # If API returns an error list instead of list of dicts with language
-          if isinstance(data, list) and len(data) > 0 and 'language' not in data[0]:
-               print("Unexpected data format")
-               sys.exit(0)
+          except Exception as e:
+              print(f"Error reading JSON: {e}")
+              sys.exit(0)
 
-          markdown = "## Lines of Code Statistics\n\n"
-          markdown += "| Language | Files | Lines | Code | Comments | Blanks |\n"
-          markdown += "|----------|-------|-------|------|----------|--------|\n"
-          
-          total = {'files': 0, 'lines': 0, 'code': 0, 'comments': 0, 'blanks': 0}
-          
-          # Ensure data is a list
           if isinstance(data, list):
+              markdown = "## Lines of Code Statistics\n\n"
+              markdown += "| Language | Files | Lines | Code | Comments | Blanks |\n"
+              markdown += "|----------|-------|-------|------|----------|--------|\n"
+              
+              total = {'files': 0, 'lines': 0, 'code': 0, 'comments': 0, 'blanks': 0}
+              
               for item in data:
                   lang = item.get('language', 'Unknown')
                   files = item.get('files', 0)
@@ -55,25 +49,37 @@ jobs:
                   blanks = item.get('blanks', 0)
                   
                   markdown += f"| {lang} | {files:,} | {lines:,} | {code:,} | {comments:,} | {blanks:,} |\n"
-                  total['files'] += files
-                  total['lines'] += lines
-                  total['code'] += code
-                  total['comments'] += comments
-                  total['blanks'] += blanks
+                  if lang != 'Total':
+                      total['files'] += files
+                      total['lines'] += lines
+                      total['code'] += code
+                      total['comments'] += comments
+                      total['blanks'] += blanks
               
+              # Use calculated total if "Total" entry is missing or double check
               markdown += f"| **Total** | **{total['files']:,}** | **{total['lines']:,}** | **{total['code']:,}** | **{total['comments']:,}** | **{total['blanks']:,}** |\n"
               
-              with open('LOC_STATS.md', 'w') as f:
-                  f.write(markdown)
+              # Read README
+              with open('README.md', 'r') as f:
+                  content = f.read()
+
+              start_marker = "<!--START_LOC-->"
+              end_marker = "<!--END_LOC-->"
+              
+              if start_marker in content and end_marker in content:
+                  start_idx = content.find(start_marker) + len(start_marker)
+                  end_idx = content.find(end_marker)
+                  
+                  new_content = content[:start_idx] + "\n" + markdown + "\n" + content[end_idx:]
+                  
+                  with open('README.md', 'w') as f:
+                      f.write(new_content)
+                  print("Updated README.md")
+              else:
+                  print("Markers not found in README.md")
           else:
-              print("Data is not a list")
+              print("Invalid data format received from API")
           EOF
-      
-      - name: Update README with LOC
-        run: |
-          if [ -f LOC_STATS.md ]; then
-            sed -i '/<!--START_LOC-->/,/<!--END_LOC-->/!b; /<!--START_LOC-->/!d; r LOC_STATS.md' README.md
-          fi
           
       - name: Commit changes
         run: |

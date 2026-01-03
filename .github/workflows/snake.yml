@@ -9,21 +9,29 @@ on:
       - main
       - master
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snk@master
+      - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: mohitmishra786
-          svg_out_path: dist/github-contribution-snake.svg
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "Update snake animation"
+            git push
+          fi

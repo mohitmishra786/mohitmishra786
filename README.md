@@ -42,7 +42,7 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 ## GitHub Analytics
 
 <div align="center">
-  <img src="./github-user-stats.svg" alt="User Statistics" />
+  <img src="assets/github-user-stats.svg" alt="User Statistics" />
 </div>
 
 <br/>
@@ -96,7 +96,7 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 ## 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" />
+  <img src="assets/profile-3d-contrib/profile-season.svg" alt="3D Contribution" />
 </div>
 
 ---
@@ -104,14 +104,15 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/mohitmishra786/mohitmishra786/blob/output/github-snake.svg" alt="Snake animation" />
+  <img src="assets/github-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [2025 Database Upgrades Recap: Real Code Walkthroughs, Query Hacks, and Setup Tips from This Year&#39;s Big Releases](https://mohitmishra786.github.io/TheCoreDump/posts/2025-Database-Upgrades-A-Comprehensive-Breakdown-of-Core-Features-Query-Optimizations-and-Deployment-Strategies/) (Sun Dec 28 2025 6:30 PM)- [HTTP Message Size Handling: Content-Length and Chunked Transfer Encoding](https://mohitmishra786.github.io/TheCoreDump/posts/Handling-HTTP-Message-Sizes-Content-Length-vs-Chunked-Encoding-in-Modern-Web-Architectures/) (Mon Dec 22 2025 6:30 PM)- [Turbocharging Your Code: A No-BS Guide to Software Prefetching in C](https://mohitmishra786687.medium.com/turbocharging-your-code-a-no-bs-guide-to-software-prefetching-in-c-7db1abacd92f?source=rss-678bb511886d------2) (Mon Dec 22 2025 8:22 AM)- [Microsoft Azure Front Door Part 5: Integration, Monitoring, and Best Practices](https://mohitmishra786.github.io/TheCoreDump/posts/Microsoft-Azure-Front-Door-Part-5-Integration-Monitoring-and-Best-Practices/) (Thu Dec 18 2025 6:30 PM)- [Microsoft Azure Front Door Part 4: Security and Performance Optimization](https://mohitmishra786.github.io/TheCoreDump/posts/Microsoft-Azure-Front-Door-Part-4-Security-and-Performance-Optimization/) (Wed Dec 10 2025 6:30 PM)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
