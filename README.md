@@ -82,17 +82,6 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 ## Lines of Code Statistics
 
 <!--START_LOC-->
-## Lines of Code Statistics
-
-| Language | Files | Lines | Code | Comments | Blanks |
-|----------|-------|-------|------|----------|--------|
-| SVG | 8 | 68 | 67 | 0 | 1 |
-| YAML | 6 | 374 | 316 | 10 | 48 |
-| Markdown | 1 | 165 | 119 | 0 | 46 |
-| Plain Text | 1 | 1 | 1 | 0 | 0 |
-| Total | 16 | 608 | 503 | 10 | 95 |
-| **Total** | **16** | **608** | **503** | **10** | **95** |
-
 <!--END_LOC-->
 
 ---
