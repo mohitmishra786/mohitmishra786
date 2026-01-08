@@ -1,17 +1,17 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-01-07 01:10:48 UTC
+Generated on: 2026-01-08 01:10:26 UTC
 
 ## Summary Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories Processed | 148 |
+| Total Repositories Processed | 149 |
 | Failed Repositories | 0 |
-| Total Files | 24,286 |
-| Total Lines of Code | 23,638,260 |
-| Total Blank Lines | 1,800,007 |
-| Total Comment Lines | 13,536,420 |
+| Total Files | 24,326 |
+| Total Lines of Code | 23,647,778 |
+| Total Blank Lines | 1,802,488 |
+| Total Comment Lines | 13,536,832 |
 
 
 ## Top 15 Languages by LOC
@@ -21,18 +21,18 @@ Generated on: 2026-01-07 01:10:48 UTC
 | Jupyter Notebook |    866 |   13190713 |      13190713 |           0 |
 | HTML         |   1591 |      84195 |         84195 |      313755 |
 | JavaScript   |   1492 |      47792 |         47792 |       25885 |
-| TypeScript   |    553 |      45099 |         45099 |       10850 |
-| C/C++ Header |    524 |      36397 |         36397 |       18827 |
+| TypeScript   |    557 |      45189 |         45189 |       11191 |
+| C/C++ Header |    525 |      36452 |         36452 |       18860 |
 | Ruby         |   1342 |      33148 |         33148 |       23085 |
 | C++          |    993 |      31789 |         31789 |       27471 |
 | Python       |    850 |      20830 |         20830 |       18408 |
-| C            |    582 |      14100 |         14100 |       18877 |
+| C            |    584 |      14278 |         14278 |       19155 |
 | Go           |    360 |       7622 |          7622 |       11152 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     67 |       4133 |          4133 |        1712 |
-| YAML         |    444 |       2256 |          2256 |        2423 |
-| CSS          |    104 |       1670 |          1670 |       13386 |
-| Markdown     |   4512 |       1613 |          1613 |      103126 |
+| YAML         |    449 |       2268 |          2268 |        2487 |
+| CSS          |    104 |       1676 |          1676 |       13408 |
+| Markdown     |   4532 |       1627 |          1627 |      104787 |
 
 ## Top 20 Repositories by LOC
 
