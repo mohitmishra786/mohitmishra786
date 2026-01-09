@@ -1,40 +1,31 @@
 Repository,Language,Files,Blank,Comment,Code
-mohitmishra786/mohitmishra786,CSV,3,0,0,981
-mohitmishra786/mohitmishra786,JSON,1,0,0,10
-mohitmishra786/mohitmishra786,Markdown,3,63,8,204
-mohitmishra786/mohitmishra786,SVG,8,1,0,67
-mohitmishra786/mohitmishra786,Text,1,0,0,1
-mohitmishra786/mohitmishra786,YAML,5,81,45,435
-implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
-implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
-implement-from-scratch/memory-allocator-c,C,2,278,178,932
-implement-from-scratch/memory-allocator-c,C/C++ Header,1,33,55,133
-implement-from-scratch/memory-allocator-c,CMake,1,5,5,30
-implement-from-scratch/memory-allocator-c,INI,1,5,0,17
-implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
-implement-from-scratch/memory-allocator-c,YAML,5,64,12,330
-implement-from-scratch/memory-allocator-c,make,1,30,25,200
-implement-from-scratch/website,CSS,1,31,6,173
-implement-from-scratch/website,JSON,3,0,0,9682
-implement-from-scratch/website,JavaScript,4,1,9,65
-implement-from-scratch/website,Markdown,1,11,0,55
-implement-from-scratch/website,TypeScript,28,365,201,2977
-mohitmishra786/Competitive_Programming,C++,255,1331,3749,8342
-mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
-mohitmishra786/Competitive_Programming,Python,7,69,36,300
-mohitmishra786/Competitive_Programming,Text,2,0,0,3
-mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/build-distributed-systems,CSS,1,19,5,76
-mohitmishra786/build-distributed-systems,JSON,3,0,0,7294
-mohitmishra786/build-distributed-systems,JavaScript,2,3,2,20
-mohitmishra786/build-distributed-systems,Markdown,12,244,0,330
-mohitmishra786/build-distributed-systems,SVG,5,0,0,5
-mohitmishra786/build-distributed-systems,TypeScript,48,1675,123,10850
 mohitmishra786/amILearningEnough,CSS,1,15,6,58
 mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
 mohitmishra786/amILearningEnough,Text,1,0,0,29
 mohitmishra786/amILearningEnough,YAML,3,6,0,128
+mohitmishra786/mohitmishra786,CSV,3,0,0,991
+mohitmishra786/mohitmishra786,JSON,1,0,0,10
+mohitmishra786/mohitmishra786,Markdown,3,63,8,204
+mohitmishra786/mohitmishra786,SVG,8,1,0,67
+mohitmishra786/mohitmishra786,Text,1,0,0,1
+mohitmishra786/mohitmishra786,YAML,5,81,45,435
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
+mohitmishra786/Competitive_Programming,C++,255,1331,3749,8342
+mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
+mohitmishra786/Competitive_Programming,Python,7,69,36,300
+mohitmishra786/Competitive_Programming,Text,2,0,0,3
+mohitmishra786/Competitive_Programming,YAML,1,2,3,26
+implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
+implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
+implement-from-scratch/memory-allocator-c,C,2,279,192,943
+implement-from-scratch/memory-allocator-c,C/C++ Header,1,33,57,133
+implement-from-scratch/memory-allocator-c,CMake,1,5,5,30
+implement-from-scratch/memory-allocator-c,INI,1,5,0,17
+implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
+implement-from-scratch/memory-allocator-c,YAML,5,64,21,328
+implement-from-scratch/memory-allocator-c,make,1,30,25,209
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,1,0,0,4
@@ -44,6 +35,17 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,91,9935,14,26311
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,57,126,260
+implement-from-scratch/website,CSS,1,31,6,173
+implement-from-scratch/website,JSON,3,0,0,9682
+implement-from-scratch/website,JavaScript,4,1,9,65
+implement-from-scratch/website,Markdown,1,11,0,55
+implement-from-scratch/website,TypeScript,28,365,201,2977
+mohitmishra786/build-distributed-systems,CSS,1,19,5,76
+mohitmishra786/build-distributed-systems,JSON,3,0,0,7294
+mohitmishra786/build-distributed-systems,JavaScript,2,3,2,20
+mohitmishra786/build-distributed-systems,Markdown,12,244,0,330
+mohitmishra786/build-distributed-systems,SVG,5,0,0,5
+mohitmishra786/build-distributed-systems,TypeScript,48,1675,123,10850
 mohitmishra786/exploring-os,C,5,23,7,98
 mohitmishra786/exploring-os,CSS,1,28,8,150
 mohitmishra786/exploring-os,HTML,7,13,3,132
@@ -79,8 +81,6 @@ mohitmishra786/mohit-portfolio,JavaScript,4,19,5,370
 mohitmishra786/mohit-portfolio,Markdown,1,26,0,67
 mohitmishra786/mohit-portfolio,SVG,4,0,0,4
 mohitmishra786/mohit-portfolio,Text,1,0,0,3
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 implement-from-scratch/template-repo,Bourne Again Shell,1,7,5,25
 implement-from-scratch/template-repo,Bourne Shell,4,35,22,152
 implement-from-scratch/template-repo,CMake,1,5,5,30
