@@ -1,22 +1,47 @@
 Repository,Language,Files,Blank,Comment,Code
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/mohitmishra786,CSV,3,0,0,991
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,63,8,204
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
 mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
+mohitmishra786/vantage,CSS,1,41,13,303
+mohitmishra786/vantage,Dockerfile,1,12,15,21
+mohitmishra786/vantage,HTML,1,33,11,239
+mohitmishra786/vantage,JSON,1,0,0,5
+mohitmishra786/vantage,Markdown,7,7331,0,27967
+mohitmishra786/vantage,Python,15,168,117,726
+mohitmishra786/vantage,TOML,1,7,0,59
+mohitmishra786/vantage,Text,2,0,0,69
+mohitmishra786/vantage,YAML,1,0,2,17
 mohitmishra786/Competitive_Programming,C++,255,1331,3749,8342
 mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
+mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
+mohitmishra786/TheCoreDump,C,4,94,20,450
+mohitmishra786/TheCoreDump,HTML,1,0,0,4
+mohitmishra786/TheCoreDump,INI,1,4,0,15
+mohitmishra786/TheCoreDump,JSON,5,0,0,101
+mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
+mohitmishra786/TheCoreDump,Markdown,91,9935,14,26311
+mohitmishra786/TheCoreDump,Ruby,1,4,2,8
+mohitmishra786/TheCoreDump,YAML,6,57,126,260
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
+implement-from-scratch/template-repo,Bourne Again Shell,1,7,5,25
+implement-from-scratch/template-repo,Bourne Shell,4,35,22,152
+implement-from-scratch/template-repo,CMake,1,5,5,30
+implement-from-scratch/template-repo,INI,1,5,0,17
+implement-from-scratch/template-repo,Markdown,9,66,14,216
+implement-from-scratch/template-repo,YAML,8,90,12,499
+implement-from-scratch/template-repo,make,1,32,23,133
 implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
 implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
 implement-from-scratch/memory-allocator-c,C,2,279,192,943
@@ -26,15 +51,22 @@ implement-from-scratch/memory-allocator-c,INI,1,5,0,17
 implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
 implement-from-scratch/memory-allocator-c,YAML,5,64,21,328
 implement-from-scratch/memory-allocator-c,make,1,30,25,209
-mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
-mohitmishra786/TheCoreDump,C,4,94,20,450
-mohitmishra786/TheCoreDump,HTML,1,0,0,4
-mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,102
-mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
-mohitmishra786/TheCoreDump,Markdown,91,9935,14,26311
-mohitmishra786/TheCoreDump,Ruby,1,4,2,8
-mohitmishra786/TheCoreDump,YAML,6,57,126,260
+implement-from-scratch/shell-c,C,4,167,180,728
+implement-from-scratch/shell-c,C/C++ Header,1,13,41,24
+implement-from-scratch/shell-c,Markdown,18,704,0,1804
+implement-from-scratch/shell-c,YAML,2,12,0,116
+implement-from-scratch/shell-c,make,1,8,7,18
+mohitmishra786/RepoToVideo,Markdown,3,313,0,879
+mohitmishra786/RepoToVideo,Python,18,1105,1413,4045
+mohitmishra786/RepoToVideo,Text,2,2,0,172
+mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
+mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
+mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
+mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
+mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
+mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
+mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
+mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
 implement-from-scratch/website,CSS,1,31,6,173
 implement-from-scratch/website,JSON,3,0,0,9682
 implement-from-scratch/website,JavaScript,4,1,9,65
@@ -61,19 +93,6 @@ mohitmishra786/compiler-craft,JavaScript,2,3,2,20
 mohitmishra786/compiler-craft,Markdown,11,497,0,1417
 mohitmishra786/compiler-craft,SVG,5,0,0,5
 mohitmishra786/compiler-craft,TypeScript,48,1485,627,7522
-implement-from-scratch/shell-c,C,4,167,180,728
-implement-from-scratch/shell-c,C/C++ Header,1,13,41,24
-implement-from-scratch/shell-c,Markdown,18,704,0,1804
-implement-from-scratch/shell-c,YAML,2,12,0,116
-implement-from-scratch/shell-c,make,1,8,7,18
-mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
-mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
-mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
-mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
-mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
-mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
-mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
-mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
 mohitmishra786/mohit-portfolio,CSS,6,2208,187,23367
 mohitmishra786/mohit-portfolio,JSON,9,0,0,77
 mohitmishra786/mohit-portfolio,JSX,16,56,2,886
@@ -81,13 +100,6 @@ mohitmishra786/mohit-portfolio,JavaScript,4,19,5,370
 mohitmishra786/mohit-portfolio,Markdown,1,26,0,67
 mohitmishra786/mohit-portfolio,SVG,4,0,0,4
 mohitmishra786/mohit-portfolio,Text,1,0,0,3
-implement-from-scratch/template-repo,Bourne Again Shell,1,7,5,25
-implement-from-scratch/template-repo,Bourne Shell,4,35,22,152
-implement-from-scratch/template-repo,CMake,1,5,5,30
-implement-from-scratch/template-repo,INI,1,5,0,17
-implement-from-scratch/template-repo,Markdown,9,66,14,216
-implement-from-scratch/template-repo,YAML,8,90,12,499
-implement-from-scratch/template-repo,make,1,32,23,133
 mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
 mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
 mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
@@ -106,13 +118,6 @@ mohitmishra786/portfolio,TypeScript,41,223,24,2378
 implement-from-scratch/malloc-c,Markdown,6,39,0,99
 implement-from-scratch/malloc-c,YAML,3,14,0,89
 mohitmishra786/my-portfolio,Markdown,1,0,0,1
-mohitmishra786/ai-video-clipper,CSS,1,41,13,303
-mohitmishra786/ai-video-clipper,HTML,1,29,7,187
-mohitmishra786/ai-video-clipper,JSON,1,0,0,5
-mohitmishra786/ai-video-clipper,Markdown,3,166,0,429
-mohitmishra786/ai-video-clipper,Python,9,261,180,1072
-mohitmishra786/ai-video-clipper,TOML,1,7,0,59
-mohitmishra786/ai-video-clipper,Text,1,0,0,8
 mohitmishra786/linux-distro-setup-in-mac,Bourne Shell,8,108,84,550
 mohitmishra786/linux-distro-setup-in-mac,C,25,135,69,480
 mohitmishra786/linux-distro-setup-in-mac,C/C++ Header,2,8,4,16
@@ -238,9 +243,6 @@ mohitmishra786/resource-grep,Markdown,12,749,1,2806
 mohitmishra786/resource-grep,Python,15,371,424,1550
 mohitmishra786/resource-grep,Text,3,25,0,2328
 mohitmishra786/resource-grep,YAML,1,8,0,129
-mohitmishra786/RepoToVideo,Markdown,3,313,0,879
-mohitmishra786/RepoToVideo,Python,18,1105,1413,4045
-mohitmishra786/RepoToVideo,Text,2,2,0,172
 mohitmishra786/merkle-db-sync,CSS,1,87,0,527
 mohitmishra786/merkle-db-sync,HTML,1,8,2,181
 mohitmishra786/merkle-db-sync,JavaScript,1,168,67,744
