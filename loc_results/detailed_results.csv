@@ -10,6 +10,16 @@ mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
+mohitmishra786/CodeDocGen,Bourne Shell,2,147,132,650
+mohitmishra786/CodeDocGen,CMake,1,14,13,54
+mohitmishra786/CodeDocGen,JSON,5,3,0,4771
+mohitmishra786/CodeDocGen,Java,1,0,43,10
+mohitmishra786/CodeDocGen,JavaScript,1,0,33,6
+mohitmishra786/CodeDocGen,Markdown,12,575,0,2270
+mohitmishra786/CodeDocGen,Python,25,1715,2544,5105
+mohitmishra786/CodeDocGen,Text,1,0,0,10
+mohitmishra786/CodeDocGen,TypeScript,5,59,30,267
+mohitmishra786/CodeDocGen,YAML,2,26,18,149
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,3,35,16,240
@@ -25,11 +35,41 @@ mohitmishra786/vantage,Dockerfile,1,12,15,21
 mohitmishra786/vantage,HTML,8,137,54,982
 mohitmishra786/vantage,JSON,1,0,0,5
 mohitmishra786/vantage,Markdown,7,7331,0,27967
-mohitmishra786/vantage,Python,19,318,294,1362
+mohitmishra786/vantage,Python,20,380,360,1619
 mohitmishra786/vantage,SVG,1,0,0,1
 mohitmishra786/vantage,TOML,1,7,0,60
-mohitmishra786/vantage,Text,3,1,0,74
+mohitmishra786/vantage,Text,3,1,0,76
 mohitmishra786/vantage,YAML,1,0,2,17
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
+mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
+mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
+mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
+mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
+mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
+mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
+mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
+mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
+mohitmishra786/BitsAndBytes,Assembly,7,111,82,1207
+mohitmishra786/BitsAndBytes,C,137,2067,557,9800
+mohitmishra786/BitsAndBytes,C++,1,17,7,54
+mohitmishra786/BitsAndBytes,C/C++ Header,3,10,0,72
+mohitmishra786/BitsAndBytes,Markdown,33,428,0,1059
+mohitmishra786/BitsAndBytes,Python,1,6,3,17
+mohitmishra786/BitsAndBytes,SWIG,3,3766,0,3765
+mohitmishra786/BitsAndBytes,Text,8,59,0,187
+mohitmishra786/BitsAndBytes,make,1,4,0,12
+mohitmishra786/conf-finder,CSS,1,4,0,22
+mohitmishra786/conf-finder,JSON,5,0,0,8882
+mohitmishra786/conf-finder,JavaScript,2,5,0,16
+mohitmishra786/conf-finder,Markdown,2,139,0,530
+mohitmishra786/conf-finder,SVG,5,0,0,5
+mohitmishra786/conf-finder,TypeScript,26,425,155,3310
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/vaak,Markdown,4,209,0,440
 mohitmishra786/vaak,Python,10,350,450,850
 mohitmishra786/vaak,TOML,1,12,0,101
@@ -57,13 +97,6 @@ implement-from-scratch/template-repo,INI,1,5,0,17
 implement-from-scratch/template-repo,Markdown,9,66,14,216
 implement-from-scratch/template-repo,YAML,8,90,12,499
 implement-from-scratch/template-repo,make,1,32,23,133
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 implement-from-scratch/shell-c,C,4,167,180,728
 implement-from-scratch/shell-c,C/C++ Header,1,13,41,24
 implement-from-scratch/shell-c,Markdown,18,704,0,1804
@@ -72,14 +105,6 @@ implement-from-scratch/shell-c,make,1,8,7,18
 mohitmishra786/RepoToVideo,Markdown,3,313,0,879
 mohitmishra786/RepoToVideo,Python,18,1105,1413,4045
 mohitmishra786/RepoToVideo,Text,2,2,0,172
-mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
-mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
-mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
-mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
-mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
-mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
-mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
-mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
 implement-from-scratch/website,CSS,1,31,6,173
 implement-from-scratch/website,JSON,3,0,0,9682
 implement-from-scratch/website,JavaScript,4,1,9,65
@@ -114,12 +139,6 @@ mohitmishra786/mohit-portfolio,Text,1,0,0,3
 mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
 mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
 mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
-mohitmishra786/conf-finder,CSS,1,4,0,22
-mohitmishra786/conf-finder,JSON,5,0,0,8882
-mohitmishra786/conf-finder,JavaScript,2,5,0,16
-mohitmishra786/conf-finder,Markdown,2,139,0,530
-mohitmishra786/conf-finder,SVG,5,0,0,5
-mohitmishra786/conf-finder,TypeScript,26,421,152,3274
 implement-from-scratch/malloc-c,Markdown,6,39,0,99
 implement-from-scratch/malloc-c,YAML,3,14,0,89
 mohitmishra786/my-portfolio,Markdown,1,0,0,1
@@ -152,29 +171,10 @@ OmdenaAI/omdena-srilanka-tea-quality,Swift,1,1,0,12
 OmdenaAI/omdena-srilanka-tea-quality,Text,10,7,0,262
 OmdenaAI/omdena-srilanka-tea-quality,XML,34,17,56,1674
 OmdenaAI/omdena-srilanka-tea-quality,YAML,15,93,132,480
-mohitmishra786/CodeDocGen,Bourne Shell,2,147,132,650
-mohitmishra786/CodeDocGen,CMake,1,14,13,54
-mohitmishra786/CodeDocGen,JSON,5,3,0,4771
-mohitmishra786/CodeDocGen,Java,1,0,43,10
-mohitmishra786/CodeDocGen,JavaScript,1,0,33,6
-mohitmishra786/CodeDocGen,Markdown,12,575,0,2270
-mohitmishra786/CodeDocGen,Python,25,1715,2544,5105
-mohitmishra786/CodeDocGen,Text,1,0,0,10
-mohitmishra786/CodeDocGen,TypeScript,5,59,30,267
-mohitmishra786/CodeDocGen,YAML,2,26,18,149
 mohitmishra786/prompt-craft,JSON,5,4,0,543
 mohitmishra786/prompt-craft,JavaScript,4,12,5,27
 mohitmishra786/prompt-craft,Markdown,14,556,0,2055
 mohitmishra786/prompt-craft,TypeScript,10,294,221,1879
-mohitmishra786/BitsAndBytes,Assembly,7,111,82,1207
-mohitmishra786/BitsAndBytes,C,137,2067,557,9800
-mohitmishra786/BitsAndBytes,C++,1,17,7,54
-mohitmishra786/BitsAndBytes,C/C++ Header,3,10,0,72
-mohitmishra786/BitsAndBytes,Markdown,33,428,0,1059
-mohitmishra786/BitsAndBytes,Python,1,6,3,17
-mohitmishra786/BitsAndBytes,SWIG,3,3766,0,3765
-mohitmishra786/BitsAndBytes,Text,8,59,0,187
-mohitmishra786/BitsAndBytes,make,1,4,0,12
 OmdenaAI/omdena-texas-homelessness,CSV,62,11,0,186193
 OmdenaAI/omdena-texas-homelessness,HTML,5,340,0,192346
 OmdenaAI/omdena-texas-homelessness,Jupyter Notebook,54,0,243098,24643
