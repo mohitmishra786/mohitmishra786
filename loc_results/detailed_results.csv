@@ -1,39 +1,52 @@
 Repository,Language,Files,Blank,Comment,Code
-mohitmishra786/mohitmishra786,CSV,3,0,0,1010
+mohitmishra786/mohitmishra786,CSV,3,0,0,1015
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,63,8,204
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
 mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
-mohitmishra786/vantage,CSS,1,41,13,303
-mohitmishra786/vantage,Dockerfile,1,12,15,21
-mohitmishra786/vantage,HTML,8,162,57,1113
-mohitmishra786/vantage,JSON,1,0,0,5
-mohitmishra786/vantage,Markdown,7,7331,0,27967
-mohitmishra786/vantage,Python,24,668,781,2486
-mohitmishra786/vantage,SVG,1,0,0,1
-mohitmishra786/vantage,TOML,1,7,0,63
-mohitmishra786/vantage,Text,3,1,0,77
-mohitmishra786/vantage,YAML,1,0,2,17
 mohitmishra786/Competitive_Programming,C++,255,1331,3749,8342
 mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-gutsOfDarkness/raju-gari-kitchen,Dart,10,152,133,1436
-gutsOfDarkness/raju-gari-kitchen,Go,15,553,391,2628
-gutsOfDarkness/raju-gari-kitchen,Markdown,3,84,0,240
-gutsOfDarkness/raju-gari-kitchen,SQL,1,68,91,111
-gutsOfDarkness/raju-gari-kitchen,YAML,1,8,4,19
+mohitmishra786/vantage,Bourne Shell,2,187,163,556
+mohitmishra786/vantage,CSS,1,41,13,303
+mohitmishra786/vantage,Dockerfile,1,12,15,21
+mohitmishra786/vantage,HTML,8,171,57,1194
+mohitmishra786/vantage,JSON,4,0,0,4915
+mohitmishra786/vantage,JavaScript,3,42,47,168
+mohitmishra786/vantage,Markdown,4,151,0,491
+mohitmishra786/vantage,Python,24,721,872,2634
+mohitmishra786/vantage,SVG,1,0,0,1
+mohitmishra786/vantage,TOML,1,7,0,63
+mohitmishra786/vantage,Text,3,1,0,78
+mohitmishra786/vantage,YAML,1,0,2,17
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,3,35,16,240
 mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,102
+mohitmishra786/TheCoreDump,JSON,5,0,0,101
 mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,91,9935,14,26311
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+gutsOfDarkness/raju-gari-kitchen,Dart,11,168,148,1642
+gutsOfDarkness/raju-gari-kitchen,Go,15,552,392,2625
+gutsOfDarkness/raju-gari-kitchen,HTML,1,7,12,19
+gutsOfDarkness/raju-gari-kitchen,JSON,1,0,0,35
+gutsOfDarkness/raju-gari-kitchen,Markdown,3,84,0,240
+gutsOfDarkness/raju-gari-kitchen,SQL,1,68,91,111
+gutsOfDarkness/raju-gari-kitchen,YAML,2,13,27,26
+implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
+implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
+implement-from-scratch/memory-allocator-c,C,2,279,192,943
+implement-from-scratch/memory-allocator-c,C/C++ Header,1,33,57,133
+implement-from-scratch/memory-allocator-c,CMake,1,5,5,30
+implement-from-scratch/memory-allocator-c,INI,1,5,0,17
+implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
+implement-from-scratch/memory-allocator-c,YAML,5,64,21,328
+implement-from-scratch/memory-allocator-c,make,1,30,25,209
 mohitmishra786/amILearningEnough,CSS,1,15,6,58
 mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
@@ -100,15 +113,6 @@ mohitmishra786/portfolio,JavaScript,2,3,2,20
 mohitmishra786/portfolio,Markdown,2,17,0,41
 mohitmishra786/portfolio,SVG,5,0,0,5
 mohitmishra786/portfolio,TypeScript,41,223,24,2378
-implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
-implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
-implement-from-scratch/memory-allocator-c,C,2,279,192,943
-implement-from-scratch/memory-allocator-c,C/C++ Header,1,33,57,133
-implement-from-scratch/memory-allocator-c,CMake,1,5,5,30
-implement-from-scratch/memory-allocator-c,INI,1,5,0,17
-implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
-implement-from-scratch/memory-allocator-c,YAML,5,64,21,328
-implement-from-scratch/memory-allocator-c,make,1,30,25,209
 implement-from-scratch/template-repo,Bourne Again Shell,1,7,5,25
 implement-from-scratch/template-repo,Bourne Shell,4,35,22,152
 implement-from-scratch/template-repo,CMake,1,5,5,30
