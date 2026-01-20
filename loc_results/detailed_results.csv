@@ -4,22 +4,17 @@ mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1047
+mohitmishra786/mohitmishra786,CSV,3,0,0,1049
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,63,8,204
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
 mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
-mohitmishra786/never,JSON,11,0,0,6293
-mohitmishra786/never,JavaScript,1,7,9,52
-mohitmishra786/never,Markdown,22,402,0,929
+mohitmishra786/never,JSON,12,0,0,6320
+mohitmishra786/never,JavaScript,2,13,13,72
+mohitmishra786/never,Markdown,22,403,0,931
 mohitmishra786/never,Ruby,1,3,0,15
-mohitmishra786/never,TypeScript,29,1155,952,5225
+mohitmishra786/never,TypeScript,29,1177,992,5422
 mohitmishra786/never,YAML,4,52,25,179
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
@@ -30,6 +25,49 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,91,9935,14,26311
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/exploring-os,C,5,23,7,98
+mohitmishra786/exploring-os,CSS,1,28,8,150
+mohitmishra786/exploring-os,HTML,7,13,3,132
+mohitmishra786/exploring-os,JavaScript,1,3,0,13
+mohitmishra786/exploring-os,Markdown,83,6981,0,23785
+mohitmishra786/exploring-os,YAML,1,4,3,22
+mohitmishra786/exploring-os,make,1,6,7,8
+mohitmishra786/mohit-portfolio,CSS,6,2208,187,23367
+mohitmishra786/mohit-portfolio,JSON,10,0,0,6369
+mohitmishra786/mohit-portfolio,JSX,16,58,2,890
+mohitmishra786/mohit-portfolio,JavaScript,4,19,5,381
+mohitmishra786/mohit-portfolio,Markdown,1,26,0,67
+mohitmishra786/mohit-portfolio,SVG,4,0,0,4
+mohitmishra786/mohit-portfolio,Text,1,0,0,3
+mohitmishra786/mohit-portfolio,YAML,1,0,0,10
+implement-from-scratch/shell-c,C,4,167,180,728
+implement-from-scratch/shell-c,C/C++ Header,1,13,41,24
+implement-from-scratch/shell-c,Markdown,18,704,0,1804
+implement-from-scratch/shell-c,YAML,2,12,0,116
+implement-from-scratch/shell-c,make,1,8,7,18
+implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
+implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
+implement-from-scratch/memory-allocator-c,C,2,279,192,943
+implement-from-scratch/memory-allocator-c,C/C++ Header,1,33,57,133
+implement-from-scratch/memory-allocator-c,CMake,1,5,5,30
+implement-from-scratch/memory-allocator-c,INI,1,5,0,17
+implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
+implement-from-scratch/memory-allocator-c,YAML,5,64,21,328
+implement-from-scratch/memory-allocator-c,make,1,30,25,209
+mohitmishra786/confscout,CSS,1,48,24,255
+mohitmishra786/confscout,JSON,5,0,0,40329
+mohitmishra786/confscout,JavaScript,2,5,0,16
+mohitmishra786/confscout,Markdown,3,49,8,110
+mohitmishra786/confscout,Python,16,464,352,1990
+mohitmishra786/confscout,SVG,7,0,0,30
+mohitmishra786/confscout,Text,3,4,0,15
+mohitmishra786/confscout,TypeScript,23,282,207,2096
+mohitmishra786/confscout,YAML,1,11,6,51
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
 gutsOfDarkness/crave-delivery,Bourne Shell,3,11,6,44
 gutsOfDarkness/crave-delivery,Dart,18,342,136,2134
 gutsOfDarkness/crave-delivery,Dockerfile,2,21,21,27
@@ -73,15 +111,6 @@ mohitmishra786/vantage,SVG,1,0,0,1
 mohitmishra786/vantage,TOML,1,7,0,64
 mohitmishra786/vantage,Text,3,1,0,78
 mohitmishra786/vantage,YAML,2,2,5,39
-mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,5,0,0,39599
-mohitmishra786/confscout,JavaScript,2,5,0,16
-mohitmishra786/confscout,Markdown,3,49,8,110
-mohitmishra786/confscout,Python,16,464,352,1990
-mohitmishra786/confscout,SVG,7,0,0,30
-mohitmishra786/confscout,Text,3,4,0,15
-mohitmishra786/confscout,TypeScript,23,282,207,2096
-mohitmishra786/confscout,YAML,1,11,6,51
 mohitmishra786/BitsAndBytes,Assembly,7,111,82,1207
 mohitmishra786/BitsAndBytes,C,137,2067,557,9800
 mohitmishra786/BitsAndBytes,C++,1,17,7,54
@@ -109,22 +138,6 @@ mohitmishra786/WhyNotNow,Markdown,1,0,0,1
 mohitmishra786/WhyNotNow,SVG,1,0,0,1
 mohitmishra786/reversingBits,HTML,1,120,1,760
 mohitmishra786/reversingBits,Markdown,46,1725,0,7030
-mohitmishra786/exploring-os,C,5,23,7,98
-mohitmishra786/exploring-os,CSS,1,28,8,150
-mohitmishra786/exploring-os,HTML,7,13,3,132
-mohitmishra786/exploring-os,JavaScript,1,3,0,13
-mohitmishra786/exploring-os,Markdown,83,6981,0,23785
-mohitmishra786/exploring-os,YAML,1,4,3,22
-mohitmishra786/exploring-os,make,1,6,7,8
-implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
-implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
-implement-from-scratch/memory-allocator-c,C,2,279,192,943
-implement-from-scratch/memory-allocator-c,C/C++ Header,1,33,57,133
-implement-from-scratch/memory-allocator-c,CMake,1,5,5,30
-implement-from-scratch/memory-allocator-c,INI,1,5,0,17
-implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
-implement-from-scratch/memory-allocator-c,YAML,5,64,21,328
-implement-from-scratch/memory-allocator-c,make,1,30,25,209
 implement-from-scratch/website,CSS,1,31,6,173
 implement-from-scratch/website,JSON,3,0,0,9682
 implement-from-scratch/website,JavaScript,4,1,9,65
@@ -163,11 +176,6 @@ implement-from-scratch/template-repo,INI,1,5,0,17
 implement-from-scratch/template-repo,Markdown,9,66,14,216
 implement-from-scratch/template-repo,YAML,8,90,12,499
 implement-from-scratch/template-repo,make,1,32,23,133
-implement-from-scratch/shell-c,C,4,167,180,728
-implement-from-scratch/shell-c,C/C++ Header,1,13,41,24
-implement-from-scratch/shell-c,Markdown,18,704,0,1804
-implement-from-scratch/shell-c,YAML,2,12,0,116
-implement-from-scratch/shell-c,make,1,8,7,18
 mohitmishra786/RepoToVideo,Markdown,3,313,0,879
 mohitmishra786/RepoToVideo,Python,18,1105,1413,4045
 mohitmishra786/RepoToVideo,Text,2,2,0,172
@@ -183,13 +191,6 @@ mohitmishra786/compiler-craft,JavaScript,2,3,2,20
 mohitmishra786/compiler-craft,Markdown,11,497,0,1417
 mohitmishra786/compiler-craft,SVG,5,0,0,5
 mohitmishra786/compiler-craft,TypeScript,48,1485,627,7522
-mohitmishra786/mohit-portfolio,CSS,6,2208,187,23367
-mohitmishra786/mohit-portfolio,JSON,9,0,0,77
-mohitmishra786/mohit-portfolio,JSX,16,56,2,886
-mohitmishra786/mohit-portfolio,JavaScript,4,19,5,370
-mohitmishra786/mohit-portfolio,Markdown,1,26,0,67
-mohitmishra786/mohit-portfolio,SVG,4,0,0,4
-mohitmishra786/mohit-portfolio,Text,1,0,0,3
 implement-from-scratch/malloc-c,Markdown,6,39,0,99
 implement-from-scratch/malloc-c,YAML,3,14,0,89
 mohitmishra786/my-portfolio,Markdown,1,0,0,1
