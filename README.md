@@ -139,27 +139,27 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-23777050-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-23791076-blue?style=for-the-badge)
 
-**Last Updated:** 2026-01-24 01:17:09 UTC
+**Last Updated:** 2026-01-25 01:26:26 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-01-24 01:08:39 UTC
+Generated on: 2026-01-25 01:18:17 UTC
 
 ## Summary Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories Processed | 157 |
+| Total Repositories Processed | 159 |
 | Failed Repositories | 0 |
-| Total Files | 24,907 |
-| Total Lines of Code | 23,777,050 |
-| Total Blank Lines | 1,816,933 |
-| Total Comment Lines | 13,547,975 |
+| Total Files | 25,012 |
+| Total Lines of Code | 23,791,076 |
+| Total Blank Lines | 1,819,363 |
+| Total Comment Lines | 13,549,118 |
 
 
 ## Top 15 Languages by LOC
@@ -168,19 +168,19 @@ Generated on: 2026-01-24 01:08:39 UTC
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    866 |   13190713 |      13190713 |           0 |
 | HTML         |   1610 |      84372 |         84372 |      314278 |
-| JavaScript   |   1503 |      48062 |         48062 |       26126 |
-| TypeScript   |    671 |      46999 |         46999 |       13706 |
-| C/C++ Header |    529 |      36497 |         36497 |       18881 |
+| JavaScript   |   1505 |      48065 |         48065 |       26138 |
+| TypeScript   |    685 |      47042 |         47042 |       13831 |
+| C/C++ Header |    533 |      36558 |         36558 |       18912 |
 | Ruby         |   1343 |      33148 |         33148 |       23088 |
 | C++          |    993 |      31789 |         31789 |       27471 |
-| Python       |    951 |      25489 |         25489 |       22049 |
-| C            |    592 |      14351 |         14351 |       19266 |
+| Python       |    980 |      26378 |         26378 |       22963 |
+| C            |    601 |      14404 |         14404 |       19410 |
 | Go           |    390 |       8438 |          8438 |       12370 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     67 |       4133 |          4133 |        1712 |
-| YAML         |    474 |       2388 |          2388 |        2688 |
+| YAML         |    480 |       2401 |          2401 |        2752 |
 | Swift        |     52 |       1938 |          1938 |        2348 |
-| CSS          |    108 |       1773 |          1773 |       13626 |
+| CSS          |    108 |       1781 |          1781 |       13698 |
 
 ## Top 20 Repositories by LOC
 
