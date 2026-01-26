@@ -1,22 +1,75 @@
 Repository,Language,Files,Blank,Comment,Code
-mohitmishra786/vaak,Markdown,13,733,0,1799
-mohitmishra786/vaak,Python,28,773,598,2490
-mohitmishra786/vaak,TOML,1,6,0,38
 mohitmishra786/Competitive_Programming,C++,255,1331,3749,8342
 mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1076
+mohitmishra786/mohitmishra786,CSV,3,0,0,1093
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,63,8,204
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
 mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
-mohitmishra786/RepoToVideo,Markdown,3,313,0,879
-mohitmishra786/RepoToVideo,Python,18,1105,1413,4045
-mohitmishra786/RepoToVideo,Text,1,3,0,148
+mohitmishra786/vaak,Markdown,22,2521,0,6820
+mohitmishra786/vaak,Python,73,3680,3109,10641
+mohitmishra786/vaak,TOML,1,6,0,49
+mohitmishra786/vaak,YAML,1,6,2,34
+mohitmishra786/CodeDocGen,JSON,4,3,0,4746
+mohitmishra786/CodeDocGen,Markdown,10,236,0,738
+mohitmishra786/CodeDocGen,Python,36,1656,2188,5486
+mohitmishra786/CodeDocGen,Text,1,0,0,13
+mohitmishra786/CodeDocGen,TypeScript,4,59,14,264
+mohitmishra786/CodeDocGen,YAML,2,37,22,156
+gutsOfDarkness/crave-delivery,Bourne Shell,3,11,7,44
+gutsOfDarkness/crave-delivery,Dart,21,386,165,3078
+gutsOfDarkness/crave-delivery,Dockerfile,2,21,21,27
+gutsOfDarkness/crave-delivery,Go,15,619,417,3020
+gutsOfDarkness/crave-delivery,HTML,1,9,14,36
+gutsOfDarkness/crave-delivery,JSON,2,0,0,66
+gutsOfDarkness/crave-delivery,Markdown,6,217,0,579
+gutsOfDarkness/crave-delivery,SQL,3,105,136,197
+gutsOfDarkness/crave-delivery,YAML,3,21,30,115
+mohitmishra786/RepoToVideo,Markdown,4,321,0,955
+mohitmishra786/RepoToVideo,Python,18,1337,1765,4905
+mohitmishra786/RepoToVideo,Text,1,3,0,151
 mohitmishra786/RepoToVideo,YAML,1,0,0,14
+mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
+mohitmishra786/TheCoreDump,C,4,94,20,450
+mohitmishra786/TheCoreDump,HTML,3,35,16,240
+mohitmishra786/TheCoreDump,INI,1,4,0,15
+mohitmishra786/TheCoreDump,JSON,5,0,0,102
+mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
+mohitmishra786/TheCoreDump,Markdown,91,9935,14,26311
+mohitmishra786/TheCoreDump,Ruby,1,4,2,8
+mohitmishra786/TheCoreDump,YAML,6,58,126,264
+implement-from-scratch/ls-c,Bourne Again Shell,1,7,5,25
+implement-from-scratch/ls-c,Bourne Shell,5,42,23,167
+implement-from-scratch/ls-c,C,8,110,59,652
+implement-from-scratch/ls-c,C/C++ Header,4,21,43,53
+implement-from-scratch/ls-c,CMake,1,5,5,30
+implement-from-scratch/ls-c,INI,1,5,0,17
+implement-from-scratch/ls-c,Markdown,15,234,14,545
+implement-from-scratch/ls-c,YAML,7,60,13,304
+implement-from-scratch/ls-c,make,1,15,4,49
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
+implement-from-scratch/website,CSS,1,36,14,146
+implement-from-scratch/website,JSON,3,0,0,11441
+implement-from-scratch/website,JavaScript,4,1,9,68
+implement-from-scratch/website,Markdown,1,11,0,55
+implement-from-scratch/website,TypeScript,28,367,192,2950
+mohitmishra786/confscout,CSS,1,48,24,255
+mohitmishra786/confscout,JSON,6,0,0,41526
+mohitmishra786/confscout,JavaScript,3,17,2,72
+mohitmishra786/confscout,Markdown,3,62,8,107
+mohitmishra786/confscout,Python,16,480,363,2052
+mohitmishra786/confscout,SVG,7,0,0,30
+mohitmishra786/confscout,Text,3,3,0,16
+mohitmishra786/confscout,TypeScript,33,372,240,2707
+mohitmishra786/confscout,YAML,1,11,6,51
 implement-from-scratch/tcp-server-c,Bourne Again Shell,1,7,5,25
 implement-from-scratch/tcp-server-c,Bourne Shell,5,40,25,166
 implement-from-scratch/tcp-server-c,C,9,144,53,771
@@ -40,39 +93,12 @@ mohitmishra786/neuro-code,TOML,1,13,0,121
 mohitmishra786/neuro-code,Text,1,8,0,28
 mohitmishra786/neuro-code,TypeScript,27,415,268,2393
 mohitmishra786/neuro-code,YAML,1,5,0,76
-mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
-mohitmishra786/TheCoreDump,C,4,94,20,450
-mohitmishra786/TheCoreDump,HTML,3,35,16,240
-mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,102
-mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
-mohitmishra786/TheCoreDump,Markdown,91,9935,14,26311
-mohitmishra786/TheCoreDump,Ruby,1,4,2,8
-mohitmishra786/TheCoreDump,YAML,6,58,126,264
 mohitmishra786/single-page-portfolio,CSS,1,0,0,36
 mohitmishra786/single-page-portfolio,HTML,1,1,0,28
 mohitmishra786/single-page-portfolio,JSON,4,0,0,2847
 mohitmishra786/single-page-portfolio,JavaScript,1,0,1,12
 mohitmishra786/single-page-portfolio,Markdown,1,33,0,82
 mohitmishra786/single-page-portfolio,TypeScript,5,29,0,498
-mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,6,0,0,44885
-mohitmishra786/confscout,JavaScript,3,17,2,72
-mohitmishra786/confscout,Markdown,3,62,8,107
-mohitmishra786/confscout,Python,16,480,363,2052
-mohitmishra786/confscout,SVG,7,0,0,30
-mohitmishra786/confscout,Text,3,3,0,16
-mohitmishra786/confscout,TypeScript,33,372,240,2707
-mohitmishra786/confscout,YAML,1,11,6,51
-implement-from-scratch/ls-c,Bourne Again Shell,1,7,5,25
-implement-from-scratch/ls-c,Bourne Shell,5,42,23,167
-implement-from-scratch/ls-c,C,8,110,59,652
-implement-from-scratch/ls-c,C/C++ Header,4,21,43,53
-implement-from-scratch/ls-c,CMake,1,5,5,30
-implement-from-scratch/ls-c,INI,1,5,0,17
-implement-from-scratch/ls-c,Markdown,15,234,14,545
-implement-from-scratch/ls-c,YAML,7,60,13,304
-implement-from-scratch/ls-c,make,1,15,4,49
 mohitmishra786/build-distributed-systems,CSS,1,15,5,86
 mohitmishra786/build-distributed-systems,JSON,3,0,0,9040
 mohitmishra786/build-distributed-systems,JavaScript,2,3,2,20
@@ -85,11 +111,6 @@ mohitmishra786/portfolio,JavaScript,2,3,2,20
 mohitmishra786/portfolio,Markdown,2,17,0,41
 mohitmishra786/portfolio,SVG,5,0,0,5
 mohitmishra786/portfolio,TypeScript,46,246,25,2682
-implement-from-scratch/website,CSS,1,31,6,173
-implement-from-scratch/website,JSON,3,0,0,9682
-implement-from-scratch/website,JavaScript,4,1,9,65
-implement-from-scratch/website,Markdown,1,11,0,55
-implement-from-scratch/website,TypeScript,28,365,201,2978
 mohitmishra786/INT-248,Jupyter Notebook,1,0,1591,1531
 mohitmishra786/INT-248,Markdown,2,14,0,18
 mohitmishra786/INT-248,Text,1,0,0,390
@@ -228,16 +249,6 @@ mohitmishra786/prompt-craft,TypeScript,10,294,221,1879
 mohitmishra786/My-Code-Snippets,C++,10,67,137,350
 mohitmishra786/My-Code-Snippets,Markdown,1,1,0,2
 mohitmishra786/My-Code-Snippets,Python,1,61,21,222
-mohitmishra786/CodeDocGen,Bourne Shell,2,147,132,650
-mohitmishra786/CodeDocGen,CMake,1,14,13,54
-mohitmishra786/CodeDocGen,JSON,5,3,0,4771
-mohitmishra786/CodeDocGen,Java,1,0,43,10
-mohitmishra786/CodeDocGen,JavaScript,1,0,33,6
-mohitmishra786/CodeDocGen,Markdown,12,575,0,2270
-mohitmishra786/CodeDocGen,Python,25,1715,2544,5105
-mohitmishra786/CodeDocGen,Text,1,0,0,10
-mohitmishra786/CodeDocGen,TypeScript,5,59,30,267
-mohitmishra786/CodeDocGen,YAML,2,26,18,149
 mohitmishra786/linux-distro-setup-in-mac,Bourne Shell,8,108,84,550
 mohitmishra786/linux-distro-setup-in-mac,C,25,135,69,480
 mohitmishra786/linux-distro-setup-in-mac,C/C++ Header,2,8,4,16
@@ -246,11 +257,6 @@ mohitmishra786/linux-distro-setup-in-mac,Markdown,5,306,0,826
 mohitmishra786/linux-distro-setup-in-mac,TypeScript,9,110,64,602
 mohitmishra786/linux-distro-setup-in-mac,YAML,2,19,0,198
 mohitmishra786/linux-distro-setup-in-mac,make,1,23,9,87
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/WhyNotNow,CSS,3,62,17,385
 mohitmishra786/WhyNotNow,HTML,7,59,4,509
 mohitmishra786/WhyNotNow,JSON,3,0,0,1716
@@ -288,15 +294,6 @@ mohitmishra786/crave-delivery,JSON,2,0,0,66
 mohitmishra786/crave-delivery,Markdown,5,198,0,512
 mohitmishra786/crave-delivery,SQL,3,105,136,197
 mohitmishra786/crave-delivery,YAML,3,21,30,115
-gutsOfDarkness/crave-delivery,Bourne Shell,3,11,7,44
-gutsOfDarkness/crave-delivery,Dart,21,390,167,3113
-gutsOfDarkness/crave-delivery,Dockerfile,2,21,21,27
-gutsOfDarkness/crave-delivery,Go,15,609,408,2985
-gutsOfDarkness/crave-delivery,HTML,1,9,14,36
-gutsOfDarkness/crave-delivery,JSON,2,0,0,66
-gutsOfDarkness/crave-delivery,Markdown,5,198,0,512
-gutsOfDarkness/crave-delivery,SQL,3,105,136,197
-gutsOfDarkness/crave-delivery,YAML,3,21,30,115
 mohitmishra786/exploring-os,C,5,23,7,98
 mohitmishra786/exploring-os,CSS,1,28,8,150
 mohitmishra786/exploring-os,HTML,7,13,3,132
