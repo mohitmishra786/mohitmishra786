@@ -4,35 +4,12 @@ mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1093
+mohitmishra786/mohitmishra786,CSV,3,0,0,1090
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,63,8,204
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
 mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
-mohitmishra786/vaak,Markdown,22,2521,0,6820
-mohitmishra786/vaak,Python,73,3680,3109,10641
-mohitmishra786/vaak,TOML,1,6,0,49
-mohitmishra786/vaak,YAML,1,6,2,34
-mohitmishra786/CodeDocGen,JSON,4,3,0,4746
-mohitmishra786/CodeDocGen,Markdown,10,236,0,738
-mohitmishra786/CodeDocGen,Python,36,1656,2188,5486
-mohitmishra786/CodeDocGen,Text,1,0,0,13
-mohitmishra786/CodeDocGen,TypeScript,4,59,14,264
-mohitmishra786/CodeDocGen,YAML,2,37,22,156
-gutsOfDarkness/crave-delivery,Bourne Shell,3,11,7,44
-gutsOfDarkness/crave-delivery,Dart,21,386,165,3078
-gutsOfDarkness/crave-delivery,Dockerfile,2,21,21,27
-gutsOfDarkness/crave-delivery,Go,15,619,417,3020
-gutsOfDarkness/crave-delivery,HTML,1,9,14,36
-gutsOfDarkness/crave-delivery,JSON,2,0,0,66
-gutsOfDarkness/crave-delivery,Markdown,6,217,0,579
-gutsOfDarkness/crave-delivery,SQL,3,105,136,197
-gutsOfDarkness/crave-delivery,YAML,3,21,30,115
-mohitmishra786/RepoToVideo,Markdown,4,321,0,955
-mohitmishra786/RepoToVideo,Python,18,1337,1765,4905
-mohitmishra786/RepoToVideo,Text,1,3,0,151
-mohitmishra786/RepoToVideo,YAML,1,0,0,14
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,3,35,16,240
@@ -42,6 +19,49 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,91,9935,14,26311
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/confscout,CSS,1,48,24,255
+mohitmishra786/confscout,JSON,6,0,0,42574
+mohitmishra786/confscout,JavaScript,3,17,2,72
+mohitmishra786/confscout,Markdown,3,62,8,107
+mohitmishra786/confscout,Python,16,480,363,2052
+mohitmishra786/confscout,SVG,7,0,0,30
+mohitmishra786/confscout,Text,3,3,0,16
+mohitmishra786/confscout,TypeScript,32,371,238,2681
+mohitmishra786/confscout,YAML,1,11,6,51
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
+mohitmishra786/vaak,Bourne Shell,2,12,10,33
+mohitmishra786/vaak,CSS,1,16,15,65
+mohitmishra786/vaak,JSON,1,0,0,31
+mohitmishra786/vaak,JavaScript,1,16,16,130
+mohitmishra786/vaak,Markdown,29,2695,0,7252
+mohitmishra786/vaak,Python,74,3645,3108,10556
+mohitmishra786/vaak,SVG,2,5,7,15
+mohitmishra786/vaak,TOML,1,7,0,50
+mohitmishra786/vaak,Text,1,0,0,8
+mohitmishra786/vaak,YAML,3,22,19,174
+gutsOfDarkness/crave-delivery,Bourne Shell,3,11,7,44
+gutsOfDarkness/crave-delivery,Dart,21,386,165,3086
+gutsOfDarkness/crave-delivery,Dockerfile,2,21,21,27
+gutsOfDarkness/crave-delivery,Go,15,609,408,3005
+gutsOfDarkness/crave-delivery,HTML,1,9,14,36
+gutsOfDarkness/crave-delivery,JSON,2,0,0,66
+gutsOfDarkness/crave-delivery,Markdown,6,217,0,579
+gutsOfDarkness/crave-delivery,SQL,3,105,136,197
+gutsOfDarkness/crave-delivery,YAML,3,21,30,115
+mohitmishra786/CodeDocGen,JSON,4,3,0,4746
+mohitmishra786/CodeDocGen,Markdown,10,236,0,738
+mohitmishra786/CodeDocGen,Python,36,1656,2188,5486
+mohitmishra786/CodeDocGen,Text,1,0,0,13
+mohitmishra786/CodeDocGen,TypeScript,4,59,14,264
+mohitmishra786/CodeDocGen,YAML,2,37,22,156
+mohitmishra786/RepoToVideo,Markdown,4,321,0,955
+mohitmishra786/RepoToVideo,Python,18,1337,1765,4905
+mohitmishra786/RepoToVideo,Text,1,3,0,151
+mohitmishra786/RepoToVideo,YAML,1,0,0,14
 implement-from-scratch/ls-c,Bourne Again Shell,1,7,5,25
 implement-from-scratch/ls-c,Bourne Shell,5,42,23,167
 implement-from-scratch/ls-c,C,8,110,59,652
@@ -51,25 +71,11 @@ implement-from-scratch/ls-c,INI,1,5,0,17
 implement-from-scratch/ls-c,Markdown,15,234,14,545
 implement-from-scratch/ls-c,YAML,7,60,13,304
 implement-from-scratch/ls-c,make,1,15,4,49
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
 implement-from-scratch/website,CSS,1,36,14,146
 implement-from-scratch/website,JSON,3,0,0,11441
 implement-from-scratch/website,JavaScript,4,1,9,68
 implement-from-scratch/website,Markdown,1,11,0,55
 implement-from-scratch/website,TypeScript,28,367,192,2950
-mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,6,0,0,41526
-mohitmishra786/confscout,JavaScript,3,17,2,72
-mohitmishra786/confscout,Markdown,3,62,8,107
-mohitmishra786/confscout,Python,16,480,363,2052
-mohitmishra786/confscout,SVG,7,0,0,30
-mohitmishra786/confscout,Text,3,3,0,16
-mohitmishra786/confscout,TypeScript,33,372,240,2707
-mohitmishra786/confscout,YAML,1,11,6,51
 implement-from-scratch/tcp-server-c,Bourne Again Shell,1,7,5,25
 implement-from-scratch/tcp-server-c,Bourne Shell,5,40,25,166
 implement-from-scratch/tcp-server-c,C,9,144,53,771
@@ -512,16 +518,6 @@ mohitmishra786/Smart-Health,HTML,2,2095,2,186797
 mohitmishra786/Smart-Health,Jupyter Notebook,28,0,34885,40049
 mohitmishra786/Smart-Health,Markdown,5,8,0,42
 mohitmishra786/Smart-Health,Text,2,8,0,158
-mohitmishra786/py,CSS,4,29,1,181
-mohitmishra786/py,CSV,56,3,0,162584
-mohitmishra786/py,HTML,3,18,3,237
-mohitmishra786/py,JSON,2,0,0,2
-mohitmishra786/py,JavaScript,3,15,31,118
-mohitmishra786/py,Jupyter Notebook,111,0,102053,4492
-mohitmishra786/py,Markdown,38,421,0,1118
-mohitmishra786/py,Python,93,501,379,1799
-mohitmishra786/py,Text,12,17,0,1136
-mohitmishra786/py,XML,23,186,1079,351020
 mohitmishra786/project-based-learning,Markdown,6,122,24,622
 mohitmishra786/project-based-learning,YAML,2,0,6,19
 mohitmishra786/MLOps-For-AI-Engineers,DOS Batch,2,15,1,38
