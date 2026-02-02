@@ -139,16 +139,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-23360580-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-23370118-blue?style=for-the-badge)
 
-**Last Updated:** 2026-02-01 01:53:16 UTC
+**Last Updated:** 2026-02-02 01:35:38 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-02-01 01:45:30 UTC
+Generated on: 2026-02-02 01:26:02 UTC
 
 ## Summary Statistics
 
@@ -156,10 +156,10 @@ Generated on: 2026-02-01 01:45:30 UTC
 |--------|-------|
 | Total Repositories Processed | 158 |
 | Failed Repositories | 0 |
-| Total Files | 25,121 |
-| Total Lines of Code | 23,360,580 |
-| Total Blank Lines | 1,835,083 |
-| Total Comment Lines | 13,454,554 |
+| Total Files | 25,159 |
+| Total Lines of Code | 23,370,118 |
+| Total Blank Lines | 1,837,000 |
+| Total Comment Lines | 13,456,798 |
 
 
 ## Top 15 Languages by LOC
@@ -168,17 +168,17 @@ Generated on: 2026-02-01 01:45:30 UTC
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    755 |   13088660 |      13088660 |           0 |
 | HTML         |   1611 |      84369 |         84369 |      314380 |
-| TypeScript   |    902 |      48999 |         48999 |       19228 |
-| JavaScript   |   1512 |      48170 |         48170 |       26280 |
+| TypeScript   |    937 |      51110 |         51110 |       20937 |
+| JavaScript   |   1512 |      48183 |         48183 |       26279 |
 | C/C++ Header |    533 |      36558 |         36558 |       18912 |
 | Ruby         |   1343 |      33148 |         33148 |       23088 |
-| Python       |   1056 |      32846 |         32846 |       31590 |
+| Python       |   1056 |      32967 |         32967 |       31678 |
 | C++          |    993 |      31789 |         31789 |       27471 |
 | C            |    601 |      14404 |         14404 |       19410 |
 | Go           |    391 |       8439 |          8439 |       12388 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     66 |       4090 |          4090 |        1712 |
-| YAML         |    489 |       2462 |          2462 |        2845 |
+| YAML         |    489 |       2461 |          2461 |        2845 |
 | Swift        |     52 |       1938 |          1938 |        2348 |
 | CSS          |    106 |       1827 |          1827 |       13748 |
 
