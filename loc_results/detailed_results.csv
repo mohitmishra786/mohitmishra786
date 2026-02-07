@@ -1,18 +1,10 @@
 Repository,Language,Files,Blank,Comment,Code
-mohitmishra786/build-distributed-systems,Bourne Shell,5,49,13,471
-mohitmishra786/build-distributed-systems,CSS,1,22,5,128
-mohitmishra786/build-distributed-systems,JSON,3,0,0,12225
-mohitmishra786/build-distributed-systems,JavaScript,2,3,15,55
-mohitmishra786/build-distributed-systems,Markdown,17,496,0,1347
-mohitmishra786/build-distributed-systems,SVG,5,0,0,5
-mohitmishra786/build-distributed-systems,Text,1,0,0,1
-mohitmishra786/build-distributed-systems,TypeScript,197,6962,3445,43160
 mohitmishra786/Competitive_Programming,C++,255,1331,3749,8342
 mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1098
+mohitmishra786/mohitmishra786,CSV,3,0,0,1099
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,63,8,204
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
@@ -20,15 +12,34 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,52130
-mohitmishra786/confscout,JavaScript,7,33,2,185
+mohitmishra786/confscout,JSON,8,0,0,55690
+mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,5,97,8,256
 mohitmishra786/confscout,Python,18,543,397,2279
 mohitmishra786/confscout,SQL,1,11,12,37
 mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,5,0,18
-mohitmishra786/confscout,TypeScript,78,790,381,5910
+mohitmishra786/confscout,TypeScript,111,1535,1034,9869
 mohitmishra786/confscout,YAML,2,20,6,94
+mohitmishra786/cv-wiz,CSS,3,131,68,724
+mohitmishra786/cv-wiz,Dockerfile,1,14,13,36
+mohitmishra786/cv-wiz,HTML,2,22,11,185
+mohitmishra786/cv-wiz,JSON,10,0,0,13750
+mohitmishra786/cv-wiz,JavaScript,10,248,288,1305
+mohitmishra786/cv-wiz,Markdown,6,332,0,1154
+mohitmishra786/cv-wiz,Python,39,1016,1043,3999
+mohitmishra786/cv-wiz,SVG,5,0,0,5
+mohitmishra786/cv-wiz,Text,2,2,0,45
+mohitmishra786/cv-wiz,TypeScript,114,2705,1645,17383
+mohitmishra786/cv-wiz,YAML,1,20,1,87
+mohitmishra786/build-distributed-systems,Bourne Shell,5,49,13,471
+mohitmishra786/build-distributed-systems,CSS,1,22,5,128
+mohitmishra786/build-distributed-systems,JSON,3,0,0,12225
+mohitmishra786/build-distributed-systems,JavaScript,2,3,15,55
+mohitmishra786/build-distributed-systems,Markdown,19,566,4,1714
+mohitmishra786/build-distributed-systems,SVG,5,0,0,5
+mohitmishra786/build-distributed-systems,Text,1,0,0,1
+mohitmishra786/build-distributed-systems,TypeScript,223,8040,4805,48034
 mohitmishra786/vaak,Bourne Shell,2,12,10,33
 mohitmishra786/vaak,CSS,1,16,15,65
 mohitmishra786/vaak,Dockerfile,1,19,23,42
@@ -36,18 +47,12 @@ mohitmishra786/vaak,HTML,2,79,0,498
 mohitmishra786/vaak,JSON,1,0,0,31
 mohitmishra786/vaak,JavaScript,2,21,24,138
 mohitmishra786/vaak,Markdown,31,2867,0,7681
-mohitmishra786/vaak,Python,129,9295,7486,27011
+mohitmishra786/vaak,Python,146,10399,8301,29733
 mohitmishra786/vaak,SVG,2,5,7,15
-mohitmishra786/vaak,TOML,1,9,0,68
+mohitmishra786/vaak,TOML,1,9,0,69
 mohitmishra786/vaak,Text,1,0,0,8
 mohitmishra786/vaak,YAML,7,53,55,428
-mohitmishra786/vaak,make,1,20,20,79
-implement-from-scratch/website,CSS,1,36,14,146
-implement-from-scratch/website,JSON,3,0,0,10712
-implement-from-scratch/website,JavaScript,4,1,9,68
-implement-from-scratch/website,Markdown,2,40,0,174
-implement-from-scratch/website,SVG,1,5,5,28
-implement-from-scratch/website,TypeScript,28,389,193,3140
+mohitmishra786/vaak,make,1,24,24,88
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,3,35,16,240
@@ -57,6 +62,12 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,91,9935,14,26311
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+implement-from-scratch/website,CSS,1,36,14,146
+implement-from-scratch/website,JSON,3,0,0,10712
+implement-from-scratch/website,JavaScript,4,1,9,68
+implement-from-scratch/website,Markdown,2,40,0,174
+implement-from-scratch/website,SVG,1,5,5,28
+implement-from-scratch/website,TypeScript,28,389,193,3140
 mohitmishra786/amILearningEnough,CSS,1,15,6,58
 mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
@@ -82,18 +93,6 @@ mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
 mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
 mohitmishra786/reversingBits,HTML,1,120,1,760
 mohitmishra786/reversingBits,Markdown,46,1725,0,7030
-mohitmishra786/cv-wiz,Bourne Shell,4,40,36,198
-mohitmishra786/cv-wiz,CSS,3,131,68,724
-mohitmishra786/cv-wiz,Dockerfile,1,14,13,36
-mohitmishra786/cv-wiz,HTML,2,22,11,185
-mohitmishra786/cv-wiz,JSON,9,0,0,13260
-mohitmishra786/cv-wiz,JavaScript,10,246,290,1292
-mohitmishra786/cv-wiz,Markdown,7,371,0,1268
-mohitmishra786/cv-wiz,Python,39,1016,1043,3999
-mohitmishra786/cv-wiz,SVG,5,0,0,5
-mohitmishra786/cv-wiz,Text,2,2,0,44
-mohitmishra786/cv-wiz,TypeScript,113,2673,1604,17174
-mohitmishra786/cv-wiz,YAML,1,20,1,87
 implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
 implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
 implement-from-scratch/memory-allocator-c,C,2,279,192,943
