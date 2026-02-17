@@ -133,11 +133,11 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Root Cause Analysis: GitHub&#39;s February 2026 Service Disruptions](https://mohitmishra786.github.io/TheCoreDump/posts/Root-Cause-Analysis-GitHub's-February-2026-Service-Disruptions/)
 - [Context Switching: What Really Happens When Your CPU Switches Tasks](https://faun.pub/context-switching-what-really-happens-when-your-cpu-switches-tasks-24a718d0f66b?source=rss-678bb511886d------2)
 - [2025 Database Upgrades Recap: Real Code Walkthroughs, Query Hacks, and Setup Tips from This Year&#39;s Big Releases](https://mohitmishra786.github.io/TheCoreDump/posts/2025-Database-Upgrades-A-Comprehensive-Breakdown-of-Core-Features-Query-Optimizations-and-Deployment-Strategies/)
 - [HTTP Message Size Handling: Content-Length and Chunked Transfer Encoding](https://mohitmishra786.github.io/TheCoreDump/posts/Handling-HTTP-Message-Sizes-Content-Length-vs-Chunked-Encoding-in-Modern-Web-Architectures/)
-- [Turbocharging Your Code: A No-BS Guide to Software Prefetching in C](https://mohitmishra786687.medium.com/turbocharging-your-code-a-no-bs-guide-to-software-prefetching-in-c-7db1abacd92f?source=rss-678bb511886d------2)
-- [Microsoft Azure Front Door Part 5: Integration, Monitoring, and Best Practices](https://mohitmishra786.github.io/TheCoreDump/posts/Microsoft-Azure-Front-Door-Part-5-Integration-Monitoring-and-Best-Practices/)<!-- BLOG-POST-LIST:END -->
+- [Turbocharging Your Code: A No-BS Guide to Software Prefetching in C](https://mohitmishra786687.medium.com/turbocharging-your-code-a-no-bs-guide-to-software-prefetching-in-c-7db1abacd92f?source=rss-678bb511886d------2)<!-- BLOG-POST-LIST:END -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
