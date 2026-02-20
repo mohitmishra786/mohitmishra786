@@ -4,26 +4,32 @@ mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1116
+mohitmishra786/mohitmishra786,CSV,3,0,0,1131
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,58,13,208
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
 mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
-mohitmishra786/stripe-terminal-android,Bourne Shell,1,28,118,105
-mohitmishra786/stripe-terminal-android,CSS,11,571,155,3164
-mohitmishra786/stripe-terminal-android,DOS Batch,1,21,2,71
-mohitmishra786/stripe-terminal-android,Gradle,4,38,13,147
-mohitmishra786/stripe-terminal-android,HTML,6614,11153,3360,652060
-mohitmishra786/stripe-terminal-android,JSON,4,0,0,4
-mohitmishra786/stripe-terminal-android,Java,46,612,273,3135
-mohitmishra786/stripe-terminal-android,JavaScript,16,126,141,979
-mohitmishra786/stripe-terminal-android,Kotlin,52,481,363,3143
-mohitmishra786/stripe-terminal-android,Markdown,4,395,14,1057
-mohitmishra786/stripe-terminal-android,Properties,2,3,27,11
-mohitmishra786/stripe-terminal-android,SVG,34,18,61,218
-mohitmishra786/stripe-terminal-android,XML,42,382,25,3115
-mohitmishra786/stripe-terminal-android,YAML,1,1,0,10
+mohitmishra786/confscout,Bourne Shell,1,4,2,8
+mohitmishra786/confscout,CSS,1,48,24,255
+mohitmishra786/confscout,JSON,8,0,0,58016
+mohitmishra786/confscout,JavaScript,8,33,5,211
+mohitmishra786/confscout,Markdown,6,205,8,657
+mohitmishra786/confscout,Python,20,659,483,2595
+mohitmishra786/confscout,SQL,2,14,17,40
+mohitmishra786/confscout,SVG,7,0,0,30
+mohitmishra786/confscout,Text,2,6,0,21
+mohitmishra786/confscout,TypeScript,143,2216,1487,13224
+mohitmishra786/confscout,YAML,3,27,6,118
+mohitmishra786/cpp-proposals-tracker,CSS,1,61,0,261
+mohitmishra786/cpp-proposals-tracker,JSON,4,0,0,9246
+mohitmishra786/cpp-proposals-tracker,JavaScript,3,6,2,25
+mohitmishra786/cpp-proposals-tracker,Markdown,5,156,0,350
+mohitmishra786/cpp-proposals-tracker,Python,8,278,241,1055
+mohitmishra786/cpp-proposals-tracker,SQL,1,25,37,213
+mohitmishra786/cpp-proposals-tracker,Text,1,0,0,24
+mohitmishra786/cpp-proposals-tracker,TypeScript,37,483,194,4061
+mohitmishra786/cpp-proposals-tracker,YAML,1,9,0,73
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,3,35,16,240
@@ -33,13 +39,25 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,92,9958,14,26378
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
+mohitmishra786/vantage,Bourne Shell,2,187,163,556
+mohitmishra786/vantage,CSS,1,41,13,303
+mohitmishra786/vantage,Dockerfile,1,12,15,21
+mohitmishra786/vantage,HTML,13,486,129,3437
+mohitmishra786/vantage,JSON,4,0,0,5483
+mohitmishra786/vantage,JavaScript,4,101,112,406
+mohitmishra786/vantage,Markdown,5,202,0,593
+mohitmishra786/vantage,Python,24,1184,1508,4412
+mohitmishra786/vantage,SVG,1,0,0,1
+mohitmishra786/vantage,TOML,1,7,0,66
+mohitmishra786/vantage,Text,3,1,0,80
+mohitmishra786/vantage,YAML,2,2,5,39
 mohitmishra786/amILearningEnough,CSS,1,15,6,58
 mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
 mohitmishra786/amILearningEnough,Text,1,0,0,29
 mohitmishra786/amILearningEnough,YAML,3,6,0,128
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/exploring-os,C,5,23,7,98
 mohitmishra786/exploring-os,CSS,1,28,8,150
 mohitmishra786/exploring-os,HTML,7,13,3,132
@@ -59,17 +77,6 @@ mohitmishra786/build-distributed-systems,SVG,5,0,0,5
 mohitmishra786/build-distributed-systems,Text,1,0,0,1
 mohitmishra786/build-distributed-systems,TypeScript,365,15285,11744,79704
 mohitmishra786/build-distributed-systems,YAML,1,13,7,65
-mohitmishra786/confscout,Bourne Shell,1,4,2,8
-mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,55640
-mohitmishra786/confscout,JavaScript,8,33,5,211
-mohitmishra786/confscout,Markdown,6,197,8,620
-mohitmishra786/confscout,Python,20,659,483,2595
-mohitmishra786/confscout,SQL,2,14,17,40
-mohitmishra786/confscout,SVG,7,0,0,30
-mohitmishra786/confscout,Text,2,5,0,18
-mohitmishra786/confscout,TypeScript,143,2216,1487,13224
-mohitmishra786/confscout,YAML,3,27,6,118
 mohitmishra786/strict,Go,1,18,1,87
 mohitmishra786/strict,HTML,1,31,0,231
 mohitmishra786/strict,JSON,2,0,0,385
@@ -156,18 +163,6 @@ implement-from-scratch/memory-allocator-c,INI,1,5,0,17
 implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
 implement-from-scratch/memory-allocator-c,YAML,5,64,21,328
 implement-from-scratch/memory-allocator-c,make,1,30,25,209
-mohitmishra786/vantage,Bourne Shell,2,187,163,556
-mohitmishra786/vantage,CSS,1,41,13,303
-mohitmishra786/vantage,Dockerfile,1,12,15,21
-mohitmishra786/vantage,HTML,13,486,129,3437
-mohitmishra786/vantage,JSON,4,0,0,5483
-mohitmishra786/vantage,JavaScript,4,101,112,406
-mohitmishra786/vantage,Markdown,5,202,0,593
-mohitmishra786/vantage,Python,24,1116,1485,4250
-mohitmishra786/vantage,SVG,1,0,0,1
-mohitmishra786/vantage,TOML,1,7,0,66
-mohitmishra786/vantage,Text,3,1,0,80
-mohitmishra786/vantage,YAML,2,2,5,39
 mohitmishra786/prompt-craft,JSON,5,3,0,2839
 mohitmishra786/prompt-craft,JavaScript,4,12,5,27
 mohitmishra786/prompt-craft,Markdown,6,63,0,108
