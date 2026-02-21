@@ -1,17 +1,17 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-02-20 01:23:14 UTC
+Generated on: 2026-02-21 01:21:18 UTC
 
 ## Summary Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories Processed | 161 |
+| Total Repositories Processed | 163 |
 | Failed Repositories | 0 |
-| Total Files | 26,089 |
-| Total Lines of Code | 23,525,790 |
-| Total Blank Lines | 1,873,106 |
-| Total Comment Lines | 13,483,039 |
+| Total Files | 26,254 |
+| Total Lines of Code | 23,547,319 |
+| Total Blank Lines | 1,878,650 |
+| Total Comment Lines | 13,483,111 |
 
 
 ## Top 15 Languages by LOC
@@ -19,20 +19,20 @@ Generated on: 2026-02-20 01:23:14 UTC
 | Language | Files | Code Lines | Comment Lines | Blank Lines |
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    755 |   13088660 |      13088660 |           0 |
-| HTML         |   1611 |      84369 |         84369 |      314380 |
+| HTML         |   1612 |      84369 |         84369 |      314395 |
 | TypeScript   |   1263 |      61948 |         61948 |       33030 |
-| JavaScript   |   1517 |      48188 |         48188 |       26289 |
+| JavaScript   |   1518 |      48198 |         48198 |       26311 |
 | Python       |   1286 |      47807 |         47807 |       46291 |
 | C/C++ Header |    533 |      36558 |         36558 |       18912 |
 | Ruby         |   1343 |      33148 |         33148 |       23088 |
 | C++          |    993 |      31789 |         31789 |       27471 |
 | C            |    601 |      14404 |         14404 |       19410 |
-| Go           |    393 |       8478 |          8478 |       12457 |
+| Go           |    427 |       8532 |          8532 |       13521 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     66 |       4090 |          4090 |        1712 |
-| YAML         |    505 |       2579 |          2579 |        2938 |
+| YAML         |    509 |       2585 |          2585 |        2980 |
 | Swift        |     52 |       1938 |          1938 |        2348 |
-| CSS          |    109 |       1891 |          1891 |       13945 |
+| CSS          |    110 |       1893 |          1893 |       14056 |
 
 ## Top 20 Repositories by LOC
 

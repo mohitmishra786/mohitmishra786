@@ -4,7 +4,7 @@ mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1131
+mohitmishra786/mohitmishra786,CSV,3,0,0,1126
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,58,13,208
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,58016
+mohitmishra786/confscout,JSON,8,0,0,57950
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -21,6 +21,27 @@ mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,143,2216,1487,13224
 mohitmishra786/confscout,YAML,3,27,6,118
+mohitmishra786/mdmend,Go,34,1064,54,6266
+mohitmishra786/mdmend,Markdown,24,133,0,465
+mohitmishra786/mdmend,YAML,4,42,6,242
+mohitmishra786/mdmend,make,1,16,0,58
+mohitmishra786/low-level-dev-skills,CSS,1,111,2,588
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,173
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,22,10,245
+mohitmishra786/low-level-dev-skills,Markdown,96,4141,0,13523
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
+mohitmishra786/TheCoreDump,C,4,94,20,450
+mohitmishra786/TheCoreDump,HTML,3,35,16,240
+mohitmishra786/TheCoreDump,INI,1,4,0,15
+mohitmishra786/TheCoreDump,JSON,5,0,0,101
+mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
+mohitmishra786/TheCoreDump,Markdown,92,9958,14,26378
+mohitmishra786/TheCoreDump,Ruby,1,4,2,8
+mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/cpp-proposals-tracker,CSS,1,61,0,261
 mohitmishra786/cpp-proposals-tracker,JSON,4,0,0,9246
 mohitmishra786/cpp-proposals-tracker,JavaScript,3,6,2,25
@@ -30,17 +51,6 @@ mohitmishra786/cpp-proposals-tracker,SQL,1,25,37,213
 mohitmishra786/cpp-proposals-tracker,Text,1,0,0,24
 mohitmishra786/cpp-proposals-tracker,TypeScript,37,483,194,4061
 mohitmishra786/cpp-proposals-tracker,YAML,1,9,0,73
-mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
-mohitmishra786/TheCoreDump,C,4,94,20,450
-mohitmishra786/TheCoreDump,HTML,3,35,16,240
-mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,102
-mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
-mohitmishra786/TheCoreDump,Markdown,92,9958,14,26378
-mohitmishra786/TheCoreDump,Ruby,1,4,2,8
-mohitmishra786/TheCoreDump,YAML,6,58,126,264
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/vantage,Bourne Shell,2,187,163,556
 mohitmishra786/vantage,CSS,1,41,13,303
 mohitmishra786/vantage,Dockerfile,1,12,15,21
