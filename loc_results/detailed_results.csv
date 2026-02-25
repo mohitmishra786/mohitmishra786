@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,58057
+mohitmishra786/confscout,JSON,8,0,0,57802
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -30,6 +30,12 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,92,9958,14,26378
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+OmdenaAI/omdena-colombia-career-recommender-system,CSV,1,0,0,144
+OmdenaAI/omdena-colombia-career-recommender-system,JSON,1,0,0,1
+OmdenaAI/omdena-colombia-career-recommender-system,Jupyter Notebook,32,0,524362,21009
+OmdenaAI/omdena-colombia-career-recommender-system,Markdown,15,73,0,302
+OmdenaAI/omdena-colombia-career-recommender-system,Python,5,96,132,270
+OmdenaAI/omdena-colombia-career-recommender-system,Text,4,88,0,1208
 mohitmishra786/exploring-os,C,5,23,7,98
 mohitmishra786/exploring-os,CSS,1,28,8,150
 mohitmishra786/exploring-os,HTML,7,13,3,132
@@ -645,12 +651,6 @@ mohitmishra786/ML-and-DL,SVG,4,0,88,514
 mohitmishra786/ML-and-DL,Text,1,0,0,24
 mohitmishra786/Awesome-Decision-Science,Markdown,3,41,0,489
 mohitmishra786/Research-Paper-Reading,Markdown,5,51,0,103
-OmdenaAI/omdena-colombia-career-recommender-system,CSV,1,0,0,144
-OmdenaAI/omdena-colombia-career-recommender-system,JSON,1,0,0,1
-OmdenaAI/omdena-colombia-career-recommender-system,Jupyter Notebook,32,0,524362,21009
-OmdenaAI/omdena-colombia-career-recommender-system,Markdown,15,73,0,302
-OmdenaAI/omdena-colombia-career-recommender-system,Python,5,96,132,270
-OmdenaAI/omdena-colombia-career-recommender-system,Text,4,88,0,1208
 mohitmishra786/REST-API,Bourne Shell,6,12,0,60
 mohitmishra786/REST-API,DOS Batch,6,12,0,90
 mohitmishra786/REST-API,INI,3,14,0,56
