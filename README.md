@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-23566309-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-23569884-blue?style=for-the-badge)
 
-**Last Updated:** 2026-02-28 01:25:54 UTC
+**Last Updated:** 2026-03-01 01:53:16 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-02-28 01:16:13 UTC
+Generated on: 2026-03-01 01:44:01 UTC
 
 ## Summary Statistics
 
@@ -160,29 +160,29 @@ Generated on: 2026-02-28 01:16:13 UTC
 |--------|-------|
 | Total Repositories Processed | 165 |
 | Failed Repositories | 0 |
-| Total Files | 26,446 |
-| Total Lines of Code | 23,566,309 |
-| Total Blank Lines | 1,882,352 |
-| Total Comment Lines | 13,483,608 |
+| Total Files | 26,481 |
+| Total Lines of Code | 23,569,884 |
+| Total Blank Lines | 1,882,998 |
+| Total Comment Lines | 13,484,638 |
 
 
 ## Top 15 Languages by LOC
 
 | Language | Files | Code Lines | Comment Lines | Blank Lines |
 |----------|-------|------------|---------------|-------------|
-| Jupyter Notebook |    755 |   13088660 |      13088660 |           0 |
+| Jupyter Notebook |    756 |   13089348 |      13089348 |           0 |
 | HTML         |   1613 |      84369 |         84369 |      314397 |
-| TypeScript   |   1290 |      61959 |         61959 |       33205 |
+| TypeScript   |   1290 |      61964 |         61964 |       33210 |
+| Python       |   1395 |      48425 |         48425 |       48041 |
 | JavaScript   |   1518 |      48198 |         48198 |       26311 |
-| Python       |   1376 |      48192 |         48192 |       47623 |
 | C/C++ Header |    533 |      36558 |         36558 |       18912 |
 | Ruby         |   1345 |      33158 |         33158 |       23105 |
 | C++          |    993 |      31789 |         31789 |       27471 |
 | C            |    601 |      14404 |         14404 |       19410 |
-| Go           |    449 |       8613 |          8613 |       14516 |
+| Go           |    463 |       8717 |          8717 |       14722 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     66 |       4090 |          4090 |        1712 |
-| YAML         |    513 |       2586 |          2586 |        3007 |
+| YAML         |    513 |       2586 |          2586 |        3008 |
 | Swift        |     52 |       1938 |          1938 |        2348 |
 | CSS          |    111 |       1893 |          1893 |       14060 |
 
@@ -192,7 +192,7 @@ Generated on: 2026-02-28 01:16:13 UTC
 |------------|---------------|
 | mohitmishra786/covid-19-data                       |       6385160 |
 | OmdenaAI/ACAPS                                     |       5601384 |
-| OmdenaAI/Berlin-Chapter-Challenge-Waste-Management |       2979440 |
+| OmdenaAI/Berlin-Chapter-Challenge-Waste-Management |       2979527 |
 | mohitmishra786/meshery                             |       1650694 |
 | OmdenaAI/omdena-bangladesh-market-place            |        971598 |
 | OmdenaAI/latam-chapters-news-detector              |        958890 |
@@ -209,7 +209,7 @@ Generated on: 2026-02-28 01:16:13 UTC
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
 | mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |
 | OmdenaAI/lagos-chapter-water-availability          |        101722 |
-| mohitmishra786/build-distributed-systems           |         98044 |
+| mohitmishra786/build-distributed-systems           |        101630 |
 
 </details>
 
