@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,59287
+mohitmishra786/confscout,JSON,8,0,0,59594
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -21,6 +21,8 @@ mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,144,2232,1590,13256
 mohitmishra786/confscout,YAML,3,29,12,141
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,3,35,16,240
@@ -30,6 +32,11 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/build-distributed-systems,Bourne Shell,7,98,45,701
 mohitmishra786/build-distributed-systems,CSS,1,22,5,128
 mohitmishra786/build-distributed-systems,Go,78,1327,435,9805
@@ -65,11 +72,6 @@ mohitmishra786/exploring-os,JavaScript,1,3,0,13
 mohitmishra786/exploring-os,Markdown,83,6981,0,23785
 mohitmishra786/exploring-os,YAML,1,4,3,22
 mohitmishra786/exploring-os,make,1,6,7,8
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
 AmadeusITGroup/OpenSourceBoard,Markdown,5,56,12,106
 AmadeusITGroup/OpenSourceBoard,YAML,1,0,0,11
 mohitmishra786/anti-vibe-skills,JSON,1,0,0,6
@@ -119,8 +121,6 @@ OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,Python,13,339,212,1247
 OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,TOML,1,0,0,6
 OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,Text,4,16,0,162
 OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,XML,3,6,0,10502
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
 implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
 implement-from-scratch/memory-allocator-c,C,2,279,192,943
