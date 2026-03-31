@@ -1,6 +1,6 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-03-30 01:51:52 UTC
+Generated on: 2026-03-31 01:48:25 UTC
 
 ## Summary Statistics
 
@@ -8,10 +8,10 @@ Generated on: 2026-03-30 01:51:52 UTC
 |--------|-------|
 | Total Repositories Processed | 170 |
 | Failed Repositories | 0 |
-| Total Files | 26,765 |
-| Total Lines of Code | 23,615,859 |
-| Total Blank Lines | 1,890,477 |
-| Total Comment Lines | 13,487,114 |
+| Total Files | 26,768 |
+| Total Lines of Code | 23,616,690 |
+| Total Blank Lines | 1,890,497 |
+| Total Comment Lines | 13,487,224 |
 
 
 ## Top 15 Languages by LOC
@@ -20,7 +20,7 @@ Generated on: 2026-03-30 01:51:52 UTC
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    756 |   13089348 |      13089348 |           0 |
 | HTML         |   1614 |      84369 |         84369 |      314400 |
-| TypeScript   |   1352 |      62530 |         62530 |       34161 |
+| TypeScript   |   1354 |      62584 |         62584 |       34190 |
 | Python       |   1438 |      49632 |         49632 |       49231 |
 | JavaScript   |   1520 |      48259 |         48259 |       26347 |
 | C/C++ Header |    533 |      36558 |         36558 |       18912 |
@@ -30,7 +30,7 @@ Generated on: 2026-03-30 01:51:52 UTC
 | Go           |    524 |       8979 |          8979 |       15733 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     66 |       4090 |          4090 |        1712 |
-| YAML         |    518 |       2772 |          2772 |        3192 |
+| YAML         |    518 |       2827 |          2827 |        3174 |
 | Swift        |     52 |       1938 |          1938 |        2348 |
 | CSS          |    112 |       1936 |          1936 |       14163 |
 
@@ -56,5 +56,5 @@ Generated on: 2026-03-30 01:51:52 UTC
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
 | mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |
-| mohitmishra786/build-distributed-systems           |        115925 |
+| mohitmishra786/build-distributed-systems           |        116100 |
 | OmdenaAI/lagos-chapter-water-availability          |        101722 |
