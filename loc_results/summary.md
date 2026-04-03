@@ -1,17 +1,17 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-04-02 01:44:52 UTC
+Generated on: 2026-04-03 01:46:53 UTC
 
 ## Summary Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories Processed | 171 |
+| Total Repositories Processed | 170 |
 | Failed Repositories | 0 |
-| Total Files | 28,661 |
-| Total Lines of Code | 24,007,934 |
-| Total Blank Lines | 1,926,390 |
-| Total Comment Lines | 13,574,399 |
+| Total Files | 26,776 |
+| Total Lines of Code | 23,617,702 |
+| Total Blank Lines | 1,890,619 |
+| Total Comment Lines | 13,487,329 |
 
 
 ## Top 15 Languages by LOC
@@ -19,13 +19,13 @@ Generated on: 2026-04-02 01:44:52 UTC
 | Language | Files | Code Lines | Comment Lines | Blank Lines |
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    756 |   13089348 |      13089348 |           0 |
-| TypeScript   |   3241 |     149724 |        149724 |       70051 |
 | HTML         |   1614 |      84369 |         84369 |      314400 |
+| TypeScript   |   1357 |      62652 |         62652 |       34256 |
 | Python       |   1438 |      49632 |         49632 |       49231 |
-| JavaScript   |   1524 |      48273 |         48273 |       26347 |
+| JavaScript   |   1522 |      48273 |         48273 |       26347 |
 | C/C++ Header |    533 |      36558 |         36558 |       18912 |
 | Ruby         |   1345 |      33158 |         33158 |       23105 |
-| C++          |    994 |      31800 |         31800 |       27482 |
+| C++          |    994 |      31802 |         31802 |       27500 |
 | C            |    601 |      14404 |         14404 |       19410 |
 | Go           |    524 |       8979 |          8979 |       15733 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
@@ -48,7 +48,6 @@ Generated on: 2026-04-02 01:44:52 UTC
 | OmdenaAI/dhaka-bangladesh-real-estate-recommendation |        477093 |
 | OmdenaAI/omdena-texas-homelessness                 |        404748 |
 | mohitmishra786/Homelessness-in-Texas               |        404740 |
-| mohitmishra786/repo-claude                         |        390349 |
 | mohitmishra786/chessman                            |        290280 |
 | mohitmishra786/bustub-private                      |        276102 |
 | mohitmishra786/Smart-Health                        |        227712 |
@@ -56,5 +55,6 @@ Generated on: 2026-04-02 01:44:52 UTC
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
-| mohitmishra786/build-distributed-systems           |        116789 |
+| mohitmishra786/build-distributed-systems           |        116875 |
 | mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |
+| OmdenaAI/lagos-chapter-water-availability          |        101722 |
