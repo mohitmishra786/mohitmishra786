@@ -1,17 +1,17 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-04-05 01:51:05 UTC
+Generated on: 2026-04-06 01:52:13 UTC
 
 ## Summary Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories Processed | 171 |
+| Total Repositories Processed | 172 |
 | Failed Repositories | 0 |
-| Total Files | 26,896 |
-| Total Lines of Code | 23,643,945 |
-| Total Blank Lines | 1,895,230 |
-| Total Comment Lines | 13,488,348 |
+| Total Files | 30,909 |
+| Total Lines of Code | 24,301,598 |
+| Total Blank Lines | 1,993,161 |
+| Total Comment Lines | 13,501,850 |
 
 
 ## Top 15 Languages by LOC
@@ -19,20 +19,20 @@ Generated on: 2026-04-05 01:51:05 UTC
 | Language | Files | Code Lines | Comment Lines | Blank Lines |
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    756 |   13089348 |      13089348 |           0 |
-| HTML         |   1614 |      84369 |         84369 |      314400 |
-| TypeScript   |   1430 |      63615 |         63615 |       35327 |
+| HTML         |   1618 |      84369 |         84369 |      314400 |
+| TypeScript   |   2938 |      76304 |         76304 |       65978 |
 | Python       |   1438 |      49632 |         49632 |       49231 |
-| JavaScript   |   1523 |      48274 |         48274 |       26348 |
+| JavaScript   |   1532 |      48296 |         48296 |       26398 |
 | C/C++ Header |    533 |      36558 |         36558 |       18912 |
 | Ruby         |   1345 |      33158 |         33158 |       23105 |
 | C++          |    994 |      31802 |         31802 |       27500 |
-| C            |    601 |      14404 |         14404 |       19410 |
+| C            |    602 |      14415 |         14415 |       19436 |
 | Go           |    536 |       9021 |          9021 |       15889 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     66 |       4090 |          4090 |        1712 |
-| YAML         |    523 |       2826 |          2826 |        5813 |
+| YAML         |    563 |       2935 |          2935 |        6368 |
+| CSS          |    235 |       2354 |          2354 |       17311 |
 | Swift        |     52 |       1938 |          1938 |        2348 |
-| CSS          |    114 |       1936 |          1936 |       14202 |
 
 ## Top 20 Repositories by LOC
 
@@ -44,6 +44,7 @@ Generated on: 2026-04-05 01:51:05 UTC
 | mohitmishra786/meshery                             |       1650694 |
 | OmdenaAI/omdena-bangladesh-market-place            |        971598 |
 | OmdenaAI/latam-chapters-news-detector              |        958890 |
+| mohitmishra786/opencode                            |        647950 |
 | mohitmishra786/Natural-Language-Processing-Specialization |        541573 |
 | OmdenaAI/dhaka-bangladesh-real-estate-recommendation |        477093 |
 | OmdenaAI/omdena-texas-homelessness                 |        404748 |
@@ -57,4 +58,3 @@ Generated on: 2026-04-05 01:51:05 UTC
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
 | mohitmishra786/build-distributed-systems           |        117548 |
 | mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |
-| OmdenaAI/lagos-chapter-water-availability          |        101722 |

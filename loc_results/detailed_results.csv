@@ -4,7 +4,7 @@ mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1182
+mohitmishra786/mohitmishra786,CSV,3,0,0,1194
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,58,13,208
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,60637
+mohitmishra786/confscout,JSON,8,0,0,60657
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -21,19 +21,41 @@ mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,144,2232,1590,13256
 mohitmishra786/confscout,YAML,3,29,12,141
-mohitmishra786/compiler-craft,CSS,1,13,3,74
-mohitmishra786/compiler-craft,JSON,5,0,0,17227
-mohitmishra786/compiler-craft,JavaScript,2,3,2,34
-mohitmishra786/compiler-craft,Markdown,13,576,0,1666
-mohitmishra786/compiler-craft,SVG,5,0,0,5
-mohitmishra786/compiler-craft,TypeScript,95,2321,1460,12757
-mohitmishra786/compiler-craft,YAML,2,6,0,91
 mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
 mohitmishra786/low-level-dev-skills,HTML,1,15,0,191
 mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
 mohitmishra786/low-level-dev-skills,JavaScript,1,29,19,410
 mohitmishra786/low-level-dev-skills,Markdown,137,5929,0,19771
 mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/opencode,Bourne Again Shell,6,84,25,474
+mohitmishra786/opencode,Bourne Shell,2,4,4,31
+mohitmishra786/opencode,CSS,121,3109,418,19491
+mohitmishra786/opencode,Dockerfile,6,18,2,75
+mohitmishra786/opencode,HTML,4,0,0,91
+mohitmishra786/opencode,INI,1,1,0,8
+mohitmishra786/opencode,JSON,217,10,0,189980
+mohitmishra786/opencode,JavaScript,9,50,22,637
+mohitmishra786/opencode,Markdown,734,61701,1,155921
+mohitmishra786/opencode,Nix,4,38,23,301
+mohitmishra786/opencode,PowerShell,1,13,0,57
+mohitmishra786/opencode,Rust,14,453,52,2450
+mohitmishra786/opencode,SQL,68,0,17,397
+mohitmishra786/opencode,SVG,1217,11,0,15781
+mohitmishra786/opencode,TOML,5,19,8,100
+mohitmishra786/opencode,TableGen,1,0,0,31
+mohitmishra786/opencode,Text,41,450,0,1846
+mohitmishra786/opencode,TypeScript,1410,28977,11763,256972
+mohitmishra786/opencode,XML,4,9,0,145
+mohitmishra786/opencode,YAML,40,555,109,3033
+mohitmishra786/opencode,diff,4,4,121,129
+mohitmishra786/compiler-craft,C,1,26,11,139
+mohitmishra786/compiler-craft,CSS,1,13,3,74
+mohitmishra786/compiler-craft,JSON,5,0,0,17227
+mohitmishra786/compiler-craft,JavaScript,2,3,2,34
+mohitmishra786/compiler-craft,Markdown,18,1301,0,4368
+mohitmishra786/compiler-craft,SVG,5,0,0,5
+mohitmishra786/compiler-craft,TypeScript,193,3995,2386,19587
+mohitmishra786/compiler-craft,YAML,2,6,0,91
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
@@ -43,6 +65,11 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/build-distributed-systems,Bourne Shell,7,98,45,701
 mohitmishra786/build-distributed-systems,C++,1,29,13,96
 mohitmishra786/build-distributed-systems,CSS,1,65,9,354
@@ -86,11 +113,6 @@ wattlint/watt-sampler,Markdown,6,464,1,2074
 wattlint/watt-sampler,Rust,8,178,55,1172
 wattlint/watt-sampler,TOML,2,2,0,21
 wattlint/watt-sampler,YAML,1,68,110,262
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/reversingBits,HTML,1,120,1,760
 mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/BitsAndBytes,Assembly,7,111,82,1207
