@@ -1,6 +1,6 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-04-11 01:44:14 UTC
+Generated on: 2026-04-12 01:55:41 UTC
 
 ## Summary Statistics
 
@@ -8,10 +8,10 @@ Generated on: 2026-04-11 01:44:14 UTC
 |--------|-------|
 | Total Repositories Processed | 174 |
 | Failed Repositories | 0 |
-| Total Files | 32,328 |
-| Total Lines of Code | 24,442,974 |
-| Total Blank Lines | 2,016,907 |
-| Total Comment Lines | 13,531,262 |
+| Total Files | 32,319 |
+| Total Lines of Code | 24,439,481 |
+| Total Blank Lines | 2,015,827 |
+| Total Comment Lines | 13,531,163 |
 
 
 ## Top 15 Languages by LOC
@@ -20,7 +20,7 @@ Generated on: 2026-04-11 01:44:14 UTC
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    756 |   13089348 |      13089348 |           0 |
 | HTML         |   1618 |      84369 |         84369 |      314400 |
-| TypeScript   |   3528 |      79139 |         79139 |       70809 |
+| TypeScript   |   3529 |      79040 |         79040 |       70598 |
 | Python       |   1990 |      58296 |         58296 |       58227 |
 | JavaScript   |   1536 |      48319 |         48319 |       26455 |
 | C/C++ Header |    533 |      36558 |         36558 |       18912 |
@@ -55,6 +55,6 @@ Generated on: 2026-04-11 01:44:14 UTC
 | mohitmishra786/REST-API                            |        208637 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
-| mohitmishra786/build-distributed-systems           |        148172 |
+| mohitmishra786/build-distributed-systems           |        144760 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
 | mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |

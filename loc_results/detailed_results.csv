@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,61333
+mohitmishra786/confscout,JSON,8,0,0,61252
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -27,19 +27,14 @@ mohitmishra786/build-distributed-systems,CSS,1,65,9,354
 mohitmishra786/build-distributed-systems,Go,77,1286,405,9660
 mohitmishra786/build-distributed-systems,JSON,5,2,0,13066
 mohitmishra786/build-distributed-systems,JavaScript,9,89,104,662
-mohitmishra786/build-distributed-systems,Markdown,39,2267,4,6687
+mohitmishra786/build-distributed-systems,Markdown,29,1398,4,4068
 mohitmishra786/build-distributed-systems,Python,44,875,551,4317
 mohitmishra786/build-distributed-systems,Rust,1,22,11,101
 mohitmishra786/build-distributed-systems,SQL,2,148,270,238
 mohitmishra786/build-distributed-systems,SVG,6,0,0,16
 mohitmishra786/build-distributed-systems,Text,1,0,0,1
-mohitmishra786/build-distributed-systems,TypeScript,929,18938,13379,112061
+mohitmishra786/build-distributed-systems,TypeScript,930,18727,13280,111268
 mohitmishra786/build-distributed-systems,YAML,1,13,7,65
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
-mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
-mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
-mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
@@ -55,6 +50,11 @@ mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
 mohitmishra786/low-level-dev-skills,JavaScript,1,29,19,410
 mohitmishra786/low-level-dev-skills,Markdown,137,5929,0,19771
 mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
+mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
+mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
+mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
 OmdenaAI/autodev-agent,Markdown,3,24,35,38
 OmdenaAI/autodev-agent,Python,19,615,500,2779
 OmdenaAI/autodev-agent,TOML,1,5,0,31
