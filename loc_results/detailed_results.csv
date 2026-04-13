@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,61252
+mohitmishra786/confscout,JSON,8,0,0,60851
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -21,6 +21,116 @@ mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,144,2232,1590,13256
 mohitmishra786/confscout,YAML,3,29,12,141
+mohitmishra786/agentop,Go,24,438,95,2631
+mohitmishra786/agentop,JSON,5,0,0,97
+mohitmishra786/agentop,Markdown,5,202,0,567
+mohitmishra786/agentop,Nix,1,4,0,28
+mohitmishra786/agentop,PowerShell,2,18,4,75
+mohitmishra786/agentop,YAML,7,25,3,226
+mohitmishra786/agentop,make,2,13,0,35
+mohitmishra786/nixpkgs,Agda,1,1,0,4
+mohitmishra786/nixpkgs,AsciiDoc,2,1,0,3
+mohitmishra786/nixpkgs,Bourne Again Shell,50,507,444,2641
+mohitmishra786/nixpkgs,Bourne Shell,1070,9217,6280,36781
+mohitmishra786/nixpkgs,C,70,588,383,3397
+mohitmishra786/nixpkgs,C#,4,2,0,20
+mohitmishra786/nixpkgs,C++,9,37,1,210
+mohitmishra786/nixpkgs,C/C++ Header,19,43,71,194
+mohitmishra786/nixpkgs,CMake,13,25,10,84
+mohitmishra786/nixpkgs,CSS,3,74,7,492
+mohitmishra786/nixpkgs,CSV,1,0,0,176
+mohitmishra786/nixpkgs,CUDA,1,16,0,52
+mohitmishra786/nixpkgs,D,1,4,28,110
+mohitmishra786/nixpkgs,Elixir,3,97,42,670
+mohitmishra786/nixpkgs,Erlang,1,6,3,34
+mohitmishra786/nixpkgs,Expect,2,12,11,41
+mohitmishra786/nixpkgs,Fish Shell,6,11,2,58
+mohitmishra786/nixpkgs,Go,5,30,19,188
+mohitmishra786/nixpkgs,Gradle,4,4,0,40
+mohitmishra786/nixpkgs,HCL,1,0,0,12
+mohitmishra786/nixpkgs,HTML,1,0,0,11
+mohitmishra786/nixpkgs,Haskell,9,180,180,821
+mohitmishra786/nixpkgs,INI,14,24,0,121
+mohitmishra786/nixpkgs,JSON,632,3,0,912485
+mohitmishra786/nixpkgs,Java,4,4,0,52
+mohitmishra786/nixpkgs,JavaScript,43,565,643,3772
+mohitmishra786/nixpkgs,Julia,3,28,22,97
+mohitmishra786/nixpkgs,Jupyter Notebook,2,0,48,2
+mohitmishra786/nixpkgs,Lean,2,4,3,10
+mohitmishra786/nixpkgs,Lisp,15,149,97,1433
+mohitmishra786/nixpkgs,Lua,7,62,34,198
+mohitmishra786/nixpkgs,MSBuild script,3,1,0,19
+mohitmishra786/nixpkgs,Markdown,560,18780,251,51575
+mohitmishra786/nixpkgs,Maven,1,5,0,38
+mohitmishra786/nixpkgs,Meson,3,57,22,588
+mohitmishra786/nixpkgs,Nim,1,14,19,146
+mohitmishra786/nixpkgs,Nix,42778,427373,144025,3747403
+mohitmishra786/nixpkgs,PHP,2,9,2,30
+mohitmishra786/nixpkgs,Perl,19,739,529,3881
+mohitmishra786/nixpkgs,Protocol Buffers,4,5,0,17
+mohitmishra786/nixpkgs,PureScript,1,3,0,6
+mohitmishra786/nixpkgs,Python,273,7862,5963,35449
+mohitmishra786/nixpkgs,QML,2,15,0,141
+mohitmishra786/nixpkgs,R,1,23,10,84
+mohitmishra786/nixpkgs,Racket,1,4,0,23
+mohitmishra786/nixpkgs,ReasonML,2,1,0,6
+mohitmishra786/nixpkgs,Ruby,13,283,199,1519
+mohitmishra786/nixpkgs,Rust,31,829,2230,3225
+mohitmishra786/nixpkgs,SQL,5,17,3,144
+mohitmishra786/nixpkgs,SVG,5,2,3,859
+mohitmishra786/nixpkgs,Scheme,5,34,15,210
+mohitmishra786/nixpkgs,Starlark,1,7,0,61
+mohitmishra786/nixpkgs,Swift,2,3,1,15
+mohitmishra786/nixpkgs,TOML,50,4874,881,46402
+mohitmishra786/nixpkgs,Tcl/Tk,2,6,2,13
+mohitmishra786/nixpkgs,TeX,3,4,0,92
+mohitmishra786/nixpkgs,Text,19,6,0,4081
+mohitmishra786/nixpkgs,TypeScript,9,26,12,211
+mohitmishra786/nixpkgs,VHDL,2,22,0,101
+mohitmishra786/nixpkgs,Verilog-SystemVerilog,1,0,0,7
+mohitmishra786/nixpkgs,Windows Module Definition,1,5,0,26
+mohitmishra786/nixpkgs,XML,34,21,47,3144
+mohitmishra786/nixpkgs,XSLT,4,34,23,94
+mohitmishra786/nixpkgs,YAML,55,447,278,19188
+mohitmishra786/nixpkgs,awk,3,20,47,71
+mohitmishra786/nixpkgs,diff,5076,23851,122336,188973
+mohitmishra786/nixpkgs,make,14,59,12,199
+mohitmishra786/nixpkgs,reStructuredText,2,10,5,16
+mohitmishra786/nixpkgs,sed,2,58,63,237
+mohitmishra786/nixpkgs,vim script,3,36,35,240
+mohitmishra786/nixpkgs,zsh,5,17,16,119
+mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
+mohitmishra786/TheCoreDump,C,4,94,20,450
+mohitmishra786/TheCoreDump,HTML,4,38,16,259
+mohitmishra786/TheCoreDump,INI,1,4,0,15
+mohitmishra786/TheCoreDump,JSON,5,0,0,102
+mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
+mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
+mohitmishra786/TheCoreDump,Ruby,1,4,2,8
+mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/scoop-bucket,JSON,1,0,0,31
+mohitmishra786/scoop-bucket,Markdown,1,9,0,19
+mohitmishra786/scoop-bucket,YAML,2,5,0,47
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
+mohitmishra786/Extras,INI,1,3,0,13
+mohitmishra786/Extras,JSON,2345,0,0,86715
+mohitmishra786/Extras,Markdown,2,8,13,10
+mohitmishra786/Extras,PowerShell,26,104,70,530
+mohitmishra786/Extras,YAML,10,6,3,289
+mohitmishra786/vislab,CSS,1,2,0,19
+mohitmishra786/vislab,HTML,3,3,0,66
+mohitmishra786/vislab,JSON,16,0,0,239
+mohitmishra786/vislab,JavaScript,3,2,1,19
+mohitmishra786/vislab,Markdown,1,28,0,46
+mohitmishra786/vislab,Ruby,1,2,0,10
+mohitmishra786/vislab,TypeScript,49,399,97,1787
+mohitmishra786/vislab,YAML,2,1241,0,4395
+mohitmishra786/homebrew-tap,Markdown,1,20,0,39
+mohitmishra786/homebrew-tap,Ruby,2,12,1,79
 mohitmishra786/build-distributed-systems,Bourne Shell,9,136,66,848
 mohitmishra786/build-distributed-systems,C++,1,29,13,96
 mohitmishra786/build-distributed-systems,CSS,1,65,9,354
@@ -33,17 +143,8 @@ mohitmishra786/build-distributed-systems,Rust,1,22,11,101
 mohitmishra786/build-distributed-systems,SQL,2,148,270,238
 mohitmishra786/build-distributed-systems,SVG,6,0,0,16
 mohitmishra786/build-distributed-systems,Text,1,0,0,1
-mohitmishra786/build-distributed-systems,TypeScript,930,18727,13280,111268
+mohitmishra786/build-distributed-systems,TypeScript,930,18727,13290,111258
 mohitmishra786/build-distributed-systems,YAML,1,13,7,65
-mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
-mohitmishra786/TheCoreDump,C,4,94,20,450
-mohitmishra786/TheCoreDump,HTML,4,38,16,259
-mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,102
-mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
-mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
-mohitmishra786/TheCoreDump,Ruby,1,4,2,8
-mohitmishra786/TheCoreDump,YAML,6,58,126,264
 mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
 mohitmishra786/low-level-dev-skills,HTML,1,15,0,191
 mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
@@ -59,14 +160,6 @@ OmdenaAI/autodev-agent,Markdown,3,24,35,38
 OmdenaAI/autodev-agent,Python,19,615,500,2779
 OmdenaAI/autodev-agent,TOML,1,5,0,31
 OmdenaAI/autodev-agent,Text,1,5,0,16
-mohitmishra786/agentop,Go,24,446,108,2514
-mohitmishra786/agentop,JSON,5,0,0,89
-mohitmishra786/agentop,Markdown,4,186,0,507
-mohitmishra786/agentop,PowerShell,2,18,4,75
-mohitmishra786/agentop,YAML,7,24,0,204
-mohitmishra786/agentop,make,1,10,0,23
-mohitmishra786/homebrew-tap,Markdown,1,20,0,39
-mohitmishra786/homebrew-tap,Ruby,2,12,1,79
 mohitmishra786/monty,Bourne Shell,1,16,6,47
 mohitmishra786/monty,JSON,7,0,0,4903
 mohitmishra786/monty,Markdown,14,459,0,1156
@@ -84,11 +177,6 @@ mohitmishra786/exploring-os,JavaScript,1,3,0,13
 mohitmishra786/exploring-os,Markdown,83,6981,0,23785
 mohitmishra786/exploring-os,YAML,1,4,3,22
 mohitmishra786/exploring-os,make,1,6,7,8
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/compiler-craft,C,1,26,11,139
 mohitmishra786/compiler-craft,CSS,1,14,3,78
 mohitmishra786/compiler-craft,JSON,5,0,0,17227

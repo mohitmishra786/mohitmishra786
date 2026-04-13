@@ -143,48 +143,48 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-24439481-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29606414-blue?style=for-the-badge)
 
-**Last Updated:** 2026-04-12 02:04:01 UTC
+**Last Updated:** 2026-04-13 02:09:43 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-04-12 01:55:41 UTC
+Generated on: 2026-04-13 02:00:36 UTC
 
 ## Summary Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories Processed | 174 |
+| Total Repositories Processed | 178 |
 | Failed Repositories | 0 |
-| Total Files | 32,319 |
-| Total Lines of Code | 24,439,481 |
-| Total Blank Lines | 2,015,827 |
-| Total Comment Lines | 13,531,163 |
+| Total Files | 85,782 |
+| Total Lines of Code | 29,606,414 |
+| Total Blank Lines | 2,514,911 |
+| Total Comment Lines | 13,816,704 |
 
 
 ## Top 15 Languages by LOC
 
 | Language | Files | Code Lines | Comment Lines | Blank Lines |
 |----------|-------|------------|---------------|-------------|
-| Jupyter Notebook |    756 |   13089348 |      13089348 |           0 |
-| HTML         |   1618 |      84369 |         84369 |      314400 |
-| TypeScript   |   3529 |      79040 |         79040 |       70598 |
-| Python       |   1990 |      58296 |         58296 |       58227 |
-| JavaScript   |   1536 |      48319 |         48319 |       26455 |
-| C/C++ Header |    533 |      36558 |         36558 |       18912 |
-| Ruby         |   1346 |      33158 |         33158 |       23110 |
-| C++          |    994 |      31802 |         31802 |       27500 |
-| Rust         |    195 |      17734 |         17734 |        8299 |
-| C            |    602 |      14415 |         14415 |       19436 |
-| Go           |    560 |       9129 |          9129 |       16335 |
+| Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
+| Nix          |  42783 |     144048 |        144048 |      427415 |
+| diff         |   5080 |     122457 |        122457 |       23855 |
+| HTML         |   1622 |      84369 |         84369 |      314403 |
+| TypeScript   |   3587 |      79159 |         79159 |       71023 |
+| Python       |   2263 |      64259 |         64259 |       66089 |
+| JavaScript   |   1582 |      48963 |         48963 |       27022 |
+| C/C++ Header |    552 |      36629 |         36629 |       18955 |
+| Ruby         |   1360 |      33357 |         33357 |       23395 |
+| C++          |   1003 |      31803 |         31803 |       27537 |
+| Rust         |    226 |      19964 |         19964 |        9128 |
+| C            |    672 |      14798 |         14798 |       20024 |
+| Go           |    565 |       9135 |          9135 |       16357 |
+| Bourne Shell |   1194 |       7760 |          7760 |       10613 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
-| Java         |     66 |       4090 |          4090 |        1712 |
-| YAML         |    578 |       3001 |          3001 |        6574 |
-| CSS          |    235 |       2354 |          2354 |       17312 |
 
 ## Top 20 Repositories by LOC
 
@@ -192,6 +192,7 @@ Generated on: 2026-04-12 01:55:41 UTC
 |------------|---------------|
 | mohitmishra786/covid-19-data                       |       6385160 |
 | OmdenaAI/ACAPS                                     |       5601384 |
+| mohitmishra786/nixpkgs                             |       5072862 |
 | OmdenaAI/Berlin-Chapter-Challenge-Waste-Management |       2979527 |
 | mohitmishra786/meshery                             |       1650694 |
 | OmdenaAI/omdena-bangladesh-market-place            |        971598 |
@@ -207,9 +208,8 @@ Generated on: 2026-04-12 01:55:41 UTC
 | mohitmishra786/REST-API                            |        208637 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
-| mohitmishra786/build-distributed-systems           |        144760 |
+| mohitmishra786/build-distributed-systems           |        144750 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
-| mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |
 
 </details>
 
