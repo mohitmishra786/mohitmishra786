@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,61103
+mohitmishra786/confscout,JSON,8,0,0,60952
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -21,18 +21,33 @@ mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,144,2232,1590,13256
 mohitmishra786/confscout,YAML,3,29,12,141
-mohitmishra786/agentop,Go,24,531,167,3447
-mohitmishra786/agentop,JSON,5,0,0,97
-mohitmishra786/agentop,Markdown,5,204,0,573
-mohitmishra786/agentop,Nix,1,4,0,28
-mohitmishra786/agentop,PowerShell,2,18,4,75
-mohitmishra786/agentop,YAML,7,25,3,229
-mohitmishra786/agentop,make,3,16,5,44
-mohitmishra786/scoop-bucket,JSON,1,0,0,31
-mohitmishra786/scoop-bucket,Markdown,1,9,0,19
-mohitmishra786/scoop-bucket,YAML,2,5,0,47
-mohitmishra786/homebrew-tap,Markdown,1,20,0,39
-mohitmishra786/homebrew-tap,Ruby,2,13,4,95
+mohitmishra786/compiler-craft,C,1,26,11,139
+mohitmishra786/compiler-craft,CSS,1,14,3,78
+mohitmishra786/compiler-craft,JSON,5,0,0,17227
+mohitmishra786/compiler-craft,JavaScript,2,3,2,34
+mohitmishra786/compiler-craft,Markdown,20,1336,8,4431
+mohitmishra786/compiler-craft,SVG,5,0,0,5
+mohitmishra786/compiler-craft,TypeScript,373,11583,5788,51223
+mohitmishra786/compiler-craft,YAML,2,6,0,91
+mohitmishra786/vantage,Bourne Shell,2,187,163,556
+mohitmishra786/vantage,CSS,1,41,13,303
+mohitmishra786/vantage,Dockerfile,1,12,15,21
+mohitmishra786/vantage,HTML,13,486,129,3437
+mohitmishra786/vantage,JSON,4,0,0,5458
+mohitmishra786/vantage,JavaScript,4,101,112,406
+mohitmishra786/vantage,Markdown,5,202,0,593
+mohitmishra786/vantage,Python,25,1219,1545,4552
+mohitmishra786/vantage,SVG,1,0,0,1
+mohitmishra786/vantage,TOML,1,7,0,68
+mohitmishra786/vantage,Text,3,1,0,83
+mohitmishra786/vantage,YAML,2,2,5,39
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,191
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,29,19,410
+mohitmishra786/low-level-dev-skills,Markdown,137,5931,0,19819
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
@@ -42,12 +57,21 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,191
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,29,19,410
-mohitmishra786/low-level-dev-skills,Markdown,137,5929,0,19771
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/agentop,Go,24,531,167,3447
+mohitmishra786/agentop,JSON,5,0,0,97
+mohitmishra786/agentop,Markdown,5,207,0,578
+mohitmishra786/agentop,Nix,2,12,0,82
+mohitmishra786/agentop,PowerShell,2,18,4,75
+mohitmishra786/agentop,YAML,7,25,3,229
+mohitmishra786/agentop,make,3,16,5,44
+mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
+mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
+mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
+mohitmishra786/scoop-bucket,JSON,1,0,0,31
+mohitmishra786/scoop-bucket,Markdown,1,9,0,19
+mohitmishra786/scoop-bucket,YAML,2,5,0,47
+mohitmishra786/homebrew-tap,Markdown,1,20,0,39
+mohitmishra786/homebrew-tap,Ruby,2,13,4,95
 mohitmishra786/reversingBits,HTML,1,120,1,760
 mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/exploring-os,C,5,23,7,98
@@ -160,9 +184,6 @@ mohitmishra786/build-distributed-systems,SVG,6,0,0,16
 mohitmishra786/build-distributed-systems,Text,1,0,0,1
 mohitmishra786/build-distributed-systems,TypeScript,930,18727,13290,111258
 mohitmishra786/build-distributed-systems,YAML,1,13,7,65
-mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
-mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
-mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
 mohitmishra786/monty,Bourne Shell,1,16,6,47
 mohitmishra786/monty,JSON,7,0,0,4903
 mohitmishra786/monty,Markdown,14,459,0,1156
@@ -173,14 +194,6 @@ mohitmishra786/monty,Text,3,0,0,68
 mohitmishra786/monty,TypeScript,16,670,577,3175
 mohitmishra786/monty,YAML,8,182,66,1018
 mohitmishra786/monty,make,1,46,3,175
-mohitmishra786/compiler-craft,C,1,26,11,139
-mohitmishra786/compiler-craft,CSS,1,14,3,78
-mohitmishra786/compiler-craft,JSON,5,0,0,17227
-mohitmishra786/compiler-craft,JavaScript,2,3,2,34
-mohitmishra786/compiler-craft,Markdown,18,1301,0,4368
-mohitmishra786/compiler-craft,SVG,5,0,0,5
-mohitmishra786/compiler-craft,TypeScript,235,5162,3481,25135
-mohitmishra786/compiler-craft,YAML,2,6,0,91
 mohitmishra786/opencode,Bourne Again Shell,6,84,25,474
 mohitmishra786/opencode,Bourne Shell,2,4,4,31
 mohitmishra786/opencode,CSS,121,3109,418,19491
@@ -240,18 +253,6 @@ mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
 mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
 mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
 mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
-mohitmishra786/vantage,Bourne Shell,2,187,163,556
-mohitmishra786/vantage,CSS,1,41,13,303
-mohitmishra786/vantage,Dockerfile,1,12,15,21
-mohitmishra786/vantage,HTML,13,486,129,3437
-mohitmishra786/vantage,JSON,4,0,0,5483
-mohitmishra786/vantage,JavaScript,4,101,112,406
-mohitmishra786/vantage,Markdown,5,202,0,593
-mohitmishra786/vantage,Python,25,1219,1545,4552
-mohitmishra786/vantage,SVG,1,0,0,1
-mohitmishra786/vantage,TOML,1,7,0,68
-mohitmishra786/vantage,Text,3,1,0,83
-mohitmishra786/vantage,YAML,2,2,5,39
 mohitmishra786/aurora-dev,CSS,2,83,19,464
 mohitmishra786/aurora-dev,Dockerfile,1,15,19,30
 mohitmishra786/aurora-dev,JSON,6,0,0,7201
