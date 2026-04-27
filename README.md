@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29682713-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29694761-blue?style=for-the-badge)
 
-**Last Updated:** 2026-04-26 02:13:51 UTC
+**Last Updated:** 2026-04-27 02:16:42 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-04-26 02:03:01 UTC
+Generated on: 2026-04-27 02:05:42 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-04-26 02:03:01 UTC
 |--------|-------|
 | Total Repositories Processed | 176 |
 | Failed Repositories | 0 |
-| Total Files | 86,248 |
-| Total Lines of Code | 29,682,713 |
-| Total Blank Lines | 2,531,566 |
-| Total Comment Lines | 13,824,304 |
+| Total Files | 86,324 |
+| Total Lines of Code | 29,694,761 |
+| Total Blank Lines | 2,533,264 |
+| Total Comment Lines | 13,824,422 |
 
 
 ## Top 15 Languages by LOC
@@ -173,10 +173,10 @@ Generated on: 2026-04-26 02:03:01 UTC
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
-| TypeScript   |   4072 |      87201 |         87201 |       88178 |
-| HTML         |   1622 |      84369 |         84369 |      314403 |
+| TypeScript   |   4129 |      87318 |         87318 |       89135 |
+| HTML         |   1623 |      84369 |         84369 |      314403 |
 | Python       |   2244 |      63759 |         63759 |       65474 |
-| JavaScript   |   1582 |      48963 |         48963 |       27022 |
+| JavaScript   |   1583 |      48963 |         48963 |       27026 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
 | Ruby         |   1360 |      33360 |         33360 |       23396 |
 | C++          |   1003 |      31803 |         31803 |       27537 |
@@ -208,7 +208,7 @@ Generated on: 2026-04-26 02:03:01 UTC
 | mohitmishra786/REST-API                            |        208637 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
-| mohitmishra786/build-distributed-systems           |        154212 |
+| mohitmishra786/build-distributed-systems           |        157094 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
 
 </details>
