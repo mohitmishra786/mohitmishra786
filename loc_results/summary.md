@@ -1,6 +1,6 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-04-27 02:05:42 UTC
+Generated on: 2026-04-28 02:11:47 UTC
 
 ## Summary Statistics
 
@@ -8,10 +8,10 @@ Generated on: 2026-04-27 02:05:42 UTC
 |--------|-------|
 | Total Repositories Processed | 176 |
 | Failed Repositories | 0 |
-| Total Files | 86,324 |
-| Total Lines of Code | 29,694,761 |
-| Total Blank Lines | 2,533,264 |
-| Total Comment Lines | 13,824,422 |
+| Total Files | 86,342 |
+| Total Lines of Code | 29,695,514 |
+| Total Blank Lines | 2,533,516 |
+| Total Comment Lines | 13,824,490 |
 
 
 ## Top 15 Languages by LOC
@@ -21,7 +21,7 @@ Generated on: 2026-04-27 02:05:42 UTC
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
-| TypeScript   |   4129 |      87318 |         87318 |       89135 |
+| TypeScript   |   4144 |      87324 |         87324 |       89269 |
 | HTML         |   1623 |      84369 |         84369 |      314403 |
 | Python       |   2244 |      63759 |         63759 |       65474 |
 | JavaScript   |   1583 |      48963 |         48963 |       27026 |
@@ -56,5 +56,5 @@ Generated on: 2026-04-27 02:05:42 UTC
 | mohitmishra786/REST-API                            |        208637 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
-| mohitmishra786/build-distributed-systems           |        157094 |
+| mohitmishra786/build-distributed-systems           |        160372 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
