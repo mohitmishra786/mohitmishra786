@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,56492
+mohitmishra786/confscout,JSON,8,0,0,53458
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -30,6 +30,10 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+OmdenaAI/Climate-KIC,Jupyter Notebook,9,0,4371,2959
+OmdenaAI/Climate-KIC,Markdown,16,9,0,26
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
 mohitmishra786/low-level-dev-skills,HTML,1,15,0,191
 mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
@@ -37,8 +41,6 @@ mohitmishra786/low-level-dev-skills,JavaScript,1,29,19,410
 mohitmishra786/low-level-dev-skills,Markdown,137,5931,0,19819
 mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
 mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/amILearningEnough,CSS,1,15,6,58
 mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
@@ -663,8 +665,6 @@ OmdenaAI/SonoCare,Jupyter Notebook,26,0,67778,27661
 OmdenaAI/SonoCare,Markdown,14,46,0,85
 OmdenaAI/SonoCare,Python,26,842,1119,2559
 OmdenaAI/SonoCare,Text,3,15,0,48
-OmdenaAI/Climate-KIC,Jupyter Notebook,9,0,4371,2959
-OmdenaAI/Climate-KIC,Markdown,16,9,0,26
 mohitmishra786/minimalist-md-site-generator,C,8,228,106,1118
 mohitmishra786/minimalist-md-site-generator,C/C++ Header,4,15,7,67
 mohitmishra786/minimalist-md-site-generator,CMake,9,55,32,276
