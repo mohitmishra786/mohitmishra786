@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29691853-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29715848-blue?style=for-the-badge)
 
-**Last Updated:** 2026-06-27 02:42:00 UTC
+**Last Updated:** 2026-06-28 02:55:38 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-06-27 02:32:37 UTC
+Generated on: 2026-06-28 02:45:30 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-06-27 02:32:37 UTC
 |--------|-------|
 | Total Repositories Processed | 176 |
 | Failed Repositories | 0 |
-| Total Files | 86,363 |
-| Total Lines of Code | 29,691,853 |
-| Total Blank Lines | 2,533,734 |
-| Total Comment Lines | 13,824,573 |
+| Total Files | 86,594 |
+| Total Lines of Code | 29,715,848 |
+| Total Blank Lines | 2,538,774 |
+| Total Comment Lines | 13,824,900 |
 
 
 ## Top 15 Languages by LOC
@@ -172,18 +172,18 @@ Generated on: 2026-06-27 02:32:37 UTC
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
-| diff         |   5080 |     122457 |        122457 |       23855 |
-| TypeScript   |   4160 |      87375 |         87375 |       89406 |
-| HTML         |   1623 |      84369 |         84369 |      314403 |
+| diff         |   5081 |     122468 |        122468 |       23855 |
+| TypeScript   |   4204 |      87373 |         87373 |       89731 |
+| HTML         |   1625 |      84369 |         84369 |      314406 |
 | Python       |   2244 |      63759 |         63759 |       65474 |
-| JavaScript   |   1583 |      48963 |         48963 |       27026 |
+| JavaScript   |   1584 |      48975 |         48975 |       27035 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
 | Ruby         |   1360 |      33360 |         33360 |       23396 |
 | C++          |   1003 |      31803 |         31803 |       27537 |
 | Rust         |    226 |      19964 |         19964 |        9128 |
 | C            |    672 |      14798 |         14798 |       20024 |
-| Go           |    565 |       9207 |          9207 |       16450 |
-| Bourne Shell |   1194 |       7760 |          7760 |       10613 |
+| Go           |    610 |       9331 |          9331 |       17104 |
+| Bourne Shell |   1195 |       7870 |          7870 |       10830 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 
 ## Top 20 Repositories by LOC
@@ -208,7 +208,7 @@ Generated on: 2026-06-27 02:32:37 UTC
 | mohitmishra786/REST-API                            |        208637 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
-| mohitmishra786/build-distributed-systems           |        163345 |
+| mohitmishra786/build-distributed-systems           |        163677 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
 
 </details>
