@@ -4,7 +4,7 @@ mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1358
+mohitmishra786/mohitmishra786,CSV,3,0,0,1362
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,58,13,208
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,54754
+mohitmishra786/confscout,JSON,8,0,0,54649
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -21,13 +21,46 @@ mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,144,2232,1590,13256
 mohitmishra786/confscout,YAML,3,29,12,141
-mohitmishra786/agentop,Go,69,1185,291,7784
-mohitmishra786/agentop,JSON,12,0,0,192
+mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
+mohitmishra786/TheCoreDump,C,4,94,20,450
+mohitmishra786/TheCoreDump,HTML,4,38,16,259
+mohitmishra786/TheCoreDump,INI,1,4,0,15
+mohitmishra786/TheCoreDump,JSON,5,0,0,102
+mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
+mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
+mohitmishra786/TheCoreDump,Ruby,1,4,2,8
+mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/homebrew-tap,Markdown,1,20,0,39
+mohitmishra786/homebrew-tap,Ruby,2,12,6,94
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
+mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
+mohitmishra786/agentop,Go,71,1266,463,8040
+mohitmishra786/agentop,JSON,12,0,0,199
 mohitmishra786/agentop,Markdown,6,375,0,1404
 mohitmishra786/agentop,Nix,2,12,0,82
 mohitmishra786/agentop,PowerShell,2,18,4,75
-mohitmishra786/agentop,YAML,10,46,5,350
+mohitmishra786/agentop,YAML,11,55,5,497
 mohitmishra786/agentop,make,3,16,5,44
+mohitmishra786/mdmend,Bourne Shell,8,157,2,841
+mohitmishra786/mdmend,Go,81,2530,133,15665
+mohitmishra786/mdmend,HTML,2,37,0,516
+mohitmishra786/mdmend,JSON,13,0,0,1628
+mohitmishra786/mdmend,JavaScript,1,36,24,183
+mohitmishra786/mdmend,Markdown,55,986,0,3107
+mohitmishra786/mdmend,PowerShell,1,10,6,73
+mohitmishra786/mdmend,Python,1,26,1,99
+mohitmishra786/mdmend,Ruby,1,10,9,44
+mohitmishra786/mdmend,XML,1,0,0,58
+mohitmishra786/mdmend,YAML,11,95,6,741
+mohitmishra786/mdmend,make,1,17,0,61
+mohitmishra786/scoop-bucket,JSON,2,0,0,46
+mohitmishra786/scoop-bucket,Markdown,1,9,0,19
+mohitmishra786/scoop-bucket,YAML,2,5,0,47
 mohitmishra786/vislab,Bourne Shell,1,217,110,431
 mohitmishra786/vislab,CSS,2,2,0,22
 mohitmishra786/vislab,HTML,5,6,0,102
@@ -48,15 +81,6 @@ mohitmishra786/compiler-craft,SVG,5,0,0,5
 mohitmishra786/compiler-craft,TOML,1,1,0,15
 mohitmishra786/compiler-craft,TypeScript,782,22031,11614,104136
 mohitmishra786/compiler-craft,YAML,9,41,29,379
-mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
-mohitmishra786/TheCoreDump,C,4,94,20,450
-mohitmishra786/TheCoreDump,HTML,4,38,16,259
-mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,102
-mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
-mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
-mohitmishra786/TheCoreDump,Ruby,1,4,2,8
-mohitmishra786/TheCoreDump,YAML,6,58,126,264
 mohitmishra786/build-distributed-systems,Bourne Shell,9,136,66,848
 mohitmishra786/build-distributed-systems,C++,1,29,13,96
 mohitmishra786/build-distributed-systems,CSS,1,66,10,368
@@ -77,13 +101,6 @@ mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
 mohitmishra786/amILearningEnough,Text,1,0,0,29
 mohitmishra786/amILearningEnough,YAML,3,6,0,128
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
-mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
-mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/exploring-os,C,5,23,7,98
 mohitmishra786/exploring-os,CSS,1,28,8,150
 mohitmishra786/exploring-os,HTML,7,13,3,132
@@ -146,11 +163,6 @@ mohitmishra786/vantage,SVG,1,0,0,1
 mohitmishra786/vantage,TOML,1,7,0,68
 mohitmishra786/vantage,Text,3,1,0,83
 mohitmishra786/vantage,YAML,2,2,5,39
-mohitmishra786/scoop-bucket,JSON,1,0,0,31
-mohitmishra786/scoop-bucket,Markdown,1,9,0,19
-mohitmishra786/scoop-bucket,YAML,2,5,0,47
-mohitmishra786/homebrew-tap,Markdown,1,20,0,39
-mohitmishra786/homebrew-tap,Ruby,2,13,4,95
 mohitmishra786/nixpkgs,Agda,1,1,0,4
 mohitmishra786/nixpkgs,AsciiDoc,2,1,0,3
 mohitmishra786/nixpkgs,Bourne Again Shell,50,507,444,2641
@@ -341,15 +353,6 @@ OmdenaAI/omdena-colombia-career-recommender-system,Jupyter Notebook,32,0,524362,
 OmdenaAI/omdena-colombia-career-recommender-system,Markdown,15,73,0,302
 OmdenaAI/omdena-colombia-career-recommender-system,Python,5,96,132,270
 OmdenaAI/omdena-colombia-career-recommender-system,Text,4,88,0,1208
-mohitmishra786/mdmend,Bourne Shell,3,76,1,353
-mohitmishra786/mdmend,Go,56,2059,135,11651
-mohitmishra786/mdmend,JSON,6,0,0,138
-mohitmishra786/mdmend,Markdown,47,738,0,2336
-mohitmishra786/mdmend,PowerShell,1,10,6,73
-mohitmishra786/mdmend,Ruby,1,10,9,44
-mohitmishra786/mdmend,XML,1,0,0,58
-mohitmishra786/mdmend,YAML,6,55,6,375
-mohitmishra786/mdmend,make,1,16,0,58
 mohitmishra786/strict,Go,1,18,1,87
 mohitmishra786/strict,HTML,1,31,0,231
 mohitmishra786/strict,JSON,2,0,0,385
