@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,54556
+mohitmishra786/confscout,JSON,8,0,0,53450
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -21,29 +21,6 @@ mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,144,2232,1590,13256
 mohitmishra786/confscout,YAML,3,29,12,141
-mohitmishra786/vantage,Bourne Shell,2,187,163,556
-mohitmishra786/vantage,CSS,1,41,13,303
-mohitmishra786/vantage,Dockerfile,1,11,14,18
-mohitmishra786/vantage,HTML,13,486,129,3455
-mohitmishra786/vantage,JSON,3,0,0,32
-mohitmishra786/vantage,JavaScript,5,89,99,400
-mohitmishra786/vantage,Markdown,7,235,0,720
-mohitmishra786/vantage,Python,38,1671,1532,6379
-mohitmishra786/vantage,SVG,1,0,0,1
-mohitmishra786/vantage,TOML,1,7,0,72
-mohitmishra786/vantage,Text,2,1,0,25
-mohitmishra786/vantage,YAML,5,24,6,261
-mohitmishra786/compiler-craft,C,1,26,11,139
-mohitmishra786/compiler-craft,CSS,1,27,9,137
-mohitmishra786/compiler-craft,HTML,1,0,0,32
-mohitmishra786/compiler-craft,JSON,7,0,0,344
-mohitmishra786/compiler-craft,JavaScript,3,11,4,119
-mohitmishra786/compiler-craft,Markdown,21,1418,8,4713
-mohitmishra786/compiler-craft,SQL,12,292,247,736
-mohitmishra786/compiler-craft,SVG,5,0,0,5
-mohitmishra786/compiler-craft,TOML,2,1,2,16
-mohitmishra786/compiler-craft,TypeScript,859,23474,13065,103368
-mohitmishra786/compiler-craft,YAML,10,2279,29,8561
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
@@ -53,6 +30,29 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/vantage,Bourne Shell,2,187,163,556
+mohitmishra786/vantage,CSS,1,41,13,303
+mohitmishra786/vantage,Dockerfile,1,11,14,18
+mohitmishra786/vantage,HTML,13,486,129,3458
+mohitmishra786/vantage,JSON,3,0,0,36
+mohitmishra786/vantage,JavaScript,5,89,99,400
+mohitmishra786/vantage,Markdown,7,235,0,720
+mohitmishra786/vantage,Python,45,1961,1664,7418
+mohitmishra786/vantage,SVG,1,0,0,1
+mohitmishra786/vantage,TOML,1,7,0,72
+mohitmishra786/vantage,Text,2,1,0,25
+mohitmishra786/vantage,YAML,5,24,6,261
+mohitmishra786/compiler-craft,C,1,26,11,139
+mohitmishra786/compiler-craft,CSS,1,27,9,137
+mohitmishra786/compiler-craft,HTML,1,0,0,32
+mohitmishra786/compiler-craft,JSON,7,0,0,344
+mohitmishra786/compiler-craft,JavaScript,14,172,128,1608
+mohitmishra786/compiler-craft,Markdown,29,2497,8,8316
+mohitmishra786/compiler-craft,SQL,12,292,247,736
+mohitmishra786/compiler-craft,SVG,5,0,0,5
+mohitmishra786/compiler-craft,TOML,2,1,2,16
+mohitmishra786/compiler-craft,TypeScript,859,23474,13065,103368
+mohitmishra786/compiler-craft,YAML,10,2279,29,8561
 mohitmishra786/mdmend,Bourne Shell,8,157,2,841
 mohitmishra786/mdmend,Go,81,2530,133,15665
 mohitmishra786/mdmend,HTML,2,37,0,516
