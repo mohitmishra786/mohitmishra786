@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29729775-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29731922-blue?style=for-the-badge)
 
-**Last Updated:** 2026-07-07 02:36:42 UTC
+**Last Updated:** 2026-07-08 02:10:39 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-07-07 02:25:44 UTC
+Generated on: 2026-07-08 01:59:39 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-07-07 02:25:44 UTC
 |--------|-------|
 | Total Repositories Processed | 176 |
 | Failed Repositories | 0 |
-| Total Files | 86,842 |
-| Total Lines of Code | 29,729,775 |
-| Total Blank Lines | 2,546,694 |
-| Total Comment Lines | 13,827,812 |
+| Total Files | 86,880 |
+| Total Lines of Code | 29,731,922 |
+| Total Blank Lines | 2,547,528 |
+| Total Comment Lines | 13,828,121 |
 
 
 ## Top 15 Languages by LOC
@@ -173,10 +173,10 @@ Generated on: 2026-07-07 02:25:44 UTC
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5081 |     122468 |        122468 |       23855 |
-| TypeScript   |   4288 |      88983 |         88983 |       91311 |
+| TypeScript   |   4322 |      89171 |         89171 |       91638 |
 | HTML         |   1629 |      84369 |         84369 |      314446 |
 | Python       |   2284 |      64331 |         64331 |       66785 |
-| JavaScript   |   1603 |      49146 |         49146 |       27250 |
+| JavaScript   |   1603 |      49149 |         49149 |       27250 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
 | Ruby         |   1360 |      33362 |         33362 |       23395 |
 | C++          |   1003 |      31803 |         31803 |       27537 |
