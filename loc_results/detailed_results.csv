@@ -1,12 +1,5 @@
 Repository,Language,Files,Blank,Comment,Code
-mohitmishra786/agentroles,JSON,2,0,0,49
-mohitmishra786/agentroles,JavaScript,3,11,0,116
-mohitmishra786/agentroles,Markdown,39,821,3,1884
-mohitmishra786/agentroles,Python,46,944,211,3665
-mohitmishra786/agentroles,SVG,2,25,16,158
-mohitmishra786/agentroles,TOML,2,7,0,80
-mohitmishra786/agentroles,YAML,22,86,1,708
-mohitmishra786/mohitmishra786,CSV,3,0,0,1380
+mohitmishra786/mohitmishra786,CSV,3,0,0,1388
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,58,13,208
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
@@ -14,7 +7,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,54656
+mohitmishra786/confscout,JSON,8,0,0,54583
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -24,17 +17,17 @@ mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,144,2232,1590,13256
 mohitmishra786/confscout,YAML,3,29,12,141
 mohitmishra786/matchquill,CSS,3,186,116,877
-mohitmishra786/matchquill,Dockerfile,1,14,13,36
+mohitmishra786/matchquill,Dockerfile,1,15,19,39
 mohitmishra786/matchquill,HTML,2,22,11,185
-mohitmishra786/matchquill,JSON,10,0,0,13329
-mohitmishra786/matchquill,JavaScript,10,248,283,1350
-mohitmishra786/matchquill,Markdown,9,413,0,1428
-mohitmishra786/matchquill,Python,67,2232,2104,8048
-mohitmishra786/matchquill,SQL,2,2,10,4
-mohitmishra786/matchquill,SVG,5,0,0,5
-mohitmishra786/matchquill,Text,2,2,0,47
-mohitmishra786/matchquill,TypeScript,171,3723,2018,23715
-mohitmishra786/matchquill,YAML,9,83,58,505
+mohitmishra786/matchquill,JSON,10,0,0,13369
+mohitmishra786/matchquill,JavaScript,10,279,337,1646
+mohitmishra786/matchquill,Markdown,16,591,0,1983
+mohitmishra786/matchquill,Python,69,2333,2258,8370
+mohitmishra786/matchquill,SQL,3,7,26,17
+mohitmishra786/matchquill,SVG,8,27,24,143
+mohitmishra786/matchquill,Text,3,3,0,69
+mohitmishra786/matchquill,TypeScript,182,3950,2207,25028
+mohitmishra786/matchquill,YAML,9,83,62,505
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
@@ -44,6 +37,20 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/agentroles,JSON,2,0,0,49
+mohitmishra786/agentroles,JavaScript,3,11,0,116
+mohitmishra786/agentroles,Markdown,39,821,3,1884
+mohitmishra786/agentroles,Python,46,944,211,3665
+mohitmishra786/agentroles,SVG,2,25,16,158
+mohitmishra786/agentroles,TOML,2,7,0,80
+mohitmishra786/agentroles,YAML,21,86,1,709
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
+mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/undertow,JSON,9,0,0,178
 mohitmishra786/undertow,Markdown,27,1060,0,3600
 mohitmishra786/undertow,Python,1,17,19,52
@@ -121,13 +128,6 @@ mohitmishra786/build-distributed-systems,TOML,1,1,1,8
 mohitmishra786/build-distributed-systems,Text,1,0,0,1
 mohitmishra786/build-distributed-systems,TypeScript,989,19253,13166,124949
 mohitmishra786/build-distributed-systems,YAML,21,147,61,950
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
-mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
-mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
 implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
 implement-from-scratch/memory-allocator-c,C,2,279,192,943
