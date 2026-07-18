@@ -1,6 +1,6 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-07-17 01:59:33 UTC
+Generated on: 2026-07-18 01:49:07 UTC
 
 ## Summary Statistics
 
@@ -8,10 +8,10 @@ Generated on: 2026-07-17 01:59:33 UTC
 |--------|-------|
 | Total Repositories Processed | 178 |
 | Failed Repositories | 0 |
-| Total Files | 87,315 |
-| Total Lines of Code | 29,748,397 |
-| Total Blank Lines | 2,546,215 |
-| Total Comment Lines | 13,823,591 |
+| Total Files | 87,316 |
+| Total Lines of Code | 29,748,350 |
+| Total Blank Lines | 2,546,224 |
+| Total Comment Lines | 13,823,609 |
 
 
 ## Top 15 Languages by LOC
@@ -22,7 +22,7 @@ Generated on: 2026-07-17 01:59:33 UTC
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5081 |     122468 |        122468 |       23855 |
 | HTML         |   1629 |      84369 |         84369 |      314446 |
-| TypeScript   |   4428 |      82337 |         82337 |       84320 |
+| TypeScript   |   4428 |      82355 |         82355 |       84329 |
 | Python       |   2343 |      64989 |         64989 |       68144 |
 | JavaScript   |   1609 |      49222 |         49222 |       27314 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
