@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,54380
+mohitmishra786/confscout,JSON,8,0,0,49810
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -20,12 +20,24 @@ mohitmishra786/confscout,SQL,2,14,17,40
 mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,144,2232,1590,13256
-mohitmishra786/confscout,YAML,3,29,12,141
+mohitmishra786/confscout,YAML,6,42,12,288
+mohitmishra786/low-level-craft,Bourne Shell,1,2,7,15
+mohitmishra786/low-level-craft,C,1,26,11,139
+mohitmishra786/low-level-craft,CSS,1,68,143,438
+mohitmishra786/low-level-craft,HTML,1,0,0,32
+mohitmishra786/low-level-craft,JSON,8,0,0,386
+mohitmishra786/low-level-craft,JavaScript,14,172,137,1632
+mohitmishra786/low-level-craft,Markdown,47,3637,0,11781
+mohitmishra786/low-level-craft,SQL,15,299,263,756
+mohitmishra786/low-level-craft,SVG,6,0,0,13
+mohitmishra786/low-level-craft,TOML,2,1,2,16
+mohitmishra786/low-level-craft,TypeScript,948,16977,6157,90186
+mohitmishra786/low-level-craft,YAML,10,2721,29,10263
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
 mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,101
+mohitmishra786/TheCoreDump,JSON,5,0,0,102
 mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
@@ -47,18 +59,6 @@ mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
 mohitmishra786/amILearningEnough,Text,1,0,0,29
 mohitmishra786/amILearningEnough,YAML,3,6,0,128
-mohitmishra786/low-level-craft,Bourne Shell,1,2,7,15
-mohitmishra786/low-level-craft,C,1,26,11,139
-mohitmishra786/low-level-craft,CSS,1,67,141,426
-mohitmishra786/low-level-craft,HTML,1,0,0,32
-mohitmishra786/low-level-craft,JSON,8,0,0,378
-mohitmishra786/low-level-craft,JavaScript,14,172,137,1632
-mohitmishra786/low-level-craft,Markdown,46,3583,0,11635
-mohitmishra786/low-level-craft,SQL,15,299,263,756
-mohitmishra786/low-level-craft,SVG,6,0,0,13
-mohitmishra786/low-level-craft,TOML,2,1,2,16
-mohitmishra786/low-level-craft,TypeScript,939,16895,6071,89241
-mohitmishra786/low-level-craft,YAML,10,2721,29,10263
 OmdenaAI/omdena-texas-homelessness,CSV,62,11,0,186193
 OmdenaAI/omdena-texas-homelessness,HTML,5,340,0,192346
 OmdenaAI/omdena-texas-homelessness,Jupyter Notebook,54,0,243098,24643
