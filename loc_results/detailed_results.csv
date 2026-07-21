@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,49940
+mohitmishra786/confscout,JSON,8,0,0,49976
 mohitmishra786/confscout,JavaScript,8,33,5,211
 mohitmishra786/confscout,Markdown,6,205,8,657
 mohitmishra786/confscout,Python,20,659,483,2595
@@ -21,6 +21,13 @@ mohitmishra786/confscout,SVG,7,0,0,30
 mohitmishra786/confscout,Text,2,6,0,21
 mohitmishra786/confscout,TypeScript,144,2232,1590,13256
 mohitmishra786/confscout,YAML,6,42,12,288
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
+mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
@@ -30,6 +37,18 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/mdmend,Bourne Shell,8,157,2,841
+mohitmishra786/mdmend,Go,81,2530,133,15665
+mohitmishra786/mdmend,HTML,2,37,0,516
+mohitmishra786/mdmend,JSON,37,0,0,7248
+mohitmishra786/mdmend,JavaScript,1,36,24,183
+mohitmishra786/mdmend,Markdown,55,986,0,3107
+mohitmishra786/mdmend,PowerShell,1,10,6,73
+mohitmishra786/mdmend,Python,1,26,1,99
+mohitmishra786/mdmend,Ruby,1,10,9,44
+mohitmishra786/mdmend,XML,1,0,0,58
+mohitmishra786/mdmend,YAML,11,95,6,741
+mohitmishra786/mdmend,make,1,17,0,61
 mohitmishra786/anti-vibe-skills,JSON,1,0,0,6
 mohitmishra786/anti-vibe-skills,Markdown,21,940,0,1835
 mohitmishra786/low-level-craft,Bourne Shell,1,2,7,15
@@ -44,13 +63,6 @@ mohitmishra786/low-level-craft,SVG,6,0,0,13
 mohitmishra786/low-level-craft,TOML,2,1,2,16
 mohitmishra786/low-level-craft,TypeScript,948,16977,6157,90186
 mohitmishra786/low-level-craft,YAML,10,2721,29,10263
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
-mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
-mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
 mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
 mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
@@ -102,18 +114,6 @@ mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
 mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
 mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
 mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
-mohitmishra786/mdmend,Bourne Shell,8,157,2,841
-mohitmishra786/mdmend,Go,81,2530,133,15665
-mohitmishra786/mdmend,HTML,2,37,0,516
-mohitmishra786/mdmend,JSON,31,0,0,5843
-mohitmishra786/mdmend,JavaScript,1,36,24,183
-mohitmishra786/mdmend,Markdown,55,986,0,3107
-mohitmishra786/mdmend,PowerShell,1,10,6,73
-mohitmishra786/mdmend,Python,1,26,1,99
-mohitmishra786/mdmend,Ruby,1,10,9,44
-mohitmishra786/mdmend,XML,1,0,0,58
-mohitmishra786/mdmend,YAML,11,95,6,741
-mohitmishra786/mdmend,make,1,17,0,61
 mohitmishra786/cpp-proposals-tracker,CSS,1,61,0,261
 mohitmishra786/cpp-proposals-tracker,JSON,4,0,0,9246
 mohitmishra786/cpp-proposals-tracker,JavaScript,3,6,2,25
