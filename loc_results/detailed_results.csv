@@ -10,24 +10,6 @@ mohitmishra786/mohitmishra786,Markdown,3,58,13,208
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
 mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
-mohitmishra786/confscout,Bourne Shell,1,4,2,8
-mohitmishra786/confscout,CSS,1,48,24,255
-mohitmishra786/confscout,JSON,8,0,0,49976
-mohitmishra786/confscout,JavaScript,8,33,5,211
-mohitmishra786/confscout,Markdown,6,205,8,657
-mohitmishra786/confscout,Python,20,659,483,2595
-mohitmishra786/confscout,SQL,2,14,17,40
-mohitmishra786/confscout,SVG,7,0,0,30
-mohitmishra786/confscout,Text,2,6,0,21
-mohitmishra786/confscout,TypeScript,144,2232,1590,13256
-mohitmishra786/confscout,YAML,6,42,12,288
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
-mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
-mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
@@ -37,6 +19,60 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/confscout,Bourne Shell,1,4,2,8
+mohitmishra786/confscout,CSS,1,55,35,323
+mohitmishra786/confscout,JSON,8,0,0,53545
+mohitmishra786/confscout,JavaScript,9,40,19,301
+mohitmishra786/confscout,Markdown,7,229,8,749
+mohitmishra786/confscout,Python,20,680,501,2706
+mohitmishra786/confscout,SQL,2,14,17,40
+mohitmishra786/confscout,SVG,7,0,0,7
+mohitmishra786/confscout,Text,2,6,0,23
+mohitmishra786/confscout,TypeScript,150,2285,1732,13875
+mohitmishra786/confscout,YAML,6,42,12,288
+mohitmishra786/vislab,Bourne Shell,2,219,115,451
+mohitmishra786/vislab,CSS,2,2,0,22
+mohitmishra786/vislab,HTML,6,6,1,145
+mohitmishra786/vislab,JSON,23,0,0,603
+mohitmishra786/vislab,JavaScript,8,76,54,572
+mohitmishra786/vislab,Markdown,61,1311,2,3122
+mohitmishra786/vislab,Ruby,1,2,0,10
+mohitmishra786/vislab,Text,1,6,0,14
+mohitmishra786/vislab,TypeScript,84,686,255,6323
+mohitmishra786/vislab,YAML,9,1664,18,6319
+mohitmishra786/repo2video,CSS,1,1,0,6
+mohitmishra786/repo2video,Dockerfile,1,7,0,12
+mohitmishra786/repo2video,HTML,1,5,0,100
+mohitmishra786/repo2video,JSON,2,0,0,45
+mohitmishra786/repo2video,JavaScript,3,2,3,15
+mohitmishra786/repo2video,Markdown,22,726,0,2323
+mohitmishra786/repo2video,Python,23,1439,1547,5729
+mohitmishra786/repo2video,SVG,1,7,6,29
+mohitmishra786/repo2video,TOML,1,7,0,76
+mohitmishra786/repo2video,Text,2,9,0,34
+mohitmishra786/repo2video,TypeScript,2,20,0,264
+mohitmishra786/repo2video,YAML,4,14,0,145
+mohitmishra786/neuro-code,Bourne Shell,2,31,13,215
+mohitmishra786/neuro-code,CSS,1,206,45,1314
+mohitmishra786/neuro-code,Dockerfile,2,35,22,58
+mohitmishra786/neuro-code,HTML,1,0,0,59
+mohitmishra786/neuro-code,JSON,6,0,0,4875
+mohitmishra786/neuro-code,JavaScript,1,1,10,38
+mohitmishra786/neuro-code,Markdown,40,904,0,2648
+mohitmishra786/neuro-code,Python,58,2335,2860,7484
+mohitmishra786/neuro-code,SVG,1,0,6,52
+mohitmishra786/neuro-code,TOML,1,15,0,129
+mohitmishra786/neuro-code,Text,2,14,0,42
+mohitmishra786/neuro-code,TypeScript,44,891,563,4868
+mohitmishra786/neuro-code,YAML,6,40,14,459
+mohitmishra786/neuro-code,make,1,13,4,32
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
+mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/mdmend,Bourne Shell,8,157,2,841
 mohitmishra786/mdmend,Go,81,2530,133,15665
 mohitmishra786/mdmend,HTML,2,37,0,516
@@ -168,10 +204,6 @@ mohitmishra786/readprism,TOML,1,10,24,23
 mohitmishra786/readprism,Text,1,12,0,48
 mohitmishra786/readprism,TypeScript,31,265,115,2887
 mohitmishra786/readprism,YAML,6,48,60,418
-mohitmishra786/repo2video,Markdown,4,321,0,955
-mohitmishra786/repo2video,Python,18,1337,1765,4905
-mohitmishra786/repo2video,Text,1,3,0,151
-mohitmishra786/repo2video,YAML,1,0,0,14
 mohitmishra786/vantage,Bourne Shell,2,187,163,556
 mohitmishra786/vantage,CSS,1,41,13,303
 mohitmishra786/vantage,Dockerfile,1,11,14,18
@@ -193,16 +225,6 @@ mohitmishra786/portfolio,TypeScript,49,291,80,3318
 mohitmishra786/portfolio,YAML,1,3,21,65
 AmadeusITGroup/OpenSourceBoard,Markdown,5,57,13,107
 AmadeusITGroup/OpenSourceBoard,YAML,1,0,0,11
-mohitmishra786/vislab,Bourne Shell,1,217,110,431
-mohitmishra786/vislab,CSS,2,2,0,22
-mohitmishra786/vislab,HTML,5,6,0,102
-mohitmishra786/vislab,JSON,21,0,0,456
-mohitmishra786/vislab,JavaScript,4,8,3,107
-mohitmishra786/vislab,Markdown,32,228,0,541
-mohitmishra786/vislab,Ruby,1,2,0,10
-mohitmishra786/vislab,TypeScript,68,563,88,4688
-mohitmishra786/vislab,YAML,8,1684,10,6332
-mohitmishra786/vislab,diff,1,0,11,10
 mohitmishra786/homebrew-tap,Markdown,1,20,0,39
 mohitmishra786/homebrew-tap,Ruby,2,12,6,94
 mohitmishra786/agentop,Go,71,1266,463,8040
@@ -431,16 +453,6 @@ mohitmishra786/inside-the-machine,Ruby,1,6,7,30
 mohitmishra786/inside-the-machine,SCSS,4,37,13,171
 mohitmishra786/inside-the-machine,Text,1,1,0,3
 mohitmishra786/inside-the-machine,YAML,2,18,12,97
-mohitmishra786/neuro-code,CSS,1,170,37,1086
-mohitmishra786/neuro-code,Dockerfile,2,35,22,58
-mohitmishra786/neuro-code,HTML,1,0,0,59
-mohitmishra786/neuro-code,JSON,4,0,0,6500
-mohitmishra786/neuro-code,Markdown,5,206,0,753
-mohitmishra786/neuro-code,Python,48,2260,2870,7081
-mohitmishra786/neuro-code,TOML,1,13,0,118
-mohitmishra786/neuro-code,Text,1,8,0,28
-mohitmishra786/neuro-code,TypeScript,39,856,547,4447
-mohitmishra786/neuro-code,YAML,1,5,0,76
 implement-from-scratch/website,CSS,1,36,14,146
 implement-from-scratch/website,JSON,3,0,0,10712
 implement-from-scratch/website,JavaScript,4,1,9,68

@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29746610-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29760840-blue?style=for-the-badge)
 
-**Last Updated:** 2026-07-21 02:08:40 UTC
+**Last Updated:** 2026-07-22 02:06:12 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-07-21 01:57:54 UTC
+Generated on: 2026-07-22 01:56:40 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-07-21 01:57:54 UTC
 |--------|-------|
 | Total Repositories Processed | 178 |
 | Failed Repositories | 0 |
-| Total Files | 87,335 |
-| Total Lines of Code | 29,746,610 |
-| Total Blank Lines | 2,546,374 |
-| Total Comment Lines | 13,823,697 |
+| Total Files | 87,499 |
+| Total Lines of Code | 29,760,840 |
+| Total Blank Lines | 2,549,256 |
+| Total Comment Lines | 13,823,957 |
 
 
 ## Top 15 Languages by LOC
@@ -172,18 +172,18 @@ Generated on: 2026-07-21 01:57:54 UTC
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
-| diff         |   5081 |     122468 |        122468 |       23855 |
-| HTML         |   1629 |      84369 |         84369 |      314446 |
-| TypeScript   |   4437 |      82441 |         82441 |       84411 |
-| Python       |   2343 |      64989 |         64989 |       68144 |
-| JavaScript   |   1609 |      49222 |         49222 |       27314 |
+| diff         |   5080 |     122457 |        122457 |       23855 |
+| HTML         |   1631 |      84370 |         84370 |      314451 |
+| TypeScript   |   4466 |      82766 |         82766 |       84642 |
+| Python       |   2358 |      64779 |         64779 |       68342 |
+| JavaScript   |   1618 |      49300 |         49300 |       27392 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
 | Ruby         |   1360 |      33362 |         33362 |       23395 |
 | C++          |   1003 |      31803 |         31803 |       27537 |
 | Rust         |    284 |      21290 |         21290 |       10098 |
 | C            |    672 |      14798 |         14798 |       20024 |
 | Go           |    637 |       9501 |          9501 |       17656 |
-| Bourne Shell |   1201 |       7878 |          7878 |       10913 |
+| Bourne Shell |   1204 |       7896 |          7896 |       10946 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 
 ## Top 20 Repositories by LOC
