@@ -1,6 +1,6 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-07-22 01:56:40 UTC
+Generated on: 2026-07-23 02:04:34 UTC
 
 ## Summary Statistics
 
@@ -8,10 +8,10 @@ Generated on: 2026-07-22 01:56:40 UTC
 |--------|-------|
 | Total Repositories Processed | 178 |
 | Failed Repositories | 0 |
-| Total Files | 87,499 |
-| Total Lines of Code | 29,760,840 |
-| Total Blank Lines | 2,549,256 |
-| Total Comment Lines | 13,823,957 |
+| Total Files | 87,582 |
+| Total Lines of Code | 29,767,169 |
+| Total Blank Lines | 2,550,589 |
+| Total Comment Lines | 13,824,654 |
 
 
 ## Top 15 Languages by LOC
@@ -22,8 +22,8 @@ Generated on: 2026-07-22 01:56:40 UTC
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
 | HTML         |   1631 |      84370 |         84370 |      314451 |
-| TypeScript   |   4466 |      82766 |         82766 |       84642 |
-| Python       |   2358 |      64779 |         64779 |       68342 |
+| TypeScript   |   4481 |      82826 |         82826 |       84695 |
+| Python       |   2392 |      65377 |         65377 |       69085 |
 | JavaScript   |   1618 |      49300 |         49300 |       27392 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
 | Ruby         |   1360 |      33362 |         33362 |       23395 |
@@ -31,7 +31,7 @@ Generated on: 2026-07-22 01:56:40 UTC
 | Rust         |    284 |      21290 |         21290 |       10098 |
 | C            |    672 |      14798 |         14798 |       20024 |
 | Go           |    637 |       9501 |          9501 |       17656 |
-| Bourne Shell |   1204 |       7896 |          7896 |       10946 |
+| Bourne Shell |   1206 |       7913 |          7913 |       10957 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 
 ## Top 20 Repositories by LOC

@@ -4,7 +4,7 @@ mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1388
+mohitmishra786/mohitmishra786,CSV,3,0,0,1400
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,58,13,208
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
@@ -19,9 +19,36 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
+mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
+mohitmishra786/readprism,Bourne Shell,2,11,17,30
+mohitmishra786/readprism,CSS,1,39,53,425
+mohitmishra786/readprism,Dockerfile,2,9,2,34
+mohitmishra786/readprism,HTML,3,5,0,163
+mohitmishra786/readprism,INI,1,9,0,31
+mohitmishra786/readprism,JSON,5,0,0,4556
+mohitmishra786/readprism,JavaScript,6,26,36,217
+mohitmishra786/readprism,Markdown,35,958,0,2140
+mohitmishra786/readprism,Python,143,2649,1477,11135
+mohitmishra786/readprism,SQL,1,0,0,1
+mohitmishra786/readprism,SVG,1,0,2,7
+mohitmishra786/readprism,TOML,1,10,24,23
+mohitmishra786/readprism,Text,1,13,0,50
+mohitmishra786/readprism,TypeScript,46,318,175,3673
+mohitmishra786/readprism,YAML,7,55,75,447
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,55,35,323
-mohitmishra786/confscout,JSON,8,0,0,53545
+mohitmishra786/confscout,JSON,8,0,0,51656
 mohitmishra786/confscout,JavaScript,9,40,19,301
 mohitmishra786/confscout,Markdown,7,229,8,749
 mohitmishra786/confscout,Python,20,680,501,2706
@@ -66,13 +93,6 @@ mohitmishra786/neuro-code,Text,2,14,0,42
 mohitmishra786/neuro-code,TypeScript,44,891,563,4868
 mohitmishra786/neuro-code,YAML,6,40,14,459
 mohitmishra786/neuro-code,make,1,13,4,32
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
-mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
-mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/mdmend,Bourne Shell,8,157,2,841
 mohitmishra786/mdmend,Go,81,2530,133,15665
 mohitmishra786/mdmend,HTML,2,37,0,516
@@ -104,11 +124,6 @@ mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
 mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
 mohitmishra786/reversingBits,HTML,1,120,1,760
 mohitmishra786/reversingBits,Markdown,46,1725,0,7030
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
 OmdenaAI/omdena-texas-homelessness,CSV,62,11,0,186193
 OmdenaAI/omdena-texas-homelessness,HTML,5,340,0,192346
 OmdenaAI/omdena-texas-homelessness,Jupyter Notebook,54,0,243098,24643
@@ -190,20 +205,6 @@ implement-from-scratch/memory-allocator-c,INI,1,5,0,17
 implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
 implement-from-scratch/memory-allocator-c,YAML,5,64,21,328
 implement-from-scratch/memory-allocator-c,make,1,30,25,209
-mohitmishra786/readprism,CSS,1,35,46,376
-mohitmishra786/readprism,Dockerfile,2,9,2,34
-mohitmishra786/readprism,HTML,3,5,0,159
-mohitmishra786/readprism,INI,1,9,0,31
-mohitmishra786/readprism,JSON,5,0,0,1907
-mohitmishra786/readprism,JavaScript,6,26,36,217
-mohitmishra786/readprism,Markdown,4,444,0,658
-mohitmishra786/readprism,Python,109,1906,879,7960
-mohitmishra786/readprism,SQL,1,0,0,1
-mohitmishra786/readprism,SVG,1,0,2,7
-mohitmishra786/readprism,TOML,1,10,24,23
-mohitmishra786/readprism,Text,1,12,0,48
-mohitmishra786/readprism,TypeScript,31,265,115,2887
-mohitmishra786/readprism,YAML,6,48,60,418
 mohitmishra786/vantage,Bourne Shell,2,187,163,556
 mohitmishra786/vantage,CSS,1,41,13,303
 mohitmishra786/vantage,Dockerfile,1,11,14,18
