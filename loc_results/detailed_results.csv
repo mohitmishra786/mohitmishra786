@@ -10,18 +10,6 @@ mohitmishra786/mohitmishra786,Markdown,3,58,13,208
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
 mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
-mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
-mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
-mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
-mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
-mohitmishra786/TheCoreDump,C,4,94,20,450
-mohitmishra786/TheCoreDump,HTML,4,38,16,259
-mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,102
-mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
-mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
-mohitmishra786/TheCoreDump,Ruby,1,4,2,8
-mohitmishra786/TheCoreDump,YAML,6,58,126,264
 mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
 mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
 mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
@@ -29,9 +17,33 @@ mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
 mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
 mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
 mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
+mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
+mohitmishra786/TheCoreDump,C,4,94,20,450
+mohitmishra786/TheCoreDump,HTML,4,38,16,259
+mohitmishra786/TheCoreDump,INI,1,4,0,15
+mohitmishra786/TheCoreDump,JSON,5,0,0,101
+mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
+mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
+mohitmishra786/TheCoreDump,Ruby,1,4,2,8
+mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
+mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
+mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
+mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
+mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
+mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
+mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
+mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
+mohitmishra786/exploring-os,C,5,23,7,98
+mohitmishra786/exploring-os,CSS,1,28,8,150
+mohitmishra786/exploring-os,HTML,7,13,3,132
+mohitmishra786/exploring-os,JavaScript,1,3,0,13
+mohitmishra786/exploring-os,Markdown,83,6981,0,23785
+mohitmishra786/exploring-os,YAML,1,4,3,22
+mohitmishra786/exploring-os,make,1,6,7,8
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,55,35,323
-mohitmishra786/confscout,JSON,8,0,0,51611
+mohitmishra786/confscout,JSON,8,0,0,54978
 mohitmishra786/confscout,JavaScript,9,40,19,301
 mohitmishra786/confscout,Markdown,7,229,8,749
 mohitmishra786/confscout,Python,20,680,501,2706
@@ -40,6 +52,9 @@ mohitmishra786/confscout,SVG,7,0,0,7
 mohitmishra786/confscout,Text,2,6,0,23
 mohitmishra786/confscout,TypeScript,150,2285,1732,13875
 mohitmishra786/confscout,YAML,6,42,12,288
+mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
+mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
+mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
 mohitmishra786/amILearningEnough,CSS,1,15,6,58
 mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
@@ -157,14 +172,6 @@ mohitmishra786/undertow,Rust,58,970,1326,10598
 mohitmishra786/undertow,SVG,3,14,12,137
 mohitmishra786/undertow,TOML,16,40,24,335
 mohitmishra786/undertow,YAML,13,33,22,544
-mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
-mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
-mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
-mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
-mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
-mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
-mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
-mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
 mohitmishra786/cpp-proposals-tracker,CSS,1,61,0,261
 mohitmishra786/cpp-proposals-tracker,JSON,4,0,0,9246
 mohitmishra786/cpp-proposals-tracker,JavaScript,3,6,2,25
@@ -174,13 +181,6 @@ mohitmishra786/cpp-proposals-tracker,SQL,1,25,37,213
 mohitmishra786/cpp-proposals-tracker,Text,1,0,0,24
 mohitmishra786/cpp-proposals-tracker,TypeScript,37,483,194,4061
 mohitmishra786/cpp-proposals-tracker,YAML,1,10,0,87
-mohitmishra786/exploring-os,C,5,23,7,98
-mohitmishra786/exploring-os,CSS,1,28,8,150
-mohitmishra786/exploring-os,HTML,7,13,3,132
-mohitmishra786/exploring-os,JavaScript,1,3,0,13
-mohitmishra786/exploring-os,Markdown,83,6981,0,23785
-mohitmishra786/exploring-os,YAML,1,4,3,22
-mohitmishra786/exploring-os,make,1,6,7,8
 mohitmishra786/build-distributed-systems,Bourne Shell,9,136,66,848
 mohitmishra786/build-distributed-systems,C++,1,29,13,96
 mohitmishra786/build-distributed-systems,CSS,1,66,10,368
