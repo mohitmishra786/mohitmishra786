@@ -1,6 +1,6 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-08-02 02:02:39 UTC
+Generated on: 2026-08-03 02:04:50 UTC
 
 ## Summary Statistics
 
@@ -9,9 +9,9 @@ Generated on: 2026-08-02 02:02:39 UTC
 | Total Repositories Processed | 178 |
 | Failed Repositories | 0 |
 | Total Files | 87,588 |
-| Total Lines of Code | 29,769,517 |
+| Total Lines of Code | 29,771,935 |
 | Total Blank Lines | 2,550,596 |
-| Total Comment Lines | 13,826,434 |
+| Total Comment Lines | 13,824,664 |
 
 
 ## Top 15 Languages by LOC
@@ -21,8 +21,8 @@ Generated on: 2026-08-02 02:02:39 UTC
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
-| TypeScript   |   4481 |      84603 |         84603 |       84700 |
 | HTML         |   1631 |      84370 |         84370 |      314451 |
+| TypeScript   |   4481 |      82833 |         82833 |       84700 |
 | Python       |   2392 |      65377 |         65377 |       69085 |
 | JavaScript   |   1618 |      49300 |         49300 |       27392 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
@@ -45,7 +45,7 @@ Generated on: 2026-08-02 02:02:39 UTC
 | mohitmishra786/meshery                             |       1650694 |
 | OmdenaAI/omdena-bangladesh-market-place            |        971598 |
 | OmdenaAI/latam-chapters-news-detector              |        958890 |
-| mohitmishra786/opencode                            |        646180 |
+| mohitmishra786/opencode                            |        647950 |
 | mohitmishra786/Natural-Language-Processing-Specialization |        541573 |
 | OmdenaAI/dhaka-bangladesh-real-estate-recommendation |        477093 |
 | OmdenaAI/omdena-texas-homelessness                 |        404748 |
