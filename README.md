@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29779418-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29781627-blue?style=for-the-badge)
 
-**Last Updated:** 2026-08-29 05:10:33 UTC
+**Last Updated:** 2026-09-20 02:53:35 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-08-29 05:01:22 UTC
+Generated on: 2026-09-20 02:43:22 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-08-29 05:01:22 UTC
 |--------|-------|
 | Total Repositories Processed | 178 |
 | Failed Repositories | 0 |
-| Total Files | 87,613 |
-| Total Lines of Code | 29,779,418 |
-| Total Blank Lines | 2,550,602 |
-| Total Comment Lines | 13,824,682 |
+| Total Files | 87,706 |
+| Total Lines of Code | 29,781,627 |
+| Total Blank Lines | 2,551,767 |
+| Total Comment Lines | 13,825,534 |
 
 
 ## Top 15 Languages by LOC
@@ -174,16 +174,16 @@ Generated on: 2026-08-29 05:01:22 UTC
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
 | HTML         |   1631 |      84370 |         84370 |      314451 |
-| TypeScript   |   4481 |      82836 |         82836 |       84701 |
+| TypeScript   |   4565 |      83577 |         83577 |       85511 |
 | Python       |   2392 |      65378 |         65378 |       69085 |
-| JavaScript   |   1619 |      49314 |         49314 |       27397 |
+| JavaScript   |   1621 |      49378 |         49378 |       27436 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
 | Ruby         |   1360 |      33362 |         33362 |       23395 |
 | C++          |   1003 |      31803 |         31803 |       27537 |
 | Rust         |    284 |      21290 |         21290 |       10098 |
 | C            |    672 |      14798 |         14798 |       20024 |
 | Go           |    637 |       9501 |          9501 |       17656 |
-| Bourne Shell |   1206 |       7913 |          7913 |       10957 |
+| Bourne Shell |   1206 |       7918 |          7918 |       10957 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 
 ## Top 20 Repositories by LOC
@@ -208,7 +208,7 @@ Generated on: 2026-08-29 05:01:22 UTC
 | mohitmishra786/REST-API                            |        208637 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
-| mohitmishra786/build-distributed-systems           |        161172 |
+| mohitmishra786/build-distributed-systems           |        164886 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
 
 </details>
