@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29781627-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29789924-blue?style=for-the-badge)
 
-**Last Updated:** 2026-09-20 02:53:35 UTC
+**Last Updated:** 2026-09-21 02:49:46 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-09-20 02:43:22 UTC
+Generated on: 2026-09-21 02:40:29 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-09-20 02:43:22 UTC
 |--------|-------|
 | Total Repositories Processed | 178 |
 | Failed Repositories | 0 |
-| Total Files | 87,706 |
-| Total Lines of Code | 29,781,627 |
-| Total Blank Lines | 2,551,767 |
-| Total Comment Lines | 13,825,534 |
+| Total Files | 87,751 |
+| Total Lines of Code | 29,789,924 |
+| Total Blank Lines | 2,553,237 |
+| Total Comment Lines | 13,826,867 |
 
 
 ## Top 15 Languages by LOC
@@ -173,10 +173,10 @@ Generated on: 2026-09-20 02:43:22 UTC
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
-| HTML         |   1631 |      84370 |         84370 |      314451 |
-| TypeScript   |   4565 |      83577 |         83577 |       85511 |
+| TypeScript   |   4593 |      84900 |         84900 |       86636 |
+| HTML         |   1632 |      84370 |         84370 |      314465 |
 | Python       |   2392 |      65378 |         65378 |       69085 |
-| JavaScript   |   1621 |      49378 |         49378 |       27436 |
+| JavaScript   |   1622 |      49378 |         49378 |       27436 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
 | Ruby         |   1360 |      33362 |         33362 |       23395 |
 | C++          |   1003 |      31803 |         31803 |       27537 |
@@ -207,8 +207,8 @@ Generated on: 2026-09-20 02:43:22 UTC
 | mohitmishra786/Smart-Health                        |        227712 |
 | mohitmishra786/REST-API                            |        208637 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
+| mohitmishra786/build-distributed-systems           |        167547 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
-| mohitmishra786/build-distributed-systems           |        164886 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
 
 </details>
