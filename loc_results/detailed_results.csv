@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,55,35,323
-mohitmishra786/confscout,JSON,8,0,0,49776
+mohitmishra786/confscout,JSON,8,0,0,49455
 mohitmishra786/confscout,JavaScript,10,45,33,333
 mohitmishra786/confscout,Markdown,7,229,8,749
 mohitmishra786/confscout,Python,20,680,502,2706
@@ -37,6 +37,21 @@ mohitmishra786/TheCoreDump,JavaScript,1,11,6,101
 mohitmishra786/TheCoreDump,Markdown,102,10192,14,26744
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
+mohitmishra786/low-level-craft,Bourne Shell,1,2,12,15
+mohitmishra786/low-level-craft,C,1,26,11,139
+mohitmishra786/low-level-craft,CSS,1,69,146,443
+mohitmishra786/low-level-craft,HTML,2,14,0,522
+mohitmishra786/low-level-craft,JSON,13,0,0,433
+mohitmishra786/low-level-craft,JavaScript,15,172,143,1641
+mohitmishra786/low-level-craft,Markdown,56,4165,0,13328
+mohitmishra786/low-level-craft,SQL,19,315,287,799
+mohitmishra786/low-level-craft,SVG,6,0,0,13
+mohitmishra786/low-level-craft,TOML,2,1,2,16
+mohitmishra786/low-level-craft,Text,1,0,0,2
+mohitmishra786/low-level-craft,TypeScript,1009,18098,7423,98639
+mohitmishra786/low-level-craft,YAML,11,2732,30,10352
 mohitmishra786/build-distributed-systems,Bourne Shell,9,136,66,848
 mohitmishra786/build-distributed-systems,C++,1,29,13,96
 mohitmishra786/build-distributed-systems,CSS,1,66,10,368
@@ -80,19 +95,6 @@ mohitmishra786/BitsAndBytes,Python,1,6,3,17
 mohitmishra786/BitsAndBytes,SWIG,3,3766,0,3765
 mohitmishra786/BitsAndBytes,Text,8,59,0,187
 mohitmishra786/BitsAndBytes,make,1,4,0,12
-mohitmishra786/low-level-craft,Bourne Shell,1,2,12,15
-mohitmishra786/low-level-craft,C,1,26,11,139
-mohitmishra786/low-level-craft,CSS,1,69,146,443
-mohitmishra786/low-level-craft,HTML,2,14,0,522
-mohitmishra786/low-level-craft,JSON,13,0,0,433
-mohitmishra786/low-level-craft,JavaScript,15,172,143,1641
-mohitmishra786/low-level-craft,Markdown,56,4165,0,13328
-mohitmishra786/low-level-craft,SQL,19,315,287,799
-mohitmishra786/low-level-craft,SVG,6,0,0,13
-mohitmishra786/low-level-craft,TOML,2,1,2,16
-mohitmishra786/low-level-craft,Text,1,0,0,2
-mohitmishra786/low-level-craft,TypeScript,1008,18072,7390,98496
-mohitmishra786/low-level-craft,YAML,11,2732,30,10352
 mohitmishra786/amILearningEnough,CSS,1,15,6,58
 mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
@@ -101,8 +103,6 @@ mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
 mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
 mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/inside-the-machine,Bourne Shell,1,8,6,14
 mohitmishra786/inside-the-machine,HTML,7,28,0,257
 mohitmishra786/inside-the-machine,JavaScript,1,5,4,13
