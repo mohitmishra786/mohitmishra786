@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29839702-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29898868-blue?style=for-the-badge)
 
-**Last Updated:** 2026-09-25 02:59:54 UTC
+**Last Updated:** 2026-09-26 03:01:15 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-09-25 02:49:13 UTC
+Generated on: 2026-09-26 02:52:05 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-09-25 02:49:13 UTC
 |--------|-------|
 | Total Repositories Processed | 178 |
 | Failed Repositories | 0 |
-| Total Files | 87,979 |
-| Total Lines of Code | 29,839,702 |
-| Total Blank Lines | 2,559,896 |
-| Total Comment Lines | 13,827,563 |
+| Total Files | 88,013 |
+| Total Lines of Code | 29,898,868 |
+| Total Blank Lines | 2,567,419 |
+| Total Comment Lines | 13,827,716 |
 
 
 ## Top 15 Languages by LOC
@@ -173,16 +173,16 @@ Generated on: 2026-09-25 02:49:13 UTC
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
-| TypeScript   |   4663 |      85086 |         85086 |       91844 |
+| TypeScript   |   4673 |      85103 |         85103 |       99006 |
 | HTML         |   1632 |      84370 |         84370 |      314465 |
-| Python       |   2437 |      65718 |         65718 |       70087 |
-| JavaScript   |   1623 |      49388 |         49388 |       27448 |
+| Python       |   2442 |      65805 |         65805 |       70259 |
+| JavaScript   |   1626 |      49404 |         49404 |       27457 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
 | Ruby         |   1360 |      33362 |         33362 |       23395 |
-| C++          |   1003 |      31803 |         31803 |       27537 |
-| Rust         |    284 |      21290 |         21290 |       10098 |
-| C            |    672 |      14798 |         14798 |       20024 |
-| Go           |    637 |       9501 |          9501 |       17656 |
+| C++          |   1004 |      31807 |         31807 |       27539 |
+| Rust         |    285 |      21294 |         21294 |       10100 |
+| C            |    673 |      14802 |         14802 |       20027 |
+| Go           |    638 |       9505 |          9505 |       17660 |
 | Bourne Shell |   1206 |       7918 |          7918 |       10957 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 
@@ -205,11 +205,11 @@ Generated on: 2026-09-25 02:49:13 UTC
 | mohitmishra786/chessman                            |        290280 |
 | mohitmishra786/bustub-private                      |        276102 |
 | mohitmishra786/Smart-Health                        |        227712 |
-| mohitmishra786/build-distributed-systems           |        209884 |
+| mohitmishra786/build-distributed-systems           |        210240 |
 | mohitmishra786/REST-API                            |        208637 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
+| mohitmishra786/low-level-craft                     |        176428 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
-| OmdenaAI/omdena-india-roadsafety                   |        143114 |
 
 </details>
 
