@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29898868-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29917194-blue?style=for-the-badge)
 
-**Last Updated:** 2026-09-26 03:01:15 UTC
+**Last Updated:** 2026-09-27 03:04:45 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-09-26 02:52:05 UTC
+Generated on: 2026-09-27 02:54:17 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-09-26 02:52:05 UTC
 |--------|-------|
 | Total Repositories Processed | 178 |
 | Failed Repositories | 0 |
-| Total Files | 88,013 |
-| Total Lines of Code | 29,898,868 |
-| Total Blank Lines | 2,567,419 |
-| Total Comment Lines | 13,827,716 |
+| Total Files | 88,250 |
+| Total Lines of Code | 29,917,194 |
+| Total Blank Lines | 2,568,457 |
+| Total Comment Lines | 13,828,397 |
 
 
 ## Top 15 Languages by LOC
@@ -173,10 +173,10 @@ Generated on: 2026-09-26 02:52:05 UTC
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
-| TypeScript   |   4673 |      85103 |         85103 |       99006 |
+| TypeScript   |   4793 |      85776 |         85776 |      100051 |
 | HTML         |   1632 |      84370 |         84370 |      314465 |
 | Python       |   2442 |      65805 |         65805 |       70259 |
-| JavaScript   |   1626 |      49404 |         49404 |       27457 |
+| JavaScript   |   1628 |      49420 |         49420 |       27470 |
 | C/C++ Header |    552 |      36629 |         36629 |       18955 |
 | Ruby         |   1360 |      33362 |         33362 |       23395 |
 | C++          |   1004 |      31807 |         31807 |       27539 |
@@ -205,10 +205,10 @@ Generated on: 2026-09-26 02:52:05 UTC
 | mohitmishra786/chessman                            |        290280 |
 | mohitmishra786/bustub-private                      |        276102 |
 | mohitmishra786/Smart-Health                        |        227712 |
-| mohitmishra786/build-distributed-systems           |        210240 |
+| mohitmishra786/build-distributed-systems           |        222726 |
 | mohitmishra786/REST-API                            |        208637 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
-| mohitmishra786/low-level-craft                     |        176428 |
+| mohitmishra786/low-level-craft                     |        182588 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
 
 </details>
