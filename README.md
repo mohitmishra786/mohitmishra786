@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29933032-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29944325-blue?style=for-the-badge)
 
-**Last Updated:** 2026-09-29 03:44:49 UTC
+**Last Updated:** 2026-09-30 03:29:57 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-09-29 03:34:32 UTC
+Generated on: 2026-09-30 03:20:05 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-09-29 03:34:32 UTC
 |--------|-------|
 | Total Repositories Processed | 179 |
 | Failed Repositories | 0 |
-| Total Files | 88,407 |
-| Total Lines of Code | 29,933,032 |
-| Total Blank Lines | 2,570,655 |
-| Total Comment Lines | 13,829,509 |
+| Total Files | 88,624 |
+| Total Lines of Code | 29,944,325 |
+| Total Blank Lines | 2,572,312 |
+| Total Comment Lines | 13,830,121 |
 
 
 ## Top 15 Languages by LOC
@@ -173,7 +173,7 @@ Generated on: 2026-09-29 03:34:32 UTC
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
-| TypeScript   |   4846 |      86175 |         86175 |      100454 |
+| TypeScript   |   5061 |      86741 |         86741 |      101992 |
 | HTML         |   1632 |      84370 |         84370 |      314465 |
 | Python       |   2499 |      66201 |         66201 |       71240 |
 | JavaScript   |   1630 |      49425 |         49425 |       27473 |
@@ -207,8 +207,8 @@ Generated on: 2026-09-29 03:34:32 UTC
 | mohitmishra786/Smart-Health                        |        227712 |
 | mohitmishra786/build-distributed-systems           |        224515 |
 | mohitmishra786/REST-API                            |        208637 |
+| mohitmishra786/low-level-craft                     |        195762 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
-| mohitmishra786/low-level-craft                     |        184357 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
 
 </details>

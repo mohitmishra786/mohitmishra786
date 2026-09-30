@@ -1,4 +1,6 @@
 Repository,Language,Files,Blank,Comment,Code
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/Competitive_Programming,C++,255,1331,3749,8342
 mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
@@ -12,7 +14,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,55,35,323
-mohitmishra786/confscout,JSON,8,0,0,48641
+mohitmishra786/confscout,JSON,8,0,0,48529
 mohitmishra786/confscout,JavaScript,10,45,33,333
 mohitmishra786/confscout,Markdown,7,229,8,749
 mohitmishra786/confscout,Python,20,680,502,2706
@@ -34,15 +36,32 @@ mohitmishra786/low-level-craft,Bourne Shell,1,2,12,15
 mohitmishra786/low-level-craft,C,1,26,11,139
 mohitmishra786/low-level-craft,CSS,1,69,146,443
 mohitmishra786/low-level-craft,HTML,2,14,0,522
-mohitmishra786/low-level-craft,JSON,13,0,0,437
+mohitmishra786/low-level-craft,JSON,13,0,0,438
 mohitmishra786/low-level-craft,JavaScript,15,172,143,1641
-mohitmishra786/low-level-craft,Markdown,56,4175,0,13352
-mohitmishra786/low-level-craft,SQL,21,328,311,897
+mohitmishra786/low-level-craft,Markdown,57,4252,0,13733
+mohitmishra786/low-level-craft,SQL,22,370,355,1028
 mohitmishra786/low-level-craft,SVG,6,0,0,13
 mohitmishra786/low-level-craft,TOML,2,1,2,16
 mohitmishra786/low-level-craft,Text,1,0,0,2
-mohitmishra786/low-level-craft,TypeScript,1075,25938,7932,156527
-mohitmishra786/low-level-craft,YAML,11,2732,32,10353
+mohitmishra786/low-level-craft,TypeScript,1290,27476,8498,167418
+mohitmishra786/low-level-craft,YAML,11,2732,34,10354
+mohitmishra786/build-distributed-systems,Bourne Shell,9,136,66,848
+mohitmishra786/build-distributed-systems,C,3,11,14,99
+mohitmishra786/build-distributed-systems,C++,3,35,26,146
+mohitmishra786/build-distributed-systems,CSS,1,66,10,368
+mohitmishra786/build-distributed-systems,Go,79,1294,415,9708
+mohitmishra786/build-distributed-systems,JSON,8,2,0,12936
+mohitmishra786/build-distributed-systems,Java,3,8,14,97
+mohitmishra786/build-distributed-systems,JavaScript,21,181,225,1288
+mohitmishra786/build-distributed-systems,Markdown,59,2453,99,6359
+mohitmishra786/build-distributed-systems,Python,46,884,558,4341
+mohitmishra786/build-distributed-systems,Rust,3,27,23,148
+mohitmishra786/build-distributed-systems,SQL,4,162,293,341
+mohitmishra786/build-distributed-systems,SVG,214,191,158,13331
+mohitmishra786/build-distributed-systems,TOML,1,1,1,8
+mohitmishra786/build-distributed-systems,Text,1,0,0,1
+mohitmishra786/build-distributed-systems,TypeScript,1218,26030,14730,173519
+mohitmishra786/build-distributed-systems,YAML,21,153,78,977
 mohitmishra786/exploring-os,C,5,23,7,98
 mohitmishra786/exploring-os,CSS,1,28,8,150
 mohitmishra786/exploring-os,HTML,7,13,3,132
@@ -83,23 +102,6 @@ mohitmishra786/yt-setup,Python,56,976,392,5385
 mohitmishra786/yt-setup,TOML,1,10,5,101
 mohitmishra786/yt-setup,Text,1,3,0,28
 mohitmishra786/yt-setup,YAML,1,10,0,35
-mohitmishra786/build-distributed-systems,Bourne Shell,9,136,66,848
-mohitmishra786/build-distributed-systems,C,3,11,14,99
-mohitmishra786/build-distributed-systems,C++,3,35,26,146
-mohitmishra786/build-distributed-systems,CSS,1,66,10,368
-mohitmishra786/build-distributed-systems,Go,79,1294,415,9708
-mohitmishra786/build-distributed-systems,JSON,8,2,0,12936
-mohitmishra786/build-distributed-systems,Java,3,8,14,97
-mohitmishra786/build-distributed-systems,JavaScript,21,181,225,1288
-mohitmishra786/build-distributed-systems,Markdown,59,2453,99,6359
-mohitmishra786/build-distributed-systems,Python,46,884,558,4341
-mohitmishra786/build-distributed-systems,Rust,3,27,23,148
-mohitmishra786/build-distributed-systems,SQL,4,162,293,341
-mohitmishra786/build-distributed-systems,SVG,214,191,158,13331
-mohitmishra786/build-distributed-systems,TOML,1,1,1,8
-mohitmishra786/build-distributed-systems,Text,1,0,0,1
-mohitmishra786/build-distributed-systems,TypeScript,1218,26030,14730,173519
-mohitmishra786/build-distributed-systems,YAML,21,153,78,977
 mohitmishra786/repo2video,CSS,1,1,0,6
 mohitmishra786/repo2video,Dockerfile,1,7,0,12
 mohitmishra786/repo2video,HTML,1,5,0,100
@@ -133,8 +135,6 @@ mohitmishra786/readprism,Text,1,13,0,53
 mohitmishra786/readprism,TypeScript,48,329,178,3817
 mohitmishra786/readprism,YAML,7,58,78,474
 mohitmishra786/readprism,make,1,3,0,7
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/portfolio,CSS,1,12,0,147
 mohitmishra786/portfolio,JSON,4,0,0,7467
 mohitmishra786/portfolio,JavaScript,2,3,2,20
