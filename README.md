@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-29944325-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-29984579-blue?style=for-the-badge)
 
-**Last Updated:** 2026-09-30 03:29:57 UTC
+**Last Updated:** 2026-10-01 03:34:55 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-09-30 03:20:05 UTC
+Generated on: 2026-10-01 03:26:24 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-09-30 03:20:05 UTC
 |--------|-------|
 | Total Repositories Processed | 179 |
 | Failed Repositories | 0 |
-| Total Files | 88,624 |
-| Total Lines of Code | 29,944,325 |
-| Total Blank Lines | 2,572,312 |
-| Total Comment Lines | 13,830,121 |
+| Total Files | 88,673 |
+| Total Lines of Code | 29,984,579 |
+| Total Blank Lines | 2,581,742 |
+| Total Comment Lines | 13,830,032 |
 
 
 ## Top 15 Languages by LOC
@@ -173,7 +173,7 @@ Generated on: 2026-09-30 03:20:05 UTC
 | Jupyter Notebook |    758 |   13089396 |      13089396 |           0 |
 | Nix          |  42784 |     144048 |        144048 |      427423 |
 | diff         |   5080 |     122457 |        122457 |       23855 |
-| TypeScript   |   5061 |      86741 |         86741 |      101992 |
+| TypeScript   |   5083 |      86644 |         86644 |      111420 |
 | HTML         |   1632 |      84370 |         84370 |      314465 |
 | Python       |   2499 |      66201 |         66201 |       71240 |
 | JavaScript   |   1630 |      49425 |         49425 |       27473 |
@@ -204,10 +204,10 @@ Generated on: 2026-09-30 03:20:05 UTC
 | mohitmishra786/Homelessness-in-Texas               |        404740 |
 | mohitmishra786/chessman                            |        290280 |
 | mohitmishra786/bustub-private                      |        276102 |
+| mohitmishra786/build-distributed-systems           |        264653 |
 | mohitmishra786/Smart-Health                        |        227712 |
-| mohitmishra786/build-distributed-systems           |        224515 |
 | mohitmishra786/REST-API                            |        208637 |
-| mohitmishra786/low-level-craft                     |        195762 |
+| mohitmishra786/low-level-craft                     |        195819 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
 
