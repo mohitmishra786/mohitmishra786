@@ -4,7 +4,7 @@ mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
 mohitmishra786/Competitive_Programming,Text,2,0,0,3
 mohitmishra786/Competitive_Programming,YAML,1,2,3,26
-mohitmishra786/mohitmishra786,CSV,3,0,0,1416
+mohitmishra786/mohitmishra786,CSV,3,0,0,1445
 mohitmishra786/mohitmishra786,JSON,1,0,0,10
 mohitmishra786/mohitmishra786,Markdown,3,58,13,208
 mohitmishra786/mohitmishra786,SVG,8,1,0,67
@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,55,35,323
-mohitmishra786/confscout,JSON,8,0,0,47709
+mohitmishra786/confscout,JSON,8,0,0,47239
 mohitmishra786/confscout,JavaScript,10,45,33,333
 mohitmishra786/confscout,Markdown,7,229,8,749
 mohitmishra786/confscout,Python,20,680,502,2706
@@ -26,6 +26,19 @@ mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
 mohitmishra786/amILearningEnough,Text,1,0,0,29
 mohitmishra786/amILearningEnough,YAML,3,6,0,128
+mohitmishra786/low-level-craft,Bourne Shell,1,2,12,15
+mohitmishra786/low-level-craft,C,1,26,11,139
+mohitmishra786/low-level-craft,CSS,1,69,146,443
+mohitmishra786/low-level-craft,HTML,2,14,0,522
+mohitmishra786/low-level-craft,JSON,13,0,0,438
+mohitmishra786/low-level-craft,JavaScript,15,172,143,1641
+mohitmishra786/low-level-craft,Markdown,57,4259,0,13755
+mohitmishra786/low-level-craft,SQL,24,373,371,1031
+mohitmishra786/low-level-craft,SVG,6,0,0,13
+mohitmishra786/low-level-craft,TOML,2,1,2,16
+mohitmishra786/low-level-craft,Text,1,0,0,2
+mohitmishra786/low-level-craft,TypeScript,1312,28312,8701,170710
+mohitmishra786/low-level-craft,YAML,11,2729,48,10311
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
@@ -35,6 +48,49 @@ mohitmishra786/TheCoreDump,JavaScript,1,15,8,138
 mohitmishra786/TheCoreDump,Markdown,102,10171,4,26442
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/readprism,Bourne Shell,3,12,18,40
+mohitmishra786/readprism,CSS,1,40,54,439
+mohitmishra786/readprism,Dockerfile,2,9,2,34
+mohitmishra786/readprism,HTML,3,5,0,186
+mohitmishra786/readprism,INI,1,9,0,31
+mohitmishra786/readprism,JSON,5,0,0,4328
+mohitmishra786/readprism,JavaScript,7,39,55,353
+mohitmishra786/readprism,Markdown,49,1269,0,3118
+mohitmishra786/readprism,Python,235,4664,2449,20749
+mohitmishra786/readprism,SQL,1,0,0,1
+mohitmishra786/readprism,SVG,1,0,2,7
+mohitmishra786/readprism,TOML,1,10,24,23
+mohitmishra786/readprism,Text,1,13,0,53
+mohitmishra786/readprism,TypeScript,51,376,229,4420
+mohitmishra786/readprism,XML,21,0,0,421
+mohitmishra786/readprism,YAML,8,64,92,498
+mohitmishra786/readprism,make,1,4,0,9
+mohitmishra786/anti-vibe-skills,JSON,1,0,0,6
+mohitmishra786/anti-vibe-skills,Markdown,21,940,0,1835
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
+mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
+mohitmishra786/build-distributed-systems,Bourne Shell,9,136,69,853
+mohitmishra786/build-distributed-systems,C,4,46,49,391
+mohitmishra786/build-distributed-systems,C++,4,60,48,402
+mohitmishra786/build-distributed-systems,CSS,1,69,14,398
+mohitmishra786/build-distributed-systems,Go,80,1309,435,9795
+mohitmishra786/build-distributed-systems,JSON,698,2,0,87844
+mohitmishra786/build-distributed-systems,Java,4,36,37,320
+mohitmishra786/build-distributed-systems,JavaScript,22,192,270,1351
+mohitmishra786/build-distributed-systems,Markdown,102,4357,101,11344
+mohitmishra786/build-distributed-systems,Python,48,947,582,4645
+mohitmishra786/build-distributed-systems,Rust,4,60,45,425
+mohitmishra786/build-distributed-systems,SQL,5,163,301,342
+mohitmishra786/build-distributed-systems,SVG,274,191,158,15627
+mohitmishra786/build-distributed-systems,TOML,2,2,1,21
+mohitmishra786/build-distributed-systems,Text,1,0,0,1
+mohitmishra786/build-distributed-systems,TypeScript,1395,40982,15208,246946
+mohitmishra786/build-distributed-systems,YAML,20,147,75,888
 mohitmishra786/compiler,Bourne Again Shell,11,90,333,671
 mohitmishra786/compiler,Bourne Shell,23,197,1103,2788
 mohitmishra786/compiler,C,19959,885672,407308,5993825
@@ -69,46 +125,6 @@ mohitmishra786/yt-setup,Text,1,3,0,28
 mohitmishra786/yt-setup,YAML,3,18,2,63
 mohitmishra786/kernelkafe-privacy,Markdown,4,35,0,98
 mohitmishra786/kernelkafe-privacy,YAML,1,0,0,2
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
-mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
-mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
-mohitmishra786/build-distributed-systems,Bourne Shell,9,136,66,848
-mohitmishra786/build-distributed-systems,C,4,46,49,391
-mohitmishra786/build-distributed-systems,C++,4,60,48,402
-mohitmishra786/build-distributed-systems,CSS,1,69,14,398
-mohitmishra786/build-distributed-systems,Go,80,1309,435,9795
-mohitmishra786/build-distributed-systems,JSON,696,2,0,87754
-mohitmishra786/build-distributed-systems,Java,4,36,37,320
-mohitmishra786/build-distributed-systems,JavaScript,22,190,255,1331
-mohitmishra786/build-distributed-systems,Markdown,102,4357,101,11344
-mohitmishra786/build-distributed-systems,Python,48,947,582,4645
-mohitmishra786/build-distributed-systems,Rust,4,60,45,425
-mohitmishra786/build-distributed-systems,SQL,5,163,301,342
-mohitmishra786/build-distributed-systems,SVG,274,191,158,15627
-mohitmishra786/build-distributed-systems,TOML,2,2,1,21
-mohitmishra786/build-distributed-systems,Text,1,0,0,1
-mohitmishra786/build-distributed-systems,TypeScript,1331,38339,14853,231239
-mohitmishra786/build-distributed-systems,YAML,20,147,75,888
-mohitmishra786/readprism,Bourne Shell,2,11,17,30
-mohitmishra786/readprism,CSS,1,40,54,439
-mohitmishra786/readprism,Dockerfile,2,9,2,34
-mohitmishra786/readprism,HTML,3,5,0,181
-mohitmishra786/readprism,INI,1,9,0,31
-mohitmishra786/readprism,JSON,5,0,0,4315
-mohitmishra786/readprism,JavaScript,6,26,36,217
-mohitmishra786/readprism,Markdown,48,1245,0,3054
-mohitmishra786/readprism,Python,212,4214,2241,18613
-mohitmishra786/readprism,SQL,1,0,0,1
-mohitmishra786/readprism,SVG,1,0,2,7
-mohitmishra786/readprism,TOML,1,10,24,23
-mohitmishra786/readprism,Text,1,13,0,53
-mohitmishra786/readprism,TypeScript,49,361,221,4200
-mohitmishra786/readprism,YAML,7,61,90,474
-mohitmishra786/readprism,make,1,3,0,7
 mohitmishra786/undertow,Bourne Shell,1,14,13,74
 mohitmishra786/undertow,JSON,9,0,0,178
 mohitmishra786/undertow,Markdown,28,1106,0,3789
@@ -117,19 +133,6 @@ mohitmishra786/undertow,Rust,65,1416,1538,15233
 mohitmishra786/undertow,SVG,3,14,12,137
 mohitmishra786/undertow,TOML,16,40,24,347
 mohitmishra786/undertow,YAML,14,40,29,629
-mohitmishra786/low-level-craft,Bourne Shell,1,2,12,15
-mohitmishra786/low-level-craft,C,1,26,11,139
-mohitmishra786/low-level-craft,CSS,1,69,146,443
-mohitmishra786/low-level-craft,HTML,2,14,0,522
-mohitmishra786/low-level-craft,JSON,13,0,0,438
-mohitmishra786/low-level-craft,JavaScript,15,172,143,1641
-mohitmishra786/low-level-craft,Markdown,57,4252,0,13733
-mohitmishra786/low-level-craft,SQL,22,370,355,1028
-mohitmishra786/low-level-craft,SVG,6,0,0,13
-mohitmishra786/low-level-craft,TOML,2,1,2,16
-mohitmishra786/low-level-craft,Text,1,0,0,2
-mohitmishra786/low-level-craft,TypeScript,1291,27491,8504,167475
-mohitmishra786/low-level-craft,YAML,11,2729,46,10307
 mohitmishra786/reversingBits,HTML,1,120,1,760
 mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
@@ -243,8 +246,6 @@ mohitmishra786/vislab,Ruby,1,2,0,10
 mohitmishra786/vislab,Text,1,6,0,14
 mohitmishra786/vislab,TypeScript,84,686,255,6323
 mohitmishra786/vislab,YAML,9,1664,18,6319
-mohitmishra786/anti-vibe-skills,JSON,1,0,0,6
-mohitmishra786/anti-vibe-skills,Markdown,21,940,0,1835
 OmdenaAI/omdena-texas-homelessness,CSV,62,11,0,186193
 OmdenaAI/omdena-texas-homelessness,HTML,5,340,0,192346
 OmdenaAI/omdena-texas-homelessness,Jupyter Notebook,54,0,243098,24643
