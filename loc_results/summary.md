@@ -1,6 +1,6 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-10-05 03:22:46 UTC
+Generated on: 2026-10-06 04:10:13 UTC
 
 ## Summary Statistics
 
@@ -8,10 +8,10 @@ Generated on: 2026-10-05 03:22:46 UTC
 |--------|-------|
 | Total Repositories Processed | 159 |
 | Failed Repositories | 0 |
-| Total Files | 107,132 |
-| Total Lines of Code | 49,170,997 |
-| Total Blank Lines | 9,808,991 |
-| Total Comment Lines | 13,957,531 |
+| Total Files | 107,167 |
+| Total Lines of Code | 49,173,507 |
+| Total Blank Lines | 9,809,138 |
+| Total Comment Lines | 13,957,569 |
 
 
 ## Top 15 Languages by LOC
@@ -19,26 +19,26 @@ Generated on: 2026-10-05 03:22:46 UTC
 | Language | Files | Code Lines | Comment Lines | Blank Lines |
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    627 |   12883820 |      12883820 |           0 |
-| C            |  20565 |     421719 |        421719 |      904894 |
-| C++          |  26848 |     197212 |        197212 |     2819716 |
+| C            |  20565 |     421722 |        421722 |      904894 |
+| C++          |  26850 |     197224 |        197224 |     2819720 |
 | C/C++ Header |    770 |      96255 |         96255 |       45357 |
 | HTML         |   1625 |      84360 |         84360 |      312362 |
-| TypeScript   |   3828 |      75121 |         75121 |       88154 |
-| Python       |   1802 |      58739 |         58739 |       61723 |
+| TypeScript   |   3831 |      75137 |         75137 |       88164 |
+| Python       |   1804 |      58714 |         58714 |       61746 |
 | JavaScript   |   1587 |      48877 |         48877 |       26924 |
 | Ruby         |   1347 |      33163 |         33163 |       23112 |
 | reStructuredText |     39 |      17099 |         17099 |        7934 |
 | Go           |    620 |       9104 |          9104 |       17040 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     70 |       4127 |          4127 |        1748 |
-| YAML         |    632 |       3148 |          3148 |       10817 |
-| Bourne Shell |    155 |       2741 |          2741 |        1921 |
+| YAML         |    636 |       3159 |          3159 |       10826 |
+| Bourne Shell |    157 |       2754 |          2754 |        1936 |
 
 ## Top 20 Repositories by LOC
 
 | Repository | Lines of Code |
 |------------|---------------|
-| mohitmishra786/compiler                            |      32228554 |
+| mohitmishra786/compiler                            |      32228619 |
 | OmdenaAI/ACAPS                                     |       5601384 |
 | OmdenaAI/Berlin-Chapter-Challenge-Waste-Management |       2979527 |
 | mohitmishra786/meshery                             |       1650694 |
