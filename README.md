@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-49173507-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-49173968-blue?style=for-the-badge)
 
-**Last Updated:** 2026-10-06 04:20:38 UTC
+**Last Updated:** 2026-10-07 03:48:20 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-10-06 04:10:13 UTC
+Generated on: 2026-10-07 03:37:19 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-10-06 04:10:13 UTC
 |--------|-------|
 | Total Repositories Processed | 159 |
 | Failed Repositories | 0 |
-| Total Files | 107,167 |
-| Total Lines of Code | 49,173,507 |
-| Total Blank Lines | 9,809,138 |
-| Total Comment Lines | 13,957,569 |
+| Total Files | 107,181 |
+| Total Lines of Code | 49,173,968 |
+| Total Blank Lines | 9,809,369 |
+| Total Comment Lines | 13,957,620 |
 
 
 ## Top 15 Languages by LOC
@@ -171,15 +171,15 @@ Generated on: 2026-10-06 04:10:13 UTC
 | Language | Files | Code Lines | Comment Lines | Blank Lines |
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    627 |   12883820 |      12883820 |           0 |
-| C            |  20565 |     421722 |        421722 |      904894 |
-| C++          |  26850 |     197224 |        197224 |     2819720 |
+| C            |  20565 |     421732 |        421732 |      904895 |
+| C++          |  26853 |     197230 |        197230 |     2819722 |
 | C/C++ Header |    770 |      96255 |         96255 |       45357 |
 | HTML         |   1625 |      84360 |         84360 |      312362 |
 | TypeScript   |   3831 |      75137 |         75137 |       88164 |
-| Python       |   1804 |      58714 |         58714 |       61746 |
+| Python       |   1804 |      58715 |         58715 |       61746 |
 | JavaScript   |   1587 |      48877 |         48877 |       26924 |
 | Ruby         |   1347 |      33163 |         33163 |       23112 |
-| reStructuredText |     39 |      17099 |         17099 |        7934 |
+| reStructuredText |     39 |      17133 |         17133 |        7944 |
 | Go           |    620 |       9104 |          9104 |       17040 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     70 |       4127 |          4127 |        1748 |
@@ -190,7 +190,7 @@ Generated on: 2026-10-06 04:10:13 UTC
 
 | Repository | Lines of Code |
 |------------|---------------|
-| mohitmishra786/compiler                            |      32228619 |
+| mohitmishra786/compiler                            |      32229409 |
 | OmdenaAI/ACAPS                                     |       5601384 |
 | OmdenaAI/Berlin-Chapter-Challenge-Waste-Management |       2979527 |
 | mohitmishra786/meshery                             |       1650694 |

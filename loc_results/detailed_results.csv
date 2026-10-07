@@ -1,4 +1,11 @@
 Repository,Language,Files,Blank,Comment,Code
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
+mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/Competitive_Programming,C++,255,1331,3749,8342
 mohitmishra786/Competitive_Programming,Markdown,35,165,0,321
 mohitmishra786/Competitive_Programming,Python,7,69,36,300
@@ -12,7 +19,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,55,35,323
-mohitmishra786/confscout,JSON,8,0,0,47931
+mohitmishra786/confscout,JSON,8,0,0,47602
 mohitmishra786/confscout,JavaScript,10,45,33,333
 mohitmishra786/confscout,Markdown,7,229,8,749
 mohitmishra786/confscout,Python,20,680,502,2706
@@ -21,6 +28,8 @@ mohitmishra786/confscout,SVG,7,0,0,7
 mohitmishra786/confscout,Text,2,6,0,23
 mohitmishra786/confscout,TypeScript,150,2286,1735,13877
 mohitmishra786/confscout,YAML,6,42,12,288
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
 mohitmishra786/TheCoreDump,C,4,94,20,450
 mohitmishra786/TheCoreDump,HTML,4,38,16,259
@@ -30,10 +39,59 @@ mohitmishra786/TheCoreDump,JavaScript,1,15,8,138
 mohitmishra786/TheCoreDump,Markdown,102,10171,4,26442
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/tensor-programming,Bourne Shell,2,16,12,39
+mohitmishra786/tensor-programming,CSS,2,50,14,332
+mohitmishra786/tensor-programming,HTML,4,14,0,151
+mohitmishra786/tensor-programming,Markdown,24,5033,0,17282
+mohitmishra786/tensor-programming,SCSS,1,48,10,195
+mohitmishra786/tensor-programming,YAML,2,16,9,108
+mohitmishra786/exploring-os,C,5,23,7,98
+mohitmishra786/exploring-os,CSS,1,28,8,150
+mohitmishra786/exploring-os,HTML,7,13,3,132
+mohitmishra786/exploring-os,JavaScript,1,3,0,13
+mohitmishra786/exploring-os,Markdown,83,6981,0,23785
+mohitmishra786/exploring-os,YAML,1,4,3,22
+mohitmishra786/exploring-os,make,1,6,7,8
+mohitmishra786/b-plus-tree-generator,C,9,219,99,903
+mohitmishra786/b-plus-tree-generator,C/C++ Header,4,11,4,40
+mohitmishra786/b-plus-tree-generator,CMake,1,9,9,26
+mohitmishra786/b-plus-tree-generator,Markdown,1,0,0,1
+mohitmishra786/lsm-tree-generator,C,9,63,38,618
+mohitmishra786/lsm-tree-generator,C/C++ Header,5,20,0,80
+mohitmishra786/lsm-tree-generator,CMake,2,7,6,19
+mohitmishra786/lsm-tree-generator,Markdown,1,20,0,73
+mohitmishra786/minimalist-md-site-generator,C,8,228,106,1118
+mohitmishra786/minimalist-md-site-generator,C/C++ Header,4,15,7,67
+mohitmishra786/minimalist-md-site-generator,CMake,9,55,32,276
+mohitmishra786/minimalist-md-site-generator,HTML,5,14,0,459
+mohitmishra786/minimalist-md-site-generator,Markdown,6,51,0,217
+mohitmishra786/minimalist-md-site-generator,Text,3,60,0,330
+mohitmishra786/minimalist-md-site-generator,TypeScript,1,0,0,2
+mohitmishra786/minimalist-md-site-generator,make,2,87,68,214
+mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
+mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
+mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
+mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
+mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
+mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
+mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
+mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
+mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
+mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
+mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
+mohitmishra786/BitsAndBytes,Assembly,7,111,82,1207
+mohitmishra786/BitsAndBytes,C,137,2067,557,9800
+mohitmishra786/BitsAndBytes,C++,1,17,7,54
+mohitmishra786/BitsAndBytes,C/C++ Header,3,10,0,72
+mohitmishra786/BitsAndBytes,Markdown,33,428,0,1059
+mohitmishra786/BitsAndBytes,Python,1,6,3,17
+mohitmishra786/BitsAndBytes,SWIG,3,3766,0,3765
+mohitmishra786/BitsAndBytes,Text,8,59,0,187
+mohitmishra786/BitsAndBytes,make,1,4,0,12
 mohitmishra786/compiler,Bourne Again Shell,11,90,333,671
 mohitmishra786/compiler,Bourne Shell,23,197,1103,2788
-mohitmishra786/compiler,C,19959,885672,407311,5993827
-mohitmishra786/compiler,C++,25853,2792189,165387,7800718
+mohitmishra786/compiler,C,19959,885673,407321,5993860
+mohitmishra786/compiler,C++,25856,2792191,165393,7800779
 mohitmishra786/compiler,C/C++ Header,237,26445,59697,449716
 mohitmishra786/compiler,CMake,30,208,381,836
 mohitmishra786/compiler,CSS,1,1,0,6
@@ -42,24 +100,17 @@ mohitmishra786/compiler,Dockerfile,8,54,74,134
 mohitmishra786/compiler,HTML,1,1,6,28
 mohitmishra786/compiler,JSON,12,1,0,26280
 mohitmishra786/compiler,JavaScript,7,42,53,250
-mohitmishra786/compiler,Markdown,18,301,0,1022
+mohitmishra786/compiler,Markdown,28,519,0,1697
 mohitmishra786/compiler,Objective-C++,1,3,3,21
-mohitmishra786/compiler,Python,87,5711,5108,28844
+mohitmishra786/compiler,Python,87,5711,5109,28846
 mohitmishra786/compiler,TOML,1,2,0,14
-mohitmishra786/compiler,Text,29619,4173113,0,17895127
+mohitmishra786/compiler,Text,29620,4173113,0,17895128
 mohitmishra786/compiler,Vuejs Component,13,209,118,2770
 mohitmishra786/compiler,YAML,6,89,83,682
 mohitmishra786/compiler,awk,1,2,8,10
 mohitmishra786/compiler,diff,1,1,7,5
 mohitmishra786/compiler,make,1,4,7,9
-mohitmishra786/compiler,reStructuredText,27,5989,16751,24761
-mohitmishra786/exploring-os,C,5,23,7,98
-mohitmishra786/exploring-os,CSS,1,28,8,150
-mohitmishra786/exploring-os,HTML,7,13,3,132
-mohitmishra786/exploring-os,JavaScript,1,3,0,13
-mohitmishra786/exploring-os,Markdown,83,6981,0,23785
-mohitmishra786/exploring-os,YAML,1,4,3,22
-mohitmishra786/exploring-os,make,1,6,7,8
+mohitmishra786/compiler,reStructuredText,27,5999,16785,24779
 mohitmishra786/readprism,Bourne Shell,5,27,31,114
 mohitmishra786/readprism,CSS,1,40,54,439
 mohitmishra786/readprism,Dockerfile,2,9,5,36
@@ -89,13 +140,6 @@ mohitmishra786/mdmend,Ruby,1,10,9,44
 mohitmishra786/mdmend,XML,1,0,0,58
 mohitmishra786/mdmend,YAML,11,95,6,741
 mohitmishra786/mdmend,make,1,17,0,61
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
-mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
-mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/Mushroom-Classification-iNeuron.ai-,CSV,1,0,0,8125
 mohitmishra786/Mushroom-Classification-iNeuron.ai-,Jupyter Notebook,2,0,2977,190
 mohitmishra786/Mushroom-Classification-iNeuron.ai-,Markdown,1,0,0,1
@@ -262,9 +306,6 @@ mohitmishra786/matchquill,SVG,9,27,24,167
 mohitmishra786/matchquill,Text,3,3,0,69
 mohitmishra786/matchquill,TypeScript,189,4068,2377,26732
 mohitmishra786/matchquill,YAML,9,89,66,578
-mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
-mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
-mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
 mohitmishra786/amILearningEnough,CSS,1,15,6,58
 mohitmishra786/amILearningEnough,HTML,1,5,2,44
 mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
@@ -321,8 +362,6 @@ mohitmishra786/undertow,Rust,65,1416,1538,15233
 mohitmishra786/undertow,SVG,3,14,12,137
 mohitmishra786/undertow,TOML,16,40,24,347
 mohitmishra786/undertow,YAML,14,40,29,629
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/repo2video,CSS,1,1,0,6
 mohitmishra786/repo2video,Dockerfile,1,7,0,12
 mohitmishra786/repo2video,HTML,1,5,0,100
@@ -342,15 +381,6 @@ mohitmishra786/portfolio,Markdown,2,17,0,41
 mohitmishra786/portfolio,SVG,5,0,0,5
 mohitmishra786/portfolio,TypeScript,56,294,77,3487
 mohitmishra786/portfolio,YAML,1,3,21,65
-mohitmishra786/BitsAndBytes,Assembly,7,111,82,1207
-mohitmishra786/BitsAndBytes,C,137,2067,557,9800
-mohitmishra786/BitsAndBytes,C++,1,17,7,54
-mohitmishra786/BitsAndBytes,C/C++ Header,3,10,0,72
-mohitmishra786/BitsAndBytes,Markdown,33,428,0,1059
-mohitmishra786/BitsAndBytes,Python,1,6,3,17
-mohitmishra786/BitsAndBytes,SWIG,3,3766,0,3765
-mohitmishra786/BitsAndBytes,Text,8,59,0,187
-mohitmishra786/BitsAndBytes,make,1,4,0,12
 mohitmishra786/inside-the-machine,Bourne Shell,1,8,6,14
 mohitmishra786/inside-the-machine,HTML,7,28,0,257
 mohitmishra786/inside-the-machine,JavaScript,1,5,4,13
@@ -359,14 +389,6 @@ mohitmishra786/inside-the-machine,Ruby,1,6,7,30
 mohitmishra786/inside-the-machine,SCSS,4,37,13,171
 mohitmishra786/inside-the-machine,Text,1,1,0,3
 mohitmishra786/inside-the-machine,YAML,2,18,12,97
-mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
-mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
-mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
-mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
-mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
-mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
-mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
-mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
 implement-from-scratch/tcp-server-c,Bourne Again Shell,1,7,5,25
 implement-from-scratch/tcp-server-c,Bourne Shell,5,40,25,166
 implement-from-scratch/tcp-server-c,C,9,144,53,771
@@ -579,12 +601,6 @@ mohitmishra786/decoding-magic-of-compiler,Markdown,17,1661,0,6418
 mohitmishra786/decoding-magic-of-compiler,Ruby,1,10,6,22
 mohitmishra786/decoding-magic-of-compiler,SCSS,1,41,7,187
 mohitmishra786/decoding-magic-of-compiler,YAML,3,16,8,97
-mohitmishra786/tensor-programming,Bourne Shell,2,16,12,39
-mohitmishra786/tensor-programming,CSS,2,50,14,332
-mohitmishra786/tensor-programming,HTML,4,14,0,151
-mohitmishra786/tensor-programming,Markdown,24,5033,0,17282
-mohitmishra786/tensor-programming,SCSS,1,48,10,195
-mohitmishra786/tensor-programming,YAML,2,16,9,108
 mohitmishra786/chessman,Ant,1,14,0,60
 mohitmishra786/chessman,Assembly,49,2395,5118,12464
 mohitmishra786/chessman,Bourne Again Shell,5,85,204,845
@@ -710,22 +726,6 @@ OmdenaAI/SonoCare,Jupyter Notebook,26,0,67778,27661
 OmdenaAI/SonoCare,Markdown,14,46,0,85
 OmdenaAI/SonoCare,Python,26,842,1119,2559
 OmdenaAI/SonoCare,Text,3,15,0,48
-mohitmishra786/minimalist-md-site-generator,C,8,228,106,1118
-mohitmishra786/minimalist-md-site-generator,C/C++ Header,4,15,7,67
-mohitmishra786/minimalist-md-site-generator,CMake,9,55,32,276
-mohitmishra786/minimalist-md-site-generator,HTML,5,14,0,459
-mohitmishra786/minimalist-md-site-generator,Markdown,6,51,0,217
-mohitmishra786/minimalist-md-site-generator,Text,3,60,0,330
-mohitmishra786/minimalist-md-site-generator,TypeScript,1,0,0,2
-mohitmishra786/minimalist-md-site-generator,make,2,87,68,214
-mohitmishra786/b-plus-tree-generator,C,9,219,99,903
-mohitmishra786/b-plus-tree-generator,C/C++ Header,4,11,4,40
-mohitmishra786/b-plus-tree-generator,CMake,1,9,9,26
-mohitmishra786/b-plus-tree-generator,Markdown,1,0,0,1
-mohitmishra786/lsm-tree-generator,C,9,63,38,618
-mohitmishra786/lsm-tree-generator,C/C++ Header,5,20,0,80
-mohitmishra786/lsm-tree-generator,CMake,2,7,6,19
-mohitmishra786/lsm-tree-generator,Markdown,1,20,0,73
 mohitmishra786/DSA-For-Placements,C++,16,99,53,485
 mohitmishra786/DSA-For-Placements,Markdown,2,2,0,16
 mohitmishra786/lfx,Markdown,1,0,0,1
