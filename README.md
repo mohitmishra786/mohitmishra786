@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-49173850-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-49173916-blue?style=for-the-badge)
 
-**Last Updated:** 2026-10-08 04:01:18 UTC
+**Last Updated:** 2026-10-09 04:07:13 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-10-08 03:51:31 UTC
+Generated on: 2026-10-09 03:56:45 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-10-08 03:51:31 UTC
 |--------|-------|
 | Total Repositories Processed | 159 |
 | Failed Repositories | 0 |
-| Total Files | 107,181 |
-| Total Lines of Code | 49,173,850 |
-| Total Blank Lines | 9,809,369 |
-| Total Comment Lines | 13,957,620 |
+| Total Files | 107,192 |
+| Total Lines of Code | 49,173,916 |
+| Total Blank Lines | 9,809,394 |
+| Total Comment Lines | 13,957,653 |
 
 
 ## Top 15 Languages by LOC
@@ -171,9 +171,9 @@ Generated on: 2026-10-08 03:51:31 UTC
 | Language | Files | Code Lines | Comment Lines | Blank Lines |
 |----------|-------|------------|---------------|-------------|
 | Jupyter Notebook |    627 |   12883820 |      12883820 |           0 |
-| C            |  20565 |     421732 |        421732 |      904895 |
-| C++          |  26853 |     197230 |        197230 |     2819722 |
-| C/C++ Header |    770 |      96255 |         96255 |       45357 |
+| C            |  20565 |     421750 |        421750 |      904898 |
+| C++          |  26857 |     197244 |        197244 |     2819734 |
+| C/C++ Header |    771 |      96256 |         96256 |       45359 |
 | HTML         |   1625 |      84360 |         84360 |      312362 |
 | TypeScript   |   3831 |      75137 |         75137 |       88164 |
 | Python       |   1804 |      58715 |         58715 |       61746 |
@@ -190,7 +190,7 @@ Generated on: 2026-10-08 03:51:31 UTC
 
 | Repository | Lines of Code |
 |------------|---------------|
-| mohitmishra786/compiler                            |      32229409 |
+| mohitmishra786/compiler                            |      32229544 |
 | OmdenaAI/ACAPS                                     |       5601384 |
 | OmdenaAI/Berlin-Chapter-Challenge-Waste-Management |       2979527 |
 | mohitmishra786/meshery                             |       1650694 |

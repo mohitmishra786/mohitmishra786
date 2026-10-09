@@ -12,7 +12,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,55,35,323
-mohitmishra786/confscout,JSON,8,0,0,47484
+mohitmishra786/confscout,JSON,8,0,0,47415
 mohitmishra786/confscout,JavaScript,10,45,33,333
 mohitmishra786/confscout,Markdown,7,229,8,749
 mohitmishra786/confscout,Python,20,680,502,2706
@@ -30,6 +30,34 @@ mohitmishra786/TheCoreDump,JavaScript,1,15,8,138
 mohitmishra786/TheCoreDump,Markdown,102,10171,4,26442
 mohitmishra786/TheCoreDump,Ruby,1,4,2,8
 mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
+mohitmishra786/compiler,Bourne Again Shell,11,90,333,671
+mohitmishra786/compiler,Bourne Shell,23,197,1103,2788
+mohitmishra786/compiler,C,19959,885676,407339,5993875
+mohitmishra786/compiler,C++,25860,2792203,165407,7800855
+mohitmishra786/compiler,C/C++ Header,238,26447,59698,449723
+mohitmishra786/compiler,CMake,30,208,381,836
+mohitmishra786/compiler,CSS,1,1,0,6
+mohitmishra786/compiler,DOS Batch,38,8,1,100
+mohitmishra786/compiler,Dockerfile,8,54,74,134
+mohitmishra786/compiler,HTML,1,1,6,28
+mohitmishra786/compiler,JSON,12,1,0,26280
+mohitmishra786/compiler,JavaScript,7,42,53,250
+mohitmishra786/compiler,Markdown,28,519,0,1697
+mohitmishra786/compiler,Objective-C++,1,3,3,21
+mohitmishra786/compiler,Python,87,5711,5109,28846
+mohitmishra786/compiler,TOML,1,2,0,14
+mohitmishra786/compiler,Text,29626,4173121,0,17895165
+mohitmishra786/compiler,Vuejs Component,13,209,118,2770
+mohitmishra786/compiler,YAML,6,89,83,682
+mohitmishra786/compiler,awk,1,2,8,10
+mohitmishra786/compiler,diff,1,1,7,5
+mohitmishra786/compiler,make,1,4,7,9
+mohitmishra786/compiler,reStructuredText,27,5999,16785,24779
 mohitmishra786/reversingBits,HTML,1,120,1,760
 mohitmishra786/reversingBits,Markdown,46,1725,0,7030
 mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
@@ -88,29 +116,6 @@ mohitmishra786/BitsAndBytes,Python,1,6,3,17
 mohitmishra786/BitsAndBytes,SWIG,3,3766,0,3765
 mohitmishra786/BitsAndBytes,Text,8,59,0,187
 mohitmishra786/BitsAndBytes,make,1,4,0,12
-mohitmishra786/compiler,Bourne Again Shell,11,90,333,671
-mohitmishra786/compiler,Bourne Shell,23,197,1103,2788
-mohitmishra786/compiler,C,19959,885673,407321,5993860
-mohitmishra786/compiler,C++,25856,2792191,165393,7800779
-mohitmishra786/compiler,C/C++ Header,237,26445,59697,449716
-mohitmishra786/compiler,CMake,30,208,381,836
-mohitmishra786/compiler,CSS,1,1,0,6
-mohitmishra786/compiler,DOS Batch,38,8,1,100
-mohitmishra786/compiler,Dockerfile,8,54,74,134
-mohitmishra786/compiler,HTML,1,1,6,28
-mohitmishra786/compiler,JSON,12,1,0,26280
-mohitmishra786/compiler,JavaScript,7,42,53,250
-mohitmishra786/compiler,Markdown,28,519,0,1697
-mohitmishra786/compiler,Objective-C++,1,3,3,21
-mohitmishra786/compiler,Python,87,5711,5109,28846
-mohitmishra786/compiler,TOML,1,2,0,14
-mohitmishra786/compiler,Text,29620,4173113,0,17895128
-mohitmishra786/compiler,Vuejs Component,13,209,118,2770
-mohitmishra786/compiler,YAML,6,89,83,682
-mohitmishra786/compiler,awk,1,2,8,10
-mohitmishra786/compiler,diff,1,1,7,5
-mohitmishra786/compiler,make,1,4,7,9
-mohitmishra786/compiler,reStructuredText,27,5999,16785,24779
 mohitmishra786/readprism,Bourne Shell,5,27,31,114
 mohitmishra786/readprism,CSS,1,40,54,439
 mohitmishra786/readprism,Dockerfile,2,9,5,36
@@ -306,11 +311,6 @@ mohitmishra786/matchquill,SVG,9,27,24,167
 mohitmishra786/matchquill,Text,3,3,0,69
 mohitmishra786/matchquill,TypeScript,189,4068,2377,26732
 mohitmishra786/matchquill,YAML,9,89,66,578
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/low-level-craft,Bourne Shell,1,2,12,15
 mohitmishra786/low-level-craft,C,1,26,11,139
 mohitmishra786/low-level-craft,CSS,1,69,146,443
