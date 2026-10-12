@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-49195783-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-49197515-blue?style=for-the-badge)
 
-**Last Updated:** 2026-10-11 03:24:34 UTC
+**Last Updated:** 2026-10-12 03:46:05 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-10-11 03:14:20 UTC
+Generated on: 2026-10-12 03:37:18 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-10-11 03:14:20 UTC
 |--------|-------|
 | Total Repositories Processed | 160 |
 | Failed Repositories | 0 |
-| Total Files | 107,444 |
-| Total Lines of Code | 49,195,783 |
-| Total Blank Lines | 9,814,966 |
-| Total Comment Lines | 13,957,788 |
+| Total Files | 107,456 |
+| Total Lines of Code | 49,197,515 |
+| Total Blank Lines | 9,815,251 |
+| Total Comment Lines | 13,957,875 |
 
 
 ## Top 15 Languages by LOC
@@ -175,7 +175,7 @@ Generated on: 2026-10-11 03:14:20 UTC
 | C++          |  26861 |     197274 |        197274 |     2819754 |
 | C/C++ Header |    771 |      96256 |         96256 |       45359 |
 | HTML         |   1625 |      84360 |         84360 |      312362 |
-| TypeScript   |   3847 |      75196 |         75196 |       88476 |
+| TypeScript   |   3856 |      75283 |         75283 |       88603 |
 | Python       |   1804 |      58717 |         58717 |       61744 |
 | JavaScript   |   1588 |      48877 |         48877 |       26941 |
 | Ruby         |   1347 |      33163 |         33163 |       23112 |
@@ -199,11 +199,11 @@ Generated on: 2026-10-11 03:14:20 UTC
 | OmdenaAI/dhaka-bangladesh-real-estate-recommendation |        477093 |
 | OmdenaAI/omdena-texas-homelessness                 |        404748 |
 | mohitmishra786/Homelessness-in-Texas               |        404740 |
-| mohitmishra786/build-distributed-systems           |        381593 |
+| mohitmishra786/build-distributed-systems           |        382295 |
 | mohitmishra786/chessman                            |        290280 |
 | mohitmishra786/bustub-private                      |        276102 |
 | mohitmishra786/REST-API                            |        208637 |
-| mohitmishra786/low-level-craft                     |        199407 |
+| mohitmishra786/low-level-craft                     |        199629 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | OmdenaAI/omdena-france-flu-dashboard               |        165396 |
 | OmdenaAI/omdena-india-roadsafety                   |        143114 |
