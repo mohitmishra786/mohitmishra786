@@ -1,60 +1,60 @@
 # LOC Statistics - All Repositories
 
-Generated on: 2026-10-14 02:58:18 UTC
+Generated on: 2026-10-15 02:37:50 UTC
 
 ## Summary Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories Processed | 160 |
-| Failed Repositories | 0 |
-| Total Files | 107,461 |
-| Total Lines of Code | 49,200,997 |
-| Total Blank Lines | 9,815,251 |
-| Total Comment Lines | 13,957,875 |
+| Total Repositories Processed | 115 |
+| Failed Repositories | 45 |
+| Total Files | 98,805 |
+| Total Lines of Code | 40,050,648 |
+| Total Blank Lines | 8,490,570 |
+| Total Comment Lines | 2,978,397 |
 
 
 ## Top 15 Languages by LOC
 
 | Language | Files | Code Lines | Comment Lines | Blank Lines |
 |----------|-------|------------|---------------|-------------|
-| Jupyter Notebook |    627 |   12883820 |      12883820 |           0 |
-| C            |  20565 |     421763 |        421763 |      904898 |
-| C++          |  26861 |     197274 |        197274 |     2819754 |
-| C/C++ Header |    771 |      96256 |         96256 |       45359 |
-| HTML         |   1625 |      84360 |         84360 |      312362 |
-| TypeScript   |   3856 |      75283 |         75283 |       88603 |
-| Python       |   1804 |      58717 |         58717 |       61744 |
-| JavaScript   |   1588 |      48877 |         48877 |       26941 |
-| Ruby         |   1347 |      33163 |         33163 |       23112 |
-| reStructuredText |     39 |      17133 |         17133 |        7944 |
-| Go           |    620 |       9104 |          9104 |       17040 |
+| Jupyter Notebook |    367 |    2021072 |       2021072 |           0 |
+| C            |  20508 |     420155 |        420155 |      901645 |
+| C++          |  26204 |     172789 |        172789 |     2799545 |
+| HTML         |   1549 |      84173 |         84173 |      310109 |
+| C/C++ Header |    447 |      64039 |         64039 |       30018 |
+| TypeScript   |   1053 |      51130 |         51130 |       18525 |
+| JavaScript   |   1518 |      45969 |         45969 |       24028 |
+| Python       |   1264 |      35067 |         35067 |       38073 |
+| Ruby         |   1346 |      33098 |         33098 |       23077 |
+| reStructuredText |     27 |      16785 |         16785 |        5999 |
+| Go           |    528 |       8627 |          8627 |       15575 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
-| Java         |     70 |       4127 |          4127 |        1748 |
-| YAML         |    636 |       3159 |          3159 |       10826 |
-| Bourne Shell |    159 |       2781 |          2781 |        1957 |
+| Java         |     66 |       4090 |          4090 |        1712 |
+| YAML         |    538 |       2600 |          2600 |        4838 |
+| Bourne Shell |    131 |       2387 |          2387 |        1511 |
 
 ## Top 20 Repositories by LOC
 
 | Repository | Lines of Code |
 |------------|---------------|
 | mohitmishra786/compiler                            |      32229664 |
-| OmdenaAI/ACAPS                                     |       5601384 |
 | OmdenaAI/Berlin-Chapter-Challenge-Waste-Management |       2979527 |
 | mohitmishra786/meshery                             |       1650694 |
-| OmdenaAI/omdena-bangladesh-market-place            |        971598 |
-| OmdenaAI/latam-chapters-news-detector              |        958890 |
 | OmdenaAI/dhaka-bangladesh-real-estate-recommendation |        477093 |
 | OmdenaAI/omdena-texas-homelessness                 |        404748 |
 | mohitmishra786/Homelessness-in-Texas               |        404740 |
-| mohitmishra786/build-distributed-systems           |        382295 |
 | mohitmishra786/chessman                            |        290280 |
-| mohitmishra786/bustub-private                      |        276102 |
 | mohitmishra786/REST-API                            |        208637 |
-| mohitmishra786/low-level-craft                     |        199629 |
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
-| OmdenaAI/omdena-france-flu-dashboard               |        165396 |
-| OmdenaAI/omdena-india-roadsafety                   |        143114 |
 | mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |
 | OmdenaAI/lagos-chapter-water-availability          |        101722 |
-| OmdenaAI/srilanka-chapter-mental-health-chatbot    |         75705 |
+| mohitmishra786/confscout                           |         68340 |
+| mohitmishra786/aurora-dev                          |         58044 |
+| mohitmishra786/matchquill                          |         55707 |
+| mohitmishra786/ML-and-DL                           |         52977 |
+| mohitmishra786/mdmend                              |         41001 |
+| mohitmishra786/readprism                           |         35273 |
+| mohitmishra786/mohit-portfolio                     |         31091 |
+| mohitmishra786/low-level-dev-skills                |         30606 |
+| mohitmishra786/EddieBot                            |         30296 |
