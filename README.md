@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-40050648-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-40049833-blue?style=for-the-badge)
 
-**Last Updated:** 2026-10-15 02:45:32 UTC
+**Last Updated:** 2026-10-16 02:39:44 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-10-15 02:37:50 UTC
+Generated on: 2026-10-16 02:33:16 UTC
 
 ## Summary Statistics
 
@@ -161,7 +161,7 @@ Generated on: 2026-10-15 02:37:50 UTC
 | Total Repositories Processed | 115 |
 | Failed Repositories | 45 |
 | Total Files | 98,805 |
-| Total Lines of Code | 40,050,648 |
+| Total Lines of Code | 40,049,833 |
 | Total Blank Lines | 8,490,570 |
 | Total Comment Lines | 2,978,397 |
 
@@ -201,7 +201,7 @@ Generated on: 2026-10-15 02:37:50 UTC
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |
 | OmdenaAI/lagos-chapter-water-availability          |        101722 |
-| mohitmishra786/confscout                           |         68340 |
+| mohitmishra786/confscout                           |         67850 |
 | mohitmishra786/aurora-dev                          |         58044 |
 | mohitmishra786/matchquill                          |         55707 |
 | mohitmishra786/ML-and-DL                           |         52977 |
