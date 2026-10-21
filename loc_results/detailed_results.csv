@@ -7,7 +7,7 @@ mohitmishra786/mohitmishra786,Text,1,0,0,1
 mohitmishra786/mohitmishra786,YAML,5,81,45,435
 mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/confscout,CSS,1,55,35,323
-mohitmishra786/confscout,JSON,8,0,0,51037
+mohitmishra786/confscout,JSON,8,0,0,50431
 mohitmishra786/confscout,JavaScript,10,45,33,333
 mohitmishra786/confscout,Markdown,7,229,8,749
 mohitmishra786/confscout,Python,20,680,502,2706
@@ -16,36 +16,17 @@ mohitmishra786/confscout,SVG,7,0,0,7
 mohitmishra786/confscout,Text,2,6,0,23
 mohitmishra786/confscout,TypeScript,150,2286,1735,13877
 mohitmishra786/confscout,YAML,6,42,12,288
-mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
-mohitmishra786/TheCoreDump,C,4,94,20,450
-mohitmishra786/TheCoreDump,HTML,4,38,16,259
-mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,103
-mohitmishra786/TheCoreDump,JavaScript,1,15,8,138
-mohitmishra786/TheCoreDump,Markdown,102,10171,4,26442
-mohitmishra786/TheCoreDump,Ruby,1,4,2,8
-mohitmishra786/TheCoreDump,YAML,6,58,126,264
-mohitmishra786/readprism,Bourne Shell,7,33,48,201
-mohitmishra786/readprism,CSS,1,41,66,457
-mohitmishra786/readprism,Dockerfile,2,9,6,36
-mohitmishra786/readprism,HTML,4,60,0,322
-mohitmishra786/readprism,INI,1,9,0,31
-mohitmishra786/readprism,JSON,8,17,0,10845
-mohitmishra786/readprism,JavaScript,8,42,60,380
-mohitmishra786/readprism,Markdown,58,1426,5,3959
-mohitmishra786/readprism,Python,307,6676,3280,28904
-mohitmishra786/readprism,SQL,1,0,0,1
-mohitmishra786/readprism,SVG,1,0,2,7
-mohitmishra786/readprism,TOML,1,10,24,23
-mohitmishra786/readprism,Text,2,27,0,109
-mohitmishra786/readprism,TypeScript,95,628,450,6892
-mohitmishra786/readprism,XML,21,0,0,421
-mohitmishra786/readprism,YAML,16,93,143,944
-mohitmishra786/readprism,make,1,19,7,38
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
+mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
+mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
+mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
+mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
 mohitmishra786/compiler,Bourne Again Shell,11,90,333,671
 mohitmishra786/compiler,Bourne Shell,24,211,1133,2849
-mohitmishra786/compiler,C,19959,885692,407444,5994077
-mohitmishra786/compiler,C++,25868,2792259,165463,7801057
+mohitmishra786/compiler,C,19959,885694,407444,5994102
+mohitmishra786/compiler,C++,25870,2792269,165471,7801084
 mohitmishra786/compiler,C/C++ Header,238,26448,59707,449723
 mohitmishra786/compiler,CMake,30,208,381,836
 mohitmishra786/compiler,CSS,1,1,0,6
@@ -58,22 +39,53 @@ mohitmishra786/compiler,Markdown,30,584,0,2012
 mohitmishra786/compiler,Objective-C++,1,3,3,21
 mohitmishra786/compiler,Python,89,5785,5219,29161
 mohitmishra786/compiler,TOML,1,2,0,14
-mohitmishra786/compiler,Text,29643,4173508,0,17897649
+mohitmishra786/compiler,Text,29646,4173480,0,17897574
 mohitmishra786/compiler,Vuejs Component,13,209,118,2770
 mohitmishra786/compiler,YAML,11,122,143,1071
 mohitmishra786/compiler,awk,1,2,8,10
 mohitmishra786/compiler,diff,1,1,7,5
 mohitmishra786/compiler,make,1,4,7,9
 mohitmishra786/compiler,reStructuredText,27,6004,16785,24803
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
-mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
-mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
+mohitmishra786/weirling,Bourne Shell,9,34,63,243
+mohitmishra786/weirling,CSS,2,56,79,563
+mohitmishra786/weirling,Dockerfile,4,18,19,97
+mohitmishra786/weirling,HTML,4,60,0,322
+mohitmishra786/weirling,INI,1,9,0,31
+mohitmishra786/weirling,JSON,11,18,0,11135
+mohitmishra786/weirling,JavaScript,8,45,64,423
+mohitmishra786/weirling,Markdown,72,1923,5,5355
+mohitmishra786/weirling,Python,387,8726,4185,37909
+mohitmishra786/weirling,SQL,1,0,0,1
+mohitmishra786/weirling,SVG,1,0,1,4
+mohitmishra786/weirling,TOML,1,10,24,23
+mohitmishra786/weirling,Text,2,27,0,117
+mohitmishra786/weirling,TypeScript,143,931,603,10740
+mohitmishra786/weirling,XML,24,0,0,483
+mohitmishra786/weirling,YAML,22,105,177,1208
+mohitmishra786/weirling,make,1,20,8,40
 mohitmishra786/reversingBits,HTML,1,120,1,760
 mohitmishra786/reversingBits,Markdown,46,1725,0,7030
+mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
+mohitmishra786/TheCoreDump,C,4,94,20,450
+mohitmishra786/TheCoreDump,HTML,4,38,16,259
+mohitmishra786/TheCoreDump,INI,1,4,0,15
+mohitmishra786/TheCoreDump,JSON,5,0,0,103
+mohitmishra786/TheCoreDump,JavaScript,1,15,8,138
+mohitmishra786/TheCoreDump,Markdown,102,10171,4,26442
+mohitmishra786/TheCoreDump,Ruby,1,4,2,8
+mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/exploring-os,C,5,23,7,98
+mohitmishra786/exploring-os,CSS,1,28,8,150
+mohitmishra786/exploring-os,HTML,7,13,3,132
+mohitmishra786/exploring-os,JavaScript,1,3,0,13
+mohitmishra786/exploring-os,Markdown,83,6981,0,23785
+mohitmishra786/exploring-os,YAML,1,4,3,22
+mohitmishra786/exploring-os,make,1,6,7,8
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
+mohitmishra786/amILearningEnough,Text,1,0,0,29
+mohitmishra786/amILearningEnough,YAML,3,6,0,128
 mohitmishra786/mdmend,Bourne Shell,8,157,2,841
 mohitmishra786/mdmend,Go,81,2530,133,15665
 mohitmishra786/mdmend,HTML,2,37,0,516
@@ -86,18 +98,6 @@ mohitmishra786/mdmend,Ruby,1,10,9,44
 mohitmishra786/mdmend,XML,1,0,0,58
 mohitmishra786/mdmend,YAML,11,95,6,741
 mohitmishra786/mdmend,make,1,17,0,61
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
-mohitmishra786/exploring-os,C,5,23,7,98
-mohitmishra786/exploring-os,CSS,1,28,8,150
-mohitmishra786/exploring-os,HTML,7,13,3,132
-mohitmishra786/exploring-os,JavaScript,1,3,0,13
-mohitmishra786/exploring-os,Markdown,83,6981,0,23785
-mohitmishra786/exploring-os,YAML,1,4,3,22
-mohitmishra786/exploring-os,make,1,6,7,8
 mohitmishra786/agentop,Go,71,1266,463,8040
 mohitmishra786/agentop,JSON,12,0,0,199
 mohitmishra786/agentop,Markdown,6,375,0,1404
