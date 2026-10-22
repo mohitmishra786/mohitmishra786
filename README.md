@@ -143,16 +143,16 @@ Systems Programmer deeply passionate about low-level engineering, performance op
 
 <!-- LOC-STATS-START -->
 
-![Total LOC](https://img.shields.io/badge/Total%20LOC-40102988-blue?style=for-the-badge)
+![Total LOC](https://img.shields.io/badge/Total%20LOC-40105367-blue?style=for-the-badge)
 
-**Last Updated:** 2026-10-21 02:53:29 UTC
+**Last Updated:** 2026-10-22 02:51:53 UTC
 
 <details>
 <summary> Detailed Statistics</summary>
 
 # LOC Statistics - All Repositories
 
-Generated on: 2026-10-21 02:46:07 UTC
+Generated on: 2026-10-22 02:44:32 UTC
 
 ## Summary Statistics
 
@@ -160,10 +160,10 @@ Generated on: 2026-10-21 02:46:07 UTC
 |--------|-------|
 | Total Repositories Processed | 116 |
 | Failed Repositories | 44 |
-| Total Files | 99,207 |
-| Total Lines of Code | 40,102,988 |
-| Total Blank Lines | 8,497,997 |
-| Total Comment Lines | 2,981,712 |
+| Total Files | 99,223 |
+| Total Lines of Code | 40,105,367 |
+| Total Blank Lines | 8,498,451 |
+| Total Comment Lines | 2,981,921 |
 
 
 ## Top 15 Languages by LOC
@@ -173,17 +173,17 @@ Generated on: 2026-10-21 02:46:07 UTC
 | Jupyter Notebook |    367 |    2021072 |       2021072 |           0 |
 | C            |  20508 |     420247 |        420247 |      901663 |
 | C++          |  26210 |     172823 |        172823 |     2799591 |
-| HTML         |   1551 |      84173 |         84173 |      310164 |
+| HTML         |   1551 |      84173 |         84173 |      310166 |
 | C/C++ Header |    447 |      64048 |         64048 |       30019 |
-| TypeScript   |   1152 |      51543 |         51543 |       19168 |
+| TypeScript   |   1152 |      51549 |         51549 |       19170 |
 | JavaScript   |   1519 |      45978 |         45978 |       24034 |
-| Python       |   1416 |      36938 |         36938 |       42186 |
+| Python       |   1428 |      37106 |         37106 |       42579 |
 | Ruby         |   1346 |      33098 |         33098 |       23077 |
 | reStructuredText |     27 |      16785 |         16785 |        6004 |
 | Go           |    586 |       9194 |          9194 |       16425 |
 | Assembly     |     57 |       5267 |          5267 |        2616 |
 | Java         |     66 |       4090 |          4090 |        1712 |
-| YAML         |    555 |       2744 |          2744 |        5144 |
+| YAML         |    557 |       2775 |          2775 |        5160 |
 | Bourne Shell |    137 |       2456 |          2456 |        1536 |
 
 ## Top 20 Repositories by LOC
@@ -201,8 +201,8 @@ Generated on: 2026-10-21 02:46:07 UTC
 | mohitmishra786/Sales_Data_Analysis                 |        186979 |
 | mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |
 | OmdenaAI/lagos-chapter-water-availability          |        101722 |
-| mohitmishra786/confscout                           |         68785 |
-| mohitmishra786/weirling                            |         68694 |
+| mohitmishra786/weirling                            |         71195 |
+| mohitmishra786/confscout                           |         68663 |
 | mohitmishra786/aurora-dev                          |         58044 |
 | mohitmishra786/matchquill                          |         55707 |
 | mohitmishra786/ML-and-DL                           |         52977 |
