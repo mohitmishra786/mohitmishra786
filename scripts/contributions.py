@@ -43,22 +43,35 @@ def gh_json(args: list[str]):
     return json.loads(out) if out.strip() else []
 
 
-def search_prs(*flags: str, query: str = "") -> list[dict]:
+def search_prs(*flags: str, query: list[str] | None = None) -> list[dict]:
     args = ["search", "prs", *flags, "--visibility", "public", "--json", PR_FIELDS]
     if query:
-        args += ["--", query]
+        args += ["--", *query]
     result = gh_json(args)
     time.sleep(SEARCH_PAUSE_SECONDS)
     return result
 
 
-def fetch_all(user: str, own_limit: int) -> dict:
-    not_mine = f"-user:{user}"
+def my_owners(cfg: dict) -> list[str]:
+    """My account plus organisations I own; their repos count as mine, not as contributions."""
+    return [cfg["username"], *cfg["contributions"].get("own_orgs", [])]
+
+
+def owner_flags(cfg: dict) -> list[str]:
+    return [flag for owner in my_owners(cfg) for flag in ("--owner", owner)]
+
+
+def not_mine(cfg: dict) -> list[str]:
+    return [f"-user:{owner}" for owner in my_owners(cfg)]
+
+
+def fetch_all(cfg: dict, own_limit: int) -> dict:
+    user = cfg["username"]
     merged = search_prs("--author", user, "--merged", "--sort", "updated", "--order", "desc",
-                        "--limit", "300", query=not_mine)
+                        "--limit", "300", query=not_mine(cfg))
     open_prs = search_prs("--author", user, "--state", "open", "--sort", "created",
-                          "--order", "desc", "--limit", "50", query=not_mine)
-    own = search_prs("--owner", user, "--merged", "--sort", "updated", "--order", "desc",
+                          "--order", "desc", "--limit", "50", query=not_mine(cfg))
+    own = search_prs(*owner_flags(cfg), "--merged", "--sort", "updated", "--order", "desc",
                      "--limit", str(max(own_limit * 4, 30)))
     names = sorted({p["repository"]["nameWithOwner"] for p in merged + open_prs})
     repos = []
@@ -94,11 +107,12 @@ def _is_bot(pr: dict) -> bool:
 def filter_public(data: dict, cfg: dict) -> dict:
     """Drop excluded repos and anything that is (or can't be confirmed as) public."""
     excluded = {r.lower() for r in cfg["contributions"].get("exclude_repos", [])}
+    mine = {o.lower() for o in my_owners(cfg)}
     public = {r["nameWithOwner"].lower(): r for r in data["repos"] if not r.get("isPrivate", True)}
 
     def keep(pr: dict) -> bool:
         name = _repo(pr).lower()
-        return name in public and name not in excluded
+        return name in public and name not in excluded and name.split("/")[0] not in mine
 
     return {
         "merged": [p for p in data["merged"] if keep(p)],
@@ -243,7 +257,7 @@ def cmd_lines(args, cfg) -> int:
     user = cfg["username"]
     data = load_fixtures(args.fixtures) if args.fixtures else None
     if data is None:
-        merged = search_prs("--author", user, "--merged", "--limit", "300", query=f"-user:{user}")
+        merged = search_prs("--author", user, "--merged", "--limit", "300", query=not_mine(cfg))
         names = sorted({_repo(p) for p in merged})
         repos = [gh_json(["repo", "view", n, "--json", "nameWithOwner,isPrivate"]) for n in names]
         data = {"merged": merged, "open": [], "own": [], "repos": repos}
@@ -272,10 +286,11 @@ def cmd_lines(args, cfg) -> int:
 
 # --------------------------------------------------------------------------- digest
 
-def fetch_digest(user: str, since: str) -> dict:
+def fetch_digest(cfg: dict, since: str) -> dict:
+    user = cfg["username"]
     merged = search_prs("--author", user, "--merged-at", f">={since}", "--limit", "300",
-                        query=f"-user:{user}")
-    own = search_prs("--owner", user, "--merged-at", f">={since}", "--limit", "300")
+                        query=not_mine(cfg))
+    own = search_prs(*owner_flags(cfg), "--merged-at", f">={since}", "--limit", "300")
     names = sorted({_repo(p) for p in merged})
     repos = [gh_json(["repo", "view", n, "--json", "nameWithOwner,isPrivate,url"]) for n in names]
     return {"merged": merged, "open": [], "own": own, "repos": repos}
@@ -330,12 +345,11 @@ def write_digest_index(out_dir: str) -> None:
 
 
 def cmd_digest(args, cfg) -> int:
-    user = cfg["username"]
     end_day = dt.date.fromisoformat(args.end) if args.end else dt.datetime.now(dt.timezone.utc).date()
     end_day -= dt.timedelta(days=1)  # the 7 full days before the run
     start_day = end_day - dt.timedelta(days=args.days - 1)
     since, end = start_day.isoformat(), end_day.isoformat()
-    raw = load_fixtures(args.fixtures) if args.fixtures else fetch_digest(user, since)
+    raw = load_fixtures(args.fixtures) if args.fixtures else fetch_digest(cfg, since)
     data = filter_public(raw, cfg)
     year, week, _ = end_day.isocalendar()
     os.makedirs(args.out, exist_ok=True)
@@ -359,7 +373,7 @@ def load_config(path: str) -> dict:
 def cmd_update(args, cfg) -> int:
     user = cfg["username"]
     n = cfg["contributions"].get("recent_items", 5)
-    raw = load_fixtures(args.fixtures) if args.fixtures else fetch_all(user, n)
+    raw = load_fixtures(args.fixtures) if args.fixtures else fetch_all(cfg, n)
     data = filter_public(raw, cfg)
     now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     contrib = build_contributions(data, cfg, user, now)

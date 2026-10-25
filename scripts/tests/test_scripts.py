@@ -208,6 +208,21 @@ class ContributionsTest(unittest.TestCase):
         self.assertIn("**1 PR merged into other people's projects** across 1 repository,", text)
         self.assertIn("<details><summary>11 PRs</summary>", text)
 
+    def test_own_orgs_count_as_mine_not_contributions(self):
+        cfg = json.loads(json.dumps(CONFIG))
+        cfg["contributions"]["own_orgs"] = ["MyOrg"]
+        self.assertEqual(contributions.owner_flags(cfg), ["--owner", "me", "--owner", "MyOrg"])
+        self.assertEqual(contributions.not_mine(cfg), ["-user:me", "-user:MyOrg"])
+        org_pr = {"repository": {"nameWithOwner": "myorg/website"}, "number": 8, "title": "Org work",
+                  "url": "https://github.com/myorg/website/pull/8", "closedAt": "2026-10-25T00:00:00Z",
+                  "author": {"login": "me", "type": "User"}}
+        raw = contributions.load_fixtures(FIXTURES)
+        raw["merged"].append(org_pr)
+        raw["open"].append({**org_pr, "createdAt": "2026-10-25T00:00:00Z"})
+        raw["repos"].append({"nameWithOwner": "myorg/website", "stargazerCount": 6, "isPrivate": False})
+        data = contributions.filter_public(raw, cfg)
+        self.assertNotIn("myorg/website", {contributions._repo(p) for p in data["merged"] + data["open"]})
+
     def test_language_of(self):
         self.assertEqual(contributions.language_of("scheds/rust/scx_mlfq/src/bpf/main.bpf.c"), "C (BPF)")
         self.assertEqual(contributions.language_of("src/lower.c"), "C")
