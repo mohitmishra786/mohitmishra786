@@ -1,1 +1,1 @@
-![Lines of code in my public repos: 440,153](https://img.shields.io/badge/code%20in%20my%20public%20repos-440.15k%20lines-blue) ![Lines added in merged PRs to other projects: 74,556](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-74.56k%20lines-green)
+![Lines of code in my public repos: 440,153](https://img.shields.io/badge/code%20in%20my%20public%20repos-440.15k%20lines-blue) ![Lines added in merged PRs to other projects: 20,434](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-20.43k%20lines-green)

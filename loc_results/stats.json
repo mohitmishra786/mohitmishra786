@@ -194,14 +194,9 @@
   ],
   "contributions": {
     "prs": 59,
-    "added": 74556,
+    "added": 20434,
     "removed": 2108,
     "languages": [
-      {
-        "name": "HTML",
-        "added": 54232,
-        "removed": 0
-      },
       {
         "name": "Python",
         "added": 10732,
@@ -253,6 +248,11 @@
         "removed": 2
       },
       {
+        "name": "HTML",
+        "added": 110,
+        "removed": 0
+      },
+      {
         "name": "CSS",
         "added": 86,
         "removed": 77
@@ -294,11 +294,6 @@
       }
     ],
     "repos": [
-      {
-        "name": "OmdenaAI/omdena-pakistan-covid-analysis",
-        "added": 54123,
-        "removed": 1
-      },
       {
         "name": "OmdenaAI/omdena-srilanka-tea-quality",
         "added": 14512,
@@ -348,6 +343,11 @@
         "name": "sched-ext/scx",
         "added": 10,
         "removed": 8
+      },
+      {
+        "name": "OmdenaAI/omdena-pakistan-covid-analysis",
+        "added": 1,
+        "removed": 1
       },
       {
         "name": "sched-ext/scx-loader",

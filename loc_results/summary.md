@@ -55,11 +55,10 @@ _As of 2026-10-25. Counts own public, non-fork, non-archived repositories (cloc,
 | [mohitmishra786/repo2video](https://github.com/mohitmishra786/repo2video) | 6,997 |
 | [mohitmishra786/never](https://github.com/mohitmishra786/never) | 6,610 |
 
-**Lines changed in my 59 merged PRs to other people's public repos**: +74,556 / -2,108 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
+**Lines changed in my 59 merged PRs to other people's public repos**: +20,434 / -2,108 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
 
 | Language | Added | Removed |
 |----------|------:|--------:|
-| HTML | 54,232 | 0 |
 | Python | 10,732 | 181 |
 | TypeScript | 2,748 | 442 |
 | Dart | 2,431 | 1,008 |
@@ -69,3 +68,4 @@ _As of 2026-10-25. Counts own public, non-fork, non-archived repositories (cloc,
 | Go | 189 | 214 |
 | C | 118 | 47 |
 | C++ | 118 | 2 |
+| Shell | 116 | 2 |
