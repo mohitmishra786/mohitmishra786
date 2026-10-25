@@ -1,0 +1,32 @@
+[
+ {
+  "repository": {
+   "name": "compiler",
+   "nameWithOwner": "edgcpp/compiler"
+  },
+  "number": 388,
+  "title": "make returning a reference bound to a temporary an error in C++26 (P2748)",
+  "url": "https://github.com/edgcpp/compiler/pull/388",
+  "closedAt": null,
+  "createdAt": "2026-10-24T20:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  }
+ },
+ {
+  "repository": {
+   "name": "private-repo",
+   "nameWithOwner": "secret-org/private-repo"
+  },
+  "number": 10,
+  "title": "Private open",
+  "url": "https://github.com/secret-org/private-repo/pull/10",
+  "closedAt": null,
+  "createdAt": "2026-10-25T20:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  }
+ }
+]

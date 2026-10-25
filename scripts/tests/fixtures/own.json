@@ -1,0 +1,32 @@
+[
+ {
+  "repository": {
+   "name": "tool",
+   "nameWithOwner": "me/tool"
+  },
+  "number": 8,
+  "title": "Bump deps",
+  "url": "https://github.com/me/tool/pull/8",
+  "closedAt": "2026-10-25T00:00:00Z",
+  "createdAt": "2026-10-25T00:00:00Z",
+  "author": {
+   "login": "dependabot",
+   "type": "Bot"
+  }
+ },
+ {
+  "repository": {
+   "name": "tool",
+   "nameWithOwner": "me/tool"
+  },
+  "number": 7,
+  "title": "Release v0.3.2",
+  "url": "https://github.com/me/tool/pull/7",
+  "closedAt": "2026-10-24T00:00:00Z",
+  "createdAt": "2026-10-24T00:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  }
+ }
+]
