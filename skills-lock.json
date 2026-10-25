@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "ci-cd-security": {
+      "source": "superagent-ai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ci-cd-security/SKILL.md",
+      "computedHash": "494da8d318717d03dd71f482e66ba022372aacf501ebd04faa534b2693584098"
+    },
+    "gh-fetch": {
+      "source": "lucavb/skills",
+      "sourceType": "github",
+      "skillPath": "skills/gh-fetch/SKILL.md",
+      "computedHash": "adcc91eb0436253510d3a16a430da390e6f55fb4024c274f9c9fb40a13fbe37c"
+    },
+    "github-profile-readme": {
+      "source": "boffti/github-profile-readme",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "fd1db14619f0935a97f87dbdf02876fc6a75efe8108d00526fa1f424ba5bce96"
+    },
+    "writing-commit-messages": {
+      "source": "lucavb/skills",
+      "sourceType": "github",
+      "skillPath": "skills/writing-commit-messages/SKILL.md",
+      "computedHash": "33a3b561e9d25d85c2c04aacd6a88c88e0a6812b52af0d350a843643b24c0a9d"
+    }
+  }
+}

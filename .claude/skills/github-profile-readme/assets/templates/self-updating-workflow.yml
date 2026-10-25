@@ -1,0 +1,35 @@
+# .github/workflows/build-readme.yml
+# Keeps the profile README fresh. Commit this to <username>/<username>.
+# NOTE: GitHub disables scheduled workflows after 60 days of repo inactivity.
+# Do NOT add keepalive/commit-bumping hacks to dodge that — it risks a ToS strike.
+name: Build README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+  push:
+    branches: [ main ]        # change to master if that's your default branch
+
+permissions:
+  contents: write             # the actions commit the rewritten README
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Latest blog/RSS/dev.to/YouTube posts between the BLOG-POST-LIST markers
+      - name: Pull blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "{{RSS_FEED_URL}}"   # <-- your feed; scrub any example URL
+          max_post_count: 5
+
+      # Optional: weekly WakaTime coding breakdown between the waka markers.
+      # Requires the WAKATIME_API_KEY repo secret. Delete this step if unused.
+      - name: Update WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
