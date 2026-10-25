@@ -35,7 +35,7 @@
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [2](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.2k |
-| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [3](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 984 |
+| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [3](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 987 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 44 |
 | [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
 | [OmdenaAI/omdena-texas-homelessness](https://github.com/OmdenaAI/omdena-texas-homelessness) | EDA notebooks, dashboards and a web app page | [36](https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 11 |
@@ -73,11 +73,11 @@
 <summary><b>Recently merged into my own repos</b></summary>
 
 <!-- RECENT-OWN-MERGES:START -->
-- [mohitmishra786/mohitmishra786#57](https://github.com/mohitmishra786/mohitmishra786/pull/57): Profile overhaul: accurate LOC, self-updating contributions, hardened workflows, merged 2026-10-25
-- [mohitmishra786/weirling#381](https://github.com/mohitmishra786/weirling/pull/381): Release v0.3.3: 500x faster embeddings, IPv4-first feeds, onboarding fixes, consistent…, merged 2026-10-25
-- [mohitmishra786/weirling#380](https://github.com/mohitmishra786/weirling/pull/380): Release v0.3.2: send email through Resend \(HTTPS\) for hosts that block SMTP, merged 2026-10-25
-- [mohitmishra786/weirling#379](https://github.com/mohitmishra786/weirling/pull/379): Release v0.3.1: fix the backend image tags; clear empty DATABASE\_URL error; Railway…, merged 2026-10-25
-- [mohitmishra786/weirling#378](https://github.com/mohitmishra786/weirling/pull/378): Fix the email logging test after the SMTP rename, merged 2026-10-25
+- [mohitmishra786/weirling#386](https://github.com/mohitmishra786/weirling/pull/386): v0.3.5: rank against every interest, no pack-name topics, per-reader emerging, merged 2026-10-25
+- [mohitmishra786/weirling#385](https://github.com/mohitmishra786/weirling/pull/385): v0.3.4: Claude first with Groq fallback, distinct starter packs, better discovery and…, merged 2026-10-25
+- [mohitmishra786/weirling#384](https://github.com/mohitmishra786/weirling/pull/384): Laptop and phone layout: wider app, phone menu, Interests panel on screen, merged 2026-10-25
+- [mohitmishra786/weirling#383](https://github.com/mohitmishra786/weirling/pull/383): Revert \#382: remove Vercel Speed Insights until there is traffic to measure, merged 2026-10-25
+- [mohitmishra786/mohitmishra786#58](https://github.com/mohitmishra786/mohitmishra786/pull/58): Fix tech-stack icons; treat implement-from-scratch as own org; drop EddieBot, merged 2026-10-25
 <!-- RECENT-OWN-MERGES:END -->
 
 </details>
