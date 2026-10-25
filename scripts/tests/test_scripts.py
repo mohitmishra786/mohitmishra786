@@ -169,6 +169,13 @@ class ContributionsTest(unittest.TestCase):
         self.assertEqual(by[("sched-ext/scx", "3934", "Rust")], (5, 1))
         self.assertNotIn(("sched-ext/scx", "3933", "Other"), by)  # README.md skipped
 
+    def test_lines_skip_huge_generated_files(self):
+        pr = {"repository": {"nameWithOwner": "o/r"}, "number": 1, "closedAt": "2021-11-07T00:00:00Z"}
+        files = [{"filename": "report.html", "additions": 54122, "deletions": 0},
+                 {"filename": "eda.py", "additions": 40, "deletions": 2}]
+        rows = contributions.pr_line_rows(pr, files, set(), 5000)
+        self.assertEqual(rows, [["o/r", 1, "2021-11-07", "Python", 40, 2]])
+
     def test_language_of(self):
         self.assertEqual(contributions.language_of("scheds/rust/scx_mlfq/src/bpf/main.bpf.c"), "C (BPF)")
         self.assertEqual(contributions.language_of("src/lower.c"), "C")

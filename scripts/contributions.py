@@ -222,12 +222,14 @@ def language_of(path: str) -> str:
     return EXT_LANG.get(os.path.splitext(base)[1], "Other")
 
 
-def pr_line_rows(pr: dict, files: list[dict], skip_ext: set[str]) -> list[list]:
+def pr_line_rows(pr: dict, files: list[dict], skip_ext: set[str], max_file_additions: int = 0) -> list[list]:
     per_lang: dict[str, list[int]] = defaultdict(lambda: [0, 0])
     for f in files:
         path = f["filename"]
         if os.path.basename(path) != "CMakeLists.txt" and os.path.splitext(path)[1].lower() in skip_ext:
             continue
+        if max_file_additions and f.get("additions", 0) > max_file_additions:
+            continue  # a single huge added file is almost always generated (exports, bundles)
         acc = per_lang[language_of(path)]
         acc[0] += f.get("additions", 0)
         acc[1] += f.get("deletions", 0)
@@ -245,6 +247,7 @@ def cmd_lines(args, cfg) -> int:
         data = {"merged": merged, "open": [], "own": [], "repos": repos}
     data = filter_public(data, cfg)
     skip = {e.lower() for e in cfg["loc"].get("contrib_exclude_extensions", [])}
+    max_file = cfg["loc"].get("contrib_max_file_additions", 0)
     rows = []
     for pr in sorted(data["merged"], key=lambda p: (_repo(p), p["number"])):
         if args.fixtures:
@@ -256,7 +259,7 @@ def cmd_lines(args, cfg) -> int:
                  f"repos/{owner_repo}/pulls/{pr['number']}/files?per_page=100"],
                 check=True, capture_output=True, text=True).stdout
             files = [json.loads(line) for line in out.splitlines() if line.strip()]
-        rows.extend(pr_line_rows(pr, files, skip))
+        rows.extend(pr_line_rows(pr, files, skip, max_file))
     with open(args.out, "w", encoding="utf-8") as f:
         f.write("Repository,PR,MergedAt,Language,Additions,Deletions\n")
         for r in rows:

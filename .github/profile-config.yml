@@ -49,3 +49,6 @@ loc:
   # Lines added/removed by my merged PRs into other people's repos ignore these extensions
   # (data, docs, lockfiles and notebooks, whose JSON line counts are not meaningful).
   contrib_exclude_extensions: [.json, .csv, .md, .svg, .xml, .txt, .ipynb, .lock, .rst]
+  # Files with more added lines than this in one PR are treated as generated (e.g. a 54k-line
+  # HTML report exported from a notebook) and not counted.
+  contrib_max_file_additions: 5000
