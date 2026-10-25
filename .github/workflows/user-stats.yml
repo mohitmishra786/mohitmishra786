@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
-      contents: write  # commit assets/github-user-stats.svg
+      contents: write  # commit assets/github-user-stats*.svg
     steps:
       - name: Checkout
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09  # v5.1.0
@@ -30,5 +30,15 @@ jobs:
           image-file: assets/github-user-stats.svg
           commit-and-push: false
 
+      - name: Generate statistics (dark theme)
+        uses: cicirello/user-statistician@36500351ea14b69e68217d4c89eb0f3f06680b17  # v1.26.3
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          featured-repository: ${{ github.repository }}
+          image-file: assets/github-user-stats-dark.svg
+          colors: dark
+          commit-and-push: false
+
       - name: Commit and push
-        run: scripts/commit_and_push.sh "update user statistics" assets/github-user-stats.svg
+        run: scripts/commit_and_push.sh "update user statistics" assets/github-user-stats.svg assets/github-user-stats-dark.svg

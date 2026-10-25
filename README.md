@@ -106,7 +106,11 @@
 <summary><b>GitHub statistics and lines of code</b> (self-hosted, regenerated daily)</summary>
 
 <p align="center">
-  <img src="assets/github-user-stats.svg" alt="GitHub statistics for mohitmishra786: contributions, repositories and languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-user-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-user-stats.svg" />
+    <img src="assets/github-user-stats.svg" alt="GitHub statistics for mohitmishra786: contributions, repositories and languages" />
+  </picture>
 </p>
 
 <!-- LOC-STATS-START -->
