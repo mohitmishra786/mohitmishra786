@@ -45,7 +45,7 @@ loc:
   exclude_repos:
     - mohitmishra786/compiler
   exclude_langs: [Text, JSON, CSV, Markdown, SVG, XML]
-  not_match_d: '(node_modules|vendor|third_party|build|dist|\.git)'
+  not_match_d: '(^|/)(node_modules|vendor|third_party|build|dist|\.git)(/|$)'  # matched against the full path (cloc --fullpath)
   # Lines added/removed by my merged PRs into other people's repos ignore these extensions
   # (data, docs, lockfiles and notebooks, whose JSON line counts are not meaningful).
   contrib_exclude_extensions: [.json, .csv, .md, .svg, .xml, .txt, .ipynb, .lock, .rst]
