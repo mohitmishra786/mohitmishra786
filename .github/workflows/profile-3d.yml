@@ -1,40 +1,39 @@
 name: GitHub-Profile-3D-Contrib
+
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: '0 18 * * *'  # daily 18:00 UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
+
+permissions: {}
+
+concurrency:
+  group: profile-readme-writer-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write  # commit assets/profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: yoshi389111/github-profile-3d-contrib@0.2.0
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4.4.0
+
+      - name: Generate 3D contribution graphs
+        uses: yoshi389111/github-profile-3d-contrib@b36be1e5eca859f05c94f1d3f0c9391ea2d2aeb4  # 0.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Move to assets
         run: |
+          set -euo pipefail
           mkdir -p assets/profile-3d-contrib
           mv profile-3d-contrib/* assets/profile-3d-contrib/
           rm -rf profile-3d-contrib
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add .
-          if ! git diff-index --quiet HEAD --; then
-            git commit -m "generated 3d profile"
-            git pull origin main --rebase --autostash
-            git push
-          else
-            echo "No changes detected. Skipping commit and push."
-          fi
+      - name: Commit and push
+        run: scripts/commit_and_push.sh "update 3D contribution graph" assets/profile-3d-contrib

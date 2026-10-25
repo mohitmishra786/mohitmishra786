@@ -1,53 +1,33 @@
-# .github/workflows/snake.yml (ref: 6d2a32b3ba51e7833494b7e599b31427b8115eb9)
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours
+    - cron: '15 */12 * * *'  # every 12 hours at :15 (staggered from the other README writers)
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
 
-permissions:
-  contents: write
+permissions: {}
+
+concurrency:
+  group: profile-readme-writer-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write  # commit the generated SVGs
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0               # fetch full history so rebase/pull works
-          persist-credentials: true    # keep GITHUB_TOKEN for git push
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4.4.0
 
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        id: snake-gif
+      - name: Generate snake SVGs (light and dark)
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b  # v3.5.0
         with:
-          github_user_name: mohitmishra786
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push changes
-        env:
-          GIT_AUTHOR_NAME: "github-actions"
-          GIT_AUTHOR_EMAIL: "github-actions@github.com"
-          GIT_COMMITTER_NAME: "github-actions"
-          GIT_COMMITTER_EMAIL: "github-actions@github.com"
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add .
-          if ! git diff-index --quiet HEAD --; then
-            git commit -m "Update snake animation"
-            git pull origin main --rebase --autostash
-            git push origin HEAD:main
-          else
-            echo "No changes to commit."
-          fi
+      - name: Commit and push
+        run: scripts/commit_and_push.sh "update snake animation" assets/github-snake.svg assets/github-snake-dark.svg

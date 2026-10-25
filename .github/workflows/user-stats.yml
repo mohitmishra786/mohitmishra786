@@ -2,43 +2,33 @@ name: User Statistician
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 3 * * *'  # daily 03:00 UTC (staggered from the other README writers)
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
 
-# Ensure the workflow can push changes
-permissions:
-  contents: write
+permissions: {}
+
+concurrency:
+  group: profile-readme-writer-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write  # commit assets/github-user-stats.svg
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4.4.0
 
-      - name: Generate Statistics
-        uses: cicirello/user-statistician@v1
+      - name: Generate statistics
+        uses: cicirello/user-statistician@36500351ea14b69e68217d4c89eb0f3f06680b17  # v1.26.3
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          featured-repository: mohitmishra786/mohitmishra786
+          featured-repository: ${{ github.repository }}
           image-file: assets/github-user-stats.svg
           commit-and-push: false
 
-      - name: Commit and push changes
-        run: |
-          set -e
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add .
-          if ! git diff-index --quiet HEAD --; then
-            git commit -m "update stats"
-            git pull origin main --rebase --autostash
-            git push
-          fi
+      - name: Commit and push
+        run: scripts/commit_and_push.sh "update user statistics" assets/github-user-stats.svg
