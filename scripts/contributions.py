@@ -7,6 +7,8 @@ update   Query merged/open PRs (via the `gh` CLI), write contributions.json and
          RECENT-OWN-MERGES blocks in the README.
 lines    Sum lines added/removed by my merged PRs into other people's repos,
          per PR and file language, into a CSV (used by loc-stats.yml).
+digest   Write digest/YYYY-Www.md listing PRs merged in the past 7 days (into
+         other people's repos and into mine) plus a digest/README.md index.
 
 Only public repositories are ever queried (`--visibility public`) and any repo
 reported as private is dropped again before anything is written, so private
@@ -268,6 +270,83 @@ def cmd_lines(args, cfg) -> int:
     return 0
 
 
+# --------------------------------------------------------------------------- digest
+
+def fetch_digest(user: str, since: str) -> dict:
+    merged = search_prs("--author", user, "--merged-at", f">={since}", "--limit", "300",
+                        query=f"-user:{user}")
+    own = search_prs("--owner", user, "--merged-at", f">={since}", "--limit", "300")
+    names = sorted({_repo(p) for p in merged})
+    repos = [gh_json(["repo", "view", n, "--json", "nameWithOwner,isPrivate,url"]) for n in names]
+    return {"merged": merged, "open": [], "own": own, "repos": repos}
+
+
+def render_digest(data: dict, since: str, end: str) -> str:
+    in_window = lambda p: since <= p["closedAt"][:10] <= end  # noqa: E731
+    others = [p for p in data["merged"] if in_window(p)]
+    own = [p for p in data["own"] if in_window(p)]
+    out = [f"# Contribution digest: {since} to {end}", ""]
+    repos = sorted({_repo(p) for p in others})
+    plural = lambda n, word: f"{n} {word}" + ("" if n == 1 else "s")  # noqa: E731
+    out.append(f"**{plural(len(others), 'PR')} merged into other people's projects** across "
+               f"{plural(len(repos), 'repository').replace('repositorys', 'repositories')}, "
+               f"and **{len(own)} merged into my own repositories**.")
+
+    def section(title: str, prs: list[dict]) -> None:
+        out.extend(["", f"## {title}", ""])
+        if not prs:
+            out.append("_None this week._")
+            return
+        groups: dict[str, list[dict]] = defaultdict(list)
+        for p in prs:
+            groups[_repo(p)].append(p)
+        for name in sorted(groups, key=lambda n: (-len(groups[n]), n.lower())):
+            items = sorted(groups[name], key=lambda p: p["closedAt"], reverse=True)
+            out.extend([f"### [{name}](https://github.com/{name}) ({len(items)})", ""])
+            long_list = len(items) > 10
+            if long_list:
+                out.extend([f"<details><summary>{len(items)} PRs</summary>", ""])
+            for p in items:
+                out.append(f"- [#{p['number']}]({p['url']}) {escape_md(truncate(p['title'], 120))}"
+                           f" (merged {p['closedAt'][:10]})")
+            if long_list:
+                out.extend(["", "</details>"])
+            out.append("")
+        if out[-1] == "":
+            out.pop()
+
+    section("Merged into other projects", others)
+    section("Merged into my repositories", own)
+    return "\n".join(out) + "\n"
+
+
+def write_digest_index(out_dir: str) -> None:
+    weeks = sorted((f for f in os.listdir(out_dir) if f.endswith(".md") and f != "README.md"), reverse=True)
+    lines = ["# Weekly contribution digests", "",
+             "Generated every Monday by `.github/workflows/contribution-digest.yml` (public repositories only).", ""]
+    lines += [f"- [{w[:-3]}]({w})" for w in weeks]
+    with open(os.path.join(out_dir, "README.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+
+def cmd_digest(args, cfg) -> int:
+    user = cfg["username"]
+    end_day = dt.date.fromisoformat(args.end) if args.end else dt.datetime.now(dt.timezone.utc).date()
+    end_day -= dt.timedelta(days=1)  # the 7 full days before the run
+    start_day = end_day - dt.timedelta(days=args.days - 1)
+    since, end = start_day.isoformat(), end_day.isoformat()
+    raw = load_fixtures(args.fixtures) if args.fixtures else fetch_digest(user, since)
+    data = filter_public(raw, cfg)
+    year, week, _ = end_day.isocalendar()
+    os.makedirs(args.out, exist_ok=True)
+    path = os.path.join(args.out, f"{year}-W{week:02d}.md")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(render_digest(data, since, end))
+    write_digest_index(args.out)
+    print(f"wrote {path} ({since} to {end})")
+    return 0
+
+
 # --------------------------------------------------------------------------- main
 
 def load_config(path: str) -> dict:
@@ -311,16 +390,22 @@ def cmd_update(args, cfg) -> int:
 
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["update", "lines"])
+    ap.add_argument("command", choices=["update", "lines", "digest"])
     ap.add_argument("--config", default=".github/profile-config.yml")
     ap.add_argument("--readme", default="README.md")
-    ap.add_argument("--out", help="output file (default: contributions.json / loc_results/contrib_lines.csv)")
+    ap.add_argument("--out", help="output path (default: contributions.json / "
+                                  "loc_results/contrib_lines.csv / digest)")
     ap.add_argument("--fixtures", help="read gh results from this directory instead of calling gh")
+    ap.add_argument("--days", type=int, default=7, help="digest window in days")
+    ap.add_argument("--end", help="digest run date YYYY-MM-DD (default: today, UTC); covers the days before it")
     args = ap.parse_args(argv)
     cfg = load_config(args.config)
     if args.command == "update":
         args.out = args.out or "contributions.json"
         return cmd_update(args, cfg)
+    if args.command == "digest":
+        args.out = args.out or "digest"
+        return cmd_digest(args, cfg)
     args.out = args.out or "loc_results/contrib_lines.csv"
     return cmd_lines(args, cfg)
 

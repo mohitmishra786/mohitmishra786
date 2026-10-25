@@ -176,6 +176,38 @@ class ContributionsTest(unittest.TestCase):
         rows = contributions.pr_line_rows(pr, files, set(), 5000)
         self.assertEqual(rows, [["o/r", 1, "2021-11-07", "Python", 40, 2]])
 
+    def test_digest_window_grouping_and_privacy(self):
+        tmp = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, tmp)
+        cfg_path, out = os.path.join(tmp, "cfg.json"), os.path.join(tmp, "digest")
+        with open(cfg_path, "w") as f:
+            json.dump(CONFIG, f)
+        # Run on Monday 2026-10-26 => covers 2026-10-19 .. 2026-10-25 (ISO week 43).
+        contributions.main(["digest", "--config", cfg_path, "--out", out, "--fixtures", FIXTURES,
+                            "--end", "2026-10-26"])
+        text = read(os.path.join(out, "2026-W43.md"))
+        self.assertIn("# Contribution digest: 2026-10-19 to 2026-10-25", text)
+        self.assertIn("**3 PRs merged into other people's projects** across 2 repositories, "
+                      "and **1 merged into my own repositories**.", text)
+        self.assertIn("### [sched-ext/scx](https://github.com/sched-ext/scx) (2)", text)
+        self.assertIn("- [#343](https://github.com/edgcpp/compiler/pull/343) move \\<meta\\>", text)
+        self.assertNotIn("secret-org", text)      # private, and outside the window
+        self.assertNotIn("ghost/unknown", text)   # unknown visibility
+        self.assertNotIn("Bump deps", text)       # bot PR in my repo
+        self.assertNotIn("small/tutorial", text)  # merged before the window
+        self.assertIn("- [2026-W43](2026-W43.md)", read(os.path.join(out, "README.md")))
+
+    def test_digest_empty_week(self):
+        data = {"merged": [], "own": []}
+        text = contributions.render_digest(data, "2020-01-01", "2020-01-07")
+        self.assertEqual(text.count("_None this week._"), 2)
+        many = [{"repository": {"nameWithOwner": "me/big"}, "number": i, "title": f"PR {i}",
+                 "url": f"https://github.com/me/big/pull/{i}", "closedAt": "2020-01-02T00:00:00Z"}
+                for i in range(11)]
+        text = contributions.render_digest({"merged": many[:1], "own": many}, "2020-01-01", "2020-01-07")
+        self.assertIn("**1 PR merged into other people's projects** across 1 repository,", text)
+        self.assertIn("<details><summary>11 PRs</summary>", text)
+
     def test_language_of(self):
         self.assertEqual(contributions.language_of("scheds/rust/scx_mlfq/src/bpf/main.bpf.c"), "C (BPF)")
         self.assertEqual(contributions.language_of("src/lower.c"), "C")
