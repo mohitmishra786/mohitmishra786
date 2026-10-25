@@ -27,6 +27,7 @@ jobs:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://medium.com/feed/@mohitmishra786687, https://mohitmishra786.github.io/TheCoreDump/feed.xml"
           max_post_count: 5
+          enable_keepalive: false  # no dummy keepalive commits
           template: "$newline- [$title]($url)"
           commit_message: "chore(bot): update latest blog posts [skip ci]"
           committer_username: "github-actions[bot]"
