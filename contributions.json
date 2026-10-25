@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T14:03:46Z",
+  "generated_at": "2026-10-25T14:48:19Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 98,
-  "total_repos": 13,
+  "total_merged_prs": 91,
+  "total_repos": 11,
   "repos": [
     {
       "repo": "sched-ext/scx",
@@ -36,23 +36,6 @@
         "title": "move <meta> out of include_c++/experimental and define __cpp_lib_reflection, fix for [GH #36]",
         "url": "https://github.com/edgcpp/compiler/pull/343",
         "merged_at": "2026-10-23"
-      }
-    },
-    {
-      "repo": "EddieHubCommunity/EddieBot",
-      "url": "https://github.com/EddieHubCommunity/EddieBot",
-      "stars": 179,
-      "description": "Inclusive words Discord bot (no more \"hey guys\")",
-      "language": "TypeScript",
-      "merged_prs": 1,
-      "merged_prs_url": "https://github.com/EddieHubCommunity/EddieBot/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Added a GitHub Actions workflow to run the tests in CI",
-      "featured": false,
-      "latest_pr": {
-        "number": 642,
-        "title": "feat : Test to run on CI (Github Actions) (#638)",
-        "url": "https://github.com/EddieHubCommunity/EddieBot/pull/642",
-        "merged_at": "2021-09-04"
       }
     },
     {
@@ -124,23 +107,6 @@
       }
     },
     {
-      "repo": "implement-from-scratch/website",
-      "url": "https://github.com/implement-from-scratch/website",
-      "stars": 6,
-      "description": "",
-      "language": "TypeScript",
-      "merged_prs": 6,
-      "merged_prs_url": "https://github.com/implement-from-scratch/website/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Roadmap and guide views, mobile-first layout, client-side Mermaid rendering",
-      "featured": true,
-      "latest_pr": {
-        "number": 8,
-        "title": "fix(mdx): switch to client-side mermaid rendering to resolve Playwrig…",
-        "url": "https://github.com/implement-from-scratch/website/pull/8",
-        "merged_at": "2026-02-05"
-      }
-    },
-    {
       "repo": "chrinovicmu/netHex",
       "url": "https://github.com/chrinovicmu/netHex",
       "stars": 6,
@@ -148,7 +114,7 @@
       "language": "C",
       "merged_prs": 1,
       "merged_prs_url": "https://github.com/chrinovicmu/netHex/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Resolve code quality issues from #2",
+      "summary": "Code-quality fixes for the issues I reported in #2",
       "featured": false,
       "latest_pr": {
         "number": 3,
@@ -165,7 +131,7 @@
       "language": "Jupyter Notebook",
       "merged_prs": 2,
       "merged_prs_url": "https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Updated Readme.md for Task-2 Data Collection",
+      "summary": "Dataset folder and Task-2 data-collection README",
       "featured": false,
       "latest_pr": {
         "number": 2,

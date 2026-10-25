@@ -1,15 +1,15 @@
 {
   "generated_at": "2026-10-25",
   "total_repositories": 81,
-  "total_code_lines": 440153,
-  "total_files": 3636,
+  "total_code_lines": 440957,
+  "total_files": 3646,
   "languages": [
     {
       "language": "Python",
-      "files": 1160,
-      "blank": 33065,
-      "comment": 29350,
-      "code": 126550
+      "files": 1165,
+      "blank": 33240,
+      "comment": 29420,
+      "code": 127430
     },
     {
       "language": "TypeScript",
@@ -48,10 +48,10 @@
     },
     {
       "language": "YAML",
-      "files": 207,
-      "blank": 3203,
-      "comment": 1026,
-      "code": 17339
+      "files": 211,
+      "blank": 3180,
+      "comment": 1009,
+      "code": 17235
     },
     {
       "language": "Rust",
@@ -97,10 +97,10 @@
     },
     {
       "language": "Bourne Shell",
-      "files": 52,
-      "blank": 797,
-      "comment": 476,
-      "code": 3277
+      "files": 53,
+      "blank": 804,
+      "comment": 484,
+      "code": 3305
     },
     {
       "language": "Assembly",
@@ -193,19 +193,14 @@
     }
   ],
   "contributions": {
-    "prs": 59,
-    "added": 20434,
-    "removed": 2108,
+    "prs": 52,
+    "added": 17578,
+    "removed": 1578,
     "languages": [
       {
         "name": "Python",
         "added": 10732,
         "removed": 181
-      },
-      {
-        "name": "TypeScript",
-        "added": 2748,
-        "removed": 442
       },
       {
         "name": "Dart",
@@ -219,8 +214,8 @@
       },
       {
         "name": "YAML",
-        "added": 1190,
-        "removed": 18
+        "added": 1171,
+        "removed": 7
       },
       {
         "name": "Java",
@@ -253,11 +248,6 @@
         "removed": 0
       },
       {
-        "name": "CSS",
-        "added": 86,
-        "removed": 77
-      },
-      {
         "name": "SQL",
         "added": 16,
         "removed": 7
@@ -283,11 +273,6 @@
         "removed": 0
       },
       {
-        "name": "JavaScript",
-        "added": 3,
-        "removed": 0
-      },
-      {
         "name": "Rust",
         "added": 1,
         "removed": 6
@@ -298,11 +283,6 @@
         "name": "OmdenaAI/omdena-srilanka-tea-quality",
         "added": 14512,
         "removed": 5
-      },
-      {
-        "name": "implement-from-scratch/website",
-        "added": 2837,
-        "removed": 519
       },
       {
         "name": "gutsOfDarkness/crave-delivery",
@@ -333,11 +313,6 @@
         "name": "chrinovicmu/netHex",
         "added": 89,
         "removed": 36
-      },
-      {
-        "name": "EddieHubCommunity/EddieBot",
-        "added": 19,
-        "removed": 11
       },
       {
         "name": "sched-ext/scx",

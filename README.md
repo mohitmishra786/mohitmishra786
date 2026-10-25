@@ -27,6 +27,7 @@
 | [exploring-os](https://github.com/mohitmishra786/exploring-os) | Operating-system concepts, one topic a day, with implementations in C ([site](https://mohitmishra786.github.io/exploring-os/)) | ![stars](https://img.shields.io/github/stars/mohitmishra786/exploring-os?style=flat-square&label=) |
 | [myJourneyOfBuildingOS](https://github.com/mohitmishra786/myJourneyOfBuildingOS) | Book in progress on building an OS from scratch, in C ([site](https://mohitmishra786.github.io/myJourneyOfBuildingOS/)) | ![stars](https://img.shields.io/github/stars/mohitmishra786/myJourneyOfBuildingOS?style=flat-square&label=) |
 | [low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) | AI agent skills for C/C++, Rust and Zig toolchains: compilers, debuggers, profilers, sanitizers ([site](https://www.lowleveldevskills.com)) | ![stars](https://img.shields.io/github/stars/mohitmishra786/low-level-dev-skills?style=flat-square&label=) |
+| [implement-from-scratch](https://github.com/implement-from-scratch) | My org of from-scratch guides and C implementations: Unix shell, thread-safe memory allocator, ls, TCP server ([site](https://website-seven-murex-43.vercel.app)) | ![stars](https://img.shields.io/github/stars/implement-from-scratch?style=flat-square&label=) |
 
 ## Featured open-source contributions
 
@@ -35,12 +36,12 @@
 |---|---|---:|---:|
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [2](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.2k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [3](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 984 |
-| [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) | Added a GitHub Actions workflow to run the tests in CI | [1](https://github.com/EddieHubCommunity/EddieBot/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 179 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 44 |
 | [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
 | [OmdenaAI/omdena-texas-homelessness](https://github.com/OmdenaAI/omdena-texas-homelessness) | EDA notebooks, dashboards and a web app page | [36](https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 11 |
 | [OmdenaAI/omdena-srilanka-tea-quality](https://github.com/OmdenaAI/omdena-srilanka-tea-quality) | Azure ML pipeline and repo restructuring | [11](https://github.com/OmdenaAI/omdena-srilanka-tea-quality/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 10 |
-| [implement-from-scratch/website](https://github.com/implement-from-scratch/website) | Roadmap and guide views, mobile-first layout, client-side Mermaid rendering | [6](https://github.com/implement-from-scratch/website/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 6 |
+| [chrinovicmu/netHex](https://github.com/chrinovicmu/netHex) | Code-quality fixes for the issues I reported in \#2 | [1](https://github.com/chrinovicmu/netHex/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 6 |
+| [OmdenaAI/sao-paulo-brazil-plant-diseases](https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases) | Dataset folder and Task-2 data-collection README | [2](https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 6 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
 <sub>Merged PRs into public repositories I don't own, refreshed every 6 hours by <a href=".github/workflows/recent-activity.yml">recent-activity.yml</a> (data: <a href="contributions.json">contributions.json</a>).</sub>
@@ -72,11 +73,11 @@
 <summary><b>Recently merged into my own repos</b></summary>
 
 <!-- RECENT-OWN-MERGES:START -->
+- [mohitmishra786/mohitmishra786#57](https://github.com/mohitmishra786/mohitmishra786/pull/57): Profile overhaul: accurate LOC, self-updating contributions, hardened workflows, merged 2026-10-25
 - [mohitmishra786/weirling#381](https://github.com/mohitmishra786/weirling/pull/381): Release v0.3.3: 500x faster embeddings, IPv4-first feeds, onboarding fixes, consistent…, merged 2026-10-25
 - [mohitmishra786/weirling#380](https://github.com/mohitmishra786/weirling/pull/380): Release v0.3.2: send email through Resend \(HTTPS\) for hosts that block SMTP, merged 2026-10-25
 - [mohitmishra786/weirling#379](https://github.com/mohitmishra786/weirling/pull/379): Release v0.3.1: fix the backend image tags; clear empty DATABASE\_URL error; Railway…, merged 2026-10-25
 - [mohitmishra786/weirling#378](https://github.com/mohitmishra786/weirling/pull/378): Fix the email logging test after the SMTP rename, merged 2026-10-25
-- [mohitmishra786/weirling#376](https://github.com/mohitmishra786/weirling/pull/376): Release v0.3.0, merged 2026-10-25
 <!-- RECENT-OWN-MERGES:END -->
 
 </details>
@@ -94,9 +95,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,rust,go,zig,python,ts,bash,linux,docker,git,githubactions&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,rust,go,zig,python,ts,bash,linux,docker,git,githubactions&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,zig,python,ts,bash,linux,docker,git,githubactions&theme=dark" alt="C, C++, Rust, Go, Zig, Python, TypeScript, Bash, Linux, Docker, Git, GitHub Actions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Crust%2Cgo%2Czig%2Cpython%2Cts%2Cbash%2Clinux%2Cdocker%2Cgit%2Cgithubactions&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Crust%2Cgo%2Czig%2Cpython%2Cts%2Cbash%2Clinux%2Cdocker%2Cgit%2Cgithubactions&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Crust%2Cgo%2Czig%2Cpython%2Cts%2Cbash%2Clinux%2Cdocker%2Cgit%2Cgithubactions&theme=dark" alt="C, C++, Rust, Go, Zig, Python, TypeScript, Bash, Linux, Docker, Git, GitHub Actions" />
   </picture>
 </p>
 
@@ -114,7 +115,7 @@
 </p>
 
 <!-- LOC-STATS-START -->
-![Lines of code in my public repos: 440,153](https://img.shields.io/badge/code%20in%20my%20public%20repos-440.15k%20lines-blue) ![Lines added in merged PRs to other projects: 20,434](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-20.43k%20lines-green)
+![Lines of code in my public repos: 440,957](https://img.shields.io/badge/code%20in%20my%20public%20repos-440.96k%20lines-blue) ![Lines added in merged PRs to other projects: 17,578](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-17.58k%20lines-green)
 
 <details>
 <summary>Lines-of-code details</summary>
@@ -126,29 +127,29 @@ _As of 2026-10-25. Counts own public, non-fork, non-archived repositories (cloc,
 | Repositories counted | 81 |
 | Empty repositories skipped | 5 |
 | Failed repositories | 0 |
-| Files | 3,636 |
-| Code lines | 440,153 |
-| Comment lines | 145,772 |
-| Blank lines | 76,794 |
+| Files | 3,646 |
+| Code lines | 440,957 |
+| Comment lines | 145,833 |
+| Blank lines | 76,953 |
 
 **Top 15 languages by code lines**
 
 | Language | Files | Code | Comment | Blank |
 |----------|------:|-----:|--------:|------:|
-| Python | 1,160 | 126,550 | 29,350 | 33,065 |
+| Python | 1,165 | 127,430 | 29,420 | 33,240 |
 | TypeScript | 835 | 88,097 | 7,748 | 12,449 |
 | HTML | 118 | 53,170 | 158 | 1,040 |
 | Go | 212 | 33,856 | 1,165 | 4,670 |
 | CSS | 54 | 31,004 | 638 | 3,630 |
 | C | 237 | 20,540 | 1,699 | 4,499 |
-| YAML | 207 | 17,339 | 1,026 | 3,203 |
+| YAML | 211 | 17,235 | 1,009 | 3,180 |
 | Rust | 68 | 15,337 | 1,539 | 1,432 |
 | C++ | 262 | 12,954 | 1,617 | 2,348 |
 | JavaScript | 142 | 10,331 | 1,259 | 1,589 |
 | Swift | 51 | 8,251 | 1,938 | 2,347 |
 | Jupyter Notebook | 42 | 6,011 | 95,595 | 0 |
 | SWIG | 3 | 3,765 | 0 | 3,766 |
-| Bourne Shell | 52 | 3,277 | 476 | 797 |
+| Bourne Shell | 53 | 3,305 | 484 | 804 |
 | Assembly | 8 | 1,677 | 149 | 221 |
 
 **Top 20 repositories by code lines**
@@ -176,20 +177,20 @@ _As of 2026-10-25. Counts own public, non-fork, non-archived repositories (cloc,
 | [mohitmishra786/repo2video](https://github.com/mohitmishra786/repo2video) | 6,997 |
 | [mohitmishra786/never](https://github.com/mohitmishra786/never) | 6,610 |
 
-**Lines changed in my 59 merged PRs to other people's public repos**: +20,434 / -2,108 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
+**Lines changed in my 52 merged PRs to other people's public repos**: +17,578 / -1,578 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
 
 | Language | Added | Removed |
 |----------|------:|--------:|
 | Python | 10,732 | 181 |
-| TypeScript | 2,748 | 442 |
 | Dart | 2,431 | 1,008 |
 | Other | 2,243 | 93 |
-| YAML | 1,190 | 18 |
+| YAML | 1,171 | 7 |
 | Java | 291 | 0 |
 | Go | 189 | 214 |
 | C | 118 | 47 |
 | C++ | 118 | 2 |
 | Shell | 116 | 2 |
+| HTML | 110 | 0 |
 
 </details>
 <!-- LOC-STATS-END -->
