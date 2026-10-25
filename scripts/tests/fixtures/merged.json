@@ -1,0 +1,188 @@
+[
+ {
+  "repository": {
+   "name": "private-repo",
+   "nameWithOwner": "secret-org/private-repo"
+  },
+  "number": 9,
+  "title": "Private work",
+  "url": "https://github.com/secret-org/private-repo/pull/9",
+  "closedAt": "2026-10-26T09:00:00Z",
+  "createdAt": "2026-10-26T09:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "files": [
+   {
+    "filename": "x.c",
+    "additions": 100,
+    "deletions": 0
+   }
+  ]
+ },
+ {
+  "repository": {
+   "name": "scx",
+   "nameWithOwner": "sched-ext/scx"
+  },
+  "number": 3934,
+  "title": "scx_mlfq: Skip the RT drain",
+  "url": "https://github.com/sched-ext/scx/pull/3934",
+  "closedAt": "2026-10-25T12:14:47Z",
+  "createdAt": "2026-10-25T12:14:47Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "files": [
+   {
+    "filename": "scheds/rust/scx_mlfq/src/bpf/main.bpf.c",
+    "additions": 12,
+    "deletions": 3
+   },
+   {
+    "filename": "scheds/rust/scx_mlfq/src/main.rs",
+    "additions": 5,
+    "deletions": 1
+   }
+  ]
+ },
+ {
+  "repository": {
+   "name": "scx",
+   "nameWithOwner": "sched-ext/scx"
+  },
+  "number": 3933,
+  "title": "README: List CONFIG_KALLSYMS_ALL as a required kernel option",
+  "url": "https://github.com/sched-ext/scx/pull/3933",
+  "closedAt": "2026-10-25T10:00:00Z",
+  "createdAt": "2026-10-25T10:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "files": [
+   {
+    "filename": "README.md",
+    "additions": 2,
+    "deletions": 0
+   }
+  ]
+ },
+ {
+  "repository": {
+   "name": "compiler",
+   "nameWithOwner": "edgcpp/compiler"
+  },
+  "number": 343,
+  "title": "move <meta> out of include_c++/experimental, fix for [GH #36]",
+  "url": "https://github.com/edgcpp/compiler/pull/343",
+  "closedAt": "2026-10-23T08:00:00Z",
+  "createdAt": "2026-10-23T08:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "files": [
+   {
+    "filename": "src/lower.c",
+    "additions": 40,
+    "deletions": 10
+   },
+   {
+    "filename": "include_c++/meta",
+    "additions": 30,
+    "deletions": 0
+   }
+  ]
+ },
+ {
+  "repository": {
+   "name": "tutorial",
+   "nameWithOwner": "small/tutorial"
+  },
+  "number": 1,
+  "title": "Add docs",
+  "url": "https://github.com/small/tutorial/pull/1",
+  "closedAt": "2025-01-01T00:00:00Z",
+  "createdAt": "2025-01-01T00:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "files": [
+   {
+    "filename": "docs/a.md",
+    "additions": 9,
+    "deletions": 0
+   }
+  ]
+ },
+ {
+  "repository": {
+   "name": "repo",
+   "nameWithOwner": "tiny/repo"
+  },
+  "number": 2,
+  "title": "Typo",
+  "url": "https://github.com/tiny/repo/pull/2",
+  "closedAt": "2024-01-01T00:00:00Z",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "files": [
+   {
+    "filename": "a.py",
+    "additions": 1,
+    "deletions": 1
+   }
+  ]
+ },
+ {
+  "repository": {
+   "name": "Hacktoberfest",
+   "nameWithOwner": "someone/Hacktoberfest"
+  },
+  "number": 5,
+  "title": "Add my name",
+  "url": "https://github.com/someone/Hacktoberfest/pull/5",
+  "closedAt": "2022-10-01T00:00:00Z",
+  "createdAt": "2022-10-01T00:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "files": [
+   {
+    "filename": "names.md",
+    "additions": 1,
+    "deletions": 0
+   }
+  ]
+ },
+ {
+  "repository": {
+   "name": "unknown",
+   "nameWithOwner": "ghost/unknown"
+  },
+  "number": 1,
+  "title": "Unknown visibility",
+  "url": "https://github.com/ghost/unknown/pull/1",
+  "closedAt": "2026-10-26T10:00:00Z",
+  "createdAt": "2026-10-26T10:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "files": [
+   {
+    "filename": "a.c",
+    "additions": 1,
+    "deletions": 0
+   }
+  ]
+ }
+]

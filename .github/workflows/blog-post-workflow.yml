@@ -1,34 +1,34 @@
 name: Latest blog post workflow
+
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight
+    - cron: '0 0 * * *'  # daily 00:00 UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
+
+permissions: {}
+
+concurrency:
+  group: profile-readme-writer-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
-      contents: write
-      pull-requests: write
+      contents: write  # the action commits README.md itself
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
-          submodules: recursive
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09  # v5.1.0
 
       - name: Generate latest blog-post content
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b  # 1.9.7
         with:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://medium.com/feed/@mohitmishra786687, https://mohitmishra786.github.io/TheCoreDump/feed.xml"
           max_post_count: 5
+          enable_keepalive: false  # no dummy keepalive commits
           template: "$newline- [$title]($url)"
-          commit_message: "Updated README with latest blog posts"
+          commit_message: "chore(bot): update latest blog posts [skip ci]"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"

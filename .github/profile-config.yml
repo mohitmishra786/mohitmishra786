@@ -1,0 +1,54 @@
+# Configuration for the generated sections of the profile README.
+# Read by scripts/contributions.py (recent-activity.yml) and scripts/loc_report.py (loc-stats.yml).
+
+username: mohitmishra786
+
+contributions:
+  # Repos never shown in contribution tables/lists (Hacktoberfest-style and tutorial/practice repos).
+  exclude_repos:
+    - fineanmol/Hacktoberfest2026
+    - ossamamehmood/Hacktoberfest
+    - kavyanshpandey/hacktoberfest-2021
+    - BlackTimber-Labs/Portfolio-Website
+    - ISTE-VIT/The-CP-Companion
+    - throwaway-root/DataStructers
+    - kanak22/CP-DSA-Questions
+    - juberrahman/Smart-Health
+  # Always listed first in the featured table (if they have public merged PRs), in this order.
+  featured_repos:
+    - sched-ext/scx
+    - sched-ext/scx-loader
+    - edgcpp/compiler
+    - implement-from-scratch/website
+  # Non-featured repos need at least this many stars to appear in the featured table.
+  min_stars: 5
+  # Maximum rows in the featured table.
+  max_items: 8
+  # Optional one-line "what I worked on" per repo, written from the actual PR titles.
+  # Repos without an entry fall back to the title of the latest merged PR.
+  summaries:
+    sched-ext/scx: "scx_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note"
+    sched-ext/scx-loader: "Removed leftover scxtui references from README and scxctl"
+    edgcpp/compiler: "C++ front-end fixes: auto deduction from void, 128-bit integer limits, <meta>/reflection"
+    implement-from-scratch/website: "Roadmap and guide views, mobile-first layout, client-side Mermaid rendering"
+    EddieHubCommunity/EddieBot: "Added a GitHub Actions workflow to run the tests in CI"
+    OmdenaAI/omdena-texas-homelessness: "EDA notebooks, dashboards and a web app page"
+    OmdenaAI/omdena-srilanka-tea-quality: "Azure ML pipeline and repo restructuring"
+    OmdenaAI/omdena-colombia-career-recommender-system: "EDA notebook and template"
+    OmdenaAI/lagos-chapter-water-availability: "EDA notebooks, templates and datasets"
+  # Recent-activity lists (README blocks RECENT-PRS / OPEN-PRS / RECENT-OWN-MERGES).
+  recent_items: 5
+
+loc:
+  # Own, public, non-fork, non-archived repos are counted. These are additionally excluded:
+  # compiler - fork of edgcpp/compiler (EDG C/C++ front end + test data, 32M lines, not authored here).
+  exclude_repos:
+    - mohitmishra786/compiler
+  exclude_langs: [Text, JSON, CSV, Markdown, SVG, XML]
+  not_match_d: '(^|/)(node_modules|vendor|third_party|build|dist|\.git)(/|$)'  # matched against the full path (cloc --fullpath)
+  # Lines added/removed by my merged PRs into other people's repos ignore these extensions
+  # (data, docs, lockfiles and notebooks, whose JSON line counts are not meaningful).
+  contrib_exclude_extensions: [.json, .csv, .md, .svg, .xml, .txt, .ipynb, .lock, .rst]
+  # Files with more added lines than this in one PR are treated as generated (e.g. a 54k-line
+  # HTML report exported from a notebook) and not counted.
+  contrib_max_file_additions: 5000

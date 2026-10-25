@@ -1,60 +1,71 @@
-# LOC Statistics - All Repositories
-
-Generated on: 2026-10-25 02:36:03 UTC
-
-## Summary Statistics
+_As of 2026-10-25. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
 
 | Metric | Count |
-|--------|-------|
-| Total Repositories Processed | 116 |
-| Failed Repositories | 44 |
-| Total Files | 99,471 |
-| Total Lines of Code | 40,144,572 |
-| Total Blank Lines | 8,506,267 |
-| Total Comment Lines | 2,984,220 |
+|--------|------:|
+| Repositories counted | 81 |
+| Empty repositories skipped | 5 |
+| Failed repositories | 0 |
+| Files | 3,636 |
+| Code lines | 440,153 |
+| Comment lines | 145,772 |
+| Blank lines | 76,794 |
 
+**Top 15 languages by code lines**
 
-## Top 15 Languages by LOC
+| Language | Files | Code | Comment | Blank |
+|----------|------:|-----:|--------:|------:|
+| Python | 1,160 | 126,550 | 29,350 | 33,065 |
+| TypeScript | 835 | 88,097 | 7,748 | 12,449 |
+| HTML | 118 | 53,170 | 158 | 1,040 |
+| Go | 212 | 33,856 | 1,165 | 4,670 |
+| CSS | 54 | 31,004 | 638 | 3,630 |
+| C | 237 | 20,540 | 1,699 | 4,499 |
+| YAML | 207 | 17,339 | 1,026 | 3,203 |
+| Rust | 68 | 15,337 | 1,539 | 1,432 |
+| C++ | 262 | 12,954 | 1,617 | 2,348 |
+| JavaScript | 142 | 10,331 | 1,259 | 1,589 |
+| Swift | 51 | 8,251 | 1,938 | 2,347 |
+| Jupyter Notebook | 42 | 6,011 | 95,595 | 0 |
+| SWIG | 3 | 3,765 | 0 | 3,766 |
+| Bourne Shell | 52 | 3,277 | 476 | 797 |
+| Assembly | 8 | 1,677 | 149 | 221 |
 
-| Language | Files | Code Lines | Comment Lines | Blank Lines |
-|----------|-------|------------|---------------|-------------|
-| Jupyter Notebook |    367 |    2021072 |       2021072 |           0 |
-| C            |  20508 |     420306 |        420306 |      901677 |
-| C++          |  26224 |     172923 |        172923 |     2799795 |
-| HTML         |   1551 |      84173 |         84173 |      310166 |
-| C/C++ Header |    447 |      64054 |         64054 |       30019 |
-| TypeScript   |   1152 |      51549 |         51549 |       19170 |
-| JavaScript   |   1519 |      45978 |         45978 |       24034 |
-| Python       |   1487 |      38900 |         38900 |       44456 |
-| Ruby         |   1346 |      33098 |         33098 |       23077 |
-| reStructuredText |     27 |      16785 |         16785 |        6004 |
-| Go           |    586 |       9194 |          9194 |       16425 |
-| Assembly     |     57 |       5267 |          5267 |        2616 |
-| Java         |     66 |       4090 |          4090 |        1712 |
-| YAML         |    563 |       2990 |          2990 |        5231 |
-| Bourne Shell |    144 |       2528 |          2528 |        1565 |
+**Top 20 repositories by code lines**
 
-## Top 20 Repositories by LOC
+| Repository | Code |
+|------------|-----:|
+| [mohitmishra786/weirling](https://github.com/mohitmishra786/weirling) | 55,369 |
+| [mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML](https://github.com/mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML) | 43,894 |
+| [mohitmishra786/matchquill](https://github.com/mohitmishra786/matchquill) | 38,953 |
+| [mohitmishra786/aurora-dev](https://github.com/mohitmishra786/aurora-dev) | 27,636 |
+| [mohitmishra786/mohit-portfolio](https://github.com/mohitmishra786/mohit-portfolio) | 21,802 |
+| [mohitmishra786/mdmend](https://github.com/mohitmishra786/mdmend) | 18,223 |
+| [mohitmishra786/confscout](https://github.com/mohitmishra786/confscout) | 17,575 |
+| [mohitmishra786/undertow](https://github.com/mohitmishra786/undertow) | 16,335 |
+| [mohitmishra786/BitsAndBytes](https://github.com/mohitmishra786/BitsAndBytes) | 14,927 |
+| [mohitmishra786/neuro-code](https://github.com/mohitmishra786/neuro-code) | 14,656 |
+| [mohitmishra786/vislab](https://github.com/mohitmishra786/vislab) | 13,842 |
+| [mohitmishra786/writ](https://github.com/mohitmishra786/writ) | 12,880 |
+| [mohitmishra786/hacktoberfest-2022](https://github.com/mohitmishra786/hacktoberfest-2022) | 11,565 |
+| [mohitmishra786/yt-setup](https://github.com/mohitmishra786/yt-setup) | 9,642 |
+| [mohitmishra786/control](https://github.com/mohitmishra786/control) | 8,818 |
+| [mohitmishra786/agentop](https://github.com/mohitmishra786/agentop) | 8,738 |
+| [mohitmishra786/myJourneyOfBuildingOS](https://github.com/mohitmishra786/myJourneyOfBuildingOS) | 8,627 |
+| [mohitmishra786/postgres-hackers-explorer](https://github.com/mohitmishra786/postgres-hackers-explorer) | 7,630 |
+| [mohitmishra786/repo2video](https://github.com/mohitmishra786/repo2video) | 6,997 |
+| [mohitmishra786/never](https://github.com/mohitmishra786/never) | 6,610 |
 
-| Repository | Lines of Code |
-|------------|---------------|
-| mohitmishra786/compiler                            |      32272517 |
-| OmdenaAI/Berlin-Chapter-Challenge-Waste-Management |       2979527 |
-| mohitmishra786/meshery                             |       1650694 |
-| OmdenaAI/dhaka-bangladesh-real-estate-recommendation |        477093 |
-| OmdenaAI/omdena-texas-homelessness                 |        404748 |
-| mohitmishra786/Homelessness-in-Texas               |        404740 |
-| mohitmishra786/chessman                            |        290280 |
-| mohitmishra786/REST-API                            |        208637 |
-| mohitmishra786/Sales_Data_Analysis                 |        186979 |
-| mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML |        116724 |
-| OmdenaAI/lagos-chapter-water-availability          |        101722 |
-| mohitmishra786/weirling                            |         71195 |
-| mohitmishra786/confscout                           |         68861 |
-| mohitmishra786/aurora-dev                          |         58044 |
-| mohitmishra786/matchquill                          |         55707 |
-| mohitmishra786/ML-and-DL                           |         52977 |
-| mohitmishra786/mdmend                              |         42126 |
-| mohitmishra786/mohit-portfolio                     |         31091 |
-| mohitmishra786/low-level-dev-skills                |         30606 |
-| mohitmishra786/EddieBot                            |         30296 |
+**Lines changed in my 59 merged PRs to other people's public repos**: +20,434 / -2,108 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
+
+| Language | Added | Removed |
+|----------|------:|--------:|
+| Python | 10,732 | 181 |
+| TypeScript | 2,748 | 442 |
+| Dart | 2,431 | 1,008 |
+| Other | 2,243 | 93 |
+| YAML | 1,190 | 18 |
+| Java | 291 | 0 |
+| Go | 189 | 214 |
+| C | 118 | 47 |
+| C++ | 118 | 2 |
+| Shell | 116 | 2 |

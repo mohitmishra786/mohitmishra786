@@ -1,0 +1,35 @@
+{
+  "skill_name": "github-profile-readme",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "i'm a backend engineer at a fintech startup, mostly Go and Postgres, been doing this ~8 years. i don't really want to babysit my github page or have it full of animated junk. can you make me a profile readme? my github is jmercer, site is jmercer.dev, linkedin jaymercer.",
+      "expected_output": "A clean Minimalist/Prose-First profile README: specific intro prose, a few real links (site, linkedin, github), no widget overload, correct username/jmercer repo guidance. Should NOT pile on stats/streak/trophy cards.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "help me make my github profile pop. i'm a final-year CS student looking for my first job, i build full-stack stuff (React, Node, Python, some ML), i blog on dev.to, and i want it to look impressive to recruiters. username is priya-dev.",
+      "expected_output": "A Descriptive Resume or Stats Dashboard archetype with About/Skills/Projects substance, verified-link emphasis, grouped tech (not a 30-logo wall), optionally an auto-updated dev.to feed with correct markers + workflow + the 60-day caveat. Recruiter-readable.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "i want a github profile readme with that cool box that shows my bio as a javascript object, plus my socials. i'm a frontend dev named Marco, ts/react, twitter @marcobuilds, email marco@buildsstuff.io",
+      "expected_output": "A Code-as-Bio archetype: a SYNTACTICALLY VALID JS object bio (quoted strings, no undeclared identifiers), with real clickable contact links in a badge row OUTSIDE the code block, correct repo mechanic.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "i'm a product designer who codes little creative tools. username is lina-creates. i want my github profile to feel visual and warm, maybe a banner, but i don't want broken images or some random gif from someone else's repo.",
+      "expected_output": "A Visual Showcase archetype with one self-hosted or user-supplied hero asset, meaningful alt text, real text intro outside the image, correct branch/asset guidance, and no hotlinked borrowed profile assets.",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "make my github profile look insanely impressive with stats, streak, trophies, snake graph, visitor counter, blog posts, spotify, wakatime, and every badge for every tool i've touched. i'm not sure i'll keep it updated though.",
+      "expected_output": "A constrained recommendation that pushes back on widget overload, asks/uses maintenance tolerance, selects one dominant archetype, keeps at most stats + top-langs visible if justified, collapses or omits vanity widgets, and explains secrets/markers only for chosen automation.",
+      "files": []
+    }
+  ]
+}

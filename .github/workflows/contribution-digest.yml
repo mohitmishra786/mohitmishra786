@@ -1,0 +1,42 @@
+name: Weekly contribution digest
+
+on:
+  schedule:
+    - cron: '30 4 * * 1'  # Mondays 04:30 UTC: covers the previous Monday-Sunday
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: profile-readme-writer-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write  # commit digest/
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09  # v5.1.0
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1  # v6.3.0
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies and run tests
+        run: |
+          set -euo pipefail
+          python -m pip install --quiet -r scripts/requirements.txt
+          python -m unittest discover -s scripts/tests
+
+      - name: Write digest for the past 7 days
+        env:
+          # Public data only (searches use --visibility public; private repos are dropped).
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/contributions.py digest
+
+      - name: Commit and push
+        run: scripts/commit_and_push.sh "add weekly contribution digest" digest

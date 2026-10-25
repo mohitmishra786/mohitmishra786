@@ -1,0 +1,43 @@
+name: Recent open-source activity
+
+on:
+  schedule:
+    - cron: '45 */6 * * *'  # every 6 hours at :45 (staggered from the other README writers)
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: profile-readme-writer-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write  # commit README.md and contributions.json
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09  # v5.1.0
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1  # v6.3.0
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies and run tests
+        run: |
+          set -euo pipefail
+          python -m pip install --quiet -r scripts/requirements.txt
+          python -m unittest discover -s scripts/tests
+
+      - name: Update contributions.json and README activity blocks
+        env:
+          # Public data only. All searches use --visibility public and private repos are
+          # dropped again in the script, so private names can't be published.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/contributions.py update
+
+      - name: Commit and push
+        run: scripts/commit_and_push.sh "update recent open-source activity" README.md contributions.json

@@ -1,0 +1,229 @@
+{
+  "generated_at": "2026-10-25T14:03:46Z",
+  "username": "mohitmishra786",
+  "total_merged_prs": 98,
+  "total_repos": 13,
+  "repos": [
+    {
+      "repo": "sched-ext/scx",
+      "url": "https://github.com/sched-ext/scx",
+      "stars": 2208,
+      "description": "sched_ext schedulers and tools",
+      "language": "C",
+      "merged_prs": 2,
+      "merged_prs_url": "https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "scx_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note",
+      "featured": true,
+      "latest_pr": {
+        "number": 3934,
+        "title": "scx_mlfq: Skip the RT drain on queue DSQs that don't exist yet",
+        "url": "https://github.com/sched-ext/scx/pull/3934",
+        "merged_at": "2026-10-25"
+      }
+    },
+    {
+      "repo": "edgcpp/compiler",
+      "url": "https://github.com/edgcpp/compiler",
+      "stars": 984,
+      "description": "The Open EDG C & C++ Compiler Project",
+      "language": "C",
+      "merged_prs": 3,
+      "merged_prs_url": "https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "C++ front-end fixes: auto deduction from void, 128-bit integer limits, <meta>/reflection",
+      "featured": true,
+      "latest_pr": {
+        "number": 343,
+        "title": "move <meta> out of include_c++/experimental and define __cpp_lib_reflection, fix for [GH #36]",
+        "url": "https://github.com/edgcpp/compiler/pull/343",
+        "merged_at": "2026-10-23"
+      }
+    },
+    {
+      "repo": "EddieHubCommunity/EddieBot",
+      "url": "https://github.com/EddieHubCommunity/EddieBot",
+      "stars": 179,
+      "description": "Inclusive words Discord bot (no more \"hey guys\")",
+      "language": "TypeScript",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/EddieHubCommunity/EddieBot/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Added a GitHub Actions workflow to run the tests in CI",
+      "featured": false,
+      "latest_pr": {
+        "number": 642,
+        "title": "feat : Test to run on CI (Github Actions) (#638)",
+        "url": "https://github.com/EddieHubCommunity/EddieBot/pull/642",
+        "merged_at": "2021-09-04"
+      }
+    },
+    {
+      "repo": "sched-ext/scx-loader",
+      "url": "https://github.com/sched-ext/scx-loader",
+      "stars": 44,
+      "description": "",
+      "language": "Rust",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Removed leftover scxtui references from README and scxctl",
+      "featured": true,
+      "latest_pr": {
+        "number": 80,
+        "title": "README, scxctl: Drop leftover scxtui references",
+        "url": "https://github.com/sched-ext/scx-loader/pull/80",
+        "merged_at": "2026-10-25"
+      }
+    },
+    {
+      "repo": "OmdenaAI/omdena-colombia-career-recommender-system",
+      "url": "https://github.com/OmdenaAI/omdena-colombia-career-recommender-system",
+      "stars": 12,
+      "description": "Building a Career Recommendation System to make suggestions for students",
+      "language": "Jupyter Notebook",
+      "merged_prs": 7,
+      "merged_prs_url": "https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "EDA notebook and template",
+      "featured": false,
+      "latest_pr": {
+        "number": 16,
+        "title": "Moved Notebook to the Notebook folder",
+        "url": "https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pull/16",
+        "merged_at": "2021-10-11"
+      }
+    },
+    {
+      "repo": "OmdenaAI/omdena-texas-homelessness",
+      "url": "https://github.com/OmdenaAI/omdena-texas-homelessness",
+      "stars": 11,
+      "description": "Applying Data Analytics and ML Methods to decrease Homelessness",
+      "language": "Jupyter Notebook",
+      "merged_prs": 36,
+      "merged_prs_url": "https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "EDA notebooks, dashboards and a web app page",
+      "featured": false,
+      "latest_pr": {
+        "number": 43,
+        "title": "Added New Page to Web App",
+        "url": "https://github.com/OmdenaAI/omdena-texas-homelessness/pull/43",
+        "merged_at": "2021-11-06"
+      }
+    },
+    {
+      "repo": "OmdenaAI/omdena-srilanka-tea-quality",
+      "url": "https://github.com/OmdenaAI/omdena-srilanka-tea-quality",
+      "stars": 10,
+      "description": "Using AI to Improve Quality of Green Tea Leaves in Sri Lanka",
+      "language": "Jupyter Notebook",
+      "merged_prs": 11,
+      "merged_prs_url": "https://github.com/OmdenaAI/omdena-srilanka-tea-quality/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Azure ML pipeline and repo restructuring",
+      "featured": false,
+      "latest_pr": {
+        "number": 68,
+        "title": "Moved File in Structured Way",
+        "url": "https://github.com/OmdenaAI/omdena-srilanka-tea-quality/pull/68",
+        "merged_at": "2021-11-13"
+      }
+    },
+    {
+      "repo": "implement-from-scratch/website",
+      "url": "https://github.com/implement-from-scratch/website",
+      "stars": 6,
+      "description": "",
+      "language": "TypeScript",
+      "merged_prs": 6,
+      "merged_prs_url": "https://github.com/implement-from-scratch/website/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Roadmap and guide views, mobile-first layout, client-side Mermaid rendering",
+      "featured": true,
+      "latest_pr": {
+        "number": 8,
+        "title": "fix(mdx): switch to client-side mermaid rendering to resolve Playwrig…",
+        "url": "https://github.com/implement-from-scratch/website/pull/8",
+        "merged_at": "2026-02-05"
+      }
+    },
+    {
+      "repo": "chrinovicmu/netHex",
+      "url": "https://github.com/chrinovicmu/netHex",
+      "stars": 6,
+      "description": "Real-time network packet sniffer ",
+      "language": "C",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/chrinovicmu/netHex/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Resolve code quality issues from #2",
+      "featured": false,
+      "latest_pr": {
+        "number": 3,
+        "title": "Resolve code quality issues from #2",
+        "url": "https://github.com/chrinovicmu/netHex/pull/3",
+        "merged_at": "2025-03-31"
+      }
+    },
+    {
+      "repo": "OmdenaAI/sao-paulo-brazil-plant-diseases",
+      "url": "https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases",
+      "stars": 6,
+      "description": "",
+      "language": "Jupyter Notebook",
+      "merged_prs": 2,
+      "merged_prs_url": "https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Updated Readme.md for Task-2 Data Collection",
+      "featured": false,
+      "latest_pr": {
+        "number": 2,
+        "title": "Updated Readme.md for Task-2 Data Collection",
+        "url": "https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases/pull/2",
+        "merged_at": "2023-08-19"
+      }
+    },
+    {
+      "repo": "OmdenaAI/omdena-pakistan-covid-analysis",
+      "url": "https://github.com/OmdenaAI/omdena-pakistan-covid-analysis",
+      "stars": 4,
+      "description": "Pakistan COVID-19 Analysis",
+      "language": "Jupyter Notebook",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/OmdenaAI/omdena-pakistan-covid-analysis/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Added EDA of Datasets with Notebooks and Report",
+      "featured": false,
+      "latest_pr": {
+        "number": 2,
+        "title": "Added EDA of Datasets with Notebooks and Report",
+        "url": "https://github.com/OmdenaAI/omdena-pakistan-covid-analysis/pull/2",
+        "merged_at": "2021-11-07"
+      }
+    },
+    {
+      "repo": "OmdenaAI/lagos-chapter-water-availability",
+      "url": "https://github.com/OmdenaAI/lagos-chapter-water-availability",
+      "stars": 1,
+      "description": "",
+      "language": "Jupyter Notebook",
+      "merged_prs": 10,
+      "merged_prs_url": "https://github.com/OmdenaAI/lagos-chapter-water-availability/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "EDA notebooks, templates and datasets",
+      "featured": false,
+      "latest_pr": {
+        "number": 10,
+        "title": "Added 2 More Dataset Provided on Notion",
+        "url": "https://github.com/OmdenaAI/lagos-chapter-water-availability/pull/10",
+        "merged_at": "2022-09-08"
+      }
+    },
+    {
+      "repo": "gutsOfDarkness/crave-delivery",
+      "url": "https://github.com/gutsOfDarkness/crave-delivery",
+      "stars": 0,
+      "description": "Tinnava",
+      "language": "Dart",
+      "merged_prs": 17,
+      "merged_prs_url": "https://github.com/gutsOfDarkness/crave-delivery/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "fix: resolve compilation errors and cleanup duplicate methods in user…",
+      "featured": false,
+      "latest_pr": {
+        "number": 21,
+        "title": "fix: resolve compilation errors and cleanup duplicate methods in user…",
+        "url": "https://github.com/gutsOfDarkness/crave-delivery/pull/21",
+        "merged_at": "2026-01-26"
+      }
+    }
+  ]
+}

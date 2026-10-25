@@ -1,3 +1,1 @@
-![Total LOC](https://img.shields.io/badge/Total%20LOC-40144572-blue?style=for-the-badge)
-
-**Last Updated:** 2026-10-25 02:43:33 UTC
+![Lines of code in my public repos: 440,153](https://img.shields.io/badge/code%20in%20my%20public%20repos-440.15k%20lines-blue) ![Lines added in merged PRs to other projects: 20,434](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-20.43k%20lines-green)
