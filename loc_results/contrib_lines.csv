@@ -1,5 +1,4 @@
 Repository,PR,MergedAt,Language,Additions,Deletions
-EddieHubCommunity/EddieBot,642,2021-09-04,YAML,19,11
 OmdenaAI/lagos-chapter-water-availability,2,2022-09-07,Other,0,0
 OmdenaAI/lagos-chapter-water-availability,6,2022-09-08,YAML,27,0
 OmdenaAI/lagos-chapter-water-availability,7,2022-09-08,Python,131,0
@@ -96,14 +95,5 @@ gutsOfDarkness/crave-delivery,18,2026-01-25,Go,75,21
 gutsOfDarkness/crave-delivery,19,2026-01-26,Dart,9,1
 gutsOfDarkness/crave-delivery,20,2026-01-26,Go,18,9
 gutsOfDarkness/crave-delivery,21,2026-01-26,Go,0,43
-implement-from-scratch/website,3,2026-01-02,TypeScript,1031,14
-implement-from-scratch/website,4,2026-01-02,CSS,23,0
-implement-from-scratch/website,4,2026-01-02,TypeScript,1106,171
-implement-from-scratch/website,5,2026-01-02,TypeScript,195,18
-implement-from-scratch/website,6,2026-01-25,CSS,63,77
-implement-from-scratch/website,6,2026-01-25,JavaScript,3,0
-implement-from-scratch/website,6,2026-01-25,TypeScript,96,131
-implement-from-scratch/website,7,2026-02-05,TypeScript,305,70
-implement-from-scratch/website,8,2026-02-05,TypeScript,15,38
 sched-ext/scx,3934,2026-10-25,C (BPF),10,8
 sched-ext/scx-loader,80,2026-10-25,Rust,1,6

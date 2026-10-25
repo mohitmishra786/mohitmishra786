@@ -115,7 +115,7 @@
 </p>
 
 <!-- LOC-STATS-START -->
-![Lines of code in my public repos: 440,153](https://img.shields.io/badge/code%20in%20my%20public%20repos-440.15k%20lines-blue) ![Lines added in merged PRs to other projects: 20,434](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-20.43k%20lines-green)
+![Lines of code in my public repos: 440,957](https://img.shields.io/badge/code%20in%20my%20public%20repos-440.96k%20lines-blue) ![Lines added in merged PRs to other projects: 17,578](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-17.58k%20lines-green)
 
 <details>
 <summary>Lines-of-code details</summary>
@@ -127,29 +127,29 @@ _As of 2026-10-25. Counts own public, non-fork, non-archived repositories (cloc,
 | Repositories counted | 81 |
 | Empty repositories skipped | 5 |
 | Failed repositories | 0 |
-| Files | 3,636 |
-| Code lines | 440,153 |
-| Comment lines | 145,772 |
-| Blank lines | 76,794 |
+| Files | 3,646 |
+| Code lines | 440,957 |
+| Comment lines | 145,833 |
+| Blank lines | 76,953 |
 
 **Top 15 languages by code lines**
 
 | Language | Files | Code | Comment | Blank |
 |----------|------:|-----:|--------:|------:|
-| Python | 1,160 | 126,550 | 29,350 | 33,065 |
+| Python | 1,165 | 127,430 | 29,420 | 33,240 |
 | TypeScript | 835 | 88,097 | 7,748 | 12,449 |
 | HTML | 118 | 53,170 | 158 | 1,040 |
 | Go | 212 | 33,856 | 1,165 | 4,670 |
 | CSS | 54 | 31,004 | 638 | 3,630 |
 | C | 237 | 20,540 | 1,699 | 4,499 |
-| YAML | 207 | 17,339 | 1,026 | 3,203 |
+| YAML | 211 | 17,235 | 1,009 | 3,180 |
 | Rust | 68 | 15,337 | 1,539 | 1,432 |
 | C++ | 262 | 12,954 | 1,617 | 2,348 |
 | JavaScript | 142 | 10,331 | 1,259 | 1,589 |
 | Swift | 51 | 8,251 | 1,938 | 2,347 |
 | Jupyter Notebook | 42 | 6,011 | 95,595 | 0 |
 | SWIG | 3 | 3,765 | 0 | 3,766 |
-| Bourne Shell | 52 | 3,277 | 476 | 797 |
+| Bourne Shell | 53 | 3,305 | 484 | 804 |
 | Assembly | 8 | 1,677 | 149 | 221 |
 
 **Top 20 repositories by code lines**
@@ -177,20 +177,20 @@ _As of 2026-10-25. Counts own public, non-fork, non-archived repositories (cloc,
 | [mohitmishra786/repo2video](https://github.com/mohitmishra786/repo2video) | 6,997 |
 | [mohitmishra786/never](https://github.com/mohitmishra786/never) | 6,610 |
 
-**Lines changed in my 59 merged PRs to other people's public repos**: +20,434 / -2,108 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
+**Lines changed in my 52 merged PRs to other people's public repos**: +17,578 / -1,578 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
 
 | Language | Added | Removed |
 |----------|------:|--------:|
 | Python | 10,732 | 181 |
-| TypeScript | 2,748 | 442 |
 | Dart | 2,431 | 1,008 |
 | Other | 2,243 | 93 |
-| YAML | 1,190 | 18 |
+| YAML | 1,171 | 7 |
 | Java | 291 | 0 |
 | Go | 189 | 214 |
 | C | 118 | 47 |
 | C++ | 118 | 2 |
 | Shell | 116 | 2 |
+| HTML | 110 | 0 |
 
 </details>
 <!-- LOC-STATS-END -->
