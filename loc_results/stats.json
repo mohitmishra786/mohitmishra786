@@ -1,57 +1,29 @@
 {
   "generated_at": "2026-10-25",
   "total_repositories": 81,
-  "total_code_lines": 827606,
-  "total_files": 6981,
+  "total_code_lines": 440153,
+  "total_files": 3636,
   "languages": [
     {
-      "language": "TypeScript",
-      "files": 1096,
-      "blank": 18722,
-      "comment": 51311,
-      "code": 133177
-    },
-    {
       "language": "Python",
-      "files": 1163,
-      "blank": 33142,
-      "comment": 29371,
-      "code": 126816
+      "files": 1160,
+      "blank": 33065,
+      "comment": 29350,
+      "code": 126550
     },
     {
-      "language": "Ruby",
-      "files": 1342,
-      "blank": 22949,
-      "comment": 33039,
-      "code": 113681
-    },
-    {
-      "language": "JavaScript",
-      "files": 883,
-      "blank": 17285,
-      "comment": 34234,
-      "code": 103062
-    },
-    {
-      "language": "C",
-      "files": 526,
-      "blank": 15269,
-      "comment": 12319,
-      "code": 76040
+      "language": "TypeScript",
+      "files": 835,
+      "blank": 12449,
+      "comment": 7748,
+      "code": 88097
     },
     {
       "language": "HTML",
-      "files": 329,
-      "blank": 1902,
-      "comment": 173,
-      "code": 56315
-    },
-    {
-      "language": "C++",
-      "files": 340,
-      "blank": 7322,
-      "comment": 7352,
-      "code": 39684
+      "files": 118,
+      "blank": 1040,
+      "comment": 158,
+      "code": 53170
     },
     {
       "language": "Go",
@@ -62,17 +34,24 @@
     },
     {
       "language": "CSS",
-      "files": 58,
-      "blank": 3770,
-      "comment": 700,
-      "code": 33850
+      "files": 54,
+      "blank": 3630,
+      "comment": 638,
+      "code": 31004
+    },
+    {
+      "language": "C",
+      "files": 237,
+      "blank": 4499,
+      "comment": 1699,
+      "code": 20540
     },
     {
       "language": "YAML",
-      "files": 237,
-      "blank": 3330,
-      "comment": 1009,
-      "code": 18480
+      "files": 207,
+      "blank": 3203,
+      "comment": 1026,
+      "code": 17339
     },
     {
       "language": "Rust",
@@ -82,25 +61,18 @@
       "code": 15337
     },
     {
-      "language": "Assembly",
-      "files": 57,
-      "blank": 2616,
-      "comment": 5267,
-      "code": 14141
+      "language": "C++",
+      "files": 262,
+      "blank": 2348,
+      "comment": 1617,
+      "code": 12954
     },
     {
-      "language": "C/C++ Header",
-      "files": 198,
-      "blank": 3473,
-      "comment": 4139,
-      "code": 13525
-    },
-    {
-      "language": "Java",
-      "files": 62,
-      "blank": 1661,
-      "comment": 4061,
-      "code": 11156
+      "language": "JavaScript",
+      "files": 142,
+      "blank": 1589,
+      "comment": 1259,
+      "code": 10331
     },
     {
       "language": "Swift",
@@ -108,20 +80,40 @@
       "blank": 2347,
       "comment": 1938,
       "code": 8251
+    },
+    {
+      "language": "Jupyter Notebook",
+      "files": 42,
+      "blank": 0,
+      "comment": 95595,
+      "code": 6011
+    },
+    {
+      "language": "SWIG",
+      "files": 3,
+      "blank": 3766,
+      "comment": 0,
+      "code": 3765
+    },
+    {
+      "language": "Bourne Shell",
+      "files": 52,
+      "blank": 797,
+      "comment": 476,
+      "code": 3277
+    },
+    {
+      "language": "Assembly",
+      "files": 8,
+      "blank": 221,
+      "comment": 149,
+      "code": 1677
     }
   ],
   "top_repos": [
     {
-      "repo": "mohitmishra786/chessman",
-      "code": 248270
-    },
-    {
-      "repo": "mohitmishra786/REST-API",
-      "code": 137560
-    },
-    {
       "repo": "mohitmishra786/weirling",
-      "code": 55277
+      "code": 55369
     },
     {
       "repo": "mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML",
@@ -129,7 +121,7 @@
     },
     {
       "repo": "mohitmishra786/matchquill",
-      "code": 38773
+      "code": 38953
     },
     {
       "repo": "mohitmishra786/aurora-dev",
@@ -137,19 +129,19 @@
     },
     {
       "repo": "mohitmishra786/mohit-portfolio",
-      "code": 24638
+      "code": 21802
     },
     {
       "repo": "mohitmishra786/mdmend",
-      "code": 18163
+      "code": 18223
     },
     {
       "repo": "mohitmishra786/confscout",
-      "code": 17531
+      "code": 17575
     },
     {
       "repo": "mohitmishra786/undertow",
-      "code": 16315
+      "code": 16335
     },
     {
       "repo": "mohitmishra786/BitsAndBytes",
@@ -157,11 +149,11 @@
     },
     {
       "repo": "mohitmishra786/neuro-code",
-      "code": 14636
+      "code": 14656
     },
     {
       "repo": "mohitmishra786/vislab",
-      "code": 13795
+      "code": 13842
     },
     {
       "repo": "mohitmishra786/writ",
@@ -173,7 +165,7 @@
     },
     {
       "repo": "mohitmishra786/yt-setup",
-      "code": 9418
+      "code": 9642
     },
     {
       "repo": "mohitmishra786/control",
@@ -181,7 +173,7 @@
     },
     {
       "repo": "mohitmishra786/agentop",
-      "code": 8689
+      "code": 8738
     },
     {
       "repo": "mohitmishra786/myJourneyOfBuildingOS",
@@ -190,6 +182,14 @@
     {
       "repo": "mohitmishra786/postgres-hackers-explorer",
       "code": 7630
+    },
+    {
+      "repo": "mohitmishra786/repo2video",
+      "code": 6997
+    },
+    {
+      "repo": "mohitmishra786/never",
+      "code": 6610
     }
   ],
   "contributions": {
