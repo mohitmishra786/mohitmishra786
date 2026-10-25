@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: '30 4 * * 1'  # Mondays 04:30 UTC: covers the previous Monday-Sunday
   workflow_dispatch:
-  push:  # TEMPORARY: registers the workflow for branch testing; removed in the next commit
-    branches: [profile-overhaul]
-    paths: ['.github/workflows/contribution-digest.yml']
 
 permissions: {}
 
