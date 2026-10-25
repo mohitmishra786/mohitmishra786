@@ -1,742 +1,339 @@
 Repository,Language,Files,Blank,Comment,Code
-mohitmishra786/mohitmishra786,CSV,3,0,0,919
-mohitmishra786/mohitmishra786,JSON,1,0,0,10
-mohitmishra786/mohitmishra786,Markdown,3,58,13,208
-mohitmishra786/mohitmishra786,SVG,8,1,0,67
-mohitmishra786/mohitmishra786,Text,1,0,0,1
-mohitmishra786/mohitmishra786,YAML,5,81,45,435
-mohitmishra786/confscout,Bourne Shell,1,4,2,8
-mohitmishra786/confscout,CSS,1,55,35,323
-mohitmishra786/confscout,JSON,8,0,0,50507
-mohitmishra786/confscout,JavaScript,10,45,33,333
-mohitmishra786/confscout,Markdown,7,229,8,749
-mohitmishra786/confscout,Python,20,680,502,2706
-mohitmishra786/confscout,SQL,2,14,17,40
-mohitmishra786/confscout,SVG,7,0,0,7
-mohitmishra786/confscout,Text,2,6,0,23
-mohitmishra786/confscout,TypeScript,150,2286,1735,13877
-mohitmishra786/confscout,YAML,6,42,12,288
-mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
-mohitmishra786/TheCoreDump,C,4,94,20,450
-mohitmishra786/TheCoreDump,HTML,4,38,16,259
-mohitmishra786/TheCoreDump,INI,1,4,0,15
-mohitmishra786/TheCoreDump,JSON,5,0,0,103
-mohitmishra786/TheCoreDump,JavaScript,1,15,8,138
-mohitmishra786/TheCoreDump,Markdown,102,10171,4,26442
-mohitmishra786/TheCoreDump,Ruby,1,4,2,8
-mohitmishra786/TheCoreDump,YAML,6,58,126,264
-mohitmishra786/compiler,Bourne Again Shell,11,90,333,671
-mohitmishra786/compiler,Bourne Shell,31,240,1205,2946
-mohitmishra786/compiler,C,19959,885708,407503,5994229
-mohitmishra786/compiler,C++,25884,2792473,165571,7801888
-mohitmishra786/compiler,C/C++ Header,238,26448,59713,449735
-mohitmishra786/compiler,CMake,30,208,381,836
-mohitmishra786/compiler,CSS,1,1,0,6
-mohitmishra786/compiler,DOS Batch,39,8,1,102
-mohitmishra786/compiler,Dockerfile,9,62,93,160
-mohitmishra786/compiler,HTML,1,1,6,28
-mohitmishra786/compiler,INI,1,0,0,4
-mohitmishra786/compiler,JSON,12,1,0,26280
-mohitmishra786/compiler,JavaScript,7,42,53,250
-mohitmishra786/compiler,Mako,1,8,0,20
-mohitmishra786/compiler,Markdown,32,800,0,3067
-mohitmishra786/compiler,Objective-C++,1,3,3,21
-mohitmishra786/compiler,Python,148,7662,7013,39162
-mohitmishra786/compiler,TOML,3,14,1,77
-mohitmishra786/compiler,Text,29799,4178845,0,17923402
-mohitmishra786/compiler,Vuejs Component,14,221,151,3133
-mohitmishra786/compiler,YAML,17,193,358,1673
-mohitmishra786/compiler,awk,1,2,8,10
-mohitmishra786/compiler,diff,1,1,7,5
-mohitmishra786/compiler,make,1,4,7,9
-mohitmishra786/compiler,reStructuredText,27,6004,16785,24803
-mohitmishra786/amILearningEnough,CSS,1,15,6,58
-mohitmishra786/amILearningEnough,HTML,1,5,2,44
-mohitmishra786/amILearningEnough,Markdown,67,1721,0,6376
-mohitmishra786/amILearningEnough,Text,1,0,0,29
-mohitmishra786/amILearningEnough,YAML,3,6,0,128
-mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
-mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
-mohitmishra786/low-level-dev-skills,JSON,2,0,0,37
-mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
-mohitmishra786/low-level-dev-skills,Markdown,205,8864,1,29205
-mohitmishra786/low-level-dev-skills,SVG,1,0,0,4
-mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
-mohitmishra786/weirling,Bourne Shell,9,34,63,243
-mohitmishra786/weirling,CSS,2,56,79,563
-mohitmishra786/weirling,Dockerfile,4,18,19,97
-mohitmishra786/weirling,HTML,4,62,0,343
-mohitmishra786/weirling,INI,1,9,0,31
-mohitmishra786/weirling,JSON,11,18,0,11146
-mohitmishra786/weirling,JavaScript,8,45,64,423
-mohitmishra786/weirling,Markdown,73,1957,7,5515
-mohitmishra786/weirling,Python,399,9119,4353,39855
-mohitmishra786/weirling,SQL,1,0,0,1
-mohitmishra786/weirling,SVG,1,0,1,4
-mohitmishra786/weirling,TOML,2,17,26,60
-mohitmishra786/weirling,Text,2,27,0,117
-mohitmishra786/weirling,TypeScript,143,933,609,10790
-mohitmishra786/weirling,XML,24,0,0,483
-mohitmishra786/weirling,YAML,24,121,208,1484
-mohitmishra786/weirling,make,1,20,8,40
-mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
-mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
-mohitmishra786/underTheHoodOfExecutables,Markdown,18,1299,0,4092
-mohitmishra786/reversingBits,HTML,1,120,1,760
-mohitmishra786/reversingBits,Markdown,46,1725,0,7030
-mohitmishra786/exploring-os,C,5,23,7,98
-mohitmishra786/exploring-os,CSS,1,28,8,150
-mohitmishra786/exploring-os,HTML,7,13,3,132
-mohitmishra786/exploring-os,JavaScript,1,3,0,13
-mohitmishra786/exploring-os,Markdown,83,6981,0,23785
-mohitmishra786/exploring-os,YAML,1,4,3,22
-mohitmishra786/exploring-os,make,1,6,7,8
-mohitmishra786/mdmend,Bourne Shell,8,157,2,841
-mohitmishra786/mdmend,Go,81,2530,133,15665
-mohitmishra786/mdmend,HTML,2,37,0,516
-mohitmishra786/mdmend,JSON,95,0,0,20738
-mohitmishra786/mdmend,JavaScript,1,36,24,183
-mohitmishra786/mdmend,Markdown,55,986,0,3107
-mohitmishra786/mdmend,PowerShell,1,10,6,73
-mohitmishra786/mdmend,Python,1,26,1,99
-mohitmishra786/mdmend,Ruby,1,10,9,44
-mohitmishra786/mdmend,XML,1,0,0,58
-mohitmishra786/mdmend,YAML,11,95,6,741
-mohitmishra786/mdmend,make,1,17,0,61
 mohitmishra786/agentop,Go,71,1266,463,8040
-mohitmishra786/agentop,JSON,12,0,0,199
-mohitmishra786/agentop,Markdown,6,375,0,1404
+mohitmishra786/agentop,YAML,9,54,3,448
 mohitmishra786/agentop,Nix,2,12,0,82
 mohitmishra786/agentop,PowerShell,2,18,4,75
-mohitmishra786/agentop,YAML,11,55,5,497
 mohitmishra786/agentop,make,3,16,5,44
-mohitmishra786/writ,Bourne Shell,1,4,7,20
-mohitmishra786/writ,CSS,1,19,12,123
-mohitmishra786/writ,Go,58,850,567,10039
-mohitmishra786/writ,HTML,1,0,0,12
-mohitmishra786/writ,JSON,2,0,0,49
-mohitmishra786/writ,Markdown,5,237,23,884
-mohitmishra786/writ,SQL,6,19,21,228
-mohitmishra786/writ,TeX,1,24,5,162
-mohitmishra786/writ,TypeScript,10,98,55,1344
-mohitmishra786/writ,YAML,2,241,10,952
-mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
-mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
-mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
-mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
-mohitmishra786/myJourneyOfBuildingOS,Markdown,55,5260,0,19003
-mohitmishra786/myJourneyOfBuildingOS,XML,4,0,0,80
-mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
-mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
-mohitmishra786/anti-vibe-skills,JSON,1,0,0,6
-mohitmishra786/anti-vibe-skills,Markdown,21,940,0,1835
-OmdenaAI/omdena-srilanka-tea-quality,Bourne Shell,2,36,24,164
-OmdenaAI/omdena-srilanka-tea-quality,C/C++ Header,1,0,0,1
-OmdenaAI/omdena-srilanka-tea-quality,CSS,2,28,8,179
-OmdenaAI/omdena-srilanka-tea-quality,DOS Batch,2,31,2,89
-OmdenaAI/omdena-srilanka-tea-quality,Dart,16,166,32,1160
-OmdenaAI/omdena-srilanka-tea-quality,Dockerfile,1,6,10,9
-OmdenaAI/omdena-srilanka-tea-quality,Gradle,6,36,8,148
-OmdenaAI/omdena-srilanka-tea-quality,HTML,7,77,14,307
-OmdenaAI/omdena-srilanka-tea-quality,JSON,4,0,0,181
-OmdenaAI/omdena-srilanka-tea-quality,Java,4,51,29,265
-OmdenaAI/omdena-srilanka-tea-quality,JavaScript,3,22,25,193
-OmdenaAI/omdena-srilanka-tea-quality,Jupyter Notebook,14,0,3351,2703
-OmdenaAI/omdena-srilanka-tea-quality,Kotlin,1,2,0,4
-OmdenaAI/omdena-srilanka-tea-quality,Markdown,20,83,0,289
-OmdenaAI/omdena-srilanka-tea-quality,ProGuard,1,3,18,0
-OmdenaAI/omdena-srilanka-tea-quality,Properties,4,0,18,16
-OmdenaAI/omdena-srilanka-tea-quality,Python,47,1171,891,4112
-OmdenaAI/omdena-srilanka-tea-quality,Swift,1,1,0,12
-OmdenaAI/omdena-srilanka-tea-quality,Text,10,7,0,262
-OmdenaAI/omdena-srilanka-tea-quality,XML,34,17,56,1674
-OmdenaAI/omdena-srilanka-tea-quality,YAML,15,93,132,480
-mohitmishra786/yt-setup,C,1,1,0,9
-mohitmishra786/yt-setup,CSS,1,12,11,107
-mohitmishra786/yt-setup,JSON,7,0,0,373
-mohitmishra786/yt-setup,Markdown,50,825,0,3319
-mohitmishra786/yt-setup,Python,89,1870,1735,9352
-mohitmishra786/yt-setup,Rust,1,0,0,6
-mohitmishra786/yt-setup,TOML,1,10,5,105
-mohitmishra786/yt-setup,Text,1,3,0,28
-mohitmishra786/yt-setup,YAML,3,18,2,63
-mohitmishra786/tensor-programming,Bourne Shell,2,16,12,39
-mohitmishra786/tensor-programming,CSS,2,50,14,332
-mohitmishra786/tensor-programming,HTML,4,14,0,151
-mohitmishra786/tensor-programming,Markdown,24,5033,0,17282
-mohitmishra786/tensor-programming,SCSS,1,48,10,195
-mohitmishra786/tensor-programming,YAML,2,16,9,108
+mohitmishra786/agentroles,Python,46,944,211,3665
+mohitmishra786/agentroles,YAML,20,84,1,679
+mohitmishra786/agentroles,JavaScript,3,11,0,116
+mohitmishra786/agentroles,TOML,2,7,0,80
+mohitmishra786/amILearningEnough,YAML,2,6,0,115
+mohitmishra786/amILearningEnough,CSS,1,15,6,58
+mohitmishra786/amILearningEnough,HTML,1,5,2,44
+mohitmishra786/Application-Form,JavaScript,9,39,89,236
+mohitmishra786/Application-Form,CSS,2,11,0,68
+mohitmishra786/Application-Form,HTML,1,3,20,20
+mohitmishra786/asm-mnist,Assembly,1,110,67,470
+mohitmishra786/aurora-dev,Python,146,8011,9498,25406
+mohitmishra786/aurora-dev,TypeScript,7,137,106,1063
+mohitmishra786/aurora-dev,YAML,11,49,76,659
+mohitmishra786/aurora-dev,CSS,2,83,19,464
+mohitmishra786/aurora-dev,Dockerfile,1,15,19,30
+mohitmishra786/aurora-dev,JavaScript,1,2,2,14
 mohitmishra786/b-plus-tree-generator,C,9,219,99,903
 mohitmishra786/b-plus-tree-generator,C/C++ Header,4,11,4,40
 mohitmishra786/b-plus-tree-generator,CMake,1,9,9,26
-mohitmishra786/b-plus-tree-generator,Markdown,1,0,0,1
-mohitmishra786/lsm-tree-generator,C,9,63,38,618
-mohitmishra786/lsm-tree-generator,C/C++ Header,5,20,0,80
-mohitmishra786/lsm-tree-generator,CMake,2,7,6,19
-mohitmishra786/lsm-tree-generator,Markdown,1,20,0,73
-mohitmishra786/minimalist-md-site-generator,C,8,228,106,1118
-mohitmishra786/minimalist-md-site-generator,C/C++ Header,4,15,7,67
-mohitmishra786/minimalist-md-site-generator,CMake,9,55,32,276
-mohitmishra786/minimalist-md-site-generator,HTML,5,14,0,459
-mohitmishra786/minimalist-md-site-generator,Markdown,6,51,0,217
-mohitmishra786/minimalist-md-site-generator,Text,3,60,0,330
-mohitmishra786/minimalist-md-site-generator,TypeScript,1,0,0,2
-mohitmishra786/minimalist-md-site-generator,make,2,87,68,214
-mohitmishra786/BitsAndBytes,Assembly,7,111,82,1207
 mohitmishra786/BitsAndBytes,C,137,2067,557,9800
-mohitmishra786/BitsAndBytes,C++,1,17,7,54
-mohitmishra786/BitsAndBytes,C/C++ Header,3,10,0,72
-mohitmishra786/BitsAndBytes,Markdown,33,428,0,1059
-mohitmishra786/BitsAndBytes,Python,1,6,3,17
 mohitmishra786/BitsAndBytes,SWIG,3,3766,0,3765
-mohitmishra786/BitsAndBytes,Text,8,59,0,187
+mohitmishra786/BitsAndBytes,Assembly,7,111,82,1207
+mohitmishra786/BitsAndBytes,C/C++ Header,3,10,0,72
+mohitmishra786/BitsAndBytes,C++,1,17,7,54
+mohitmishra786/BitsAndBytes,Python,1,6,3,17
 mohitmishra786/BitsAndBytes,make,1,4,0,12
-mohitmishra786/Mushroom-Classification-iNeuron.ai-,CSV,1,0,0,8125
-mohitmishra786/Mushroom-Classification-iNeuron.ai-,Jupyter Notebook,2,0,2977,190
-mohitmishra786/Mushroom-Classification-iNeuron.ai-,Markdown,1,0,0,1
-mohitmishra786/Mushroom-Classification-iNeuron.ai-,YAML,1,4,6,12
-mohitmishra786/My-Codeforces-Solution,C++,99,1112,800,6553
-mohitmishra786/My-Codeforces-Solution,Markdown,2,8,0,17
-mohitmishra786/My-Codechef-Solutions,C++,14,181,92,1069
-mohitmishra786/My-Codechef-Solutions,Markdown,1,0,0,1
-mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML,CSV,3,0,0,72730
-mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML,HTML,1,68,0,43459
-mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML,JSON,1,0,0,74
-mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML,Jupyter Notebook,1,0,50936,435
-mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML,Markdown,1,21,0,26
-mohitmishra786/Virtual-Assistant,Markdown,2,18,0,38
-mohitmishra786/Virtual-Assistant,Python,1,22,7,38
 mohitmishra786/Chatbot,Jupyter Notebook,1,0,1263,331
-mohitmishra786/Chatbot,Markdown,1,4,0,8
-mohitmishra786/CSES-Solution,Markdown,1,0,0,2
-mohitmishra786/Welcome-to-Building-Transformer-Based-Natural-Language-Processing-Applications-,HTML,1,0,0,1
-mohitmishra786/Welcome-to-Building-Transformer-Based-Natural-Language-Processing-Applications-,Jupyter Notebook,4,0,1292,204
-mohitmishra786/Welcome-to-Building-Transformer-Based-Natural-Language-Processing-Applications-,Markdown,1,8,0,14
-mohitmishra786/my_first_blog,Markdown,1,0,0,1
-mohitmishra786/Sales_Data_Analysis,CSV,12,0,0,186862
-mohitmishra786/Sales_Data_Analysis,Jupyter Notebook,1,0,3339,97
-mohitmishra786/Sales_Data_Analysis,Markdown,1,9,0,20
-mohitmishra786/Location-of-SpaceStation,Jupyter Notebook,1,0,1262,13
-mohitmishra786/Location-of-SpaceStation,Markdown,1,2,0,3
-mohitmishra786/GFG-100-Days-Of-Code,C++,5,1,3,77
-mohitmishra786/GFG-100-Days-Of-Code,Markdown,1,0,0,1
-OmdenaAI/omdena-texas-homelessness,CSV,62,11,0,186193
-OmdenaAI/omdena-texas-homelessness,HTML,5,340,0,192346
-OmdenaAI/omdena-texas-homelessness,Jupyter Notebook,54,0,243098,24643
-OmdenaAI/omdena-texas-homelessness,Markdown,35,178,0,681
-OmdenaAI/omdena-texas-homelessness,Python,15,147,71,848
-OmdenaAI/omdena-texas-homelessness,R,1,73,9,23
-OmdenaAI/omdena-texas-homelessness,Text,1,0,0,14
-mohitmishra786/Model-Deployment,Jupyter Notebook,1,0,112,218
-mohitmishra786/Model-Deployment,Markdown,1,0,0,1
-OmdenaAI/omdena-colombia-career-recommender-system,CSV,1,0,0,144
-OmdenaAI/omdena-colombia-career-recommender-system,JSON,1,0,0,1
-OmdenaAI/omdena-colombia-career-recommender-system,Jupyter Notebook,32,0,524362,21009
-OmdenaAI/omdena-colombia-career-recommender-system,Markdown,15,73,0,302
-OmdenaAI/omdena-colombia-career-recommender-system,Python,5,96,132,270
-OmdenaAI/omdena-colombia-career-recommender-system,Text,4,88,0,1208
-mohitmishra786/Tea-Leaf-Quality,Dockerfile,1,6,10,9
-mohitmishra786/Tea-Leaf-Quality,Markdown,3,10,0,30
-mohitmishra786/Tea-Leaf-Quality,Python,30,822,736,3089
-mohitmishra786/Tea-Leaf-Quality,Text,3,7,0,35
-mohitmishra786/Tea-Leaf-Quality,YAML,10,61,45,333
-mohitmishra786/Full-Stack-Engineering,HTML,1,0,0,1
-mohitmishra786/Full-Stack-Engineering,JavaScript,1,3,1,9
-mohitmishra786/Full-Stack-Engineering,Markdown,24,286,7,553
-mohitmishra786/Application-Form,CSS,2,11,0,68
-mohitmishra786/Application-Form,HTML,1,3,20,20
-mohitmishra786/Application-Form,JSON,3,0,0,16415
-mohitmishra786/Application-Form,JavaScript,9,39,89,236
-mohitmishra786/Application-Form,Markdown,2,33,0,39
-mohitmishra786/Application-Form,Text,1,0,0,3
-mohitmishra786/Data-Science-Cheat-Sheet,Markdown,1,0,0,1
-mohitmishra786/ML-and-DL,CSS,1,11,0,71
-mohitmishra786/ML-and-DL,CSV,2,0,0,49161
-mohitmishra786/ML-and-DL,DOS Batch,4,33,3,84
-mohitmishra786/ML-and-DL,HTML,1,2,0,43
-mohitmishra786/ML-and-DL,JSON,1,0,0,14
-mohitmishra786/ML-and-DL,Jupyter Notebook,20,0,27685,1669
-mohitmishra786/ML-and-DL,Markdown,15,36,0,85
-mohitmishra786/ML-and-DL,PowerShell,1,49,246,104
-mohitmishra786/ML-and-DL,Python,17,338,422,1208
-mohitmishra786/ML-and-DL,SVG,4,0,88,514
-mohitmishra786/ML-and-DL,Text,1,0,0,24
-mohitmishra786/Zomato-Clone,JSON,2,0,0,1359
-mohitmishra786/Zomato-Clone,JavaScript,18,75,9,268
-mohitmishra786/Zomato-Clone,Markdown,4,0,0,4
-mohitmishra786/Rescue-from-Git-Issues,Markdown,10,22,0,55
-mohitmishra786/My-Blogs,Markdown,1,1,2,6
-mohitmishra786/My-Blogs,YAML,1,0,0,14
-mohitmishra786/MLOps-For-AI-Engineers,DOS Batch,2,15,1,38
-mohitmishra786/MLOps-For-AI-Engineers,Markdown,3,1,0,4
-mohitmishra786/MLOps-For-AI-Engineers,PowerShell,1,48,89,104
-mohitmishra786/MLOps-For-AI-Engineers,Python,2,8,11,15
-mohitmishra786/Neural-Networks-from-Scratch,CSV,1,0,0,801
-mohitmishra786/Neural-Networks-from-Scratch,Markdown,1,0,0,2
-mohitmishra786/Neural-Networks-from-Scratch,Python,8,64,87,115
-mohitmishra786/Research-Paper-Reading,Markdown,5,51,0,103
-mohitmishra786/hacktoberfest-2022,C,3,12,16,74
-mohitmishra786/hacktoberfest-2022,C++,104,839,493,4149
-mohitmishra786/hacktoberfest-2022,CSS,5,13,32,1253
-mohitmishra786/hacktoberfest-2022,CSV,1,0,0,1339
-mohitmishra786/hacktoberfest-2022,HTML,6,38,69,1599
-mohitmishra786/hacktoberfest-2022,Java,10,92,29,371
-mohitmishra786/hacktoberfest-2022,JavaScript,4,25,10,86
-mohitmishra786/hacktoberfest-2022,Jupyter Notebook,7,0,4360,1252
-mohitmishra786/hacktoberfest-2022,Markdown,8,40,1,106
-mohitmishra786/hacktoberfest-2022,Python,105,383,148,2743
-mohitmishra786/hacktoberfest-2022,SVG,10,0,0,80
-mohitmishra786/hacktoberfest-2022,Text,1,0,0,1
-mohitmishra786/hacktoberfest-2022,XML,6,0,0,222
-mohitmishra786/hacktoberfest-2022,kvlang,2,5,0,38
-mohitmishra786/agentroles,JSON,2,0,0,49
-mohitmishra786/agentroles,JavaScript,3,11,0,116
-mohitmishra786/agentroles,Markdown,39,821,3,1884
-mohitmishra786/agentroles,Python,46,944,211,3665
-mohitmishra786/agentroles,SVG,2,25,16,158
-mohitmishra786/agentroles,TOML,2,7,0,80
-mohitmishra786/agentroles,YAML,21,86,1,709
-mohitmishra786/matchquill,CSS,3,187,119,875
-mohitmishra786/matchquill,Dockerfile,1,15,19,39
-mohitmishra786/matchquill,HTML,2,22,11,185
-mohitmishra786/matchquill,JSON,10,0,0,14527
-mohitmishra786/matchquill,JavaScript,10,279,337,1646
-mohitmishra786/matchquill,Markdown,16,592,0,1991
-mohitmishra786/matchquill,Python,70,2380,2343,8847
-mohitmishra786/matchquill,SQL,5,11,29,51
-mohitmishra786/matchquill,SVG,9,27,24,167
-mohitmishra786/matchquill,Text,3,3,0,69
-mohitmishra786/matchquill,TypeScript,189,4068,2377,26732
-mohitmishra786/matchquill,YAML,9,89,66,578
-mohitmishra786/kernelkafe-privacy,Markdown,4,35,0,98
-mohitmishra786/kernelkafe-privacy,YAML,1,0,0,2
-mohitmishra786/undertow,Bourne Shell,1,14,13,74
-mohitmishra786/undertow,JSON,9,0,0,178
-mohitmishra786/undertow,Markdown,28,1106,0,3789
-mohitmishra786/undertow,Python,1,17,19,52
-mohitmishra786/undertow,Rust,65,1416,1538,15233
-mohitmishra786/undertow,SVG,3,14,12,137
-mohitmishra786/undertow,TOML,16,40,24,347
-mohitmishra786/undertow,YAML,14,40,29,629
-mohitmishra786/repo2video,CSS,1,1,0,6
-mohitmishra786/repo2video,Dockerfile,1,7,0,12
-mohitmishra786/repo2video,HTML,1,5,0,100
-mohitmishra786/repo2video,JSON,4,0,0,6984
-mohitmishra786/repo2video,JavaScript,4,4,3,23
-mohitmishra786/repo2video,Markdown,28,861,0,2817
-mohitmishra786/repo2video,Python,27,1607,1631,6323
-mohitmishra786/repo2video,SVG,1,7,6,29
-mohitmishra786/repo2video,TOML,1,7,4,67
-mohitmishra786/repo2video,Text,5,27,0,920
-mohitmishra786/repo2video,TypeScript,2,21,0,266
-mohitmishra786/repo2video,YAML,4,27,8,200
-mohitmishra786/portfolio,CSS,1,12,0,147
-mohitmishra786/portfolio,JSON,4,0,0,7467
-mohitmishra786/portfolio,JavaScript,2,3,2,20
-mohitmishra786/portfolio,Markdown,2,17,0,41
-mohitmishra786/portfolio,SVG,5,0,0,5
-mohitmishra786/portfolio,TypeScript,56,294,77,3487
-mohitmishra786/portfolio,YAML,1,3,21,65
-mohitmishra786/inside-the-machine,Bourne Shell,1,8,6,14
-mohitmishra786/inside-the-machine,HTML,7,28,0,257
-mohitmishra786/inside-the-machine,JavaScript,1,5,4,13
-mohitmishra786/inside-the-machine,Markdown,45,8264,0,21416
-mohitmishra786/inside-the-machine,Ruby,1,6,7,30
-mohitmishra786/inside-the-machine,SCSS,4,37,13,171
-mohitmishra786/inside-the-machine,Text,1,1,0,3
-mohitmishra786/inside-the-machine,YAML,2,18,12,97
-implement-from-scratch/tcp-server-c,Bourne Again Shell,1,7,5,25
-implement-from-scratch/tcp-server-c,Bourne Shell,5,40,25,166
-implement-from-scratch/tcp-server-c,C,9,144,53,771
-implement-from-scratch/tcp-server-c,C/C++ Header,4,31,61,74
-implement-from-scratch/tcp-server-c,CMake,1,5,5,30
-implement-from-scratch/tcp-server-c,INI,1,5,0,17
-implement-from-scratch/tcp-server-c,Markdown,16,208,14,329
-implement-from-scratch/tcp-server-c,YAML,5,64,13,326
-implement-from-scratch/tcp-server-c,make,1,29,24,97
-mohitmishra786/neuro-code,Bourne Shell,2,31,13,215
-mohitmishra786/neuro-code,CSS,1,206,45,1314
-mohitmishra786/neuro-code,Dockerfile,2,35,22,58
-mohitmishra786/neuro-code,HTML,1,0,0,59
-mohitmishra786/neuro-code,JSON,6,0,0,4875
-mohitmishra786/neuro-code,JavaScript,1,1,10,38
-mohitmishra786/neuro-code,Markdown,40,904,0,2648
-mohitmishra786/neuro-code,Python,58,2335,2860,7484
-mohitmishra786/neuro-code,SVG,1,0,6,52
-mohitmishra786/neuro-code,TOML,1,15,0,129
-mohitmishra786/neuro-code,Text,2,14,0,42
-mohitmishra786/neuro-code,TypeScript,44,891,563,4868
-mohitmishra786/neuro-code,YAML,6,40,14,459
-mohitmishra786/neuro-code,make,1,13,4,32
-mohitmishra786/vislab,Bourne Shell,2,219,115,451
-mohitmishra786/vislab,CSS,2,2,0,22
-mohitmishra786/vislab,HTML,6,6,1,145
-mohitmishra786/vislab,JSON,23,0,0,603
-mohitmishra786/vislab,JavaScript,8,76,54,572
-mohitmishra786/vislab,Markdown,61,1311,2,3122
-mohitmishra786/vislab,Ruby,1,2,0,10
-mohitmishra786/vislab,Text,1,6,0,14
-mohitmishra786/vislab,TypeScript,84,686,255,6323
-mohitmishra786/vislab,YAML,9,1664,18,6319
-mohitmishra786/cpp-proposals-tracker,CSS,1,61,0,261
-mohitmishra786/cpp-proposals-tracker,JSON,4,0,0,9246
-mohitmishra786/cpp-proposals-tracker,JavaScript,3,6,2,25
-mohitmishra786/cpp-proposals-tracker,Markdown,5,156,0,350
-mohitmishra786/cpp-proposals-tracker,Python,8,290,248,1111
-mohitmishra786/cpp-proposals-tracker,SQL,1,25,37,213
-mohitmishra786/cpp-proposals-tracker,Text,1,0,0,24
-mohitmishra786/cpp-proposals-tracker,TypeScript,37,483,194,4061
-mohitmishra786/cpp-proposals-tracker,YAML,1,10,0,87
-implement-from-scratch/memory-allocator-c,Bourne Again Shell,1,7,5,25
-implement-from-scratch/memory-allocator-c,Bourne Shell,4,35,22,150
-implement-from-scratch/memory-allocator-c,C,2,279,192,943
-implement-from-scratch/memory-allocator-c,C/C++ Header,1,33,57,133
-implement-from-scratch/memory-allocator-c,CMake,1,5,5,30
-implement-from-scratch/memory-allocator-c,INI,1,5,0,17
-implement-from-scratch/memory-allocator-c,Markdown,20,1644,14,5232
-implement-from-scratch/memory-allocator-c,YAML,5,64,21,328
-implement-from-scratch/memory-allocator-c,make,1,30,25,209
-mohitmishra786/homebrew-tap,Markdown,1,20,0,39
-mohitmishra786/homebrew-tap,Ruby,2,12,6,94
-mohitmishra786/scoop-bucket,JSON,2,0,0,46
-mohitmishra786/scoop-bucket,Markdown,1,9,0,19
-mohitmishra786/scoop-bucket,YAML,2,5,0,47
-mohitmishra786/never,Bourne Shell,1,38,34,143
-mohitmishra786/never,JSON,12,0,0,6532
-mohitmishra786/never,JavaScript,2,13,13,72
-mohitmishra786/never,Markdown,37,729,0,2074
-mohitmishra786/never,Ruby,1,3,0,15
-mohitmishra786/never,TypeScript,31,1337,1108,6201
-mohitmishra786/never,YAML,4,52,25,179
-wattlint/watt-sampler,Markdown,6,464,1,2074
-wattlint/watt-sampler,Rust,8,178,55,1172
-wattlint/watt-sampler,TOML,2,2,0,21
-wattlint/watt-sampler,YAML,1,68,110,262
-mohitmishra786/aurora-dev,CSS,2,83,19,464
-mohitmishra786/aurora-dev,Dockerfile,1,15,19,30
-mohitmishra786/aurora-dev,JSON,6,0,0,7201
-mohitmishra786/aurora-dev,JavaScript,1,2,2,14
-mohitmishra786/aurora-dev,Markdown,296,7154,0,23069
-mohitmishra786/aurora-dev,Python,146,8011,9498,25406
-mohitmishra786/aurora-dev,SVG,5,0,0,5
-mohitmishra786/aurora-dev,Text,2,26,0,133
-mohitmishra786/aurora-dev,TypeScript,7,137,106,1063
-mohitmishra786/aurora-dev,YAML,11,49,76,659
-mohitmishra786/postgres-hackers-explorer,CSS,1,51,35,267
-mohitmishra786/postgres-hackers-explorer,JSON,4,0,0,8389
-mohitmishra786/postgres-hackers-explorer,JavaScript,1,0,0,6
-mohitmishra786/postgres-hackers-explorer,Markdown,5,32,0,91
-mohitmishra786/postgres-hackers-explorer,Python,13,511,581,2166
-mohitmishra786/postgres-hackers-explorer,SQL,2,23,76,269
-mohitmishra786/postgres-hackers-explorer,Text,1,11,0,27
-mohitmishra786/postgres-hackers-explorer,TypeScript,42,510,258,4356
-mohitmishra786/postgres-hackers-explorer,YAML,4,95,124,566
-mohitmishra786/merkle-db-sync,CSS,1,87,0,527
-mohitmishra786/merkle-db-sync,HTML,1,8,2,181
-mohitmishra786/merkle-db-sync,JavaScript,1,168,67,744
-mohitmishra786/merkle-db-sync,Markdown,1,59,0,216
-OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,CSV,175,17,0,1027518
-OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,HTML,1,22,0,66
-OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,JSON,63,124,0,1929764
-OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,Jupyter Notebook,38,0,92252,9827
-OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,Markdown,26,184,0,435
-OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,Python,13,339,212,1247
-OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,TOML,1,0,0,6
-OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,Text,4,16,0,162
-OmdenaAI/Berlin-Chapter-Challenge-Waste-Management,XML,3,6,0,10502
-mohitmishra786/strict,Go,1,18,1,87
-mohitmishra786/strict,HTML,1,31,0,231
-mohitmishra786/strict,JSON,2,0,0,385
-mohitmishra786/strict,Markdown,4,207,0,437
-mohitmishra786/strict,Python,52,1334,1197,4102
-mohitmishra786/strict,Rust,1,12,0,74
-mohitmishra786/strict,TOML,1,13,0,126
-mohitmishra786/strict,TypeScript,1,9,0,51
-implement-from-scratch/website,CSS,1,36,14,146
-implement-from-scratch/website,JSON,3,0,0,10712
-implement-from-scratch/website,JavaScript,4,1,9,68
-implement-from-scratch/website,Markdown,2,40,0,174
-implement-from-scratch/website,SVG,1,5,5,28
-implement-from-scratch/website,TypeScript,28,389,193,3140
-mohitmishra786/prompt-craft,JSON,5,3,0,2839
-mohitmishra786/prompt-craft,JavaScript,4,12,5,27
-mohitmishra786/prompt-craft,Markdown,6,63,0,108
-mohitmishra786/prompt-craft,TypeScript,19,448,279,2789
-gutsOfDarkness/crave-delivery,Bourne Shell,3,11,7,44
-gutsOfDarkness/crave-delivery,Dart,21,386,165,3086
-gutsOfDarkness/crave-delivery,Dockerfile,2,21,21,27
-gutsOfDarkness/crave-delivery,Go,15,609,408,3005
-gutsOfDarkness/crave-delivery,HTML,1,9,14,36
-gutsOfDarkness/crave-delivery,JSON,2,0,0,66
-gutsOfDarkness/crave-delivery,Markdown,6,217,0,579
-gutsOfDarkness/crave-delivery,SQL,3,105,136,197
-gutsOfDarkness/crave-delivery,YAML,3,21,30,115
-mohitmishra786/CodeDocGen,JSON,4,3,0,4746
-mohitmishra786/CodeDocGen,Markdown,10,236,0,738
-mohitmishra786/CodeDocGen,Python,36,1656,2188,5486
-mohitmishra786/CodeDocGen,Text,1,0,0,13
-mohitmishra786/CodeDocGen,TypeScript,4,59,14,264
-mohitmishra786/CodeDocGen,YAML,2,37,22,156
-implement-from-scratch/ls-c,Bourne Again Shell,1,7,5,25
-implement-from-scratch/ls-c,Bourne Shell,5,42,23,167
-implement-from-scratch/ls-c,C,8,110,59,652
-implement-from-scratch/ls-c,C/C++ Header,4,21,43,53
-implement-from-scratch/ls-c,CMake,1,5,5,30
-implement-from-scratch/ls-c,INI,1,5,0,17
-implement-from-scratch/ls-c,Markdown,15,234,14,545
-implement-from-scratch/ls-c,YAML,7,60,13,304
-implement-from-scratch/ls-c,make,1,15,4,49
-mohitmishra786/single-page-portfolio,CSS,1,0,0,36
-mohitmishra786/single-page-portfolio,HTML,1,1,0,28
-mohitmishra786/single-page-portfolio,JSON,4,0,0,2847
-mohitmishra786/single-page-portfolio,JavaScript,1,0,1,12
-mohitmishra786/single-page-portfolio,Markdown,1,33,0,82
-mohitmishra786/single-page-portfolio,TypeScript,5,29,0,498
-mohitmishra786/INT-248,Jupyter Notebook,1,0,1591,1531
-mohitmishra786/INT-248,Markdown,2,14,0,18
-mohitmishra786/INT-248,Text,1,0,0,390
-mohitmishra786/low-level-quest,C,1,4,1,18
-mohitmishra786/low-level-quest,CSS,13,311,38,1872
-mohitmishra786/low-level-quest,HTML,1,3,0,15
-mohitmishra786/low-level-quest,JSON,3,0,0,64
-mohitmishra786/low-level-quest,JavaScript,31,415,357,2908
-mohitmishra786/low-level-quest,Markdown,1,45,0,179
-mohitmishra786/low-level-quest,SQL,2,265,260,682
-mohitmishra786/low-level-quest,Text,1,9,0,65
-mohitmishra786/decoding-magic-of-compiler,Bourne Shell,2,21,22,68
-mohitmishra786/decoding-magic-of-compiler,CSS,1,41,7,187
-mohitmishra786/decoding-magic-of-compiler,HTML,4,26,0,126
-mohitmishra786/decoding-magic-of-compiler,Markdown,17,1661,0,6418
-mohitmishra786/decoding-magic-of-compiler,Ruby,1,10,6,22
-mohitmishra786/decoding-magic-of-compiler,SCSS,1,41,7,187
-mohitmishra786/decoding-magic-of-compiler,YAML,3,16,8,97
-mohitmishra786/chessman,Ant,1,14,0,60
-mohitmishra786/chessman,Assembly,49,2395,5118,12464
-mohitmishra786/chessman,Bourne Again Shell,5,85,204,845
-mohitmishra786/chessman,Bourne Shell,22,288,696,4254
+mohitmishra786/chessman,Ruby,1332,22898,33009,113438
 mohitmishra786/chessman,C,292,10733,10578,55340
 mohitmishra786/chessman,C++,78,4974,5735,26730
 mohitmishra786/chessman,C/C++ Header,179,3403,4121,13228
-mohitmishra786/chessman,CSS,1,16,17,75
-mohitmishra786/chessman,ERB,7,58,0,144
-mohitmishra786/chessman,Expect,18,244,484,938
-mohitmishra786/chessman,HTML,217,871,16,3058
-mohitmishra786/chessman,JSON,2,13,0,994
+mohitmishra786/chessman,Assembly,49,2395,5118,12464
 mohitmishra786/chessman,Java,51,1565,4031,10759
-mohitmishra786/chessman,JavaScript,1,114,0,1069
-mohitmishra786/chessman,Markdown,120,8800,272,24506
-mohitmishra786/chessman,Perl,2,58,103,177
-mohitmishra786/chessman,Python,5,111,38,490
-mohitmishra786/chessman,Ruby,1332,22898,33009,113438
-mohitmishra786/chessman,SCSS,8,111,76,563
-mohitmishra786/chessman,Text,231,2971,0,16156
-mohitmishra786/chessman,Visual Studio Solution,1,1,1,31
-mohitmishra786/chessman,XML,9,16,4,354
-mohitmishra786/chessman,YAML,27,183,138,1505
+mohitmishra786/chessman,Bourne Shell,22,288,696,4254
+mohitmishra786/chessman,HTML,217,871,16,3058
 mohitmishra786/chessman,m4,14,145,48,2021
+mohitmishra786/chessman,YAML,27,183,138,1505
 mohitmishra786/chessman,make,15,203,53,1081
-mohitmishra786/resource-grep,Dockerfile,6,40,28,75
-mohitmishra786/resource-grep,HTML,1,139,5,925
-mohitmishra786/resource-grep,JSON,1,0,0,7
-mohitmishra786/resource-grep,Markdown,12,749,1,2806
-mohitmishra786/resource-grep,Python,15,371,424,1550
-mohitmishra786/resource-grep,Text,3,25,0,2328
-mohitmishra786/resource-grep,YAML,1,8,0,129
-mohitmishra786/My-Code-Snippets,C++,10,67,137,350
-mohitmishra786/My-Code-Snippets,Markdown,1,1,0,2
-mohitmishra786/My-Code-Snippets,Python,1,61,21,222
-mohitmishra786/linux-distro-setup-in-mac,Bourne Shell,8,108,84,550
-mohitmishra786/linux-distro-setup-in-mac,C,25,135,69,480
-mohitmishra786/linux-distro-setup-in-mac,C/C++ Header,2,8,4,16
-mohitmishra786/linux-distro-setup-in-mac,JSON,2,1,0,157
-mohitmishra786/linux-distro-setup-in-mac,Markdown,5,306,0,826
-mohitmishra786/linux-distro-setup-in-mac,TypeScript,9,110,64,602
-mohitmishra786/linux-distro-setup-in-mac,YAML,2,19,0,198
-mohitmishra786/linux-distro-setup-in-mac,make,1,23,9,87
-mohitmishra786/WhyNotNow,CSS,3,62,17,385
-mohitmishra786/WhyNotNow,HTML,7,59,4,509
-mohitmishra786/WhyNotNow,JSON,3,0,0,1716
-mohitmishra786/WhyNotNow,JavaScript,3,70,36,337
-mohitmishra786/WhyNotNow,Markdown,1,0,0,1
-mohitmishra786/WhyNotNow,SVG,1,0,0,1
-mohitmishra786/EddieBot,Bourne Shell,2,2,0,7
-mohitmishra786/EddieBot,Dockerfile,1,13,0,18
-mohitmishra786/EddieBot,JSON,6,0,0,29107
-mohitmishra786/EddieBot,JavaScript,2,0,0,25
-mohitmishra786/EddieBot,Markdown,4,93,0,161
-mohitmishra786/EddieBot,TypeScript,25,89,13,612
-mohitmishra786/EddieBot,YAML,14,21,8,366
-mohitmishra786/control,Bourne Again Shell,1,4,6,22
-mohitmishra786/control,Bourne Shell,5,78,59,312
-mohitmishra786/control,Markdown,2,96,0,208
+mohitmishra786/chessman,JavaScript,1,114,0,1069
+mohitmishra786/chessman,Expect,18,244,484,938
+mohitmishra786/chessman,Bourne Again Shell,5,85,204,845
+mohitmishra786/chessman,SCSS,8,111,76,563
+mohitmishra786/chessman,Python,5,111,38,490
+mohitmishra786/chessman,Perl,2,58,103,177
+mohitmishra786/chessman,ERB,7,58,0,144
+mohitmishra786/chessman,CSS,1,16,17,75
+mohitmishra786/chessman,Ant,1,14,0,60
+mohitmishra786/chessman,Visual Studio Solution,1,1,1,31
+mohitmishra786/CodeDocGen,Python,36,1656,2188,5486
+mohitmishra786/CodeDocGen,TypeScript,4,59,14,264
+mohitmishra786/CodeDocGen,YAML,2,37,22,156
+mohitmishra786/confscout,TypeScript,150,2286,1735,13877
+mohitmishra786/confscout,Python,20,680,502,2706
+mohitmishra786/confscout,JavaScript,10,45,33,333
+mohitmishra786/confscout,CSS,1,55,35,323
+mohitmishra786/confscout,YAML,5,42,12,244
+mohitmishra786/confscout,SQL,2,14,17,40
+mohitmishra786/confscout,Bourne Shell,1,4,2,8
 mohitmishra786/control,Swift,51,2347,1938,8251
+mohitmishra786/control,Bourne Shell,5,78,59,312
 mohitmishra786/control,TOML,4,66,77,117
-mohitmishra786/control,XML,2,20,28,62
 mohitmishra786/control,YAML,3,28,2,116
-mohitmishra786/mohit-portfolio,CSS,6,2208,187,23367
-mohitmishra786/mohit-portfolio,JSON,10,0,0,6369
-mohitmishra786/mohit-portfolio,JSX,16,58,2,890
-mohitmishra786/mohit-portfolio,JavaScript,4,19,5,381
-mohitmishra786/mohit-portfolio,Markdown,1,26,0,67
-mohitmishra786/mohit-portfolio,SVG,4,0,0,4
-mohitmishra786/mohit-portfolio,Text,1,0,0,3
-mohitmishra786/mohit-portfolio,YAML,1,0,0,10
-implement-from-scratch/shell-c,C,4,167,180,728
-implement-from-scratch/shell-c,C/C++ Header,1,13,41,24
-implement-from-scratch/shell-c,Markdown,18,704,0,1804
-implement-from-scratch/shell-c,YAML,2,12,0,116
-implement-from-scratch/shell-c,make,1,8,7,18
-implement-from-scratch/.github,Markdown,2,12,0,24
-implement-from-scratch/.github,YAML,1,0,0,13
-implement-from-scratch/template-repo,Bourne Again Shell,1,7,5,25
-implement-from-scratch/template-repo,Bourne Shell,4,35,22,152
-implement-from-scratch/template-repo,CMake,1,5,5,30
-implement-from-scratch/template-repo,INI,1,5,0,17
-implement-from-scratch/template-repo,Markdown,9,66,14,216
-implement-from-scratch/template-repo,YAML,8,90,12,499
-implement-from-scratch/template-repo,make,1,32,23,133
-mohitmishra786/miniPerceptron,C,2,92,9,405
-mohitmishra786/miniPerceptron,Markdown,1,18,0,82
-mohitmishra786/UnderTheHood,HTML,1,59,2,684
-mohitmishra786/UnderTheHood,Markdown,2,27,0,120
+mohitmishra786/control,Bourne Again Shell,1,4,6,22
+mohitmishra786/cpp-proposals-tracker,TypeScript,37,483,194,4061
+mohitmishra786/cpp-proposals-tracker,Python,8,290,248,1111
+mohitmishra786/cpp-proposals-tracker,CSS,1,61,0,261
+mohitmishra786/cpp-proposals-tracker,SQL,1,25,37,213
+mohitmishra786/cpp-proposals-tracker,YAML,1,10,0,87
+mohitmishra786/cpp-proposals-tracker,JavaScript,3,6,2,25
+mohitmishra786/decoding-magic-of-compiler,CSS,1,41,7,187
+mohitmishra786/decoding-magic-of-compiler,SCSS,1,41,7,187
+mohitmishra786/decoding-magic-of-compiler,HTML,4,26,0,126
+mohitmishra786/decoding-magic-of-compiler,YAML,3,16,8,97
+mohitmishra786/decoding-magic-of-compiler,Bourne Shell,2,21,22,68
+mohitmishra786/decoding-magic-of-compiler,Ruby,1,10,6,22
 mohitmishra786/DSA-For-Placements,C++,16,99,53,485
-mohitmishra786/DSA-For-Placements,Markdown,2,2,0,16
-mohitmishra786/lfx,Markdown,1,0,0,1
-mohitmishra786/Notes-From-Obsidian,Markdown,8,44,0,88
-mohitmishra786/doing-cs-again,Markdown,2,13,0,80
-mohitmishra786/asm-mnist,Assembly,1,110,67,470
-mohitmishra786/asm-mnist,Markdown,1,0,0,1
-mohitmishra786/kaggle-c-lib,C,4,72,16,304
-mohitmishra786/kaggle-c-lib,C/C++ Header,1,6,3,22
-mohitmishra786/kaggle-c-lib,CMake,1,9,9,33
-mohitmishra786/kaggle-c-lib,Markdown,1,68,0,218
+mohitmishra786/exploring-os,CSS,1,28,8,150
+mohitmishra786/exploring-os,HTML,7,13,3,132
+mohitmishra786/exploring-os,C,5,23,7,98
+mohitmishra786/exploring-os,YAML,1,4,3,22
+mohitmishra786/exploring-os,JavaScript,1,3,0,13
+mohitmishra786/exploring-os,make,1,6,7,8
+mohitmishra786/Full-Stack-Engineering,JavaScript,1,3,1,9
+mohitmishra786/Full-Stack-Engineering,HTML,1,0,0,1
+mohitmishra786/full-stack-practice,JavaScript,2,23,5,68
+mohitmishra786/full-stack-practice,HTML,1,4,0,10
+mohitmishra786/full-stack-practice,Bourne Shell,1,0,0,3
+mohitmishra786/GFG-100-Days-Of-Code,C++,5,1,3,77
+mohitmishra786/hacktoberfest-2022,C++,104,839,493,4149
+mohitmishra786/hacktoberfest-2022,Python,105,383,148,2743
+mohitmishra786/hacktoberfest-2022,HTML,6,38,69,1599
+mohitmishra786/hacktoberfest-2022,CSS,5,13,32,1253
+mohitmishra786/hacktoberfest-2022,Jupyter Notebook,7,0,4360,1252
+mohitmishra786/hacktoberfest-2022,Java,10,92,29,371
+mohitmishra786/hacktoberfest-2022,JavaScript,4,25,10,86
+mohitmishra786/hacktoberfest-2022,C,3,12,16,74
+mohitmishra786/hacktoberfest-2022,kvlang,2,5,0,38
+mohitmishra786/homebrew-tap,Ruby,2,12,6,94
+mohitmishra786/inside-the-machine,HTML,7,28,0,257
+mohitmishra786/inside-the-machine,SCSS,4,37,13,171
+mohitmishra786/inside-the-machine,YAML,2,18,12,97
+mohitmishra786/inside-the-machine,Ruby,1,6,7,30
+mohitmishra786/inside-the-machine,Bourne Shell,1,8,6,14
+mohitmishra786/inside-the-machine,JavaScript,1,5,4,13
+mohitmishra786/INT-248,Jupyter Notebook,1,0,1591,1531
 mohitmishra786/just-some-comparisions,Bourne Shell,1,12,4,83
-mohitmishra786/just-some-comparisions,C,1,2,1,17
-mohitmishra786/just-some-comparisions,Go,1,6,1,25
-mohitmishra786/just-some-comparisions,Java,1,4,1,26
-mohitmishra786/just-some-comparisions,JavaScript,1,5,1,25
-mohitmishra786/just-some-comparisions,Markdown,1,0,0,1
 mohitmishra786/just-some-comparisions,Python,2,15,5,59
+mohitmishra786/just-some-comparisions,Java,1,4,1,26
+mohitmishra786/just-some-comparisions,Go,1,6,1,25
+mohitmishra786/just-some-comparisions,JavaScript,1,5,1,25
 mohitmishra786/just-some-comparisions,Rust,1,4,1,24
-mohitmishra786/just-some-comparisions,TOML,1,1,0,9
 mohitmishra786/just-some-comparisions,make,1,9,0,21
+mohitmishra786/just-some-comparisions,C,1,2,1,17
+mohitmishra786/just-some-comparisions,TOML,1,1,0,9
+mohitmishra786/kaggle-c-lib,C,4,72,16,304
+mohitmishra786/kaggle-c-lib,CMake,1,9,9,33
+mohitmishra786/kaggle-c-lib,C/C++ Header,1,6,3,22
 mohitmishra786/KernelKafe,CSS,2,49,3,251
 mohitmishra786/KernelKafe,HTML,3,11,0,227
-mohitmishra786/KernelKafe,Markdown,2,208,0,296
+mohitmishra786/kernelkafe-privacy,YAML,1,0,0,2
 mohitmishra786/Leetcode-Study-Plan,C++,13,32,32,217
-mohitmishra786/Leetcode-Study-Plan,Markdown,1,0,0,1
 mohitmishra786/Leetcode-Study-Plan,Python,2,3,4,11
-mohitmishra786/Career-Recommendation-System,CSV,1,0,0,144
-mohitmishra786/Career-Recommendation-System,JSON,1,0,0,1
-mohitmishra786/Career-Recommendation-System,Jupyter Notebook,32,0,524362,21009
-mohitmishra786/Career-Recommendation-System,Markdown,15,71,0,294
-mohitmishra786/Career-Recommendation-System,Python,5,96,132,270
-mohitmishra786/Career-Recommendation-System,Text,4,88,0,1208
-OmdenaAI/laguna-philippines-rice-disease,Dockerfile,1,4,0,5
-OmdenaAI/laguna-philippines-rice-disease,Jupyter Notebook,2,0,2203,534
-OmdenaAI/laguna-philippines-rice-disease,Markdown,7,61,0,143
-OmdenaAI/laguna-philippines-rice-disease,Python,7,142,30,420
-OmdenaAI/laguna-philippines-rice-disease,Text,3,0,0,20
-mohitmishra786/Awesome-Decision-Science,Markdown,3,41,0,489
-mohitmishra786/REST-API,Bourne Shell,6,12,0,60
-mohitmishra786/REST-API,DOS Batch,6,12,0,90
-mohitmishra786/REST-API,INI,3,14,0,56
-mohitmishra786/REST-API,JSON,142,62,0,20286
-mohitmishra786/REST-API,JavaScript,752,17317,40719,115464
-mohitmishra786/REST-API,Markdown,202,9791,65,26667
-mohitmishra786/REST-API,PowerShell,6,6,30,132
-mohitmishra786/REST-API,Text,11,40,0,178
-mohitmishra786/REST-API,TypeScript,265,6293,43649,45197
-mohitmishra786/REST-API,YAML,29,20,7,450
-mohitmishra786/REST-API,make,3,20,4,57
-mohitmishra786/meshery,Bourne Shell,8,27,28,147
-mohitmishra786/meshery,CSS,21,7674,1050,38640
-mohitmishra786/meshery,CSV,1,0,0,872
-mohitmishra786/meshery,Dockerfile,4,19,17,151
-mohitmishra786/meshery,Go,359,11146,7621,77607
-mohitmishra786/meshery,GraphQL,1,142,123,436
-mohitmishra786/meshery,HTML,1196,304885,83947,909856
-mohitmishra786/meshery,Haml,1,47,40,86
-mohitmishra786/meshery,INI,1,5,0,15
-mohitmishra786/meshery,JSON,5736,3,0,367059
-mohitmishra786/meshery,JavaScript,607,4951,3896,72440
-mohitmishra786/meshery,Markdown,2514,10852,832,72753
-mohitmishra786/meshery,Protocol Buffers,1,25,1,86
-mohitmishra786/meshery,Python,1,12,0,58
-mohitmishra786/meshery,Ruby,4,128,59,418
-mohitmishra786/meshery,SCSS,21,352,143,2590
-mohitmishra786/meshery,SVG,912,64,8,11308
-mohitmishra786/meshery,Text,13,4,0,256
-mohitmishra786/meshery,XML,11,7,0,254
-mohitmishra786/meshery,YAML,224,1166,1177,95276
-mohitmishra786/meshery,make,7,103,157,386
 mohitmishra786/LFN-Thoth-Mentorship,Jupyter Notebook,2,0,2,0
-mohitmishra786/LFN-Thoth-Mentorship,Markdown,1,0,0,1
-mohitmishra786/LFN-Thoth-Mentorship,Text,1,0,0,823
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,CSV,58,4366,0,416233
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,Dockerfile,1,4,0,5
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,HTML,1,2588,2,16222
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,JSON,1,0,0,4047
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,Jupyter Notebook,59,0,162856,37585
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,Markdown,17,99,0,228
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,Python,43,931,681,2629
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,R,1,14,13,31
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,Text,4,0,0,18
-OmdenaAI/dhaka-bangladesh-real-estate-recommendation,XML,7,0,0,95
-OmdenaAI/sao-paulo-brazil-plant-diseases,CSV,5,0,0,1582
-OmdenaAI/sao-paulo-brazil-plant-diseases,Dockerfile,1,5,3,9
-OmdenaAI/sao-paulo-brazil-plant-diseases,Jupyter Notebook,18,0,116085,24983
-OmdenaAI/sao-paulo-brazil-plant-diseases,Markdown,22,48,0,162
-OmdenaAI/sao-paulo-brazil-plant-diseases,Python,15,398,219,1462
-OmdenaAI/sao-paulo-brazil-plant-diseases,Text,1,1,0,16
-OmdenaAI/sao-paulo-brazil-plant-diseases,YAML,1,2,0,10
-OmdenaAI/lagos-chapter-water-availability,CSV,7,0,0,94283
-OmdenaAI/lagos-chapter-water-availability,JSON,1,0,0,1
-OmdenaAI/lagos-chapter-water-availability,Jupyter Notebook,9,0,5179,7119
-OmdenaAI/lagos-chapter-water-availability,Markdown,18,82,58,122
-OmdenaAI/lagos-chapter-water-availability,Python,2,49,18,177
-OmdenaAI/lagos-chapter-water-availability,Text,1,0,0,1
-OmdenaAI/lagos-chapter-water-availability,YAML,1,2,6,19
-OmdenaAI/latam-chapters-news-validator,CSS,1,21,0,134
-OmdenaAI/latam-chapters-news-validator,CSV,1,0,0,494
-OmdenaAI/latam-chapters-news-validator,HTML,5,2,17,246
-OmdenaAI/latam-chapters-news-validator,JSON,1,1,0,28
-OmdenaAI/latam-chapters-news-validator,JavaScript,2,14,20,119
-OmdenaAI/latam-chapters-news-validator,Jupyter Notebook,3,0,1240,1604
-OmdenaAI/latam-chapters-news-validator,Markdown,12,23,12,275
-OmdenaAI/latam-chapters-news-validator,Python,6,65,72,255
-OmdenaAI/latam-chapters-news-validator,Text,3,0,0,21
-mohitmishra786/full-stack-practice,Bourne Shell,1,0,0,3
-mohitmishra786/full-stack-practice,HTML,1,4,0,10
-mohitmishra786/full-stack-practice,JSON,2,0,0,1787
-mohitmishra786/full-stack-practice,JavaScript,2,23,5,68
-mohitmishra786/full-stack-practice,Markdown,1,1,0,12
-mohitmishra786/My-Projects,Markdown,1,1,0,3
-mohitmishra786/Homelessness-in-Texas,CSV,62,11,0,186193
-mohitmishra786/Homelessness-in-Texas,HTML,5,340,0,192346
-mohitmishra786/Homelessness-in-Texas,Jupyter Notebook,54,0,243098,24643
-mohitmishra786/Homelessness-in-Texas,Markdown,35,177,0,673
-mohitmishra786/Homelessness-in-Texas,Python,15,147,71,848
-mohitmishra786/Homelessness-in-Texas,R,1,73,9,23
-mohitmishra786/Homelessness-in-Texas,Text,1,0,0,14
-OmdenaAI/omdena-pakistan-covid-analysis,CSV,2,0,0,2979
-OmdenaAI/omdena-pakistan-covid-analysis,Jupyter Notebook,10,0,7391,603
-OmdenaAI/omdena-pakistan-covid-analysis,Markdown,11,21,0,120
-OmdenaAI/omdena-pakistan-covid-analysis,Python,6,205,72,256
-OmdenaAI/omdena-pakistan-covid-analysis,Text,7,0,0,25
-OmdenaAI/omdena-pakistan-covid-analysis,XML,1,1,1,2868
-mohitmishra786/My-Data-Science-Journey,Bourne Shell,4,27,22,96
-mohitmishra786/My-Data-Science-Journey,Dockerfile,2,3,1,12
-mohitmishra786/My-Data-Science-Journey,HTML,30,53,8,423
-mohitmishra786/My-Data-Science-Journey,INI,1,1,0,43
-mohitmishra786/My-Data-Science-Journey,JSON,2,2,0,42
-mohitmishra786/My-Data-Science-Journey,JavaScript,2,39,41,226
-mohitmishra786/My-Data-Science-Journey,Jupyter Notebook,1,0,776,71
-mohitmishra786/My-Data-Science-Journey,Markdown,17,272,4,397
-mohitmishra786/My-Data-Science-Journey,Python,4,12,13,41
-mohitmishra786/My-Data-Science-Journey,Ruby,2,4,0,20
-mohitmishra786/My-Data-Science-Journey,SCSS,4,72,43,403
-mohitmishra786/My-Data-Science-Journey,SVG,3,0,0,3
-mohitmishra786/My-Data-Science-Journey,Text,2,0,0,4
+mohitmishra786/linux-distro-setup-in-mac,TypeScript,9,110,64,602
+mohitmishra786/linux-distro-setup-in-mac,Bourne Shell,7,99,81,530
+mohitmishra786/linux-distro-setup-in-mac,C,25,135,69,480
+mohitmishra786/linux-distro-setup-in-mac,YAML,2,19,0,198
+mohitmishra786/linux-distro-setup-in-mac,make,1,23,9,87
+mohitmishra786/linux-distro-setup-in-mac,C/C++ Header,2,8,4,16
+mohitmishra786/Location-of-SpaceStation,Jupyter Notebook,1,0,1262,13
+mohitmishra786/low-level-dev-skills,CSS,1,120,6,654
+mohitmishra786/low-level-dev-skills,JavaScript,1,32,27,505
+mohitmishra786/low-level-dev-skills,HTML,1,15,0,186
+mohitmishra786/low-level-dev-skills,YAML,1,2,5,15
+mohitmishra786/low-level-quest,JavaScript,31,415,357,2908
+mohitmishra786/low-level-quest,CSS,13,311,38,1872
+mohitmishra786/low-level-quest,SQL,2,265,260,682
+mohitmishra786/low-level-quest,C,1,4,1,18
+mohitmishra786/low-level-quest,HTML,1,3,0,15
+mohitmishra786/lsm-tree-generator,C,9,63,38,618
+mohitmishra786/lsm-tree-generator,C/C++ Header,5,20,0,80
+mohitmishra786/lsm-tree-generator,CMake,2,7,6,19
+mohitmishra786/matchquill,TypeScript,189,4068,2377,26732
+mohitmishra786/matchquill,Python,70,2380,2343,8847
+mohitmishra786/matchquill,JavaScript,10,279,337,1646
+mohitmishra786/matchquill,CSS,3,187,119,875
+mohitmishra786/matchquill,YAML,7,70,31,398
+mohitmishra786/matchquill,HTML,2,22,11,185
+mohitmishra786/matchquill,SQL,5,11,29,51
+mohitmishra786/matchquill,Dockerfile,1,15,19,39
+mohitmishra786/mdmend,Go,81,2530,133,15665
+mohitmishra786/mdmend,Bourne Shell,8,157,2,841
+mohitmishra786/mdmend,YAML,10,91,6,681
+mohitmishra786/mdmend,HTML,2,37,0,516
+mohitmishra786/mdmend,JavaScript,1,36,24,183
+mohitmishra786/mdmend,Python,1,26,1,99
+mohitmishra786/mdmend,PowerShell,1,10,6,73
+mohitmishra786/mdmend,make,1,17,0,61
+mohitmishra786/mdmend,Ruby,1,10,9,44
+mohitmishra786/merkle-db-sync,JavaScript,1,168,67,744
+mohitmishra786/merkle-db-sync,CSS,1,87,0,527
+mohitmishra786/merkle-db-sync,HTML,1,8,2,181
+mohitmishra786/minimalist-md-site-generator,C,8,228,106,1118
+mohitmishra786/minimalist-md-site-generator,HTML,5,14,0,459
+mohitmishra786/minimalist-md-site-generator,CMake,8,46,25,222
+mohitmishra786/minimalist-md-site-generator,C/C++ Header,4,15,7,67
+mohitmishra786/minimalist-md-site-generator,make,1,9,0,22
+mohitmishra786/minimalist-md-site-generator,TypeScript,1,0,0,2
+mohitmishra786/miniPerceptron,C,2,92,9,405
+mohitmishra786/ML-and-DL,Jupyter Notebook,20,0,27685,1669
+mohitmishra786/ML-and-DL,Python,17,338,422,1208
+mohitmishra786/ML-and-DL,PowerShell,1,49,246,104
+mohitmishra786/ML-and-DL,DOS Batch,4,33,3,84
+mohitmishra786/ML-and-DL,CSS,1,11,0,71
+mohitmishra786/ML-and-DL,HTML,1,2,0,43
+mohitmishra786/MLOps-For-AI-Engineers,PowerShell,1,48,89,104
+mohitmishra786/MLOps-For-AI-Engineers,DOS Batch,2,15,1,38
+mohitmishra786/MLOps-For-AI-Engineers,Python,2,8,11,15
+mohitmishra786/Model-Deployment,Jupyter Notebook,1,0,112,218
+mohitmishra786/mohit-portfolio,CSS,6,2208,187,23367
+mohitmishra786/mohit-portfolio,JSX,16,58,2,890
+mohitmishra786/mohit-portfolio,JavaScript,4,19,5,381
+mohitmishra786/mohitmishra786,YAML,5,81,45,435
+mohitmishra786/Mushroom-Classification-iNeuron.ai-,Jupyter Notebook,2,0,2977,190
+mohitmishra786/Mushroom-Classification-iNeuron.ai-,YAML,1,4,6,12
+mohitmishra786/My-Blogs,YAML,1,0,0,14
+mohitmishra786/My-Code-Snippets,C++,10,67,137,350
+mohitmishra786/My-Code-Snippets,Python,1,61,21,222
+mohitmishra786/My-Codechef-Solutions,C++,14,181,92,1069
+mohitmishra786/My-Codeforces-Solution,C++,99,1112,800,6553
 mohitmishra786/My-Data-Science-Journey,YAML,9,77,57,501
+mohitmishra786/My-Data-Science-Journey,HTML,30,53,8,423
+mohitmishra786/My-Data-Science-Journey,SCSS,4,72,43,403
+mohitmishra786/My-Data-Science-Journey,JavaScript,1,39,36,225
+mohitmishra786/My-Data-Science-Journey,Bourne Shell,4,27,22,96
+mohitmishra786/My-Data-Science-Journey,Jupyter Notebook,1,0,776,71
+mohitmishra786/My-Data-Science-Journey,INI,1,1,0,43
+mohitmishra786/My-Data-Science-Journey,Python,4,12,13,41
 mohitmishra786/My-Data-Science-Journey,make,1,11,10,32
+mohitmishra786/My-Data-Science-Journey,Ruby,2,4,0,20
+mohitmishra786/My-Data-Science-Journey,Dockerfile,2,3,1,12
+mohitmishra786/myJourneyOfBuildingOS,C,23,1520,801,6388
+mohitmishra786/myJourneyOfBuildingOS,HTML,2,114,11,910
+mohitmishra786/myJourneyOfBuildingOS,JavaScript,2,104,46,828
+mohitmishra786/myJourneyOfBuildingOS,make,5,85,60,448
+mohitmishra786/myJourneyOfBuildingOS,YAML,6,5,0,49
+mohitmishra786/myJourneyOfBuildingOS,D,4,0,0,4
+mohitmishra786/Neural-Networks-from-Scratch,Python,8,64,87,115
+mohitmishra786/neuro-code,Python,58,2335,2860,7484
+mohitmishra786/neuro-code,TypeScript,44,891,563,4868
+mohitmishra786/neuro-code,CSS,1,206,45,1314
+mohitmishra786/neuro-code,YAML,5,38,14,439
+mohitmishra786/neuro-code,Bourne Shell,2,31,13,215
+mohitmishra786/neuro-code,TOML,1,15,0,129
+mohitmishra786/neuro-code,HTML,1,0,0,59
+mohitmishra786/neuro-code,Dockerfile,2,35,22,58
+mohitmishra786/neuro-code,JavaScript,1,1,10,38
+mohitmishra786/neuro-code,make,1,13,4,32
+mohitmishra786/never,TypeScript,31,1337,1108,6201
+mohitmishra786/never,YAML,3,51,23,163
+mohitmishra786/never,Bourne Shell,1,38,34,143
+mohitmishra786/never,JavaScript,2,13,13,72
+mohitmishra786/never,Ruby,1,3,0,15
+mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML,HTML,1,68,0,43459
+mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML,Jupyter Notebook,1,0,50936,435
+mohitmishra786/portfolio,TypeScript,56,294,77,3487
+mohitmishra786/portfolio,CSS,1,12,0,147
+mohitmishra786/portfolio,JavaScript,2,3,2,20
+mohitmishra786/postgres-hackers-explorer,TypeScript,42,510,258,4356
+mohitmishra786/postgres-hackers-explorer,Python,13,511,581,2166
+mohitmishra786/postgres-hackers-explorer,YAML,4,95,124,566
+mohitmishra786/postgres-hackers-explorer,SQL,2,23,76,269
+mohitmishra786/postgres-hackers-explorer,CSS,1,51,35,267
+mohitmishra786/postgres-hackers-explorer,JavaScript,1,0,0,6
+mohitmishra786/prompt-craft,TypeScript,19,448,279,2789
+mohitmishra786/prompt-craft,JavaScript,4,12,5,27
+mohitmishra786/repo2video,Python,27,1607,1631,6323
+mohitmishra786/repo2video,TypeScript,2,21,0,266
+mohitmishra786/repo2video,YAML,4,27,8,200
+mohitmishra786/repo2video,HTML,1,5,0,100
+mohitmishra786/repo2video,TOML,1,7,4,67
+mohitmishra786/repo2video,JavaScript,4,4,3,23
+mohitmishra786/repo2video,Dockerfile,1,7,0,12
+mohitmishra786/repo2video,CSS,1,1,0,6
+mohitmishra786/resource-grep,Python,15,371,424,1550
+mohitmishra786/resource-grep,HTML,1,139,5,925
+mohitmishra786/resource-grep,YAML,1,8,0,129
+mohitmishra786/resource-grep,Dockerfile,6,40,28,75
+mohitmishra786/REST-API,JavaScript,742,15598,32983,91699
+mohitmishra786/REST-API,TypeScript,260,6273,43563,45078
+mohitmishra786/REST-API,YAML,22,14,1,388
+mohitmishra786/REST-API,PowerShell,6,6,30,132
+mohitmishra786/REST-API,DOS Batch,6,12,0,90
+mohitmishra786/REST-API,Bourne Shell,6,12,0,60
+mohitmishra786/REST-API,make,3,20,4,57
+mohitmishra786/REST-API,INI,3,14,0,56
+mohitmishra786/reversingBits,HTML,1,120,1,760
+mohitmishra786/Sales_Data_Analysis,Jupyter Notebook,1,0,3339,97
+mohitmishra786/scoop-bucket,YAML,2,5,0,47
+mohitmishra786/single-page-portfolio,TypeScript,5,29,0,498
+mohitmishra786/single-page-portfolio,CSS,1,0,0,36
+mohitmishra786/single-page-portfolio,HTML,1,1,0,28
+mohitmishra786/single-page-portfolio,JavaScript,1,0,1,12
+mohitmishra786/strict,Python,52,1334,1197,4102
+mohitmishra786/strict,HTML,1,31,0,231
+mohitmishra786/strict,TOML,1,13,0,126
+mohitmishra786/strict,Go,1,18,1,87
+mohitmishra786/strict,Rust,1,12,0,74
+mohitmishra786/strict,TypeScript,1,9,0,51
+mohitmishra786/Tea-Leaf-Quality,Python,30,822,736,3089
+mohitmishra786/Tea-Leaf-Quality,YAML,10,61,45,333
+mohitmishra786/Tea-Leaf-Quality,Dockerfile,1,6,10,9
+mohitmishra786/tensor-programming,CSS,2,50,14,332
+mohitmishra786/tensor-programming,SCSS,1,48,10,195
+mohitmishra786/tensor-programming,HTML,4,14,0,151
+mohitmishra786/tensor-programming,YAML,2,16,9,108
+mohitmishra786/tensor-programming,Bourne Shell,2,16,12,39
+mohitmishra786/TheCoreDump,C,4,94,20,450
+mohitmishra786/TheCoreDump,YAML,6,58,126,264
+mohitmishra786/TheCoreDump,HTML,4,38,16,259
+mohitmishra786/TheCoreDump,JavaScript,1,15,8,138
+mohitmishra786/TheCoreDump,Bourne Shell,3,26,18,117
+mohitmishra786/TheCoreDump,INI,1,4,0,15
+mohitmishra786/TheCoreDump,Ruby,1,4,2,8
+mohitmishra786/UnderTheHood,HTML,1,59,2,684
+mohitmishra786/underTheHoodOfExecutables,HTML,1,33,2,257
+mohitmishra786/underTheHoodOfExecutables,C,2,4,1,18
+mohitmishra786/undertow,Rust,65,1416,1538,15233
+mohitmishra786/undertow,YAML,13,39,29,609
+mohitmishra786/undertow,TOML,16,40,24,347
+mohitmishra786/undertow,Bourne Shell,1,14,13,74
+mohitmishra786/undertow,Python,1,17,19,52
+mohitmishra786/Virtual-Assistant,Python,1,22,7,38
+mohitmishra786/vislab,TypeScript,84,686,255,6323
+mohitmishra786/vislab,YAML,8,1661,10,6272
+mohitmishra786/vislab,JavaScript,8,76,54,572
+mohitmishra786/vislab,Bourne Shell,2,219,115,451
+mohitmishra786/vislab,HTML,6,6,1,145
+mohitmishra786/vislab,CSS,2,2,0,22
+mohitmishra786/vislab,Ruby,1,2,0,10
+mohitmishra786/weirling,Python,405,9299,4455,40643
+mohitmishra786/weirling,TypeScript,145,983,663,11315
+mohitmishra786/weirling,YAML,23,118,181,1417
+mohitmishra786/weirling,CSS,2,59,89,655
+mohitmishra786/weirling,JavaScript,8,45,64,423
+mohitmishra786/weirling,HTML,4,62,0,343
+mohitmishra786/weirling,Bourne Shell,9,34,63,243
+mohitmishra786/weirling,Dockerfile,4,18,19,97
+mohitmishra786/weirling,TOML,3,18,28,69
+mohitmishra786/weirling,make,1,20,8,40
+mohitmishra786/weirling,INI,1,9,0,31
+mohitmishra786/weirling,SQL,1,0,0,1
+mohitmishra786/Welcome-to-Building-Transformer-Based-Natural-Language-Processing-Applications-,Jupyter Notebook,4,0,1292,204
+mohitmishra786/Welcome-to-Building-Transformer-Based-Natural-Language-Processing-Applications-,HTML,1,0,0,1
+mohitmishra786/WhyNotNow,HTML,7,59,4,509
+mohitmishra786/WhyNotNow,CSS,3,62,17,385
+mohitmishra786/WhyNotNow,JavaScript,3,70,36,337
+mohitmishra786/writ,Go,58,850,567,10039
+mohitmishra786/writ,TypeScript,10,98,55,1344
+mohitmishra786/writ,YAML,2,241,10,952
+mohitmishra786/writ,SQL,6,19,21,228
+mohitmishra786/writ,TeX,1,24,5,162
+mohitmishra786/writ,CSS,1,19,12,123
+mohitmishra786/writ,Bourne Shell,1,4,7,20
+mohitmishra786/writ,HTML,1,0,0,12
+mohitmishra786/yt-setup,Python,87,1836,1718,9128
+mohitmishra786/yt-setup,CSS,1,12,11,107
+mohitmishra786/yt-setup,TOML,1,10,5,105
+mohitmishra786/yt-setup,YAML,3,18,2,63
+mohitmishra786/yt-setup,C,1,1,0,9
+mohitmishra786/yt-setup,Rust,1,0,0,6
+mohitmishra786/Zomato-Clone,JavaScript,18,75,9,268

@@ -1,10 +1,359 @@
 {
-  "generated_at": "2026-10-25T02:43:33Z",
-  "total_repositories": 116,
-  "total_code_lines": 40144572,
-  "total_files": 99471,
+  "generated_at": "2026-10-25",
+  "total_repositories": 81,
+  "total_code_lines": 827606,
+  "total_files": 6981,
   "languages": [
-{"language":"Jupyter Notebook","files":367,"code":2021072,"comment":2021072,"blank":0},{"language":"C","files":20508,"code":420306,"comment":420306,"blank":901677},{"language":"C++","files":26224,"code":172923,"comment":172923,"blank":2799795},{"language":"HTML","files":1551,"code":84173,"comment":84173,"blank":310166},{"language":"C/C++ Header","files":447,"code":64054,"comment":64054,"blank":30019},{"language":"TypeScript","files":1152,"code":51549,"comment":51549,"blank":19170},{"language":"JavaScript","files":1519,"code":45978,"comment":45978,"blank":24034},{"language":"Python","files":1487,"code":38900,"comment":38900,"blank":44456},{"language":"Ruby","files":1346,"code":33098,"comment":33098,"blank":23077},{"language":"reStructuredText","files":27,"code":16785,"comment":16785,"blank":6004},{"language":"Go","files":586,"code":9194,"comment":9194,"blank":16425},{"language":"Assembly","files":57,"code":5267,"comment":5267,"blank":2616},{"language":"Java","files":66,"code":4090,"comment":4090,"blank":1712},{"language":"YAML","files":563,"code":2990,"comment":2990,"blank":5231},{"language":"Bourne Shell","files":144,"code":2528,"comment":2528,"blank":1565}],
+    {
+      "language": "TypeScript",
+      "files": 1096,
+      "blank": 18722,
+      "comment": 51311,
+      "code": 133177
+    },
+    {
+      "language": "Python",
+      "files": 1163,
+      "blank": 33142,
+      "comment": 29371,
+      "code": 126816
+    },
+    {
+      "language": "Ruby",
+      "files": 1342,
+      "blank": 22949,
+      "comment": 33039,
+      "code": 113681
+    },
+    {
+      "language": "JavaScript",
+      "files": 883,
+      "blank": 17285,
+      "comment": 34234,
+      "code": 103062
+    },
+    {
+      "language": "C",
+      "files": 526,
+      "blank": 15269,
+      "comment": 12319,
+      "code": 76040
+    },
+    {
+      "language": "HTML",
+      "files": 329,
+      "blank": 1902,
+      "comment": 173,
+      "code": 56315
+    },
+    {
+      "language": "C++",
+      "files": 340,
+      "blank": 7322,
+      "comment": 7352,
+      "code": 39684
+    },
+    {
+      "language": "Go",
+      "files": 212,
+      "blank": 4670,
+      "comment": 1165,
+      "code": 33856
+    },
+    {
+      "language": "CSS",
+      "files": 58,
+      "blank": 3770,
+      "comment": 700,
+      "code": 33850
+    },
+    {
+      "language": "YAML",
+      "files": 237,
+      "blank": 3330,
+      "comment": 1009,
+      "code": 18480
+    },
+    {
+      "language": "Rust",
+      "files": 68,
+      "blank": 1432,
+      "comment": 1539,
+      "code": 15337
+    },
+    {
+      "language": "Assembly",
+      "files": 57,
+      "blank": 2616,
+      "comment": 5267,
+      "code": 14141
+    },
+    {
+      "language": "C/C++ Header",
+      "files": 198,
+      "blank": 3473,
+      "comment": 4139,
+      "code": 13525
+    },
+    {
+      "language": "Java",
+      "files": 62,
+      "blank": 1661,
+      "comment": 4061,
+      "code": 11156
+    },
+    {
+      "language": "Swift",
+      "files": 51,
+      "blank": 2347,
+      "comment": 1938,
+      "code": 8251
+    }
+  ],
   "top_repos": [
-{"repo":"mohitmishra786/compiler","code":32272517},{"repo":"OmdenaAI/Berlin-Chapter-Challenge-Waste-Management","code":2979527},{"repo":"mohitmishra786/meshery","code":1650694},{"repo":"OmdenaAI/dhaka-bangladesh-real-estate-recommendation","code":477093},{"repo":"OmdenaAI/omdena-texas-homelessness","code":404748},{"repo":"mohitmishra786/Homelessness-in-Texas","code":404740},{"repo":"mohitmishra786/chessman","code":290280},{"repo":"mohitmishra786/REST-API","code":208637},{"repo":"mohitmishra786/Sales_Data_Analysis","code":186979},{"repo":"mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML","code":116724},{"repo":"OmdenaAI/lagos-chapter-water-availability","code":101722},{"repo":"mohitmishra786/weirling","code":71195},{"repo":"mohitmishra786/confscout","code":68861},{"repo":"mohitmishra786/aurora-dev","code":58044},{"repo":"mohitmishra786/matchquill","code":55707},{"repo":"mohitmishra786/ML-and-DL","code":52977},{"repo":"mohitmishra786/mdmend","code":42126},{"repo":"mohitmishra786/mohit-portfolio","code":31091},{"repo":"mohitmishra786/low-level-dev-skills","code":30606},{"repo":"mohitmishra786/EddieBot","code":30296}]
+    {
+      "repo": "mohitmishra786/chessman",
+      "code": 248270
+    },
+    {
+      "repo": "mohitmishra786/REST-API",
+      "code": 137560
+    },
+    {
+      "repo": "mohitmishra786/weirling",
+      "code": 55277
+    },
+    {
+      "repo": "mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML",
+      "code": 43894
+    },
+    {
+      "repo": "mohitmishra786/matchquill",
+      "code": 38773
+    },
+    {
+      "repo": "mohitmishra786/aurora-dev",
+      "code": 27636
+    },
+    {
+      "repo": "mohitmishra786/mohit-portfolio",
+      "code": 24638
+    },
+    {
+      "repo": "mohitmishra786/mdmend",
+      "code": 18163
+    },
+    {
+      "repo": "mohitmishra786/confscout",
+      "code": 17531
+    },
+    {
+      "repo": "mohitmishra786/undertow",
+      "code": 16315
+    },
+    {
+      "repo": "mohitmishra786/BitsAndBytes",
+      "code": 14927
+    },
+    {
+      "repo": "mohitmishra786/neuro-code",
+      "code": 14636
+    },
+    {
+      "repo": "mohitmishra786/vislab",
+      "code": 13795
+    },
+    {
+      "repo": "mohitmishra786/writ",
+      "code": 12880
+    },
+    {
+      "repo": "mohitmishra786/hacktoberfest-2022",
+      "code": 11565
+    },
+    {
+      "repo": "mohitmishra786/yt-setup",
+      "code": 9418
+    },
+    {
+      "repo": "mohitmishra786/control",
+      "code": 8818
+    },
+    {
+      "repo": "mohitmishra786/agentop",
+      "code": 8689
+    },
+    {
+      "repo": "mohitmishra786/myJourneyOfBuildingOS",
+      "code": 8627
+    },
+    {
+      "repo": "mohitmishra786/postgres-hackers-explorer",
+      "code": 7630
+    }
+  ],
+  "contributions": {
+    "prs": 59,
+    "added": 74556,
+    "removed": 2108,
+    "languages": [
+      {
+        "name": "HTML",
+        "added": 54232,
+        "removed": 0
+      },
+      {
+        "name": "Python",
+        "added": 10732,
+        "removed": 181
+      },
+      {
+        "name": "TypeScript",
+        "added": 2748,
+        "removed": 442
+      },
+      {
+        "name": "Dart",
+        "added": 2431,
+        "removed": 1008
+      },
+      {
+        "name": "Other",
+        "added": 2243,
+        "removed": 93
+      },
+      {
+        "name": "YAML",
+        "added": 1190,
+        "removed": 18
+      },
+      {
+        "name": "Java",
+        "added": 291,
+        "removed": 0
+      },
+      {
+        "name": "Go",
+        "added": 189,
+        "removed": 214
+      },
+      {
+        "name": "C",
+        "added": 118,
+        "removed": 47
+      },
+      {
+        "name": "C++",
+        "added": 118,
+        "removed": 2
+      },
+      {
+        "name": "Shell",
+        "added": 116,
+        "removed": 2
+      },
+      {
+        "name": "CSS",
+        "added": 86,
+        "removed": 77
+      },
+      {
+        "name": "SQL",
+        "added": 16,
+        "removed": 7
+      },
+      {
+        "name": "C/C++ Header",
+        "added": 13,
+        "removed": 3
+      },
+      {
+        "name": "Swift",
+        "added": 13,
+        "removed": 0
+      },
+      {
+        "name": "C (BPF)",
+        "added": 10,
+        "removed": 8
+      },
+      {
+        "name": "Kotlin",
+        "added": 6,
+        "removed": 0
+      },
+      {
+        "name": "JavaScript",
+        "added": 3,
+        "removed": 0
+      },
+      {
+        "name": "Rust",
+        "added": 1,
+        "removed": 6
+      }
+    ],
+    "repos": [
+      {
+        "name": "OmdenaAI/omdena-pakistan-covid-analysis",
+        "added": 54123,
+        "removed": 1
+      },
+      {
+        "name": "OmdenaAI/omdena-srilanka-tea-quality",
+        "added": 14512,
+        "removed": 5
+      },
+      {
+        "name": "implement-from-scratch/website",
+        "added": 2837,
+        "removed": 519
+      },
+      {
+        "name": "gutsOfDarkness/crave-delivery",
+        "added": 1885,
+        "removed": 1322
+      },
+      {
+        "name": "OmdenaAI/omdena-texas-homelessness",
+        "added": 506,
+        "removed": 175
+      },
+      {
+        "name": "edgcpp/compiler",
+        "added": 217,
+        "removed": 24
+      },
+      {
+        "name": "OmdenaAI/omdena-colombia-career-recommender-system",
+        "added": 199,
+        "removed": 1
+      },
+      {
+        "name": "OmdenaAI/lagos-chapter-water-availability",
+        "added": 158,
+        "removed": 0
+      },
+      {
+        "name": "chrinovicmu/netHex",
+        "added": 89,
+        "removed": 36
+      },
+      {
+        "name": "EddieHubCommunity/EddieBot",
+        "added": 19,
+        "removed": 11
+      },
+      {
+        "name": "sched-ext/scx",
+        "added": 10,
+        "removed": 8
+      },
+      {
+        "name": "sched-ext/scx-loader",
+        "added": 1,
+        "removed": 6
+      }
+    ]
+  }
 }
