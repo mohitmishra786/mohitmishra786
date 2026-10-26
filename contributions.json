@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:36:57Z",
+  "generated_at": "2026-10-26T22:54:18Z",
   "username": "mohitmishra786",
   "total_merged_prs": 91,
   "total_repos": 11,
@@ -7,7 +7,7 @@
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2211,
+      "stars": 2212,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 2,
