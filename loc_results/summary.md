@@ -1,26 +1,26 @@
-_As of 2026-10-25. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
+_As of 2026-10-26. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
 
 | Metric | Count |
 |--------|------:|
 | Repositories counted | 81 |
 | Empty repositories skipped | 5 |
 | Failed repositories | 0 |
-| Files | 3,646 |
-| Code lines | 440,957 |
-| Comment lines | 145,833 |
-| Blank lines | 76,953 |
+| Files | 3,653 |
+| Code lines | 442,370 |
+| Comment lines | 146,043 |
+| Blank lines | 77,201 |
 
 **Top 15 languages by code lines**
 
 | Language | Files | Code | Comment | Blank |
 |----------|------:|-----:|--------:|------:|
-| Python | 1,165 | 127,430 | 29,420 | 33,240 |
-| TypeScript | 835 | 88,097 | 7,748 | 12,449 |
+| Python | 1,172 | 128,488 | 29,595 | 33,476 |
+| TypeScript | 835 | 88,382 | 7,775 | 12,459 |
 | HTML | 118 | 53,170 | 158 | 1,040 |
 | Go | 212 | 33,856 | 1,165 | 4,670 |
-| CSS | 54 | 31,004 | 638 | 3,630 |
+| CSS | 54 | 31,070 | 644 | 3,632 |
 | C | 237 | 20,540 | 1,699 | 4,499 |
-| YAML | 211 | 17,235 | 1,009 | 3,180 |
+| YAML | 211 | 17,239 | 1,011 | 3,180 |
 | Rust | 68 | 15,337 | 1,539 | 1,432 |
 | C++ | 262 | 12,954 | 1,617 | 2,348 |
 | JavaScript | 142 | 10,331 | 1,259 | 1,589 |
@@ -34,7 +34,7 @@ _As of 2026-10-25. Counts own public, non-fork, non-archived repositories (cloc,
 
 | Repository | Code |
 |------------|-----:|
-| [mohitmishra786/weirling](https://github.com/mohitmishra786/weirling) | 55,369 |
+| [mohitmishra786/weirling](https://github.com/mohitmishra786/weirling) | 56,759 |
 | [mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML](https://github.com/mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML) | 43,894 |
 | [mohitmishra786/matchquill](https://github.com/mohitmishra786/matchquill) | 38,953 |
 | [mohitmishra786/aurora-dev](https://github.com/mohitmishra786/aurora-dev) | 27,636 |
