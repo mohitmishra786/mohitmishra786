@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T12:42:41Z",
+  "generated_at": "2026-10-27T18:21:40Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 92,
+  "total_merged_prs": 93,
   "total_repos": 12,
   "repos": [
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2214,
+      "stars": 2216,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 2,
@@ -24,24 +24,24 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1230,
+      "stars": 1229,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
-      "merged_prs": 1,
+      "merged_prs": 2,
       "merged_prs_url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Keep included IgnorePkg entries out of pacman.conf",
+      "summary": "Collapse whitespace in wrapped pkgdesc when writing .PKGINFO",
       "featured": false,
       "latest_pr": {
-        "number": 2101,
-        "title": "Keep included IgnorePkg entries out of pacman.conf",
-        "url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2101",
+        "number": 2100,
+        "title": "Collapse whitespace in wrapped pkgdesc when writing .PKGINFO",
+        "url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2100",
         "merged_at": "2026-10-27"
       }
     },
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 989,
+      "stars": 990,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 3,
