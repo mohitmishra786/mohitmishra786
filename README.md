@@ -35,13 +35,13 @@
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [2](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.2k |
-| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [3](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 987 |
+| [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Keep included IgnorePkg entries out of pacman.conf | [1](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.2k |
+| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [3](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 988 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 44 |
 | [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
 | [OmdenaAI/omdena-texas-homelessness](https://github.com/OmdenaAI/omdena-texas-homelessness) | EDA notebooks, dashboards and a web app page | [36](https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 11 |
 | [OmdenaAI/omdena-srilanka-tea-quality](https://github.com/OmdenaAI/omdena-srilanka-tea-quality) | Azure ML pipeline and repo restructuring | [11](https://github.com/OmdenaAI/omdena-srilanka-tea-quality/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 10 |
 | [chrinovicmu/netHex](https://github.com/chrinovicmu/netHex) | Code-quality fixes for the issues I reported in \#2 | [1](https://github.com/chrinovicmu/netHex/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 6 |
-| [OmdenaAI/sao-paulo-brazil-plant-diseases](https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases) | Dataset folder and Task-2 data-collection README | [2](https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 6 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
 <sub>Merged PRs into public repositories I don't own, refreshed every 6 hours by <a href=".github/workflows/recent-activity.yml">recent-activity.yml</a> (data: <a href="contributions.json">contributions.json</a>).</sub>
@@ -49,11 +49,11 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [Seafoam-Labs/Shelly-ALPM#2101](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2101): Keep included IgnorePkg entries out of pacman.conf, merged 2026-10-27
 - [sched-ext/scx#3934](https://github.com/sched-ext/scx/pull/3934): scx\_mlfq: Skip the RT drain on queue DSQs that don't exist yet, merged 2026-10-25
 - [sched-ext/scx-loader#80](https://github.com/sched-ext/scx-loader/pull/80): README, scxctl: Drop leftover scxtui references, merged 2026-10-25
 - [sched-ext/scx#3933](https://github.com/sched-ext/scx/pull/3933): README: List CONFIG\_KALLSYMS\_ALL as a required kernel option, merged 2026-10-25
 - [edgcpp/compiler#343](https://github.com/edgcpp/compiler/pull/343): move \<meta\> out of include\_c++/experimental and define \_\_cpp\_lib\_reflection, fix for…, merged 2026-10-23
-- [edgcpp/compiler#265](https://github.com/edgcpp/compiler/pull/265): default integer value limits to 128 bits with \_\_int128 extensions, fix for \[GH \#38\], merged 2026-10-21
 <!-- RECENT-PRS:END -->
 
 <details>
@@ -62,9 +62,9 @@
 <!-- OPEN-PRS:START -->
 - [sched-ext/scx-loader#81](https://github.com/sched-ext/scx-loader/pull/81): scx\_loader: Allow custom schedulers defined in the config, opened 2026-10-25
 - [Seafoam-Labs/Shelly-ALPM#2102](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2102): Keep pacman progress bar pellets in place, opened 2026-10-25
-- [Seafoam-Labs/Shelly-ALPM#2101](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2101): Keep included IgnorePkg entries out of pacman.conf, opened 2026-10-25
 - [Seafoam-Labs/Shelly-ALPM#2100](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2100): Collapse whitespace in wrapped pkgdesc when writing .PKGINFO, opened 2026-10-25
 - [sched-ext/scx#3936](https://github.com/sched-ext/scx/pull/3936): scx\_rusty: Don't move tasks that leave the imbalance unchanged, opened 2026-10-25
+- [edgcpp/compiler#388](https://github.com/edgcpp/compiler/pull/388): make returning a reference bound to a temporary an error in C++26 \(P2748\), fix for \[GH…, opened 2026-10-25
 <!-- OPEN-PRS:END -->
 
 </details>

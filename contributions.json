@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T22:54:18Z",
+  "generated_at": "2026-10-27T05:39:04Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 91,
-  "total_repos": 11,
+  "total_merged_prs": 92,
+  "total_repos": 12,
   "repos": [
     {
       "repo": "sched-ext/scx",
@@ -22,9 +22,26 @@
       }
     },
     {
+      "repo": "Seafoam-Labs/Shelly-ALPM",
+      "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+      "stars": 1229,
+      "description": "Pacman alternative for ArchLinux, designed with you in mind.",
+      "language": "Zig",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Keep included IgnorePkg entries out of pacman.conf",
+      "featured": false,
+      "latest_pr": {
+        "number": 2101,
+        "title": "Keep included IgnorePkg entries out of pacman.conf",
+        "url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2101",
+        "merged_at": "2026-10-27"
+      }
+    },
+    {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 987,
+      "stars": 988,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 3,
