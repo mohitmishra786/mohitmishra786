@@ -36,7 +36,7 @@
 |---|---|---:|---:|
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [2](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.2k |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Collapse whitespace in wrapped pkgdesc when writing .PKGINFO | [2](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.2k |
-| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [3](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 993 |
+| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [3](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 996 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 44 |
 | [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
 | [OmdenaAI/omdena-texas-homelessness](https://github.com/OmdenaAI/omdena-texas-homelessness) | EDA notebooks, dashboards and a web app page | [36](https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 11 |
@@ -62,7 +62,7 @@
 <!-- OPEN-PRS:START -->
 - [sched-ext/scx-loader#81](https://github.com/sched-ext/scx-loader/pull/81): scx\_loader: Allow custom schedulers defined in the config, opened 2026-10-25
 - [Seafoam-Labs/Shelly-ALPM#2102](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2102): Keep pacman progress bar pellets in place, opened 2026-10-25
-- [sched-ext/scx#3936](https://github.com/sched-ext/scx/pull/3936): scx\_rusty: Don't move tasks that leave the imbalance unchanged, opened 2026-10-25
+- [sched-ext/scx#3936](https://github.com/sched-ext/scx/pull/3936): scx\_rusty: Skip stale entries in the active task list, opened 2026-10-25
 - [edgcpp/compiler#388](https://github.com/edgcpp/compiler/pull/388): make returning a reference bound to a temporary an error in C++26 \(P2748\), fix for \[GH…, opened 2026-10-25
 - [edgcpp/compiler#387](https://github.com/edgcpp/compiler/pull/387): diagnose comparisons between two arrays \(P2865\), fix for \[GH \#370\], opened 2026-10-25
 <!-- OPEN-PRS:END -->
@@ -73,11 +73,11 @@
 <summary><b>Recently merged into my own repos</b></summary>
 
 <!-- RECENT-OWN-MERGES:START -->
+- [mohitmishra786/weirling#391](https://github.com/mohitmishra786/weirling/pull/391): Only re-seed the demo persona on demo instances, merged 2026-10-28
 - [mohitmishra786/weirling#386](https://github.com/mohitmishra786/weirling/pull/386): v0.3.5: rank against every interest, no pack-name topics, per-reader emerging, merged 2026-10-25
 - [mohitmishra786/weirling#385](https://github.com/mohitmishra786/weirling/pull/385): v0.3.4: Claude first with Groq fallback, distinct starter packs, better discovery and…, merged 2026-10-25
 - [mohitmishra786/weirling#384](https://github.com/mohitmishra786/weirling/pull/384): Laptop and phone layout: wider app, phone menu, Interests panel on screen, merged 2026-10-25
 - [mohitmishra786/weirling#383](https://github.com/mohitmishra786/weirling/pull/383): Revert \#382: remove Vercel Speed Insights until there is traffic to measure, merged 2026-10-25
-- [mohitmishra786/mohitmishra786#58](https://github.com/mohitmishra786/mohitmishra786/pull/58): Fix tech-stack icons; treat implement-from-scratch as own org; drop EddieBot, merged 2026-10-25
 <!-- RECENT-OWN-MERGES:END -->
 
 </details>
