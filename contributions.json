@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-29T13:45:38Z",
+  "generated_at": "2026-10-29T22:59:53Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 93,
+  "total_merged_prs": 94,
   "total_repos": 12,
   "repos": [
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2219,
+      "stars": 2218,
       "description": "sched_ext schedulers and tools",
       "language": "C",
-      "merged_prs": 2,
+      "merged_prs": 3,
       "merged_prs_url": "https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
       "summary": "scx_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note",
       "featured": true,
       "latest_pr": {
-        "number": 3934,
-        "title": "scx_mlfq: Skip the RT drain on queue DSQs that don't exist yet",
-        "url": "https://github.com/sched-ext/scx/pull/3934",
-        "merged_at": "2026-10-25"
+        "number": 3936,
+        "title": "scx_rusty: Skip stale entries in the active task list",
+        "url": "https://github.com/sched-ext/scx/pull/3936",
+        "merged_at": "2026-10-29"
       }
     },
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1233,
+      "stars": 1238,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 2,
@@ -41,7 +41,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 998,
+      "stars": 1000,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 3,
