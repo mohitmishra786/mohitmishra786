@@ -1,4 +1,4 @@
-_As of 2026-10-28. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
+_As of 2026-10-29. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
 
 | Metric | Count |
 |--------|------:|
@@ -6,16 +6,16 @@ _As of 2026-10-28. Counts own public, non-fork, non-archived repositories (cloc,
 | Empty repositories skipped | 5 |
 | Failed repositories | 0 |
 | Files | 3,653 |
-| Code lines | 442,370 |
-| Comment lines | 146,043 |
-| Blank lines | 77,201 |
+| Code lines | 442,451 |
+| Comment lines | 146,052 |
+| Blank lines | 77,209 |
 
 **Top 15 languages by code lines**
 
 | Language | Files | Code | Comment | Blank |
 |----------|------:|-----:|--------:|------:|
-| Python | 1,172 | 128,488 | 29,595 | 33,476 |
-| TypeScript | 835 | 88,382 | 7,775 | 12,459 |
+| Python | 1,172 | 128,515 | 29,601 | 33,482 |
+| TypeScript | 835 | 88,436 | 7,778 | 12,461 |
 | HTML | 118 | 53,170 | 158 | 1,040 |
 | Go | 212 | 33,856 | 1,165 | 4,670 |
 | CSS | 54 | 31,070 | 644 | 3,632 |
@@ -34,7 +34,7 @@ _As of 2026-10-28. Counts own public, non-fork, non-archived repositories (cloc,
 
 | Repository | Code |
 |------------|-----:|
-| [mohitmishra786/weirling](https://github.com/mohitmishra786/weirling) | 56,759 |
+| [mohitmishra786/weirling](https://github.com/mohitmishra786/weirling) | 56,840 |
 | [mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML](https://github.com/mohitmishra786/Of-Genomes-And-Genetics---HackerEarth-ML) | 43,894 |
 | [mohitmishra786/matchquill](https://github.com/mohitmishra786/matchquill) | 38,953 |
 | [mohitmishra786/aurora-dev](https://github.com/mohitmishra786/aurora-dev) | 27,636 |
