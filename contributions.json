@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:53:30Z",
+  "generated_at": "2026-10-29T06:30:57Z",
   "username": "mohitmishra786",
   "total_merged_prs": 93,
   "total_repos": 12,
@@ -24,7 +24,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1229,
+      "stars": 1231,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 2,
@@ -41,7 +41,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 996,
+      "stars": 997,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 3,
