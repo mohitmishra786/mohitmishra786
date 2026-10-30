@@ -113,12 +113,12 @@
 </p>
 
 <!-- LOC-STATS-START -->
-![Lines of code in my public repos: 442,451](https://img.shields.io/badge/code%20in%20my%20public%20repos-442.45k%20lines-blue) ![Lines added in merged PRs to other projects: 17,714](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-17.71k%20lines-green)
+![Lines of code in my public repos: 442,451](https://img.shields.io/badge/code%20in%20my%20public%20repos-442.45k%20lines-blue) ![Lines added in merged PRs to other projects: 17,730](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-17.73k%20lines-green)
 
 <details>
 <summary>Lines-of-code details</summary>
 
-_As of 2026-10-29. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
+_As of 2026-10-30. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
 
 | Metric | Count |
 |--------|------:|
@@ -175,7 +175,7 @@ _As of 2026-10-29. Counts own public, non-fork, non-archived repositories (cloc,
 | [mohitmishra786/repo2video](https://github.com/mohitmishra786/repo2video) | 6,997 |
 | [mohitmishra786/never](https://github.com/mohitmishra786/never) | 6,610 |
 
-**Lines changed in my 54 merged PRs to other people's public repos**: +17,714 / -1,592 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
+**Lines changed in my 55 merged PRs to other people's public repos**: +17,730 / -1,593 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
 
 | Language | Added | Removed |
 |----------|------:|--------:|

@@ -1,4 +1,4 @@
-_As of 2026-10-29. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
+_As of 2026-10-30. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
 
 | Metric | Count |
 |--------|------:|
@@ -55,7 +55,7 @@ _As of 2026-10-29. Counts own public, non-fork, non-archived repositories (cloc,
 | [mohitmishra786/repo2video](https://github.com/mohitmishra786/repo2video) | 6,997 |
 | [mohitmishra786/never](https://github.com/mohitmishra786/never) | 6,610 |
 
-**Lines changed in my 54 merged PRs to other people's public repos**: +17,714 / -1,592 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
+**Lines changed in my 55 merged PRs to other people's public repos**: +17,730 / -1,593 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
 
 | Language | Added | Removed |
 |----------|------:|--------:|

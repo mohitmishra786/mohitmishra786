@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-10-30",
   "total_repositories": 81,
   "total_code_lines": 442451,
   "total_files": 3653,
@@ -193,9 +193,9 @@
     }
   ],
   "contributions": {
-    "prs": 54,
-    "added": 17714,
-    "removed": 1592,
+    "prs": 55,
+    "added": 17730,
+    "removed": 1593,
     "languages": [
       {
         "name": "Python",
@@ -253,6 +253,11 @@
         "removed": 0
       },
       {
+        "name": "C (BPF)",
+        "added": 19,
+        "removed": 8
+      },
+      {
         "name": "SQL",
         "added": 16,
         "removed": 7
@@ -268,19 +273,14 @@
         "removed": 0
       },
       {
-        "name": "C (BPF)",
-        "added": 10,
-        "removed": 8
+        "name": "Rust",
+        "added": 8,
+        "removed": 7
       },
       {
         "name": "Kotlin",
         "added": 6,
         "removed": 0
-      },
-      {
-        "name": "Rust",
-        "added": 1,
-        "removed": 6
       }
     ],
     "repos": [
@@ -326,8 +326,8 @@
       },
       {
         "name": "sched-ext/scx",
-        "added": 10,
-        "removed": 8
+        "added": 26,
+        "removed": 9
       },
       {
         "name": "OmdenaAI/omdena-pakistan-covid-analysis",

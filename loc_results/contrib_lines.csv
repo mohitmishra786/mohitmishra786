@@ -98,4 +98,6 @@ gutsOfDarkness/crave-delivery,19,2026-01-26,Dart,9,1
 gutsOfDarkness/crave-delivery,20,2026-01-26,Go,18,9
 gutsOfDarkness/crave-delivery,21,2026-01-26,Go,0,43
 sched-ext/scx,3934,2026-10-25,C (BPF),10,8
+sched-ext/scx,3936,2026-10-29,C (BPF),9,0
+sched-ext/scx,3936,2026-10-29,Rust,7,1
 sched-ext/scx-loader,80,2026-10-25,Rust,1,6
