@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T06:20:39Z",
+  "generated_at": "2026-10-31T13:07:06Z",
   "username": "mohitmishra786",
   "total_merged_prs": 94,
   "total_repos": 12,
@@ -7,7 +7,7 @@
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2222,
+      "stars": 2223,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 3,
@@ -41,7 +41,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1006,
+      "stars": 1009,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 3,
