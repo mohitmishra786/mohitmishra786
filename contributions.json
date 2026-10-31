@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-31T13:07:06Z",
+  "generated_at": "2026-10-31T21:53:35Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 94,
+  "total_merged_prs": 95,
   "total_repos": 12,
   "repos": [
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2223,
+      "stars": 2226,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 3,
@@ -24,7 +24,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1243,
+      "stars": 1245,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 2,
@@ -41,18 +41,18 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1009,
+      "stars": 1010,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
-      "merged_prs": 3,
+      "merged_prs": 4,
       "merged_prs_url": "https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
       "summary": "C++ front-end fixes: auto deduction from void, 128-bit integer limits, <meta>/reflection",
       "featured": true,
       "latest_pr": {
-        "number": 343,
-        "title": "move <meta> out of include_c++/experimental and define __cpp_lib_reflection, fix for [GH #36]",
-        "url": "https://github.com/edgcpp/compiler/pull/343",
-        "merged_at": "2026-10-23"
+        "number": 388,
+        "title": "make returning a reference bound to a temporary an error in C++26 (P2748), fix for [GH #106]",
+        "url": "https://github.com/edgcpp/compiler/pull/388",
+        "merged_at": "2026-10-31"
       }
     },
     {
