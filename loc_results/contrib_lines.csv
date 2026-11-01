@@ -65,6 +65,10 @@ edgcpp/compiler,265,2026-10-21,Other,18,3
 edgcpp/compiler,343,2026-10-23,C,3,3
 edgcpp/compiler,343,2026-10-23,C++,19,2
 edgcpp/compiler,343,2026-10-23,Other,25,5
+edgcpp/compiler,388,2026-10-31,C,125,26
+edgcpp/compiler,388,2026-10-31,C++,71,0
+edgcpp/compiler,388,2026-10-31,C/C++ Header,10,0
+edgcpp/compiler,388,2026-10-31,Other,0,1
 gutsOfDarkness/crave-delivery,1,2026-01-17,Dart,6,0
 gutsOfDarkness/crave-delivery,1,2026-01-17,Other,81,0
 gutsOfDarkness/crave-delivery,1,2026-01-17,SQL,8,0
