@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T07:26:32Z",
+  "generated_at": "2026-11-05T20:18:34Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 95,
-  "total_repos": 12,
+  "total_merged_prs": 96,
+  "total_repos": 13,
   "repos": [
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2233,
+      "stars": 2234,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 3,
@@ -24,7 +24,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1248,
+      "stars": 1249,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 2,
@@ -41,7 +41,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1018,
+      "stars": 1020,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 4,
@@ -53,6 +53,23 @@
         "title": "make returning a reference bound to a temporary an error in C++26 (P2748), fix for [GH #106]",
         "url": "https://github.com/edgcpp/compiler/pull/388",
         "merged_at": "2026-10-31"
+      }
+    },
+    {
+      "repo": "AmadeusITGroup/ai-primitives-hub",
+      "url": "https://github.com/AmadeusITGroup/ai-primitives-hub",
+      "stars": 51,
+      "description": "VS Code extension and CLI for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) collections for GitHub Copilot and other AI assistants",
+      "language": "TypeScript",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "feat(core): drop maxItems cap on collection items",
+      "featured": false,
+      "latest_pr": {
+        "number": 675,
+        "title": "feat(core): drop maxItems cap on collection items",
+        "url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pull/675",
+        "merged_at": "2026-11-05"
       }
     },
     {
