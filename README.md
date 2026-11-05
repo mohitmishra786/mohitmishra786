@@ -60,6 +60,8 @@
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [sched-ext/scx#3968](https://github.com/sched-ext/scx/pull/3968): lib: Drop the unused page fragment allocator, opened 2026-11-05
+- [AmadeusITGroup/ai-primitives-hub#675](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/675): feat\(core\): drop maxItems cap on collection items, opened 2026-11-05
 - [Seafoam-Labs/Shelly-ALPM#2102](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2102): Keep pacman progress bar pellets in place, opened 2026-10-25
 - [edgcpp/compiler#387](https://github.com/edgcpp/compiler/pull/387): diagnose comparisons between two arrays \(P2865\), fix for \[GH \#370\], opened 2026-10-25
 <!-- OPEN-PRS:END -->
