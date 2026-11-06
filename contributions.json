@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T20:18:34Z",
+  "generated_at": "2026-11-06T07:26:27Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 96,
+  "total_merged_prs": 97,
   "total_repos": 13,
   "repos": [
     {
@@ -24,7 +24,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1249,
+      "stars": 1250,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 2,
@@ -61,15 +61,15 @@
       "stars": 51,
       "description": "VS Code extension and CLI for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) collections for GitHub Copilot and other AI assistants",
       "language": "TypeScript",
-      "merged_prs": 1,
+      "merged_prs": 2,
       "merged_prs_url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "feat(core): drop maxItems cap on collection items",
+      "summary": "fix(app): fail profile activation on missing required bundles",
       "featured": false,
       "latest_pr": {
-        "number": 675,
-        "title": "feat(core): drop maxItems cap on collection items",
-        "url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pull/675",
-        "merged_at": "2026-11-05"
+        "number": 677,
+        "title": "fix(app): fail profile activation on missing required bundles",
+        "url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pull/677",
+        "merged_at": "2026-11-06"
       }
     },
     {

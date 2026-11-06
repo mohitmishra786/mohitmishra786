@@ -37,7 +37,7 @@
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [3](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.2k |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Collapse whitespace in wrapped pkgdesc when writing .PKGINFO | [2](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.2k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [4](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
-| [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | feat\(core\): drop maxItems cap on collection items | [1](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 51 |
+| [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | fix\(app\): fail profile activation on missing required bundles | [2](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 51 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 44 |
 | [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
 | [OmdenaAI/omdena-texas-homelessness](https://github.com/OmdenaAI/omdena-texas-homelessness) | EDA notebooks, dashboards and a web app page | [36](https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 11 |
@@ -49,18 +49,18 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [AmadeusITGroup/ai-primitives-hub#677](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/677): fix\(app\): fail profile activation on missing required bundles, merged 2026-11-06
 - [AmadeusITGroup/ai-primitives-hub#675](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/675): feat\(core\): drop maxItems cap on collection items, merged 2026-11-05
 - [edgcpp/compiler#388](https://github.com/edgcpp/compiler/pull/388): make returning a reference bound to a temporary an error in C++26 \(P2748\), fix for \[GH…, merged 2026-10-31
 - [sched-ext/scx#3936](https://github.com/sched-ext/scx/pull/3936): scx\_rusty: Skip stale entries in the active task list, merged 2026-10-29
 - [Seafoam-Labs/Shelly-ALPM#2100](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2100): Collapse whitespace in wrapped pkgdesc when writing .PKGINFO, merged 2026-10-27
-- [Seafoam-Labs/Shelly-ALPM#2101](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2101): Keep included IgnorePkg entries out of pacman.conf, merged 2026-10-27
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
-- [AmadeusITGroup/ai-primitives-hub#677](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/677): fix\(app\): fail profile activation on missing required bundles, opened 2026-11-05
+- [AmadeusITGroup/ai-primitives-hub#680](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/680): feat\(cli\): install a profile's bundles without activating it, opened 2026-11-06
 - [sched-ext/scx#3968](https://github.com/sched-ext/scx/pull/3968): lib: Drop the unused page fragment allocator, opened 2026-11-05
 - [Seafoam-Labs/Shelly-ALPM#2102](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2102): Keep pacman progress bar pellets in place, opened 2026-10-25
 - [edgcpp/compiler#387](https://github.com/edgcpp/compiler/pull/387): diagnose comparisons between two arrays \(P2865\), fix for \[GH \#370\], opened 2026-10-25
