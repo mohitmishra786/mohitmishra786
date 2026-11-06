@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:26:27Z",
+  "generated_at": "2026-11-06T19:43:17Z",
   "username": "mohitmishra786",
   "total_merged_prs": 97,
   "total_repos": 13,
@@ -41,7 +41,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1020,
+      "stars": 1019,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 4,
