@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "total_repositories": 81,
   "total_code_lines": 442451,
   "total_files": 3653,
@@ -193,9 +193,9 @@
     }
   ],
   "contributions": {
-    "prs": 56,
-    "added": 17936,
-    "removed": 1620,
+    "prs": 58,
+    "added": 18467,
+    "removed": 1648,
     "languages": [
       {
         "name": "Python",
@@ -216,6 +216,11 @@
         "name": "YAML",
         "added": 1171,
         "removed": 7
+      },
+      {
+        "name": "TypeScript",
+        "added": 531,
+        "removed": 28
       },
       {
         "name": "Java",
@@ -293,6 +298,11 @@
         "name": "gutsOfDarkness/crave-delivery",
         "added": 1885,
         "removed": 1322
+      },
+      {
+        "name": "AmadeusITGroup/ai-primitives-hub",
+        "added": 531,
+        "removed": 28
       },
       {
         "name": "OmdenaAI/omdena-texas-homelessness",
