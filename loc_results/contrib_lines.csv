@@ -67,6 +67,9 @@ edgcpp/compiler,265,2026-10-21,Other,18,3
 edgcpp/compiler,343,2026-10-23,C,3,3
 edgcpp/compiler,343,2026-10-23,C++,19,2
 edgcpp/compiler,343,2026-10-23,Other,25,5
+edgcpp/compiler,387,2026-11-06,C,59,0
+edgcpp/compiler,387,2026-11-06,C++,111,0
+edgcpp/compiler,387,2026-11-06,Other,0,2
 edgcpp/compiler,388,2026-10-31,C,125,26
 edgcpp/compiler,388,2026-10-31,C++,71,0
 edgcpp/compiler,388,2026-10-31,C/C++ Header,10,0

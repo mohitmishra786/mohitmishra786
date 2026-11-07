@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06",
+  "generated_at": "2026-11-07",
   "total_repositories": 81,
   "total_code_lines": 442451,
   "total_files": 3653,
@@ -193,9 +193,9 @@
     }
   ],
   "contributions": {
-    "prs": 58,
-    "added": 18467,
-    "removed": 1648,
+    "prs": 59,
+    "added": 18637,
+    "removed": 1650,
     "languages": [
       {
         "name": "Python",
@@ -210,7 +210,7 @@
       {
         "name": "Other",
         "added": 2243,
-        "removed": 94
+        "removed": 96
       },
       {
         "name": "YAML",
@@ -223,19 +223,19 @@
         "removed": 28
       },
       {
-        "name": "Java",
-        "added": 291,
-        "removed": 0
-      },
-      {
         "name": "C",
-        "added": 243,
+        "added": 302,
         "removed": 73
       },
       {
         "name": "C++",
-        "added": 189,
+        "added": 300,
         "removed": 2
+      },
+      {
+        "name": "Java",
+        "added": 291,
+        "removed": 0
       },
       {
         "name": "Go",
@@ -300,6 +300,11 @@
         "removed": 1322
       },
       {
+        "name": "edgcpp/compiler",
+        "added": 593,
+        "removed": 53
+      },
+      {
         "name": "AmadeusITGroup/ai-primitives-hub",
         "added": 531,
         "removed": 28
@@ -308,11 +313,6 @@
         "name": "OmdenaAI/omdena-texas-homelessness",
         "added": 506,
         "removed": 175
-      },
-      {
-        "name": "edgcpp/compiler",
-        "added": 423,
-        "removed": 51
       },
       {
         "name": "OmdenaAI/omdena-colombia-career-recommender-system",
