@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:38:09Z",
+  "generated_at": "2026-11-07T22:19:53Z",
   "username": "mohitmishra786",
   "total_merged_prs": 98,
   "total_repos": 13,
@@ -24,7 +24,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1253,
+      "stars": 1254,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 2,
@@ -41,7 +41,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1019,
+      "stars": 1020,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 5,
@@ -75,7 +75,7 @@
     {
       "repo": "sched-ext/scx-loader",
       "url": "https://github.com/sched-ext/scx-loader",
-      "stars": 44,
+      "stars": 45,
       "description": "",
       "language": "Rust",
       "merged_prs": 1,
