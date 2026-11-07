@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T19:43:17Z",
+  "generated_at": "2026-11-07T06:38:09Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 97,
+  "total_merged_prs": 98,
   "total_repos": 13,
   "repos": [
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2234,
+      "stars": 2235,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 3,
@@ -24,7 +24,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1250,
+      "stars": 1253,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 2,
@@ -44,21 +44,21 @@
       "stars": 1019,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
-      "merged_prs": 4,
+      "merged_prs": 5,
       "merged_prs_url": "https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
       "summary": "C++ front-end fixes: auto deduction from void, 128-bit integer limits, <meta>/reflection",
       "featured": true,
       "latest_pr": {
-        "number": 388,
-        "title": "make returning a reference bound to a temporary an error in C++26 (P2748), fix for [GH #106]",
-        "url": "https://github.com/edgcpp/compiler/pull/388",
-        "merged_at": "2026-10-31"
+        "number": 387,
+        "title": "diagnose comparisons between two arrays (P2865), fix for [GH #370]",
+        "url": "https://github.com/edgcpp/compiler/pull/387",
+        "merged_at": "2026-11-06"
       }
     },
     {
       "repo": "AmadeusITGroup/ai-primitives-hub",
       "url": "https://github.com/AmadeusITGroup/ai-primitives-hub",
-      "stars": 51,
+      "stars": 52,
       "description": "VS Code extension and CLI for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) collections for GitHub Copilot and other AI assistants",
       "language": "TypeScript",
       "merged_prs": 2,
