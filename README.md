@@ -35,7 +35,7 @@
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [3](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.2k |
-| [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Collapse whitespace in wrapped pkgdesc when writing .PKGINFO | [2](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
+| [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Keep pacman progress bar pellets in place | [3](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [5](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | fix\(app\): fail profile activation on missing required bundles | [2](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 47 |
@@ -49,11 +49,11 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [Seafoam-Labs/Shelly-ALPM#2102](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2102): Keep pacman progress bar pellets in place, merged 2026-11-14
 - [edgcpp/compiler#387](https://github.com/edgcpp/compiler/pull/387): diagnose comparisons between two arrays \(P2865\), fix for \[GH \#370\], merged 2026-11-06
 - [AmadeusITGroup/ai-primitives-hub#677](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/677): fix\(app\): fail profile activation on missing required bundles, merged 2026-11-06
 - [AmadeusITGroup/ai-primitives-hub#675](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/675): feat\(core\): drop maxItems cap on collection items, merged 2026-11-05
 - [edgcpp/compiler#388](https://github.com/edgcpp/compiler/pull/388): make returning a reference bound to a temporary an error in C++26 \(P2748\), fix for \[GH…, merged 2026-10-31
-- [sched-ext/scx#3936](https://github.com/sched-ext/scx/pull/3936): scx\_rusty: Skip stale entries in the active task list, merged 2026-10-29
 <!-- RECENT-PRS:END -->
 
 <details>
@@ -62,7 +62,6 @@
 <!-- OPEN-PRS:START -->
 - [AmadeusITGroup/ai-primitives-hub#680](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/680): feat\(cli\): install a profile's bundles without activating it, opened 2026-11-06
 - [sched-ext/scx#3968](https://github.com/sched-ext/scx/pull/3968): lib: Drop the unused page fragment allocator, opened 2026-11-05
-- [Seafoam-Labs/Shelly-ALPM#2102](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2102): Keep pacman progress bar pellets in place, opened 2026-10-25
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -71,11 +70,11 @@
 <summary><b>Recently merged into my own repos</b></summary>
 
 <!-- RECENT-OWN-MERGES:START -->
+- [mohitmishra786/low-level-dev-skills#7](https://github.com/mohitmishra786/low-level-dev-skills/pull/7): Fix coroutine ownership, io\_uring buffers, and kernel debugger entry, merged 2026-11-14
 - [mohitmishra786/weirling#392](https://github.com/mohitmishra786/weirling/pull/392): Land the demo video and landing mobile fix \(stranded on feat/146-landing\), merged 2026-10-29
 - [mohitmishra786/weirling#391](https://github.com/mohitmishra786/weirling/pull/391): Only re-seed the demo persona on demo instances, merged 2026-10-28
 - [mohitmishra786/weirling#386](https://github.com/mohitmishra786/weirling/pull/386): v0.3.5: rank against every interest, no pack-name topics, per-reader emerging, merged 2026-10-25
 - [mohitmishra786/weirling#385](https://github.com/mohitmishra786/weirling/pull/385): v0.3.4: Claude first with Groq fallback, distinct starter packs, better discovery and…, merged 2026-10-25
-- [mohitmishra786/weirling#384](https://github.com/mohitmishra786/weirling/pull/384): Laptop and phone layout: wider app, phone menu, Interests panel on screen, merged 2026-10-25
 <!-- RECENT-OWN-MERGES:END -->
 
 </details>
