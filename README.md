@@ -60,6 +60,7 @@
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [edgcpp/compiler#542](https://github.com/edgcpp/compiler/pull/542): Give co\_await the value category of await\_resume\(\). \[GH \#447\], opened 2026-11-14
 - [edgcpp/compiler#541](https://github.com/edgcpp/compiler/pull/541): Keep \[\[assume\]\] attribute when its argument call is inlined. \[GH \#393\], opened 2026-11-14
 - [sched-ext/scx#3968](https://github.com/sched-ext/scx/pull/3968): lib: Drop the unused page fragment allocator, opened 2026-11-05
 <!-- OPEN-PRS:END -->
