@@ -120,7 +120,7 @@
 <details>
 <summary>Lines-of-code details</summary>
 
-_As of 2026-11-16. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
+_As of 2026-11-17. Counts own public, non-fork, non-archived repositories (cloc, excluding data/docs formats and vendored/build directories)._
 
 | Metric | Count |
 |--------|------:|
