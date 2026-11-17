@@ -60,11 +60,11 @@
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [edgcpp/compiler#547](https://github.com/edgcpp/compiler/pull/547): Keep needed parentheses around co\_await and co\_yield in generated C++. \[GH \#546\], opened 2026-11-17
 - [edgcpp/compiler#545](https://github.com/edgcpp/compiler/pull/545): C++26: Warn about omitting the comma before a variadic ellipsis \(P3176R1\). \[GH \#371\], opened 2026-11-17
 - [AmadeusITGroup/ai-primitives-hub#707](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707): fix\(cli\): report failed bundles in the interactive hub install, opened 2026-11-17
 - [AmadeusITGroup/ai-primitives-hub#706](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/706): fix\(cli\): report an unusable profile file in profile publish, opened 2026-11-17
 - [edgcpp/compiler#544](https://github.com/edgcpp/compiler/pull/544): Make a braced cast to an rvalue reference an xvalue via conversion functions. \[GH \#507\], opened 2026-11-17
-- [AmadeusITGroup/ai-primitives-hub#703](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/703): fix\(cli\): report interactive hub install failures instead of crashing, opened 2026-11-17
 <!-- OPEN-PRS:END -->
 
 </details>
