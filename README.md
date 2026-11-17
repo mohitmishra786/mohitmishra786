@@ -34,7 +34,7 @@
 <!-- FEATURED-CONTRIBUTIONS:START -->
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
-| [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [3](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.2k |
+| [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [3](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Keep pacman progress bar pellets in place | [3](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [5](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | feat\(cli\): install a profile's bundles without activating it | [3](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
@@ -60,9 +60,11 @@
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
-- [edgcpp/compiler#542](https://github.com/edgcpp/compiler/pull/542): Give co\_await the value category of await\_resume\(\). \[GH \#447\], opened 2026-11-14
-- [edgcpp/compiler#541](https://github.com/edgcpp/compiler/pull/541): Keep \[\[assume\]\] attribute when its argument call is inlined. \[GH \#393\], opened 2026-11-14
-- [sched-ext/scx#3968](https://github.com/sched-ext/scx/pull/3968): lib: Drop the unused page fragment allocator, opened 2026-11-05
+- [edgcpp/compiler#545](https://github.com/edgcpp/compiler/pull/545): C++26: Warn about omitting the comma before a variadic ellipsis \(P3176R1\). \[GH \#371\], opened 2026-11-17
+- [AmadeusITGroup/ai-primitives-hub#707](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707): fix\(cli\): report failed bundles in the interactive hub install, opened 2026-11-17
+- [AmadeusITGroup/ai-primitives-hub#706](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/706): fix\(cli\): report an unusable profile file in profile publish, opened 2026-11-17
+- [edgcpp/compiler#544](https://github.com/edgcpp/compiler/pull/544): Make a braced cast to an rvalue reference an xvalue via conversion functions. \[GH \#507\], opened 2026-11-17
+- [AmadeusITGroup/ai-primitives-hub#703](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/703): fix\(cli\): report interactive hub install failures instead of crashing, opened 2026-11-17
 <!-- OPEN-PRS:END -->
 
 </details>

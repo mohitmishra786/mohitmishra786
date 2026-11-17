@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:33:10Z",
+  "generated_at": "2026-11-17T08:31:48Z",
   "username": "mohitmishra786",
   "total_merged_prs": 100,
   "total_repos": 13,
@@ -7,7 +7,7 @@
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2250,
+      "stars": 2251,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 3,
@@ -24,7 +24,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1282,
+      "stars": 1281,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 3,
