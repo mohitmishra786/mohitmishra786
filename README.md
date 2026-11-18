@@ -73,11 +73,11 @@
 <summary><b>Recently merged into my own repos</b></summary>
 
 <!-- RECENT-OWN-MERGES:START -->
+- [mohitmishra786/mohitmishra786#59](https://github.com/mohitmishra786/mohitmishra786/pull/59): Add 'Issues I've reported' section \(open, closed, own repos\), merged 2026-11-18
 - [mohitmishra786/low-level-dev-skills#7](https://github.com/mohitmishra786/low-level-dev-skills/pull/7): Fix coroutine ownership, io\_uring buffers, and kernel debugger entry, merged 2026-11-14
 - [mohitmishra786/weirling#392](https://github.com/mohitmishra786/weirling/pull/392): Land the demo video and landing mobile fix \(stranded on feat/146-landing\), merged 2026-10-29
 - [mohitmishra786/weirling#391](https://github.com/mohitmishra786/weirling/pull/391): Only re-seed the demo persona on demo instances, merged 2026-10-28
 - [mohitmishra786/weirling#386](https://github.com/mohitmishra786/weirling/pull/386): v0.3.5: rank against every interest, no pack-name topics, per-reader emerging, merged 2026-10-25
-- [mohitmishra786/weirling#385](https://github.com/mohitmishra786/weirling/pull/385): v0.3.4: Claude first with Groq fallback, distinct starter packs, better discovery and…, merged 2026-10-25
 <!-- RECENT-OWN-MERGES:END -->
 
 </details>
