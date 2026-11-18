@@ -60,11 +60,11 @@
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [Seafoam-Labs/Shelly-ALPM#2227](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2227): Decompress .flatpakrepo responses, opened 2026-11-18
 - [edgcpp/compiler#547](https://github.com/edgcpp/compiler/pull/547): Keep needed parentheses around co\_await and co\_yield in generated C++. \[GH \#546\], opened 2026-11-17
 - [edgcpp/compiler#545](https://github.com/edgcpp/compiler/pull/545): C++26: Warn about omitting the comma before a variadic ellipsis \(P3176R1\). \[GH \#371\], opened 2026-11-17
 - [AmadeusITGroup/ai-primitives-hub#707](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707): fix\(cli\): report failed bundles in the interactive hub install, opened 2026-11-17
 - [AmadeusITGroup/ai-primitives-hub#706](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/706): fix\(cli\): report an unusable profile file in profile publish, opened 2026-11-17
-- [edgcpp/compiler#544](https://github.com/edgcpp/compiler/pull/544): Make a braced cast to an rvalue reference an xvalue via conversion functions. \[GH \#507\], opened 2026-11-17
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -79,6 +79,42 @@
 - [mohitmishra786/weirling#386](https://github.com/mohitmishra786/weirling/pull/386): v0.3.5: rank against every interest, no pack-name topics, per-reader emerging, merged 2026-10-25
 - [mohitmishra786/weirling#385](https://github.com/mohitmishra786/weirling/pull/385): v0.3.4: Claude first with Groq fallback, distinct starter packs, better discovery and…, merged 2026-10-25
 <!-- RECENT-OWN-MERGES:END -->
+
+</details>
+
+## Issues I've reported
+
+<!-- OPEN-ISSUES:START -->
+- [sched-ext/scx#3999](https://github.com/sched-ext/scx/issues/3999): scx\_rusty: load balancer reads scx\_bpf\_now\(\) timestamps against CLOCK\_MONOTONIC, opened 2026-11-18
+- [AmadeusITGroup/ai-primitives-hub#705](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/705): \[Bug\]: interactive hub install reports success \(exit 0\) when selected bundles fail, and…, opened 2026-11-17
+- [AmadeusITGroup/ai-primitives-hub#704](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/704): \[Bug\]: profile publish crashes \(exit 70\) on an empty or malformed profile file instead…, opened 2026-11-17
+- [AmadeusITGroup/ai-primitives-hub#700](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/700): \[Bug\]: interactive hub install crashes \(exit 70\) with an invalid RegistryError code…, opened 2026-11-14
+- [AmadeusITGroup/ai-primitives-hub#667](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/667): \[Feature\]: Collection dependencies with an explicit, documented guarantee \(declare…, opened 2026-11-04
+<!-- OPEN-ISSUES:END -->
+
+<details>
+<summary><b>Recently closed</b></summary>
+
+<!-- CLOSED-ISSUES:START -->
+- [sched-ext/scx-loader#79](https://github.com/sched-ext/scx-loader/issues/79): README still documents scxtui after \#78, resolved 2026-10-25
+- [anomalyco/opencode#21128](https://github.com/anomalyco/opencode/issues/21128): \[FEATURE\]: Display model information in session list, closed 2026-07-06
+- [ScoopInstaller/Extras#17599](https://github.com/ScoopInstaller/Extras/issues/17599): \[Request\]: agentop, closed 2026-04-12
+- [chrinovicmu/netHex#1](https://github.com/chrinovicmu/netHex/issues/1): Buffer overflow vulnerability in IPv6 ICMP payload calculation, resolved 2025-04-07
+- [chrinovicmu/netHex#2](https://github.com/chrinovicmu/netHex/issues/2): Multiple code quality issues requiring attention, resolved 2025-03-31
+<!-- CLOSED-ISSUES:END -->
+
+</details>
+
+<details>
+<summary><b>Open in my own repos</b></summary>
+
+<!-- OWN-OPEN-ISSUES:START -->
+- [mohitmishra786/portfolio#17](https://github.com/mohitmishra786/portfolio/issues/17): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
+- [mohitmishra786/single-page-portfolio#2](https://github.com/mohitmishra786/single-page-portfolio/issues/2): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
+- [mohitmishra786/mohit-portfolio#49](https://github.com/mohitmishra786/mohit-portfolio/issues/49): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
+- [mohitmishra786/weirling#342](https://github.com/mohitmishra786/weirling/issues/342): \[P3\] Billing: add Razorpay as a second provider, opened 2026-10-20
+- [mohitmishra786/weirling#251](https://github.com/mohitmishra786/weirling/issues/251): \[P3\] Ops: bring in part-time support at \~300 paying or 8 h/week, opened 2026-10-18
+<!-- OWN-OPEN-ISSUES:END -->
 
 </details>
 

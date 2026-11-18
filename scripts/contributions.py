@@ -2,9 +2,10 @@
 
 Subcommands
 -----------
-update   Query merged/open PRs (via the `gh` CLI), write contributions.json and
-         replace the FEATURED-CONTRIBUTIONS, RECENT-PRS, OPEN-PRS and
-         RECENT-OWN-MERGES blocks in the README.
+update   Query merged/open PRs and my issues (via the `gh` CLI), write
+         contributions.json and replace the FEATURED-CONTRIBUTIONS, RECENT-PRS,
+         OPEN-PRS, RECENT-OWN-MERGES, OPEN-ISSUES, CLOSED-ISSUES and
+         OWN-OPEN-ISSUES blocks in the README.
 lines    Sum lines added/removed by my merged PRs into other people's repos,
          per PR and file language, into a CSV (used by loc-stats.yml).
 digest   Write digest/YYYY-Www.md listing PRs merged in the past 7 days (into
@@ -14,7 +15,8 @@ Only public repositories are ever queried (`--visibility public`) and any repo
 reported as private is dropped again before anything is written, so private
 repo names can't reach a committed file even if the token can see them.
 
-`--fixtures DIR` reads merged.json/open.json/own.json/repos.json from DIR
+`--fixtures DIR` reads merged.json/open.json/own.json/repos.json (and optional
+issues_open.json/issues_closed.json/completed_urls.json/own_issues.json) from DIR
 instead of calling `gh` (used by the tests and for offline dry runs).
 """
 from __future__ import annotations
@@ -34,6 +36,8 @@ from readme_blocks import escape_md, replace_block, truncate  # noqa: E402
 
 SEARCH_PAUSE_SECONDS = 3  # search API allows 30 requests/minute
 PR_FIELDS = "repository,title,url,number,closedAt,createdAt,author"
+ISSUE_FIELDS = "repository,title,url,number,closedAt,createdAt,author,isPullRequest"
+OPTIONAL_KEYS = ("issues_open", "issues_closed", "completed_urls", "own_issues")
 
 
 # --------------------------------------------------------------------------- fetch
@@ -43,13 +47,21 @@ def gh_json(args: list[str]):
     return json.loads(out) if out.strip() else []
 
 
-def search_prs(*flags: str, query: list[str] | None = None) -> list[dict]:
-    args = ["search", "prs", *flags, "--visibility", "public", "--json", PR_FIELDS]
+def _search(kind: str, fields: str, flags: tuple, query: list[str] | None) -> list[dict]:
+    args = ["search", kind, *flags, "--visibility", "public", "--json", fields]
     if query:
         args += ["--", *query]
     result = gh_json(args)
     time.sleep(SEARCH_PAUSE_SECONDS)
     return result
+
+
+def search_prs(*flags: str, query: list[str] | None = None) -> list[dict]:
+    return _search("prs", PR_FIELDS, flags, query)
+
+
+def search_issues(*flags: str, query: list[str] | None = None) -> list[dict]:
+    return [i for i in _search("issues", ISSUE_FIELDS, flags, query) if not i.get("isPullRequest")]
 
 
 def my_owners(cfg: dict) -> list[str]:
@@ -73,7 +85,17 @@ def fetch_all(cfg: dict, own_limit: int) -> dict:
                           "--order", "desc", "--limit", "50", query=not_mine(cfg))
     own = search_prs(*owner_flags(cfg), "--merged", "--sort", "updated", "--order", "desc",
                      "--limit", str(max(own_limit * 4, 30)))
-    names = sorted({p["repository"]["nameWithOwner"] for p in merged + open_prs})
+    issues_open = search_issues("--author", user, "--state", "open", "--sort", "created",
+                                "--order", "desc", "--limit", "50", query=not_mine(cfg))
+    issues_closed = search_issues("--author", user, "--state", "closed", "--sort", "updated",
+                                  "--order", "desc", "--limit", "100", query=not_mine(cfg))
+    # Issue search has no stateReason field; the reason: qualifier separates resolved issues.
+    completed = search_issues("--author", user, "--state", "closed", "--limit", "100",
+                              query=[*not_mine(cfg), "reason:completed"])
+    own_issues = search_issues(*owner_flags(cfg), "--author", user, "--state", "open",
+                               "--sort", "created", "--order", "desc", "--limit", "30")
+    names = sorted({p["repository"]["nameWithOwner"]
+                    for p in merged + open_prs + issues_open + issues_closed})
     repos = []
     for name in names:
         try:
@@ -82,13 +104,19 @@ def fetch_all(cfg: dict, own_limit: int) -> dict:
         except subprocess.CalledProcessError as e:
             print(f"warning: could not view {name}: {e.stderr.strip()}", file=sys.stderr)
         time.sleep(0.5)
-    return {"merged": merged, "open": open_prs, "own": own, "repos": repos}
+    return {"merged": merged, "open": open_prs, "own": own, "repos": repos,
+            "issues_open": issues_open, "issues_closed": issues_closed,
+            "completed_urls": [i["url"] for i in completed], "own_issues": own_issues}
 
 
 def load_fixtures(path: str) -> dict:
     data = {}
-    for key in ("merged", "open", "own", "repos"):
-        with open(os.path.join(path, f"{key}.json"), encoding="utf-8") as f:
+    for key in ("merged", "open", "own", "repos", *OPTIONAL_KEYS):
+        file = os.path.join(path, f"{key}.json")
+        if key in OPTIONAL_KEYS and not os.path.exists(file):
+            data[key] = []
+            continue
+        with open(file, encoding="utf-8") as f:
             data[key] = json.load(f)
     return data
 
@@ -119,6 +147,11 @@ def filter_public(data: dict, cfg: dict) -> dict:
         "open": [p for p in data["open"] if keep(p)],
         # Own repos: the search already ran with --visibility public.
         "own": [p for p in data["own"] if not _is_bot(p)],
+        "issues_open": [i for i in data.get("issues_open", []) if keep(i)],
+        "issues_closed": [i for i in data.get("issues_closed", []) if keep(i)],
+        "completed_urls": set(data.get("completed_urls", [])),
+        # My own repos: the search already ran with --visibility public and --author me.
+        "own_issues": data.get("own_issues", []),
         "repos": public,
     }
 
@@ -204,6 +237,17 @@ def render_pr_list(prs: list[dict], verb: str, date_key: str, limit: int) -> str
     )
 
 
+def render_closed_issues(issues: list[dict], completed: set[str], limit: int) -> str:
+    issues = sorted(issues, key=lambda i: i["closedAt"], reverse=True)[:limit]
+    if not issues:
+        return "_Nothing here right now._"
+    return "\n".join(
+        f"- [{_repo(i)}#{i['number']}]({i['url']}): {escape_md(truncate(i['title']))}, "
+        f"{'resolved' if i['url'] in completed else 'closed'} {i['closedAt'][:10]}"
+        for i in issues
+    )
+
+
 def render_blocks(data: dict, contrib: dict, cfg: dict) -> dict[str, str]:
     n = cfg["contributions"].get("recent_items", 5)
     return {
@@ -211,6 +255,9 @@ def render_blocks(data: dict, contrib: dict, cfg: dict) -> dict[str, str]:
         "RECENT-PRS": render_pr_list(data["merged"], "merged", "closedAt", n),
         "OPEN-PRS": render_pr_list(data["open"], "opened", "createdAt", n),
         "RECENT-OWN-MERGES": render_pr_list(data["own"], "merged", "closedAt", n),
+        "OPEN-ISSUES": render_pr_list(data["issues_open"], "opened", "createdAt", n),
+        "CLOSED-ISSUES": render_closed_issues(data["issues_closed"], data["completed_urls"], n),
+        "OWN-OPEN-ISSUES": render_pr_list(data["own_issues"], "opened", "createdAt", n),
     }
 
 

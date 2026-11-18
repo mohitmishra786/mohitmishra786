@@ -1,0 +1,34 @@
+[
+ {
+  "repository": {
+   "name": "tool",
+   "nameWithOwner": "me/tool"
+  },
+  "number": 42,
+  "title": "Add ARM64 builds",
+  "url": "https://github.com/me/tool/issues/42",
+  "createdAt": "2026-11-16T00:00:00Z",
+  "closedAt": null,
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "isPullRequest": false
+ },
+ {
+  "repository": {
+   "name": "tool",
+   "nameWithOwner": "me/tool"
+  },
+  "number": 41,
+  "title": "Document config",
+  "url": "https://github.com/me/tool/issues/41",
+  "createdAt": "2026-11-12T00:00:00Z",
+  "closedAt": null,
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "isPullRequest": false
+ }
+]

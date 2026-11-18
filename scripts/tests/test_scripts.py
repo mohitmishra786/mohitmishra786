@@ -22,7 +22,8 @@ def read(path: str) -> str:
         return f.read()
 
 
-BLOCKS = ("FEATURED-CONTRIBUTIONS", "RECENT-PRS", "OPEN-PRS", "RECENT-OWN-MERGES")
+BLOCKS = ("FEATURED-CONTRIBUTIONS", "RECENT-PRS", "OPEN-PRS", "RECENT-OWN-MERGES",
+          "OPEN-ISSUES", "CLOSED-ISSUES", "OWN-OPEN-ISSUES")
 
 CONFIG = {
     "username": "me",
@@ -119,6 +120,32 @@ class ContributionsTest(unittest.TestCase):
         self.assertIn("opened 2026-10-24", blocks["OPEN-PRS"])
         self.assertNotIn("dependabot", blocks["RECENT-OWN-MERGES"])  # bots dropped
         self.assertIn("me/tool#7", blocks["RECENT-OWN-MERGES"])
+
+    def test_issue_blocks(self):
+        blocks = contributions.render_blocks(self.data, self.contrib, CONFIG)
+        self.assertEqual(blocks["OPEN-ISSUES"].splitlines(), [
+            "- [sched-ext/scx#3999](https://github.com/sched-ext/scx/issues/3999): "
+            "scx\\_rusty: load balancer reads stale timestamps, opened 2026-11-18",
+            "- [edgcpp/compiler#400](https://github.com/edgcpp/compiler/issues/400): "
+            "ICE on \\<meta\\> with reflection, opened 2026-11-10",
+        ])
+        closed = blocks["CLOSED-ISSUES"].splitlines()
+        self.assertEqual(closed[0], "- [sched-ext/scx-loader#79](https://github.com/sched-ext/scx-loader/issues/79): "
+                                    "README still documents scxtui, resolved 2026-10-25")
+        self.assertTrue(closed[1].endswith("Feature request declined, closed 2026-09-05"))
+        self.assertIn("me/tool#42", blocks["OWN-OPEN-ISSUES"].splitlines()[0])
+        everything = "\n".join(blocks.values())
+        self.assertNotIn("secret-org", everything)
+        self.assertNotIn("Hacktoberfest", everything)
+
+    def test_issue_fixtures_are_optional(self):
+        tmp = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, tmp)
+        for key in ("merged", "open", "own", "repos"):
+            shutil.copy(os.path.join(FIXTURES, f"{key}.json"), tmp)
+        data = contributions.filter_public(contributions.load_fixtures(tmp), CONFIG)
+        self.assertEqual(data["issues_open"], [])
+        self.assertEqual(contributions.render_closed_issues([], set(), 5), "_Nothing here right now._")
 
     def test_empty_lists_render_placeholder(self):
         self.assertEqual(contributions.render_pr_list([], "merged", "closedAt", 5),

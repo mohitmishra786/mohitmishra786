@@ -1,0 +1,66 @@
+[
+ {
+  "repository": {
+   "name": "scx",
+   "nameWithOwner": "sched-ext/scx"
+  },
+  "number": 3999,
+  "title": "scx_rusty: load balancer reads stale timestamps",
+  "url": "https://github.com/sched-ext/scx/issues/3999",
+  "createdAt": "2026-11-18T09:00:00Z",
+  "closedAt": null,
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "isPullRequest": false
+ },
+ {
+  "repository": {
+   "name": "compiler",
+   "nameWithOwner": "edgcpp/compiler"
+  },
+  "number": 400,
+  "title": "ICE on <meta> with reflection",
+  "url": "https://github.com/edgcpp/compiler/issues/400",
+  "createdAt": "2026-11-10T09:00:00Z",
+  "closedAt": null,
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "isPullRequest": false
+ },
+ {
+  "repository": {
+   "name": "private-repo",
+   "nameWithOwner": "secret-org/private-repo"
+  },
+  "number": 11,
+  "title": "Private issue",
+  "url": "https://github.com/secret-org/private-repo/issues/11",
+  "createdAt": "2026-11-18T10:00:00Z",
+  "closedAt": null,
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "isPullRequest": false
+ },
+ {
+  "repository": {
+   "name": "Hacktoberfest",
+   "nameWithOwner": "someone/Hacktoberfest"
+  },
+  "number": 6,
+  "title": "Excluded issue",
+  "url": "https://github.com/someone/Hacktoberfest/issues/6",
+  "createdAt": "2026-11-17T10:00:00Z",
+  "closedAt": null,
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "isPullRequest": false
+ }
+]
