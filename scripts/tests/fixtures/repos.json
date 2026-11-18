@@ -58,5 +58,15 @@
   },
   "isPrivate": false,
   "url": "https://github.com/someone/Hacktoberfest"
+ },
+ {
+  "nameWithOwner": "sched-ext/scx-loader",
+  "stargazerCount": 44,
+  "description": "",
+  "primaryLanguage": {
+   "name": "Rust"
+  },
+  "isPrivate": false,
+  "url": "https://github.com/sched-ext/scx-loader"
  }
 ]

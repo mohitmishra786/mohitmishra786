@@ -1,0 +1,50 @@
+[
+ {
+  "repository": {
+   "name": "scx-loader",
+   "nameWithOwner": "sched-ext/scx-loader"
+  },
+  "number": 79,
+  "title": "README still documents scxtui",
+  "url": "https://github.com/sched-ext/scx-loader/issues/79",
+  "createdAt": "2026-10-24T00:00:00Z",
+  "closedAt": "2026-10-25T12:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "isPullRequest": false
+ },
+ {
+  "repository": {
+   "name": "compiler",
+   "nameWithOwner": "edgcpp/compiler"
+  },
+  "number": 300,
+  "title": "Feature request declined",
+  "url": "https://github.com/edgcpp/compiler/issues/300",
+  "createdAt": "2026-09-01T00:00:00Z",
+  "closedAt": "2026-09-05T00:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "isPullRequest": false
+ },
+ {
+  "repository": {
+   "name": "private-repo",
+   "nameWithOwner": "secret-org/private-repo"
+  },
+  "number": 12,
+  "title": "Private closed",
+  "url": "https://github.com/secret-org/private-repo/issues/12",
+  "createdAt": "2026-10-01T00:00:00Z",
+  "closedAt": "2026-10-30T00:00:00Z",
+  "author": {
+   "login": "me",
+   "type": "User"
+  },
+  "isPullRequest": false
+ }
+]
