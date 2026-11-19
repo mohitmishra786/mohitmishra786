@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:56:20Z",
+  "generated_at": "2026-11-19T07:59:05Z",
   "username": "mohitmishra786",
   "total_merged_prs": 100,
   "total_repos": 13,
@@ -24,7 +24,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1281,
+      "stars": 1280,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 3,

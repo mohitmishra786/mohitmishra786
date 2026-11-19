@@ -60,11 +60,11 @@
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [sched-ext/scx#4000](https://github.com/sched-ext/scx/pull/4000): scx\_rusty: Zero freed task\_ctx slots, opened 2026-11-19
 - [Seafoam-Labs/Shelly-ALPM#2227](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2227): Decompress .flatpakrepo responses, opened 2026-11-18
 - [edgcpp/compiler#547](https://github.com/edgcpp/compiler/pull/547): Keep needed parentheses around co\_await and co\_yield in generated C++. \[GH \#546\], opened 2026-11-17
 - [edgcpp/compiler#545](https://github.com/edgcpp/compiler/pull/545): C++26: Warn about omitting the comma before a variadic ellipsis \(P3176R1\). \[GH \#371\], opened 2026-11-17
 - [AmadeusITGroup/ai-primitives-hub#707](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707): fix\(cli\): report failed bundles in the interactive hub install, opened 2026-11-17
-- [AmadeusITGroup/ai-primitives-hub#706](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/706): fix\(cli\): report an unusable profile file in profile publish, opened 2026-11-17
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -85,11 +85,11 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
+- [sched-ext/scx#4001](https://github.com/sched-ext/scx/issues/4001): scx\_rusty: sdt\_free\_idx\(\) never zeroes freed task\_ctx slots, opened 2026-11-19
 - [sched-ext/scx#3999](https://github.com/sched-ext/scx/issues/3999): scx\_rusty: load balancer reads scx\_bpf\_now\(\) timestamps against CLOCK\_MONOTONIC, opened 2026-11-18
 - [AmadeusITGroup/ai-primitives-hub#705](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/705): \[Bug\]: interactive hub install reports success \(exit 0\) when selected bundles fail, and…, opened 2026-11-17
 - [AmadeusITGroup/ai-primitives-hub#704](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/704): \[Bug\]: profile publish crashes \(exit 70\) on an empty or malformed profile file instead…, opened 2026-11-17
 - [AmadeusITGroup/ai-primitives-hub#700](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/700): \[Bug\]: interactive hub install crashes \(exit 70\) with an invalid RegistryError code…, opened 2026-11-14
-- [AmadeusITGroup/ai-primitives-hub#667](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/667): \[Feature\]: Collection dependencies with an explicit, documented guarantee \(declare…, opened 2026-11-04
 <!-- OPEN-ISSUES:END -->
 
 <details>
