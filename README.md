@@ -36,9 +36,9 @@
 |---|---|---:|---:|
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [3](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Keep pacman progress bar pellets in place | [3](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
-| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [5](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
+| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [6](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | feat\(cli\): install a profile's bundles without activating it | [3](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
-| [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 48 |
+| [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 49 |
 | [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
 | [OmdenaAI/omdena-texas-homelessness](https://github.com/OmdenaAI/omdena-texas-homelessness) | EDA notebooks, dashboards and a web app page | [36](https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 11 |
 | [OmdenaAI/omdena-srilanka-tea-quality](https://github.com/OmdenaAI/omdena-srilanka-tea-quality) | Azure ML pipeline and repo restructuring | [11](https://github.com/OmdenaAI/omdena-srilanka-tea-quality/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 10 |
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [edgcpp/compiler#541](https://github.com/edgcpp/compiler/pull/541): Keep \[\[assume\]\] attribute when its argument call is inlined. \[GH \#393\], merged 2026-11-19
 - [AmadeusITGroup/ai-primitives-hub#680](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/680): feat\(cli\): install a profile's bundles without activating it, merged 2026-11-14
 - [Seafoam-Labs/Shelly-ALPM#2102](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2102): Keep pacman progress bar pellets in place, merged 2026-11-14
 - [edgcpp/compiler#387](https://github.com/edgcpp/compiler/pull/387): diagnose comparisons between two arrays \(P2865\), fix for \[GH \#370\], merged 2026-11-06
 - [AmadeusITGroup/ai-primitives-hub#677](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/677): fix\(app\): fail profile activation on missing required bundles, merged 2026-11-06
-- [AmadeusITGroup/ai-primitives-hub#675](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/675): feat\(core\): drop maxItems cap on collection items, merged 2026-11-05
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [llvm/llvm-project#244133](https://github.com/llvm/llvm-project/pull/244133): \[clang\] Reject a label with no statement as a substatement, opened 2026-11-19
 - [sched-ext/scx#4000](https://github.com/sched-ext/scx/pull/4000): scx\_rusty: Zero freed task\_ctx slots, opened 2026-11-19
 - [Seafoam-Labs/Shelly-ALPM#2227](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2227): Decompress .flatpakrepo responses, opened 2026-11-18
 - [edgcpp/compiler#547](https://github.com/edgcpp/compiler/pull/547): Keep needed parentheses around co\_await and co\_yield in generated C++. \[GH \#546\], opened 2026-11-17
 - [edgcpp/compiler#545](https://github.com/edgcpp/compiler/pull/545): C++26: Warn about omitting the comma before a variadic ellipsis \(P3176R1\). \[GH \#371\], opened 2026-11-17
-- [AmadeusITGroup/ai-primitives-hub#707](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707): fix\(cli\): report failed bundles in the interactive hub install, opened 2026-11-17
 <!-- OPEN-PRS:END -->
 
 </details>

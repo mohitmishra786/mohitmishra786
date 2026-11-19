@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-19T07:59:05Z",
+  "generated_at": "2026-11-19T21:00:46Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 100,
+  "total_merged_prs": 101,
   "total_repos": 13,
   "repos": [
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2253,
+      "stars": 2254,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 3,
@@ -24,7 +24,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1280,
+      "stars": 1281,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 3,
@@ -44,15 +44,15 @@
       "stars": 1043,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
-      "merged_prs": 5,
+      "merged_prs": 6,
       "merged_prs_url": "https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
       "summary": "C++ front-end fixes: auto deduction from void, 128-bit integer limits, <meta>/reflection",
       "featured": true,
       "latest_pr": {
-        "number": 387,
-        "title": "diagnose comparisons between two arrays (P2865), fix for [GH #370]",
-        "url": "https://github.com/edgcpp/compiler/pull/387",
-        "merged_at": "2026-11-06"
+        "number": 541,
+        "title": "Keep [[assume]] attribute when its argument call is inlined. [GH #393]",
+        "url": "https://github.com/edgcpp/compiler/pull/541",
+        "merged_at": "2026-11-19"
       }
     },
     {
@@ -75,7 +75,7 @@
     {
       "repo": "sched-ext/scx-loader",
       "url": "https://github.com/sched-ext/scx-loader",
-      "stars": 48,
+      "stars": 49,
       "description": "",
       "language": "Rust",
       "merged_prs": 1,
