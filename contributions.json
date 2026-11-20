@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T21:00:46Z",
+  "generated_at": "2026-11-20T07:48:21Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 101,
+  "total_merged_prs": 104,
   "total_repos": 13,
   "repos": [
     {
@@ -41,18 +41,18 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1043,
+      "stars": 1042,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
-      "merged_prs": 6,
+      "merged_prs": 7,
       "merged_prs_url": "https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
       "summary": "C++ front-end fixes: auto deduction from void, 128-bit integer limits, <meta>/reflection",
       "featured": true,
       "latest_pr": {
-        "number": 541,
-        "title": "Keep [[assume]] attribute when its argument call is inlined. [GH #393]",
-        "url": "https://github.com/edgcpp/compiler/pull/541",
-        "merged_at": "2026-11-19"
+        "number": 547,
+        "title": "Keep needed parentheses around co_await and co_yield in generated C++. [GH #546]",
+        "url": "https://github.com/edgcpp/compiler/pull/547",
+        "merged_at": "2026-11-20"
       }
     },
     {
@@ -61,15 +61,15 @@
       "stars": 52,
       "description": "VS Code extension and CLI for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) collections for GitHub Copilot and other AI assistants",
       "language": "TypeScript",
-      "merged_prs": 3,
+      "merged_prs": 5,
       "merged_prs_url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "feat(cli): install a profile's bundles without activating it",
+      "summary": "fix(cli): report failed bundles in the interactive hub install",
       "featured": false,
       "latest_pr": {
-        "number": 680,
-        "title": "feat(cli): install a profile's bundles without activating it",
-        "url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pull/680",
-        "merged_at": "2026-11-14"
+        "number": 707,
+        "title": "fix(cli): report failed bundles in the interactive hub install",
+        "url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707",
+        "merged_at": "2026-11-20"
       }
     },
     {

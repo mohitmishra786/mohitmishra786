@@ -36,8 +36,8 @@
 |---|---|---:|---:|
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [3](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Keep pacman progress bar pellets in place | [3](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
-| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [6](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
-| [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | feat\(cli\): install a profile's bundles without activating it | [3](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
+| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
+| [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | fix\(cli\): report failed bundles in the interactive hub install | [5](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 49 |
 | [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
 | [OmdenaAI/omdena-texas-homelessness](https://github.com/OmdenaAI/omdena-texas-homelessness) | EDA notebooks, dashboards and a web app page | [36](https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 11 |
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [AmadeusITGroup/ai-primitives-hub#707](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707): fix\(cli\): report failed bundles in the interactive hub install, merged 2026-11-20
+- [AmadeusITGroup/ai-primitives-hub#703](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/703): fix\(cli\): report interactive hub install failures instead of crashing, merged 2026-11-20
+- [edgcpp/compiler#547](https://github.com/edgcpp/compiler/pull/547): Keep needed parentheses around co\_await and co\_yield in generated C++. \[GH \#546\], merged 2026-11-20
 - [edgcpp/compiler#541](https://github.com/edgcpp/compiler/pull/541): Keep \[\[assume\]\] attribute when its argument call is inlined. \[GH \#393\], merged 2026-11-19
 - [AmadeusITGroup/ai-primitives-hub#680](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/680): feat\(cli\): install a profile's bundles without activating it, merged 2026-11-14
-- [Seafoam-Labs/Shelly-ALPM#2102](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2102): Keep pacman progress bar pellets in place, merged 2026-11-14
-- [edgcpp/compiler#387](https://github.com/edgcpp/compiler/pull/387): diagnose comparisons between two arrays \(P2865\), fix for \[GH \#370\], merged 2026-11-06
-- [AmadeusITGroup/ai-primitives-hub#677](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/677): fix\(app\): fail profile activation on missing required bundles, merged 2026-11-06
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [jenkinsci/jenkins#27821](https://github.com/jenkinsci/jenkins/pull/27821): Set page title on the build's Recorded Fingerprints page, opened 2026-11-20
+- [ggml-org/llama.cpp#32641](https://github.com/ggml-org/llama.cpp/pull/32641): ggml/gguf : avoid creating invalid enum values from untrusted file data, opened 2026-11-20
+- [Seafoam-Labs/Shelly-ALPM#2245](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2245): Remove dependencies of build-only packages after AUR builds, opened 2026-11-20
+- [llvm/llvm-project#244494](https://github.com/llvm/llvm-project/pull/244494): \[clang\] Convert to a C23 enum with bool underlying type like bool, opened 2026-11-20
 - [llvm/llvm-project#244133](https://github.com/llvm/llvm-project/pull/244133): \[clang\] Reject a label with no statement as a substatement, opened 2026-11-19
-- [sched-ext/scx#4000](https://github.com/sched-ext/scx/pull/4000): scx\_rusty: Zero freed task\_ctx slots, opened 2026-11-19
-- [Seafoam-Labs/Shelly-ALPM#2227](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2227): Decompress .flatpakrepo responses, opened 2026-11-18
-- [edgcpp/compiler#547](https://github.com/edgcpp/compiler/pull/547): Keep needed parentheses around co\_await and co\_yield in generated C++. \[GH \#546\], opened 2026-11-17
-- [edgcpp/compiler#545](https://github.com/edgcpp/compiler/pull/545): C++26: Warn about omitting the comma before a variadic ellipsis \(P3176R1\). \[GH \#371\], opened 2026-11-17
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -87,20 +87,20 @@
 <!-- OPEN-ISSUES:START -->
 - [sched-ext/scx#4001](https://github.com/sched-ext/scx/issues/4001): scx\_rusty: sdt\_free\_idx\(\) never zeroes freed task\_ctx slots, opened 2026-11-19
 - [sched-ext/scx#3999](https://github.com/sched-ext/scx/issues/3999): scx\_rusty: load balancer reads scx\_bpf\_now\(\) timestamps against CLOCK\_MONOTONIC, opened 2026-11-18
-- [AmadeusITGroup/ai-primitives-hub#705](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/705): \[Bug\]: interactive hub install reports success \(exit 0\) when selected bundles fail, and…, opened 2026-11-17
 - [AmadeusITGroup/ai-primitives-hub#704](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/704): \[Bug\]: profile publish crashes \(exit 70\) on an empty or malformed profile file instead…, opened 2026-11-17
-- [AmadeusITGroup/ai-primitives-hub#700](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/700): \[Bug\]: interactive hub install crashes \(exit 70\) with an invalid RegistryError code…, opened 2026-11-14
+- [AmadeusITGroup/ai-primitives-hub#667](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/667): \[Feature\]: Collection dependencies with an explicit, documented guarantee \(declare…, opened 2026-11-04
+- [arpeggi-15/Flight-Fare-Prediction#20](https://github.com/arpeggi-15/Flight-Fare-Prediction/issues/20): I want to use multiple algorithms and work over the data, opened 2023-02-28
 <!-- OPEN-ISSUES:END -->
 
 <details>
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
+- [AmadeusITGroup/ai-primitives-hub#705](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/705): \[Bug\]: interactive hub install reports success \(exit 0\) when selected bundles fail, and…, resolved 2026-11-20
+- [AmadeusITGroup/ai-primitives-hub#700](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/700): \[Bug\]: interactive hub install crashes \(exit 70\) with an invalid RegistryError code…, resolved 2026-11-20
 - [sched-ext/scx-loader#79](https://github.com/sched-ext/scx-loader/issues/79): README still documents scxtui after \#78, resolved 2026-10-25
 - [anomalyco/opencode#21128](https://github.com/anomalyco/opencode/issues/21128): \[FEATURE\]: Display model information in session list, closed 2026-07-06
 - [ScoopInstaller/Extras#17599](https://github.com/ScoopInstaller/Extras/issues/17599): \[Request\]: agentop, closed 2026-04-12
-- [chrinovicmu/netHex#1](https://github.com/chrinovicmu/netHex/issues/1): Buffer overflow vulnerability in IPv6 ICMP payload calculation, resolved 2025-04-07
-- [chrinovicmu/netHex#2](https://github.com/chrinovicmu/netHex/issues/2): Multiple code quality issues requiring attention, resolved 2025-03-31
 <!-- CLOSED-ISSUES:END -->
 
 </details>
