@@ -55,7 +55,7 @@ _As of 2026-11-21. Counts own public, non-fork, non-archived repositories (cloc,
 | [mohitmishra786/repo2video](https://github.com/mohitmishra786/repo2video) | 6,997 |
 | [mohitmishra786/never](https://github.com/mohitmishra786/never) | 6,610 |
 
-**Lines changed in my 67 merged PRs to other people's public repos**: +20,332 / -1,828 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
+**Lines changed in my 69 merged PRs to other people's public repos**: +20,415 / -1,832 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
 
 | Language | Added | Removed |
 |----------|------:|--------:|
@@ -63,9 +63,9 @@ _As of 2026-11-21. Counts own public, non-fork, non-archived repositories (cloc,
 | Dart | 2,431 | 1,008 |
 | Other | 2,245 | 100 |
 | TypeScript | 1,922 | 130 |
-| YAML | 1,171 | 7 |
+| YAML | 1,177 | 10 |
 | C++ | 551 | 2 |
 | C | 323 | 78 |
 | Java | 291 | 0 |
+| Zig | 243 | 21 |
 | Go | 189 | 214 |
-| Zig | 166 | 20 |

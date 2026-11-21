@@ -61,6 +61,7 @@ OmdenaAI/omdena-texas-homelessness,43,2021-11-06,Python,96,1
 Seafoam-Labs/Shelly-ALPM,2100,2026-10-27,Zig,27,1
 Seafoam-Labs/Shelly-ALPM,2101,2026-10-27,Zig,109,13
 Seafoam-Labs/Shelly-ALPM,2102,2026-11-14,Zig,30,6
+Seafoam-Labs/Shelly-ALPM,2227,2026-11-21,Zig,77,1
 chrinovicmu/netHex,3,2025-03-31,C,89,36
 edgcpp/compiler,206,2026-10-09,C,26,8
 edgcpp/compiler,206,2026-10-09,C++,73,0
@@ -121,3 +122,4 @@ sched-ext/scx,3936,2026-10-29,C (BPF),9,0
 sched-ext/scx,3936,2026-10-29,Rust,7,1
 sched-ext/scx,3968,2026-11-21,C/C++ Header,0,61
 sched-ext/scx-loader,80,2026-10-25,Rust,1,6
+winsw/winsw,1532,2026-11-21,YAML,6,3

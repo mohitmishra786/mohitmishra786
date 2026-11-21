@@ -193,9 +193,9 @@
     }
   ],
   "contributions": {
-    "prs": 67,
-    "added": 20332,
-    "removed": 1828,
+    "prs": 69,
+    "added": 20415,
+    "removed": 1832,
     "languages": [
       {
         "name": "Python",
@@ -219,8 +219,8 @@
       },
       {
         "name": "YAML",
-        "added": 1171,
-        "removed": 7
+        "added": 1177,
+        "removed": 10
       },
       {
         "name": "C++",
@@ -238,14 +238,14 @@
         "removed": 0
       },
       {
+        "name": "Zig",
+        "added": 243,
+        "removed": 21
+      },
+      {
         "name": "Go",
         "added": 189,
         "removed": 214
-      },
-      {
-        "name": "Zig",
-        "added": 166,
-        "removed": 20
       },
       {
         "name": "Shell",
@@ -315,14 +315,14 @@
         "removed": 175
       },
       {
+        "name": "Seafoam-Labs/Shelly-ALPM",
+        "added": 243,
+        "removed": 21
+      },
+      {
         "name": "OmdenaAI/omdena-colombia-career-recommender-system",
         "added": 199,
         "removed": 1
-      },
-      {
-        "name": "Seafoam-Labs/Shelly-ALPM",
-        "added": 166,
-        "removed": 20
       },
       {
         "name": "OmdenaAI/lagos-chapter-water-availability",
@@ -338,6 +338,11 @@
         "name": "sched-ext/scx",
         "added": 26,
         "removed": 70
+      },
+      {
+        "name": "winsw/winsw",
+        "added": 6,
+        "removed": 3
       },
       {
         "name": "perses/plugins",

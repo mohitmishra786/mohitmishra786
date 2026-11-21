@@ -151,7 +151,7 @@
 </p>
 
 <!-- LOC-STATS-START -->
-![Lines of code in my public repos: 443,631](https://img.shields.io/badge/code%20in%20my%20public%20repos-443.63k%20lines-blue) ![Lines added in merged PRs to other projects: 20,332](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-20.33k%20lines-green)
+![Lines of code in my public repos: 443,631](https://img.shields.io/badge/code%20in%20my%20public%20repos-443.63k%20lines-blue) ![Lines added in merged PRs to other projects: 20,415](https://img.shields.io/badge/added%20via%20merged%20PRs%20to%20other%20projects-20.41k%20lines-green)
 
 <details>
 <summary>Lines-of-code details</summary>
@@ -213,7 +213,7 @@ _As of 2026-11-21. Counts own public, non-fork, non-archived repositories (cloc,
 | [mohitmishra786/repo2video](https://github.com/mohitmishra786/repo2video) | 6,997 |
 | [mohitmishra786/never](https://github.com/mohitmishra786/never) | 6,610 |
 
-**Lines changed in my 67 merged PRs to other people's public repos**: +20,332 / -1,828 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
+**Lines changed in my 69 merged PRs to other people's public repos**: +20,415 / -1,832 _(from the PR file diffs; data, docs, lockfiles and notebooks excluded)_
 
 | Language | Added | Removed |
 |----------|------:|--------:|
@@ -221,12 +221,12 @@ _As of 2026-11-21. Counts own public, non-fork, non-archived repositories (cloc,
 | Dart | 2,431 | 1,008 |
 | Other | 2,245 | 100 |
 | TypeScript | 1,922 | 130 |
-| YAML | 1,171 | 7 |
+| YAML | 1,177 | 10 |
 | C++ | 551 | 2 |
 | C | 323 | 78 |
 | Java | 291 | 0 |
+| Zig | 243 | 21 |
 | Go | 189 | 214 |
-| Zig | 166 | 20 |
 
 </details>
 <!-- LOC-STATS-END -->
