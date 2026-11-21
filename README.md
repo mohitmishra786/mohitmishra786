@@ -34,14 +34,14 @@
 <!-- FEATURED-CONTRIBUTIONS:START -->
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
+| [winsw/winsw](https://github.com/winsw/winsw) | v2 - Publish release binaries with their usual file names | [1](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.4k |
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
-| [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Keep pacman progress bar pellets in place | [3](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
+| [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Decompress .flatpakrepo responses | [4](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | fix\(cli\): report failed bundles in the interactive hub install | [5](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 49 |
 | [perses/plugins](https://github.com/perses/plugins) | \[BUGFIX\] table: migrate thresholds whose base step has no value | [1](https://github.com/perses/plugins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 34 |
 | [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
-| [OmdenaAI/omdena-texas-homelessness](https://github.com/OmdenaAI/omdena-texas-homelessness) | EDA notebooks, dashboards and a web app page | [36](https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 11 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
 <sub>Merged PRs into public repositories I don't own, refreshed every 6 hours by <a href=".github/workflows/recent-activity.yml">recent-activity.yml</a> (data: <a href="contributions.json">contributions.json</a>).</sub>
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [Seafoam-Labs/Shelly-ALPM#2227](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2227): Decompress .flatpakrepo responses, merged 2026-11-21
+- [winsw/winsw#1532](https://github.com/winsw/winsw/pull/1532): v2 - Publish release binaries with their usual file names, merged 2026-11-21
 - [sched-ext/scx#3968](https://github.com/sched-ext/scx/pull/3968): lib: Drop the unused page fragment allocator, merged 2026-11-21
 - [perses/plugins#952](https://github.com/perses/plugins/pull/952): \[BUGFIX\] table: migrate thresholds whose base step has no value, merged 2026-11-20
 - [AmadeusITGroup/ai-primitives-hub#707](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707): fix\(cli\): report failed bundles in the interactive hub install, merged 2026-11-20
-- [AmadeusITGroup/ai-primitives-hub#703](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/703): fix\(cli\): report interactive hub install failures instead of crashing, merged 2026-11-20
-- [edgcpp/compiler#547](https://github.com/edgcpp/compiler/pull/547): Keep needed parentheses around co\_await and co\_yield in generated C++. \[GH \#546\], merged 2026-11-20
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [winsw/winsw#1534](https://github.com/winsw/winsw/pull/1534): v2 - Build and publish a Windows Arm64 executable, opened 2026-11-21
+- [AmadeusITGroup/gh-app-auth#90](https://github.com/AmadeusITGroup/gh-app-auth/pull/90): fix\(config\): save the key path when setup falls back to the filesystem, opened 2026-11-21
+- [flutter/flutter#197095](https://github.com/flutter/flutter/pull/197095): \[flutter\_tools\] Find Chromium on Linux when google-chrome is not on the PATH, opened 2026-11-21
 - [systemd/systemd#44957](https://github.com/systemd/systemd/pull/44957): core: set $LISTEN\_PIDFDID in the payload process with PrivatePIDs=, opened 2026-11-21
 - [perses/plugins#954](https://github.com/perses/plugins/pull/954): \[BUGFIX\] TimeSeriesChart: match byName overrides exactly in the migration, opened 2026-11-20
-- [winsw/winsw#1532](https://github.com/winsw/winsw/pull/1532): v2 - Publish release binaries with their usual file names, opened 2026-11-20
-- [perses/perses#4784](https://github.com/perses/perses/pull/4784): \[BUGFIX\] Return a 400 for a datasource proxy without spec, opened 2026-11-20
-- [perses/helm-charts#268](https://github.com/perses/helm-charts/pull/268): \[BUGFIX\] perses: keep the Secret key of an empty client\_secret, opened 2026-11-20
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -73,11 +73,11 @@
 <summary><b>Recently merged into my own repos</b></summary>
 
 <!-- RECENT-OWN-MERGES:START -->
+- [mohitmishra786/portfolio#19](https://github.com/mohitmishra786/portfolio/pull/19): fix: update ELF book publication date, merged 2026-11-21
 - [mohitmishra786/mohitmishra786#61](https://github.com/mohitmishra786/mohitmishra786/pull/61): Use GH\_PAT for the gh search steps, merged 2026-11-21
 - [mohitmishra786/mohitmishra786#60](https://github.com/mohitmishra786/mohitmishra786/pull/60): Retry failed gh calls in contributions.py, merged 2026-11-21
 - [mohitmishra786/portfolio#18](https://github.com/mohitmishra786/portfolio/pull/18): feat: show PRs and issues in other projects on open source page, merged 2026-11-20
 - [mohitmishra786/low-level-dev-skills#35](https://github.com/mohitmishra786/low-level-dev-skills/pull/35): Add tracing-profilers skill \(Perfetto, Tracy\), merged 2026-11-20
-- [mohitmishra786/low-level-dev-skills#33](https://github.com/mohitmishra786/low-level-dev-skills/pull/33): Add riscv-vector skill, merged 2026-11-20
 <!-- RECENT-OWN-MERGES:END -->
 
 </details>
@@ -85,11 +85,11 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
+- [sous-labs/songe#8](https://github.com/sous-labs/songe/issues/8): Every scheduler tick fails after one request for an unknown model name \(llama.cpp\), opened 2026-11-21
+- [winsw/winsw#1535](https://github.com/winsw/winsw/issues/1535): v2 - .NET 8 Debug executables stop right after the service starts the wrapped executable, opened 2026-11-21
+- [AmadeusITGroup/gh-app-auth#89](https://github.com/AmadeusITGroup/gh-app-auth/issues/89): --version always prints 1.0.0; Makefile -X main.Version ldflags are ignored, opened 2026-11-21
+- [AmadeusITGroup/gh-app-auth#88](https://github.com/AmadeusITGroup/gh-app-auth/issues/88): setup fails with 'private\_key\_path is required' when no OS keyring is available, opened 2026-11-21
 - [perses/perses#4786](https://github.com/perses/perses/issues/4786): Grafana migration: TimeSeriesChart byName overrides are matched as a regexp, opened 2026-11-20
-- [winsw/winsw#1533](https://github.com/winsw/winsw/issues/1533): restart\! fails with Access is denied for non-administrator service accounts, opened 2026-11-20
-- [perses/perses#4783](https://github.com/perses/perses/issues/4783): Datasource with a null or missing proxy spec returns HTTP 500, opened 2026-11-20
-- [sched-ext/scx#4001](https://github.com/sched-ext/scx/issues/4001): scx\_rusty: sdt\_free\_idx\(\) never zeroes freed task\_ctx slots, opened 2026-11-19
-- [sched-ext/scx#3999](https://github.com/sched-ext/scx/issues/3999): scx\_rusty: load balancer reads scx\_bpf\_now\(\) timestamps against CLOCK\_MONOTONIC, opened 2026-11-18
 <!-- OPEN-ISSUES:END -->
 
 <details>

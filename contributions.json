@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-21T03:46:08Z",
+  "generated_at": "2026-11-21T07:44:51Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 106,
-  "total_repos": 14,
+  "total_merged_prs": 108,
+  "total_repos": 15,
   "repos": [
+    {
+      "repo": "winsw/winsw",
+      "url": "https://github.com/winsw/winsw",
+      "stars": 14438,
+      "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
+      "language": "C#",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "v2 - Publish release binaries with their usual file names",
+      "featured": false,
+      "latest_pr": {
+        "number": 1532,
+        "title": "v2 - Publish release binaries with their usual file names",
+        "url": "https://github.com/winsw/winsw/pull/1532",
+        "merged_at": "2026-11-21"
+      }
+    },
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
@@ -27,15 +44,15 @@
       "stars": 1288,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
-      "merged_prs": 3,
+      "merged_prs": 4,
       "merged_prs_url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Keep pacman progress bar pellets in place",
+      "summary": "Decompress .flatpakrepo responses",
       "featured": false,
       "latest_pr": {
-        "number": 2102,
-        "title": "Keep pacman progress bar pellets in place",
-        "url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2102",
-        "merged_at": "2026-11-14"
+        "number": 2227,
+        "title": "Decompress .flatpakrepo responses",
+        "url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2227",
+        "merged_at": "2026-11-21"
       }
     },
     {
