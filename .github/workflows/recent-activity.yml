@@ -34,9 +34,10 @@ jobs:
 
       - name: Update contributions.json and README activity blocks
         env:
-          # Public data only. All searches use --visibility public and private repos are
-          # dropped again in the script, so private names can't be published.
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Search needs a user token: GitHub search no longer resolves this account
+          # for GITHUB_TOKEN ("listed users cannot be searched"). Searches use
+          # --visibility public and private repos are dropped before anything is written.
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: python scripts/contributions.py update
 
       - name: Commit and push
