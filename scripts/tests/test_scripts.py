@@ -256,6 +256,22 @@ class ContributionsTest(unittest.TestCase):
         self.assertEqual(contributions.language_of("CMakeLists.txt"), "CMake")
         self.assertEqual(contributions.language_of("Makefile"), "Make")
 
+    def test_gh_json_retries_then_raises(self):
+        import subprocess
+        from unittest import mock
+        fail = subprocess.CompletedProcess(["gh"], 1, "", "API rate limit exceeded")
+        ok = subprocess.CompletedProcess(["gh"], 0, '[{"n": 1}]', "")
+        with mock.patch("subprocess.run", side_effect=[fail, ok]) as run, \
+                mock.patch("time.sleep"), mock.patch("sys.stderr"):
+            self.assertEqual(contributions.gh_json(["search", "prs"]), [{"n": 1}])
+            self.assertEqual(run.call_count, 2)
+        with mock.patch("subprocess.run", return_value=fail) as run, \
+                mock.patch("time.sleep"), mock.patch("sys.stderr"):
+            with self.assertRaises(subprocess.CalledProcessError) as ctx:
+                contributions.gh_json(["search", "prs"], attempts=3)
+            self.assertEqual(run.call_count, 3)
+            self.assertIn("rate limit", ctx.exception.stderr)
+
 
 class LocReportTest(unittest.TestCase):
     ROWS = [

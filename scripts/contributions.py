@@ -35,6 +35,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from readme_blocks import escape_md, replace_block, truncate  # noqa: E402
 
 SEARCH_PAUSE_SECONDS = 3  # search API allows 30 requests/minute
+GH_ATTEMPTS = 4
+GH_RETRY_SECONDS = 20  # waits 20s, 40s, 60s; the search rate limit resets each minute
 PR_FIELDS = "repository,title,url,number,closedAt,createdAt,author"
 ISSUE_FIELDS = "repository,title,url,number,closedAt,createdAt,author,isPullRequest"
 OPTIONAL_KEYS = ("issues_open", "issues_closed", "completed_urls", "own_issues")
@@ -42,9 +44,17 @@ OPTIONAL_KEYS = ("issues_open", "issues_closed", "completed_urls", "own_issues")
 
 # --------------------------------------------------------------------------- fetch
 
-def gh_json(args: list[str]):
-    out = subprocess.run(["gh", *args], check=True, capture_output=True, text=True).stdout
-    return json.loads(out) if out.strip() else []
+def gh_json(args: list[str], attempts: int = GH_ATTEMPTS):
+    """Run `gh` and parse its JSON output, retrying failures such as search rate limits."""
+    for attempt in range(1, attempts + 1):
+        proc = subprocess.run(["gh", *args], capture_output=True, text=True)
+        if proc.returncode == 0:
+            return json.loads(proc.stdout) if proc.stdout.strip() else []
+        print(f"gh {' '.join(args[:2])} failed (attempt {attempt}/{attempts}): "
+              f"{proc.stderr.strip()}", file=sys.stderr)
+        if attempt < attempts:
+            time.sleep(GH_RETRY_SECONDS * attempt)
+    raise subprocess.CalledProcessError(proc.returncode, proc.args, proc.stdout, proc.stderr)
 
 
 def _search(kind: str, fields: str, flags: tuple, query: list[str] | None) -> list[dict]:
