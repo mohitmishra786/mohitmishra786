@@ -73,11 +73,11 @@
 <summary><b>Recently merged into my own repos</b></summary>
 
 <!-- RECENT-OWN-MERGES:START -->
+- [mohitmishra786/mohitmishra786#61](https://github.com/mohitmishra786/mohitmishra786/pull/61): Use GH\_PAT for the gh search steps, merged 2026-11-21
 - [mohitmishra786/mohitmishra786#60](https://github.com/mohitmishra786/mohitmishra786/pull/60): Retry failed gh calls in contributions.py, merged 2026-11-21
 - [mohitmishra786/portfolio#18](https://github.com/mohitmishra786/portfolio/pull/18): feat: show PRs and issues in other projects on open source page, merged 2026-11-20
 - [mohitmishra786/low-level-dev-skills#35](https://github.com/mohitmishra786/low-level-dev-skills/pull/35): Add tracing-profilers skill \(Perfetto, Tracy\), merged 2026-11-20
 - [mohitmishra786/low-level-dev-skills#33](https://github.com/mohitmishra786/low-level-dev-skills/pull/33): Add riscv-vector skill, merged 2026-11-20
-- [mohitmishra786/low-level-dev-skills#34](https://github.com/mohitmishra786/low-level-dev-skills/pull/34): pgo: fix BOLT workflow; memory-model: add futexes and rseq, merged 2026-11-20
 <!-- RECENT-OWN-MERGES:END -->
 
 </details>
