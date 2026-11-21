@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T15:51:01Z",
+  "generated_at": "2026-11-21T19:49:49Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 114,
-  "total_repos": 18,
+  "total_merged_prs": 123,
+  "total_repos": 20,
   "repos": [
     {
       "repo": "jenkinsci/jenkins",
@@ -24,7 +24,7 @@
     {
       "repo": "systemd/systemd",
       "url": "https://github.com/systemd/systemd",
-      "stars": 17055,
+      "stars": 17057,
       "description": "The systemd System and Service Manager ",
       "language": "C",
       "merged_prs": 1,
@@ -56,9 +56,26 @@
       }
     },
     {
+      "repo": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "stars": 13560,
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/microsoft/mimalloc/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Export the wsize allocation functions used by the csize helpers",
+      "featured": false,
+      "latest_pr": {
+        "number": 1514,
+        "title": "Export the wsize allocation functions used by the csize helpers",
+        "url": "https://github.com/microsoft/mimalloc/pull/1514",
+        "merged_at": "2026-11-21"
+      }
+    },
+    {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2255,
+      "stars": 2256,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 4,
@@ -107,19 +124,36 @@
       }
     },
     {
-      "repo": "sous-labs/songe",
-      "url": "https://github.com/sous-labs/songe",
-      "stars": 114,
-      "description": "A training engine for your local model, using your idle compute",
-      "language": "Python",
-      "merged_prs": 4,
-      "merged_prs_url": "https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Init and uninstall on Linux without a systemd user manager",
+      "repo": "microsoft/nvx",
+      "url": "https://github.com/microsoft/nvx",
+      "stars": 856,
+      "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
+      "language": "Rust",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/microsoft/nvx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "test: hold the metadata abort test's deadline until the server accepts",
       "featured": false,
       "latest_pr": {
-        "number": 18,
-        "title": "Init and uninstall on Linux without a systemd user manager",
-        "url": "https://github.com/sous-labs/songe/pull/18",
+        "number": 1888,
+        "title": "test: hold the metadata abort test's deadline until the server accepts",
+        "url": "https://github.com/microsoft/nvx/pull/1888",
+        "merged_at": "2026-11-21"
+      }
+    },
+    {
+      "repo": "sous-labs/songe",
+      "url": "https://github.com/sous-labs/songe",
+      "stars": 143,
+      "description": "A training engine for your local model, using your idle compute",
+      "language": "Python",
+      "merged_prs": 11,
+      "merged_prs_url": "https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Send Dream reading, review and examples where the proxy sends the model",
+      "featured": false,
+      "latest_pr": {
+        "number": 35,
+        "title": "Send Dream reading, review and examples where the proxy sends the model",
+        "url": "https://github.com/sous-labs/songe/pull/35",
         "merged_at": "2026-11-21"
       }
     },

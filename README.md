@@ -37,10 +37,10 @@
 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Set page title on the build's Recorded Fingerprints page | [1](https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 26.8k |
 | [systemd/systemd](https://github.com/systemd/systemd) | core: set $LISTEN\_PIDFDID in the payload process with PrivatePIDs= | [1](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
 | [winsw/winsw](https://github.com/winsw/winsw) | v2 - Publish release binaries with their usual file names | [1](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.4k |
+| [microsoft/mimalloc](https://github.com/microsoft/mimalloc) | Export the wsize allocation functions used by the csize helpers | [1](https://github.com/microsoft/mimalloc/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 13.6k |
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Decompress .flatpakrepo responses | [4](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
-| [sous-labs/songe](https://github.com/sous-labs/songe) | Init and uninstall on Linux without a systemd user manager | [4](https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 114 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 49 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
-- [jenkinsci/jenkins#27821](https://github.com/jenkinsci/jenkins/pull/27821): Set page title on the build's Recorded Fingerprints page, merged 2026-11-21
-- [systemd/systemd#44957](https://github.com/systemd/systemd/pull/44957): core: set $LISTEN\_PIDFDID in the payload process with PrivatePIDs=, merged 2026-11-21
-- [sous-labs/songe#18](https://github.com/sous-labs/songe/pull/18): Init and uninstall on Linux without a systemd user manager, merged 2026-11-21
-- [sous-labs/songe#16](https://github.com/sous-labs/songe/pull/16): Forward requests no version claims to the user's own server, merged 2026-11-21
-- [sous-labs/songe#17](https://github.com/sous-labs/songe/pull/17): Key the growth cache on SQLite's data\_version, not file times, merged 2026-11-21
+- [sous-labs/songe#35](https://github.com/sous-labs/songe/pull/35): Send Dream reading, review and examples where the proxy sends the model, merged 2026-11-21
+- [sous-labs/songe#34](https://github.com/sous-labs/songe/pull/34): Undo: say there is no earlier version yet before a Deep Dream, merged 2026-11-21
+- [sous-labs/songe#33](https://github.com/sous-labs/songe/pull/33): Doctor: say when an agent has no Songe provider, merged 2026-11-21
+- [sous-labs/songe#30](https://github.com/sous-labs/songe/pull/30): Doctor: count the size of a single-file model, merged 2026-11-21
+- [sous-labs/songe#29](https://github.com/sous-labs/songe/pull/29): Recognise opencode 1.19's title, summary and continue requests, merged 2026-11-21
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
-- [sous-labs/songe#34](https://github.com/sous-labs/songe/pull/34): Undo: say there is no earlier version yet before a Deep Dream, opened 2026-11-21
-- [sous-labs/songe#33](https://github.com/sous-labs/songe/pull/33): Doctor: say when an agent has no Songe provider, opened 2026-11-21
-- [sous-labs/songe#30](https://github.com/sous-labs/songe/pull/30): Doctor: count the size of a single-file model, opened 2026-11-21
-- [sous-labs/songe#29](https://github.com/sous-labs/songe/pull/29): Recognise opencode 1.19's title, summary and continue requests, opened 2026-11-21
-- [sous-labs/songe#28](https://github.com/sous-labs/songe/pull/28): llama.cpp: tell agents the context llama-server really runs with, opened 2026-11-21
+- [github/codeql#23194](https://github.com/github/codeql/pull/23194): JS: Recognize replaceAll with a string pattern as an XSS sanitizer, opened 2026-11-21
+- [github/github-mcp-server#3916](https://github.com/github/github-mcp-server/pull/3916): Reject owner without repo in notification and search tools, opened 2026-11-21
+- [github/copilot-cli#5548](https://github.com/github/copilot-cli/pull/5548): install: sort stable releases after their prereleases, opened 2026-11-21
+- [systemd/systemd#44961](https://github.com/systemd/systemd/pull/44961): core: set $LISTEN\_PID, $WATCHDOG\_PID and $SYSTEMD\_EXEC\_PID in the payload process\(\), opened 2026-11-21
+- [microsoft/apm#4593](https://github.com/microsoft/apm/pull/4593): feat\(gemini\): deploy agents to .gemini/agents with validated frontmatter, opened 2026-11-21
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -85,22 +85,22 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
+- [github/copilot-cli#5547](https://github.com/github/copilot-cli/issues/5547): install.sh: VERSION=prerelease installs an older build than the latest stable release, opened 2026-11-21
 - [github/github-mcp-server#3915](https://github.com/github/github-mcp-server/issues/3915): Notification and search tools ignore owner when repo is missing and act on all…, opened 2026-11-21
-- [sous-labs/songe#32](https://github.com/sous-labs/songe/issues/32): songe undo before any Deep Dream says "Version not retained", opened 2026-11-21
-- [sous-labs/songe#31](https://github.com/sous-labs/songe/issues/31): doctor says "provider URL differs" when the agent has no Songe provider, opened 2026-11-21
-- [sous-labs/songe#27](https://github.com/sous-labs/songe/issues/27): llama.cpp: Dream reading, review and Quick Dream examples go to the owned port and…, opened 2026-11-21
-- [microsoft/mimalloc#1512](https://github.com/microsoft/mimalloc/issues/1512): mi\_malloc\_tp and the csize helpers fail to link against the shared library since v3.5.2, opened 2026-11-21
+- [microsoft/nvx#1886](https://github.com/microsoft/nvx/issues/1886): docs: the pull request template points the public API snapshots at a directory that no…, opened 2026-11-21
+- [systemd/systemd#44960](https://github.com/systemd/systemd/issues/44960): core: set $LISTEN\_PID, $WATCHDOG\_PID and $SYSTEMD\_EXEC\_PID in the payload process…, opened 2026-11-21
+- [winsw/winsw#1535](https://github.com/winsw/winsw/issues/1535): v2 - .NET 8 Debug executables stop right after the service starts the wrapped executable, opened 2026-11-21
 <!-- OPEN-ISSUES:END -->
 
 <details>
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
-- [sous-labs/songe#12](https://github.com/sous-labs/songe/issues/12): init and uninstall fail on Linux without a systemd user manager, resolved 2026-11-21
-- [sous-labs/songe#10](https://github.com/sous-labs/songe/issues/10): llama.cpp: requests without a Songe version get 502 because forwarding uses the owned port, resolved 2026-11-21
-- [sous-labs/songe#11](https://github.com/sous-labs/songe/issues/11): needs\_growth\(\) cache keyed on file mtimes returns stale results on Linux \(flaky test\), resolved 2026-11-21
-- [sous-labs/songe#13](https://github.com/sous-labs/songe/issues/13): docs/DEVELOPMENT.md: several statements no longer match the code, resolved 2026-11-21
-- [sous-labs/songe#8](https://github.com/sous-labs/songe/issues/8): Every scheduler tick fails after one request for an unknown model name \(llama.cpp\), resolved 2026-11-21
+- [sous-labs/songe#27](https://github.com/sous-labs/songe/issues/27): llama.cpp: Dream reading, review and Quick Dream examples go to the owned port and…, resolved 2026-11-21
+- [sous-labs/songe#32](https://github.com/sous-labs/songe/issues/32): songe undo before any Deep Dream says "Version not retained", resolved 2026-11-21
+- [sous-labs/songe#31](https://github.com/sous-labs/songe/issues/31): doctor says "provider URL differs" when the agent has no Songe provider, resolved 2026-11-21
+- [microsoft/mimalloc#1512](https://github.com/microsoft/mimalloc/issues/1512): mi\_malloc\_tp and the csize helpers fail to link against the shared library since v3.5.2, resolved 2026-11-21
+- [microsoft/nvx#1885](https://github.com/microsoft/nvx/issues/1885): nvx: managed\_boot\_diagnostics\_arrive\_before\_the\_control\_endpoint is flaky: the fake VM…, resolved 2026-11-21
 <!-- CLOSED-ISSUES:END -->
 
 </details>
