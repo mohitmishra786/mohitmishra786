@@ -34,14 +34,14 @@
 <!-- FEATURED-CONTRIBUTIONS:START -->
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
+| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Set page title on the build's Recorded Fingerprints page | [1](https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 26.8k |
+| [systemd/systemd](https://github.com/systemd/systemd) | core: set $LISTEN\_PIDFDID in the payload process with PrivatePIDs= | [1](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
 | [winsw/winsw](https://github.com/winsw/winsw) | v2 - Publish release binaries with their usual file names | [1](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.4k |
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Decompress .flatpakrepo responses | [4](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
-| [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | fix\(cli\): report failed bundles in the interactive hub install | [5](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
+| [sous-labs/songe](https://github.com/sous-labs/songe) | Init and uninstall on Linux without a systemd user manager | [4](https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 103 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 49 |
-| [perses/plugins](https://github.com/perses/plugins) | \[BUGFIX\] table: migrate thresholds whose base step has no value | [1](https://github.com/perses/plugins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 34 |
-| [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
 <sub>Merged PRs into public repositories I don't own, refreshed every 6 hours by <a href=".github/workflows/recent-activity.yml">recent-activity.yml</a> (data: <a href="contributions.json">contributions.json</a>).</sub>
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
-- [Seafoam-Labs/Shelly-ALPM#2227](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2227): Decompress .flatpakrepo responses, merged 2026-11-21
-- [winsw/winsw#1532](https://github.com/winsw/winsw/pull/1532): v2 - Publish release binaries with their usual file names, merged 2026-11-21
-- [sched-ext/scx#3968](https://github.com/sched-ext/scx/pull/3968): lib: Drop the unused page fragment allocator, merged 2026-11-21
-- [perses/plugins#952](https://github.com/perses/plugins/pull/952): \[BUGFIX\] table: migrate thresholds whose base step has no value, merged 2026-11-20
-- [AmadeusITGroup/ai-primitives-hub#707](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707): fix\(cli\): report failed bundles in the interactive hub install, merged 2026-11-20
+- [jenkinsci/jenkins#27821](https://github.com/jenkinsci/jenkins/pull/27821): Set page title on the build's Recorded Fingerprints page, merged 2026-11-21
+- [systemd/systemd#44957](https://github.com/systemd/systemd/pull/44957): core: set $LISTEN\_PIDFDID in the payload process with PrivatePIDs=, merged 2026-11-21
+- [sous-labs/songe#18](https://github.com/sous-labs/songe/pull/18): Init and uninstall on Linux without a systemd user manager, merged 2026-11-21
+- [sous-labs/songe#16](https://github.com/sous-labs/songe/pull/16): Forward requests no version claims to the user's own server, merged 2026-11-21
+- [sous-labs/songe#17](https://github.com/sous-labs/songe/pull/17): Key the growth cache on SQLite's data\_version, not file times, merged 2026-11-21
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
-- [winsw/winsw#1534](https://github.com/winsw/winsw/pull/1534): v2 - Build and publish a Windows Arm64 executable, opened 2026-11-21
-- [AmadeusITGroup/gh-app-auth#90](https://github.com/AmadeusITGroup/gh-app-auth/pull/90): fix\(config\): save the key path when setup falls back to the filesystem, opened 2026-11-21
-- [flutter/flutter#197095](https://github.com/flutter/flutter/pull/197095): \[flutter\_tools\] Find Chromium on Linux when google-chrome is not on the PATH, opened 2026-11-21
-- [systemd/systemd#44957](https://github.com/systemd/systemd/pull/44957): core: set $LISTEN\_PIDFDID in the payload process with PrivatePIDs=, opened 2026-11-21
-- [perses/plugins#954](https://github.com/perses/plugins/pull/954): \[BUGFIX\] TimeSeriesChart: match byName overrides exactly in the migration, opened 2026-11-20
+- [sous-labs/songe#30](https://github.com/sous-labs/songe/pull/30): Doctor: count the size of a single-file model, opened 2026-11-21
+- [sous-labs/songe#29](https://github.com/sous-labs/songe/pull/29): Recognise opencode 1.19's title, summary and continue requests, opened 2026-11-21
+- [sous-labs/songe#28](https://github.com/sous-labs/songe/pull/28): llama.cpp: tell agents the context llama-server really runs with, opened 2026-11-21
+- [systemd/systemd#44961](https://github.com/systemd/systemd/pull/44961): core: set $LISTEN\_PID, $WATCHDOG\_PID and $SYSTEMD\_EXEC\_PID in the payload process\(\), opened 2026-11-21
+- [sous-labs/songe#26](https://github.com/sous-labs/songe/pull/26): Key the learning summary cache on change\_mark, not file times, opened 2026-11-21
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -85,22 +85,22 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
-- [sous-labs/songe#8](https://github.com/sous-labs/songe/issues/8): Every scheduler tick fails after one request for an unknown model name \(llama.cpp\), opened 2026-11-21
-- [winsw/winsw#1535](https://github.com/winsw/winsw/issues/1535): v2 - .NET 8 Debug executables stop right after the service starts the wrapped executable, opened 2026-11-21
-- [AmadeusITGroup/gh-app-auth#89](https://github.com/AmadeusITGroup/gh-app-auth/issues/89): --version always prints 1.0.0; Makefile -X main.Version ldflags are ignored, opened 2026-11-21
-- [AmadeusITGroup/gh-app-auth#88](https://github.com/AmadeusITGroup/gh-app-auth/issues/88): setup fails with 'private\_key\_path is required' when no OS keyring is available, opened 2026-11-21
-- [perses/perses#4786](https://github.com/perses/perses/issues/4786): Grafana migration: TimeSeriesChart byName overrides are matched as a regexp, opened 2026-11-20
+- [sous-labs/songe#27](https://github.com/sous-labs/songe/issues/27): llama.cpp: Dream reading, review and Quick Dream examples go to the owned port and…, opened 2026-11-21
+- [microsoft/mimalloc#1512](https://github.com/microsoft/mimalloc/issues/1512): mi\_malloc\_tp and the csize helpers fail to link against the shared library since v3.5.2, opened 2026-11-21
+- [microsoft/nvx#1886](https://github.com/microsoft/nvx/issues/1886): docs: the pull request template points the public API snapshots at a directory that no…, opened 2026-11-21
+- [microsoft/nvx#1885](https://github.com/microsoft/nvx/issues/1885): nvx: managed\_boot\_diagnostics\_arrive\_before\_the\_control\_endpoint is flaky: the fake VM…, opened 2026-11-21
+- [microsoft/nvx#1884](https://github.com/microsoft/nvx/issues/1884): ci: nvx\_hosts.py run refuses script arguments after --file or --cwd on Python 3.10 and…, opened 2026-11-21
 <!-- OPEN-ISSUES:END -->
 
 <details>
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
-- [perses/perses#4785](https://github.com/perses/perses/issues/4785): Grafana migration: Table panel fails when a threshold step has no value, resolved 2026-11-20
-- [christianalfoni/webpack-express-boilerplate#86](https://github.com/christianalfoni/webpack-express-boilerplate/issues/86): \[Feature\] : Test to run on CI \(Github Actions\), resolved 2026-11-20
-- [the-full-stack/course-gitbook#12](https://github.com/the-full-stack/course-gitbook/issues/12): Site Taking Too Long to Respond, resolved 2026-11-20
-- [JRavi2/Chat-Analyzer#7](https://github.com/JRavi2/Chat-Analyzer/issues/7): Determining the incentive of chats, resolved 2026-11-20
-- [arpeggi-15/Flight-Fare-Prediction#20](https://github.com/arpeggi-15/Flight-Fare-Prediction/issues/20): I want to use multiple algorithms and work over the data, resolved 2026-11-20
+- [sous-labs/songe#12](https://github.com/sous-labs/songe/issues/12): init and uninstall fail on Linux without a systemd user manager, resolved 2026-11-21
+- [sous-labs/songe#10](https://github.com/sous-labs/songe/issues/10): llama.cpp: requests without a Songe version get 502 because forwarding uses the owned port, resolved 2026-11-21
+- [sous-labs/songe#11](https://github.com/sous-labs/songe/issues/11): needs\_growth\(\) cache keyed on file mtimes returns stale results on Linux \(flaky test\), resolved 2026-11-21
+- [sous-labs/songe#13](https://github.com/sous-labs/songe/issues/13): docs/DEVELOPMENT.md: several statements no longer match the code, resolved 2026-11-21
+- [sous-labs/songe#8](https://github.com/sous-labs/songe/issues/8): Every scheduler tick fails after one request for an unknown model name \(llama.cpp\), resolved 2026-11-21
 <!-- CLOSED-ISSUES:END -->
 
 </details>
@@ -109,11 +109,11 @@
 <summary><b>Open in my own repos</b></summary>
 
 <!-- OWN-OPEN-ISSUES:START -->
+- [mohitmishra786/mimalloc#5](https://github.com/mohitmishra786/mimalloc/issues/5): Docs: deprecated option name in readme, size option units, aligned\_at offset limit…, opened 2026-11-21
+- [mohitmishra786/mimalloc#4](https://github.com/mohitmishra786/mimalloc/issues/4): test-api realloc-shrink-huge fails with MIMALLOC\_PURGE\_DELAY=-1, opened 2026-11-21
+- [mohitmishra786/mimalloc#3](https://github.com/mohitmishra786/mimalloc/issues/3): MI\_TRACK=VALGRIND: false invalid free in Debug builds, intermittent invalid read in…, opened 2026-11-21
+- [mohitmishra786/mimalloc#2](https://github.com/mohitmishra786/mimalloc/issues/2): WASI build: compile error on dev3 \(getuid/geteuid\) and undefined symbol clock, opened 2026-11-21
 - [mohitmishra786/low-level-dev-skills#36](https://github.com/mohitmishra786/low-level-dev-skills/issues/36): Coverage follow-up: Intel PT/record-replay, CXL, gccrs, opened 2026-11-20
-- [mohitmishra786/portfolio#17](https://github.com/mohitmishra786/portfolio/issues/17): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
-- [mohitmishra786/single-page-portfolio#2](https://github.com/mohitmishra786/single-page-portfolio/issues/2): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
-- [mohitmishra786/mohit-portfolio#49](https://github.com/mohitmishra786/mohit-portfolio/issues/49): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
-- [mohitmishra786/weirling#342](https://github.com/mohitmishra786/weirling/issues/342): \[P3\] Billing: add Razorpay as a second provider, opened 2026-10-20
 <!-- OWN-OPEN-ISSUES:END -->
 
 </details>

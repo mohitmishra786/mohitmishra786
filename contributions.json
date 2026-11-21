@@ -1,13 +1,47 @@
 {
-  "generated_at": "2026-11-21T07:44:51Z",
+  "generated_at": "2026-11-21T14:47:19Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 108,
-  "total_repos": 15,
+  "total_merged_prs": 114,
+  "total_repos": 18,
   "repos": [
+    {
+      "repo": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "stars": 26802,
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Set page title on the build's Recorded Fingerprints page",
+      "featured": false,
+      "latest_pr": {
+        "number": 27821,
+        "title": "Set page title on the build's Recorded Fingerprints page",
+        "url": "https://github.com/jenkinsci/jenkins/pull/27821",
+        "merged_at": "2026-11-21"
+      }
+    },
+    {
+      "repo": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "stars": 17055,
+      "description": "The systemd System and Service Manager ",
+      "language": "C",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "core: set $LISTEN_PIDFDID in the payload process with PrivatePIDs=",
+      "featured": false,
+      "latest_pr": {
+        "number": 44957,
+        "title": "core: set $LISTEN_PIDFDID in the payload process with PrivatePIDs=",
+        "url": "https://github.com/systemd/systemd/pull/44957",
+        "merged_at": "2026-11-21"
+      }
+    },
     {
       "repo": "winsw/winsw",
       "url": "https://github.com/winsw/winsw",
-      "stars": 14438,
+      "stars": 14440,
       "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
       "language": "C#",
       "merged_prs": 1,
@@ -24,7 +58,7 @@
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2254,
+      "stars": 2255,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 4,
@@ -41,7 +75,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1288,
+      "stars": 1286,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 4,
@@ -70,6 +104,23 @@
         "title": "Keep needed parentheses around co_await and co_yield in generated C++. [GH #546]",
         "url": "https://github.com/edgcpp/compiler/pull/547",
         "merged_at": "2026-11-20"
+      }
+    },
+    {
+      "repo": "sous-labs/songe",
+      "url": "https://github.com/sous-labs/songe",
+      "stars": 103,
+      "description": "A training engine for your local model, using your idle compute",
+      "language": "Python",
+      "merged_prs": 4,
+      "merged_prs_url": "https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Init and uninstall on Linux without a systemd user manager",
+      "featured": false,
+      "latest_pr": {
+        "number": 18,
+        "title": "Init and uninstall on Linux without a systemd user manager",
+        "url": "https://github.com/sous-labs/songe/pull/18",
+        "merged_at": "2026-11-21"
       }
     },
     {
