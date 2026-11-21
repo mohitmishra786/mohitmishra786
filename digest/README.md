@@ -2,6 +2,7 @@
 
 Generated every Monday by `.github/workflows/contribution-digest.yml` (public repositories only).
 
+- [2026-W47](2026-W47.md)
 - [2026-W46](2026-W46.md)
 - [2026-W45](2026-W45.md)
 - [2026-W44](2026-W44.md)
