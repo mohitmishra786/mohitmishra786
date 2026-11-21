@@ -34,14 +34,14 @@
 <!-- FEATURED-CONTRIBUTIONS:START -->
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
-| [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [3](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
+| [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Keep pacman progress bar pellets in place | [3](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | fix\(cli\): report failed bundles in the interactive hub install | [5](https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 49 |
+| [perses/plugins](https://github.com/perses/plugins) | \[BUGFIX\] table: migrate thresholds whose base step has no value | [1](https://github.com/perses/plugins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 34 |
 | [OmdenaAI/omdena-colombia-career-recommender-system](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system) | EDA notebook and template | [7](https://github.com/OmdenaAI/omdena-colombia-career-recommender-system/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 12 |
 | [OmdenaAI/omdena-texas-homelessness](https://github.com/OmdenaAI/omdena-texas-homelessness) | EDA notebooks, dashboards and a web app page | [36](https://github.com/OmdenaAI/omdena-texas-homelessness/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 11 |
-| [OmdenaAI/omdena-srilanka-tea-quality](https://github.com/OmdenaAI/omdena-srilanka-tea-quality) | Azure ML pipeline and repo restructuring | [11](https://github.com/OmdenaAI/omdena-srilanka-tea-quality/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 10 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
 <sub>Merged PRs into public repositories I don't own, refreshed every 6 hours by <a href=".github/workflows/recent-activity.yml">recent-activity.yml</a> (data: <a href="contributions.json">contributions.json</a>).</sub>
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [sched-ext/scx#3968](https://github.com/sched-ext/scx/pull/3968): lib: Drop the unused page fragment allocator, merged 2026-11-21
+- [perses/plugins#952](https://github.com/perses/plugins/pull/952): \[BUGFIX\] table: migrate thresholds whose base step has no value, merged 2026-11-20
 - [AmadeusITGroup/ai-primitives-hub#707](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707): fix\(cli\): report failed bundles in the interactive hub install, merged 2026-11-20
 - [AmadeusITGroup/ai-primitives-hub#703](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/703): fix\(cli\): report interactive hub install failures instead of crashing, merged 2026-11-20
 - [edgcpp/compiler#547](https://github.com/edgcpp/compiler/pull/547): Keep needed parentheses around co\_await and co\_yield in generated C++. \[GH \#546\], merged 2026-11-20
-- [edgcpp/compiler#541](https://github.com/edgcpp/compiler/pull/541): Keep \[\[assume\]\] attribute when its argument call is inlined. \[GH \#393\], merged 2026-11-19
-- [AmadeusITGroup/ai-primitives-hub#680](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/680): feat\(cli\): install a profile's bundles without activating it, merged 2026-11-14
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
-- [jenkinsci/jenkins#27821](https://github.com/jenkinsci/jenkins/pull/27821): Set page title on the build's Recorded Fingerprints page, opened 2026-11-20
-- [ggml-org/llama.cpp#32641](https://github.com/ggml-org/llama.cpp/pull/32641): ggml/gguf : avoid creating invalid enum values from untrusted file data, opened 2026-11-20
-- [Seafoam-Labs/Shelly-ALPM#2245](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2245): Remove dependencies of build-only packages after AUR builds, opened 2026-11-20
-- [llvm/llvm-project#244494](https://github.com/llvm/llvm-project/pull/244494): \[clang\] Convert to a C23 enum with bool underlying type like bool, opened 2026-11-20
-- [llvm/llvm-project#244133](https://github.com/llvm/llvm-project/pull/244133): \[clang\] Reject a label with no statement as a substatement, opened 2026-11-19
+- [systemd/systemd#44957](https://github.com/systemd/systemd/pull/44957): core: set $LISTEN\_PIDFDID in the payload process with PrivatePIDs=, opened 2026-11-21
+- [perses/plugins#954](https://github.com/perses/plugins/pull/954): \[BUGFIX\] TimeSeriesChart: match byName overrides exactly in the migration, opened 2026-11-20
+- [winsw/winsw#1532](https://github.com/winsw/winsw/pull/1532): v2 - Publish release binaries with their usual file names, opened 2026-11-20
+- [perses/perses#4784](https://github.com/perses/perses/pull/4784): \[BUGFIX\] Return a 400 for a datasource proxy without spec, opened 2026-11-20
+- [perses/helm-charts#268](https://github.com/perses/helm-charts/pull/268): \[BUGFIX\] perses: keep the Secret key of an empty client\_secret, opened 2026-11-20
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -73,11 +73,11 @@
 <summary><b>Recently merged into my own repos</b></summary>
 
 <!-- RECENT-OWN-MERGES:START -->
-- [mohitmishra786/mohitmishra786#59](https://github.com/mohitmishra786/mohitmishra786/pull/59): Add 'Issues I've reported' section \(open, closed, own repos\), merged 2026-11-18
-- [mohitmishra786/low-level-dev-skills#7](https://github.com/mohitmishra786/low-level-dev-skills/pull/7): Fix coroutine ownership, io\_uring buffers, and kernel debugger entry, merged 2026-11-14
-- [mohitmishra786/weirling#392](https://github.com/mohitmishra786/weirling/pull/392): Land the demo video and landing mobile fix \(stranded on feat/146-landing\), merged 2026-10-29
-- [mohitmishra786/weirling#391](https://github.com/mohitmishra786/weirling/pull/391): Only re-seed the demo persona on demo instances, merged 2026-10-28
-- [mohitmishra786/weirling#386](https://github.com/mohitmishra786/weirling/pull/386): v0.3.5: rank against every interest, no pack-name topics, per-reader emerging, merged 2026-10-25
+- [mohitmishra786/mohitmishra786#60](https://github.com/mohitmishra786/mohitmishra786/pull/60): Retry failed gh calls in contributions.py, merged 2026-11-21
+- [mohitmishra786/portfolio#18](https://github.com/mohitmishra786/portfolio/pull/18): feat: show PRs and issues in other projects on open source page, merged 2026-11-20
+- [mohitmishra786/low-level-dev-skills#35](https://github.com/mohitmishra786/low-level-dev-skills/pull/35): Add tracing-profilers skill \(Perfetto, Tracy\), merged 2026-11-20
+- [mohitmishra786/low-level-dev-skills#33](https://github.com/mohitmishra786/low-level-dev-skills/pull/33): Add riscv-vector skill, merged 2026-11-20
+- [mohitmishra786/low-level-dev-skills#34](https://github.com/mohitmishra786/low-level-dev-skills/pull/34): pgo: fix BOLT workflow; memory-model: add futexes and rseq, merged 2026-11-20
 <!-- RECENT-OWN-MERGES:END -->
 
 </details>
@@ -85,22 +85,22 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
+- [perses/perses#4786](https://github.com/perses/perses/issues/4786): Grafana migration: TimeSeriesChart byName overrides are matched as a regexp, opened 2026-11-20
+- [winsw/winsw#1533](https://github.com/winsw/winsw/issues/1533): restart\! fails with Access is denied for non-administrator service accounts, opened 2026-11-20
+- [perses/perses#4783](https://github.com/perses/perses/issues/4783): Datasource with a null or missing proxy spec returns HTTP 500, opened 2026-11-20
 - [sched-ext/scx#4001](https://github.com/sched-ext/scx/issues/4001): scx\_rusty: sdt\_free\_idx\(\) never zeroes freed task\_ctx slots, opened 2026-11-19
 - [sched-ext/scx#3999](https://github.com/sched-ext/scx/issues/3999): scx\_rusty: load balancer reads scx\_bpf\_now\(\) timestamps against CLOCK\_MONOTONIC, opened 2026-11-18
-- [AmadeusITGroup/ai-primitives-hub#704](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/704): \[Bug\]: profile publish crashes \(exit 70\) on an empty or malformed profile file instead…, opened 2026-11-17
-- [AmadeusITGroup/ai-primitives-hub#667](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/667): \[Feature\]: Collection dependencies with an explicit, documented guarantee \(declare…, opened 2026-11-04
-- [arpeggi-15/Flight-Fare-Prediction#20](https://github.com/arpeggi-15/Flight-Fare-Prediction/issues/20): I want to use multiple algorithms and work over the data, opened 2023-02-28
 <!-- OPEN-ISSUES:END -->
 
 <details>
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
-- [AmadeusITGroup/ai-primitives-hub#705](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/705): \[Bug\]: interactive hub install reports success \(exit 0\) when selected bundles fail, and…, resolved 2026-11-20
-- [AmadeusITGroup/ai-primitives-hub#700](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/700): \[Bug\]: interactive hub install crashes \(exit 70\) with an invalid RegistryError code…, resolved 2026-11-20
-- [sched-ext/scx-loader#79](https://github.com/sched-ext/scx-loader/issues/79): README still documents scxtui after \#78, resolved 2026-10-25
-- [anomalyco/opencode#21128](https://github.com/anomalyco/opencode/issues/21128): \[FEATURE\]: Display model information in session list, closed 2026-07-06
-- [ScoopInstaller/Extras#17599](https://github.com/ScoopInstaller/Extras/issues/17599): \[Request\]: agentop, closed 2026-04-12
+- [perses/perses#4785](https://github.com/perses/perses/issues/4785): Grafana migration: Table panel fails when a threshold step has no value, resolved 2026-11-20
+- [christianalfoni/webpack-express-boilerplate#86](https://github.com/christianalfoni/webpack-express-boilerplate/issues/86): \[Feature\] : Test to run on CI \(Github Actions\), resolved 2026-11-20
+- [the-full-stack/course-gitbook#12](https://github.com/the-full-stack/course-gitbook/issues/12): Site Taking Too Long to Respond, resolved 2026-11-20
+- [JRavi2/Chat-Analyzer#7](https://github.com/JRavi2/Chat-Analyzer/issues/7): Determining the incentive of chats, resolved 2026-11-20
+- [arpeggi-15/Flight-Fare-Prediction#20](https://github.com/arpeggi-15/Flight-Fare-Prediction/issues/20): I want to use multiple algorithms and work over the data, resolved 2026-11-20
 <!-- CLOSED-ISSUES:END -->
 
 </details>
@@ -109,11 +109,11 @@
 <summary><b>Open in my own repos</b></summary>
 
 <!-- OWN-OPEN-ISSUES:START -->
+- [mohitmishra786/low-level-dev-skills#36](https://github.com/mohitmishra786/low-level-dev-skills/issues/36): Coverage follow-up: Intel PT/record-replay, CXL, gccrs, opened 2026-11-20
 - [mohitmishra786/portfolio#17](https://github.com/mohitmishra786/portfolio/issues/17): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
 - [mohitmishra786/single-page-portfolio#2](https://github.com/mohitmishra786/single-page-portfolio/issues/2): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
 - [mohitmishra786/mohit-portfolio#49](https://github.com/mohitmishra786/mohit-portfolio/issues/49): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
 - [mohitmishra786/weirling#342](https://github.com/mohitmishra786/weirling/issues/342): \[P3\] Billing: add Razorpay as a second provider, opened 2026-10-20
-- [mohitmishra786/weirling#251](https://github.com/mohitmishra786/weirling/issues/251): \[P3\] Ops: bring in part-time support at \~300 paying or 8 h/week, opened 2026-10-18
 <!-- OWN-OPEN-ISSUES:END -->
 
 </details>
