@@ -40,7 +40,7 @@
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Decompress .flatpakrepo responses | [4](https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
-| [sous-labs/songe](https://github.com/sous-labs/songe) | Init and uninstall on Linux without a systemd user manager | [4](https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 103 |
+| [sous-labs/songe](https://github.com/sous-labs/songe) | Init and uninstall on Linux without a systemd user manager | [4](https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 114 |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 49 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
@@ -60,11 +60,11 @@
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [sous-labs/songe#34](https://github.com/sous-labs/songe/pull/34): Undo: say there is no earlier version yet before a Deep Dream, opened 2026-11-21
+- [sous-labs/songe#33](https://github.com/sous-labs/songe/pull/33): Doctor: say when an agent has no Songe provider, opened 2026-11-21
 - [sous-labs/songe#30](https://github.com/sous-labs/songe/pull/30): Doctor: count the size of a single-file model, opened 2026-11-21
 - [sous-labs/songe#29](https://github.com/sous-labs/songe/pull/29): Recognise opencode 1.19's title, summary and continue requests, opened 2026-11-21
 - [sous-labs/songe#28](https://github.com/sous-labs/songe/pull/28): llama.cpp: tell agents the context llama-server really runs with, opened 2026-11-21
-- [systemd/systemd#44961](https://github.com/systemd/systemd/pull/44961): core: set $LISTEN\_PID, $WATCHDOG\_PID and $SYSTEMD\_EXEC\_PID in the payload process\(\), opened 2026-11-21
-- [sous-labs/songe#26](https://github.com/sous-labs/songe/pull/26): Key the learning summary cache on change\_mark, not file times, opened 2026-11-21
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -85,11 +85,11 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
+- [github/github-mcp-server#3915](https://github.com/github/github-mcp-server/issues/3915): Notification and search tools ignore owner when repo is missing and act on all…, opened 2026-11-21
+- [sous-labs/songe#32](https://github.com/sous-labs/songe/issues/32): songe undo before any Deep Dream says "Version not retained", opened 2026-11-21
+- [sous-labs/songe#31](https://github.com/sous-labs/songe/issues/31): doctor says "provider URL differs" when the agent has no Songe provider, opened 2026-11-21
 - [sous-labs/songe#27](https://github.com/sous-labs/songe/issues/27): llama.cpp: Dream reading, review and Quick Dream examples go to the owned port and…, opened 2026-11-21
 - [microsoft/mimalloc#1512](https://github.com/microsoft/mimalloc/issues/1512): mi\_malloc\_tp and the csize helpers fail to link against the shared library since v3.5.2, opened 2026-11-21
-- [microsoft/nvx#1886](https://github.com/microsoft/nvx/issues/1886): docs: the pull request template points the public API snapshots at a directory that no…, opened 2026-11-21
-- [microsoft/nvx#1885](https://github.com/microsoft/nvx/issues/1885): nvx: managed\_boot\_diagnostics\_arrive\_before\_the\_control\_endpoint is flaky: the fake VM…, opened 2026-11-21
-- [microsoft/nvx#1884](https://github.com/microsoft/nvx/issues/1884): ci: nvx\_hosts.py run refuses script arguments after --file or --cwd on Python 3.10 and…, opened 2026-11-21
 <!-- OPEN-ISSUES:END -->
 
 <details>

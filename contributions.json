@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:47:19Z",
+  "generated_at": "2026-11-21T15:51:01Z",
   "username": "mohitmishra786",
   "total_merged_prs": 114,
   "total_repos": 18,
@@ -109,7 +109,7 @@
     {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 103,
+      "stars": 114,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
       "merged_prs": 4,
