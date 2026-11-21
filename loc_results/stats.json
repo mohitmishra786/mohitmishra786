@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-19",
+  "generated_at": "2026-11-21",
   "total_repositories": 81,
-  "total_code_lines": 443296,
-  "total_files": 3662,
+  "total_code_lines": 443631,
+  "total_files": 3664,
   "languages": [
     {
       "language": "Python",
-      "files": 1172,
-      "blank": 33490,
-      "comment": 29605,
-      "code": 128577
+      "files": 1173,
+      "blank": 33504,
+      "comment": 29612,
+      "code": 128655
     },
     {
       "language": "TypeScript",
-      "files": 836,
-      "blank": 12462,
-      "comment": 7778,
-      "code": 88452
+      "files": 837,
+      "blank": 12491,
+      "comment": 7796,
+      "code": 88699
     },
     {
       "language": "HTML",
@@ -49,9 +49,9 @@
     {
       "language": "YAML",
       "files": 211,
-      "blank": 3180,
-      "comment": 1011,
-      "code": 17239
+      "blank": 3183,
+      "comment": 1013,
+      "code": 17241
     },
     {
       "language": "Rust",
@@ -72,7 +72,7 @@
       "files": 142,
       "blank": 1589,
       "comment": 1259,
-      "code": 10331
+      "code": 10339
     },
     {
       "language": "Swift",
@@ -193,9 +193,9 @@
     }
   ],
   "contributions": {
-    "prs": 61,
-    "added": 19745,
-    "removed": 1734,
+    "prs": 67,
+    "added": 20332,
+    "removed": 1828,
     "languages": [
       {
         "name": "Python",
@@ -209,13 +209,13 @@
       },
       {
         "name": "Other",
-        "added": 2243,
-        "removed": 96
+        "added": 2245,
+        "removed": 100
       },
       {
         "name": "TypeScript",
-        "added": 1609,
-        "removed": 106
+        "added": 1922,
+        "removed": 130
       },
       {
         "name": "YAML",
@@ -223,14 +223,14 @@
         "removed": 7
       },
       {
-        "name": "C",
-        "added": 302,
-        "removed": 73
+        "name": "C++",
+        "added": 551,
+        "removed": 2
       },
       {
-        "name": "C++",
-        "added": 300,
-        "removed": 2
+        "name": "C",
+        "added": 323,
+        "removed": 78
       },
       {
         "name": "Java",
@@ -260,7 +260,7 @@
       {
         "name": "C/C++ Header",
         "added": 23,
-        "removed": 3
+        "removed": 64
       },
       {
         "name": "C (BPF)",
@@ -295,19 +295,19 @@
         "removed": 5
       },
       {
+        "name": "AmadeusITGroup/ai-primitives-hub",
+        "added": 1922,
+        "removed": 130
+      },
+      {
         "name": "gutsOfDarkness/crave-delivery",
         "added": 1885,
         "removed": 1322
       },
       {
-        "name": "AmadeusITGroup/ai-primitives-hub",
-        "added": 1609,
-        "removed": 106
-      },
-      {
         "name": "edgcpp/compiler",
-        "added": 593,
-        "removed": 53
+        "added": 865,
+        "removed": 60
       },
       {
         "name": "OmdenaAI/omdena-texas-homelessness",
@@ -337,7 +337,12 @@
       {
         "name": "sched-ext/scx",
         "added": 26,
-        "removed": 9
+        "removed": 70
+      },
+      {
+        "name": "perses/plugins",
+        "added": 2,
+        "removed": 2
       },
       {
         "name": "OmdenaAI/omdena-pakistan-covid-analysis",

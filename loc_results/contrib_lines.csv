@@ -2,6 +2,8 @@ Repository,PR,MergedAt,Language,Additions,Deletions
 AmadeusITGroup/ai-primitives-hub,675,2026-11-05,TypeScript,42,0
 AmadeusITGroup/ai-primitives-hub,677,2026-11-06,TypeScript,489,28
 AmadeusITGroup/ai-primitives-hub,680,2026-11-14,TypeScript,1078,78
+AmadeusITGroup/ai-primitives-hub,703,2026-11-20,TypeScript,29,5
+AmadeusITGroup/ai-primitives-hub,707,2026-11-20,TypeScript,284,19
 OmdenaAI/lagos-chapter-water-availability,2,2022-09-07,Other,0,0
 OmdenaAI/lagos-chapter-water-availability,6,2022-09-08,YAML,27,0
 OmdenaAI/lagos-chapter-water-availability,7,2022-09-08,Python,131,0
@@ -76,6 +78,11 @@ edgcpp/compiler,388,2026-10-31,C,125,26
 edgcpp/compiler,388,2026-10-31,C++,71,0
 edgcpp/compiler,388,2026-10-31,C/C++ Header,10,0
 edgcpp/compiler,388,2026-10-31,Other,0,1
+edgcpp/compiler,541,2026-11-19,C,4,2
+edgcpp/compiler,541,2026-11-19,C++,26,0
+edgcpp/compiler,547,2026-11-20,C,17,3
+edgcpp/compiler,547,2026-11-20,C++,225,0
+edgcpp/compiler,547,2026-11-20,Other,0,2
 gutsOfDarkness/crave-delivery,1,2026-01-17,Dart,6,0
 gutsOfDarkness/crave-delivery,1,2026-01-17,Other,81,0
 gutsOfDarkness/crave-delivery,1,2026-01-17,SQL,8,0
@@ -108,7 +115,9 @@ gutsOfDarkness/crave-delivery,18,2026-01-25,Go,75,21
 gutsOfDarkness/crave-delivery,19,2026-01-26,Dart,9,1
 gutsOfDarkness/crave-delivery,20,2026-01-26,Go,18,9
 gutsOfDarkness/crave-delivery,21,2026-01-26,Go,0,43
+perses/plugins,952,2026-11-20,Other,2,2
 sched-ext/scx,3934,2026-10-25,C (BPF),10,8
 sched-ext/scx,3936,2026-10-29,C (BPF),9,0
 sched-ext/scx,3936,2026-10-29,Rust,7,1
+sched-ext/scx,3968,2026-11-21,C/C++ Header,0,61
 sched-ext/scx-loader,80,2026-10-25,Rust,1,6
