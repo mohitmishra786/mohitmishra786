@@ -116,10 +116,40 @@ gutsOfDarkness/crave-delivery,18,2026-01-25,Go,75,21
 gutsOfDarkness/crave-delivery,19,2026-01-26,Dart,9,1
 gutsOfDarkness/crave-delivery,20,2026-01-26,Go,18,9
 gutsOfDarkness/crave-delivery,21,2026-01-26,Go,0,43
+jenkinsci/jenkins,27821,2026-11-21,Java,11,0
+jenkinsci/jenkins,27821,2026-11-21,Other,1,1
+microsoft/mimalloc,1514,2026-11-21,C,12,0
+microsoft/mimalloc,1514,2026-11-21,C/C++ Header,4,4
+microsoft/nvx,1888,2026-11-21,Python,25,3
 perses/plugins,952,2026-11-20,Other,2,2
 sched-ext/scx,3934,2026-10-25,C (BPF),10,8
 sched-ext/scx,3936,2026-10-29,C (BPF),9,0
 sched-ext/scx,3936,2026-10-29,Rust,7,1
 sched-ext/scx,3968,2026-11-21,C/C++ Header,0,61
 sched-ext/scx-loader,80,2026-10-25,Rust,1,6
+sous-labs/songe,16,2026-11-21,Python,75,4
+sous-labs/songe,17,2026-11-21,Python,95,15
+sous-labs/songe,18,2026-11-21,Python,128,23
+sous-labs/songe,26,2026-11-21,Python,19,2
+sous-labs/songe,28,2026-11-21,Python,46,0
+sous-labs/songe,29,2026-11-21,Python,37,2
+sous-labs/songe,30,2026-11-21,Python,31,3
+sous-labs/songe,33,2026-11-21,Python,39,0
+sous-labs/songe,34,2026-11-21,Python,15,1
+sous-labs/songe,35,2026-11-21,Python,75,9
+sous-labs/songe,49,2026-11-22,Python,30,0
+sous-labs/songe,50,2026-11-22,Python,16,5
+sous-labs/songe,51,2026-11-22,Python,41,0
+sous-labs/songe,52,2026-11-22,Python,20,2
+sous-labs/songe,54,2026-11-22,Python,93,14
+sous-labs/songe,54,2026-11-22,TOML,2,0
+sous-labs/songe,54,2026-11-22,YAML,92,0
+sous-labs/songe,74,2026-11-22,Python,4,1
+sous-labs/songe,75,2026-11-22,TOML,1,0
+sous-labs/songe,75,2026-11-22,YAML,1,0
+sous-labs/songe,77,2026-11-22,Python,108,18
+systemd/systemd,44957,2026-11-21,C,18,6
+systemd/systemd,44957,2026-11-21,Shell,29,0
+systemd/systemd,44961,2026-11-21,C,48,30
+systemd/systemd,44961,2026-11-21,Shell,19,0
 winsw/winsw,1532,2026-11-21,YAML,6,3

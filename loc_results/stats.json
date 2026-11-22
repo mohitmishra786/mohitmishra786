@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21",
+  "generated_at": "2026-11-22",
   "total_repositories": 81,
   "total_code_lines": 443631,
   "total_files": 3664,
@@ -193,14 +193,14 @@
     }
   ],
   "contributions": {
-    "prs": 69,
-    "added": 20415,
-    "removed": 1832,
+    "prs": 92,
+    "added": 21550,
+    "removed": 1975,
     "languages": [
       {
         "name": "Python",
-        "added": 10732,
-        "removed": 181
+        "added": 11629,
+        "removed": 283
       },
       {
         "name": "Dart",
@@ -209,8 +209,8 @@
       },
       {
         "name": "Other",
-        "added": 2245,
-        "removed": 100
+        "added": 2246,
+        "removed": 101
       },
       {
         "name": "TypeScript",
@@ -219,7 +219,7 @@
       },
       {
         "name": "YAML",
-        "added": 1177,
+        "added": 1270,
         "removed": 10
       },
       {
@@ -229,12 +229,12 @@
       },
       {
         "name": "C",
-        "added": 323,
-        "removed": 78
+        "added": 401,
+        "removed": 114
       },
       {
         "name": "Java",
-        "added": 291,
+        "added": 302,
         "removed": 0
       },
       {
@@ -249,7 +249,7 @@
       },
       {
         "name": "Shell",
-        "added": 116,
+        "added": 164,
         "removed": 2
       },
       {
@@ -259,8 +259,8 @@
       },
       {
         "name": "C/C++ Header",
-        "added": 23,
-        "removed": 64
+        "added": 27,
+        "removed": 68
       },
       {
         "name": "C (BPF)",
@@ -286,6 +286,11 @@
         "name": "Kotlin",
         "added": 6,
         "removed": 0
+      },
+      {
+        "name": "TOML",
+        "added": 3,
+        "removed": 0
       }
     ],
     "repos": [
@@ -303,6 +308,11 @@
         "name": "gutsOfDarkness/crave-delivery",
         "added": 1885,
         "removed": 1322
+      },
+      {
+        "name": "sous-labs/songe",
+        "added": 968,
+        "removed": 99
       },
       {
         "name": "edgcpp/compiler",
@@ -330,6 +340,11 @@
         "removed": 0
       },
       {
+        "name": "systemd/systemd",
+        "added": 114,
+        "removed": 36
+      },
+      {
         "name": "chrinovicmu/netHex",
         "added": 89,
         "removed": 36
@@ -338,6 +353,21 @@
         "name": "sched-ext/scx",
         "added": 26,
         "removed": 70
+      },
+      {
+        "name": "microsoft/nvx",
+        "added": 25,
+        "removed": 3
+      },
+      {
+        "name": "microsoft/mimalloc",
+        "added": 16,
+        "removed": 4
+      },
+      {
+        "name": "jenkinsci/jenkins",
+        "added": 12,
+        "removed": 1
       },
       {
         "name": "winsw/winsw",
