@@ -35,7 +35,7 @@
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Set page title on the build's Recorded Fingerprints page | [1](https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 26.8k |
-| [systemd/systemd](https://github.com/systemd/systemd) | core: set $LISTEN\_PIDFDID in the payload process with PrivatePIDs= | [1](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
+| [systemd/systemd](https://github.com/systemd/systemd) | core: set $LISTEN\_PID, $WATCHDOG\_PID and $SYSTEMD\_EXEC\_PID in the payload process\(\) | [2](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
 | [winsw/winsw](https://github.com/winsw/winsw) | v2 - Publish release binaries with their usual file names | [1](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.4k |
 | [microsoft/mimalloc](https://github.com/microsoft/mimalloc) | Export the wsize allocation functions used by the csize helpers | [1](https://github.com/microsoft/mimalloc/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 13.6k |
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
-- [sous-labs/songe#35](https://github.com/sous-labs/songe/pull/35): Send Dream reading, review and examples where the proxy sends the model, merged 2026-11-21
-- [sous-labs/songe#34](https://github.com/sous-labs/songe/pull/34): Undo: say there is no earlier version yet before a Deep Dream, merged 2026-11-21
-- [sous-labs/songe#33](https://github.com/sous-labs/songe/pull/33): Doctor: say when an agent has no Songe provider, merged 2026-11-21
-- [sous-labs/songe#30](https://github.com/sous-labs/songe/pull/30): Doctor: count the size of a single-file model, merged 2026-11-21
-- [sous-labs/songe#29](https://github.com/sous-labs/songe/pull/29): Recognise opencode 1.19's title, summary and continue requests, merged 2026-11-21
+- [sous-labs/songe#77](https://github.com/sous-labs/songe/pull/77): Tell Ollama from servers that share /api/version; forward to unknown ones, merged 2026-11-22
+- [sous-labs/songe#74](https://github.com/sous-labs/songe/pull/74): Smoke test: cap the first chat's answer, merged 2026-11-22
+- [sous-labs/songe#54](https://github.com/sous-labs/songe/pull/54): CI: real llama.cpp and Ollama smoke tests, Python 3.13/3.14, Dependabot, merged 2026-11-22
+- [sous-labs/songe#49](https://github.com/sous-labs/songe/pull/49): Ollama: tell agents the context each loaded model runs with, merged 2026-11-22
+- [sous-labs/songe#51](https://github.com/sous-labs/songe/pull/51): Init: keep /v1 on a model server given by its root URL, merged 2026-11-22
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
-- [github/codeql#23194](https://github.com/github/codeql/pull/23194): JS: Recognize replaceAll with a string pattern as an XSS sanitizer, opened 2026-11-21
-- [github/github-mcp-server#3916](https://github.com/github/github-mcp-server/pull/3916): Reject owner without repo in notification and search tools, opened 2026-11-21
-- [github/copilot-cli#5548](https://github.com/github/copilot-cli/pull/5548): install: sort stable releases after their prereleases, opened 2026-11-21
-- [systemd/systemd#44961](https://github.com/systemd/systemd/pull/44961): core: set $LISTEN\_PID, $WATCHDOG\_PID and $SYSTEMD\_EXEC\_PID in the payload process\(\), opened 2026-11-21
-- [microsoft/apm#4593](https://github.com/microsoft/apm/pull/4593): feat\(gemini\): deploy agents to .gemini/agents with validated frontmatter, opened 2026-11-21
+- [sous-labs/songe#83](https://github.com/sous-labs/songe/pull/83): Support llama-swap as a llama.cpp source, opened 2026-11-22
+- [sous-labs/songe#81](https://github.com/sous-labs/songe/pull/81): Agent adapters for songe init, with Aider as the first new harness, opened 2026-11-22
+- [kirodotdev/powers#225](https://github.com/kirodotdev/powers/pull/225): feat\(aws-agentcore\): move the power to the AgentCore CLI \(@aws/agentcore\), opened 2026-11-22
+- [sous-labs/songe#75](https://github.com/sous-labs/songe/pull/75): CI: test Python 3.15 on Ubuntu, opened 2026-11-22
+- [kirodotdev/powers#224](https://github.com/kirodotdev/powers/pull/224): fix\(aws-amplify\): point POWER.md links at steering/, opened 2026-11-22
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -85,22 +85,22 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
-- [github/copilot-cli#5547](https://github.com/github/copilot-cli/issues/5547): install.sh: VERSION=prerelease installs an older build than the latest stable release, opened 2026-11-21
-- [github/github-mcp-server#3915](https://github.com/github/github-mcp-server/issues/3915): Notification and search tools ignore owner when repo is missing and act on all…, opened 2026-11-21
-- [microsoft/nvx#1886](https://github.com/microsoft/nvx/issues/1886): docs: the pull request template points the public API snapshots at a directory that no…, opened 2026-11-21
-- [systemd/systemd#44960](https://github.com/systemd/systemd/issues/44960): core: set $LISTEN\_PID, $WATCHDOG\_PID and $SYSTEMD\_EXEC\_PID in the payload process…, opened 2026-11-21
-- [winsw/winsw#1535](https://github.com/winsw/winsw/issues/1535): v2 - .NET 8 Debug executables stop right after the service starts the wrapped executable, opened 2026-11-21
+- [sous-labs/songe#82](https://github.com/sous-labs/songe/issues/82): test\_lms\_restart\_retains\_an\_unconfirmed\_pending\_load hangs on Python 3.11 \(about 1 in 2…, opened 2026-11-22
+- [sous-labs/songe#64](https://github.com/sous-labs/songe/issues/64): Generic agent adapters for songe init, with Aider as the first new harness \(design record\), opened 2026-11-22
+- [sous-labs/songe#63](https://github.com/sous-labs/songe/issues/63): CI: test Python 3.15, opened 2026-11-22
+- [sous-labs/songe#60](https://github.com/sous-labs/songe/issues/60): Support llama-swap as a llama.cpp source \(design record\), opened 2026-11-22
+- [kirodotdev/KiroCrew#40647](https://github.com/kirodotdev/KiroCrew/issues/40647): kirocrew artifact shows raw urlopen error text when the gateway is not running, opened 2026-11-22
 <!-- OPEN-ISSUES:END -->
 
 <details>
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
-- [sous-labs/songe#27](https://github.com/sous-labs/songe/issues/27): llama.cpp: Dream reading, review and Quick Dream examples go to the owned port and…, resolved 2026-11-21
-- [sous-labs/songe#32](https://github.com/sous-labs/songe/issues/32): songe undo before any Deep Dream says "Version not retained", resolved 2026-11-21
-- [sous-labs/songe#31](https://github.com/sous-labs/songe/issues/31): doctor says "provider URL differs" when the agent has no Songe provider, resolved 2026-11-21
-- [microsoft/mimalloc#1512](https://github.com/microsoft/mimalloc/issues/1512): mi\_malloc\_tp and the csize helpers fail to link against the shared library since v3.5.2, resolved 2026-11-21
-- [microsoft/nvx#1885](https://github.com/microsoft/nvx/issues/1885): nvx: managed\_boot\_diagnostics\_arrive\_before\_the\_control\_endpoint is flaky: the fake VM…, resolved 2026-11-21
+- [sous-labs/songe#61](https://github.com/sous-labs/songe/issues/61): llama-swap is identified as Ollama, and init fails for agents pointing at it, resolved 2026-11-22
+- [sous-labs/songe#62](https://github.com/sous-labs/songe/issues/62): Unrecognized OpenAI-compatible servers are recorded as lmstudio \(or mlx\), resolved 2026-11-22
+- [sous-labs/songe#59](https://github.com/sous-labs/songe/issues/59): CI: smoke / ollama times out when the 135M model gives a long answer, resolved 2026-11-22
+- [sous-labs/songe#53](https://github.com/sous-labs/songe/issues/53): CI: test against real llama.cpp and Ollama servers, Python 3.13/3.14, and Dependabot, resolved 2026-11-22
+- [sous-labs/songe#47](https://github.com/sous-labs/songe/issues/47): Ollama: agents get an 8192 context limit whatever Ollama serves, resolved 2026-11-22
 <!-- CLOSED-ISSUES:END -->
 
 </details>
@@ -112,8 +112,8 @@
 - [mohitmishra786/mimalloc#5](https://github.com/mohitmishra786/mimalloc/issues/5): Docs: deprecated option name in readme, size option units, aligned\_at offset limit…, opened 2026-11-21
 - [mohitmishra786/mimalloc#4](https://github.com/mohitmishra786/mimalloc/issues/4): test-api realloc-shrink-huge fails with MIMALLOC\_PURGE\_DELAY=-1, opened 2026-11-21
 - [mohitmishra786/mimalloc#3](https://github.com/mohitmishra786/mimalloc/issues/3): MI\_TRACK=VALGRIND: false invalid free in Debug builds, intermittent invalid read in…, opened 2026-11-21
-- [mohitmishra786/mimalloc#2](https://github.com/mohitmishra786/mimalloc/issues/2): WASI build: compile error on dev3 \(getuid/geteuid\) and undefined symbol clock, opened 2026-11-21
 - [mohitmishra786/low-level-dev-skills#36](https://github.com/mohitmishra786/low-level-dev-skills/issues/36): Coverage follow-up: Intel PT/record-replay, CXL, gccrs, opened 2026-11-20
+- [mohitmishra786/portfolio#17](https://github.com/mohitmishra786/portfolio/issues/17): Update project links from deleted forks to upstream OmdenaAI repos, opened 2026-10-25
 <!-- OWN-OPEN-ISSUES:END -->
 
 </details>

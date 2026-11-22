@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-21T19:49:49Z",
+  "generated_at": "2026-11-22T07:30:39Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 123,
+  "total_merged_prs": 131,
   "total_repos": 20,
   "repos": [
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26802,
+      "stars": 26801,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -24,24 +24,24 @@
     {
       "repo": "systemd/systemd",
       "url": "https://github.com/systemd/systemd",
-      "stars": 17057,
+      "stars": 17060,
       "description": "The systemd System and Service Manager ",
       "language": "C",
-      "merged_prs": 1,
+      "merged_prs": 2,
       "merged_prs_url": "https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "core: set $LISTEN_PIDFDID in the payload process with PrivatePIDs=",
+      "summary": "core: set $LISTEN_PID, $WATCHDOG_PID and $SYSTEMD_EXEC_PID in the payload process()",
       "featured": false,
       "latest_pr": {
-        "number": 44957,
-        "title": "core: set $LISTEN_PIDFDID in the payload process with PrivatePIDs=",
-        "url": "https://github.com/systemd/systemd/pull/44957",
+        "number": 44961,
+        "title": "core: set $LISTEN_PID, $WATCHDOG_PID and $SYSTEMD_EXEC_PID in the payload process()",
+        "url": "https://github.com/systemd/systemd/pull/44961",
         "merged_at": "2026-11-21"
       }
     },
     {
       "repo": "winsw/winsw",
       "url": "https://github.com/winsw/winsw",
-      "stars": 14440,
+      "stars": 14444,
       "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
       "language": "C#",
       "merged_prs": 1,
@@ -75,7 +75,7 @@
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2256,
+      "stars": 2258,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 4,
@@ -109,7 +109,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1042,
+      "stars": 1043,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 7,
@@ -143,18 +143,18 @@
     {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 143,
+      "stars": 191,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
-      "merged_prs": 11,
+      "merged_prs": 18,
       "merged_prs_url": "https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Send Dream reading, review and examples where the proxy sends the model",
+      "summary": "Tell Ollama from servers that share /api/version; forward to unknown ones",
       "featured": false,
       "latest_pr": {
-        "number": 35,
-        "title": "Send Dream reading, review and examples where the proxy sends the model",
-        "url": "https://github.com/sous-labs/songe/pull/35",
-        "merged_at": "2026-11-21"
+        "number": 77,
+        "title": "Tell Ollama from servers that share /api/version; forward to unknown ones",
+        "url": "https://github.com/sous-labs/songe/pull/77",
+        "merged_at": "2026-11-22"
       }
     },
     {
