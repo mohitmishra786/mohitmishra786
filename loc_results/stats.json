@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22",
+  "generated_at": "2026-11-23",
   "total_repositories": 81,
   "total_code_lines": 443631,
   "total_files": 3664,
@@ -193,24 +193,29 @@
     }
   ],
   "contributions": {
-    "prs": 92,
-    "added": 21550,
-    "removed": 1975,
+    "prs": 121,
+    "added": 26240,
+    "removed": 2233,
     "languages": [
       {
         "name": "Python",
-        "added": 11629,
-        "removed": 283
+        "added": 11999,
+        "removed": 339
+      },
+      {
+        "name": "Rust",
+        "added": 3480,
+        "removed": 156
+      },
+      {
+        "name": "Other",
+        "added": 2883,
+        "removed": 103
       },
       {
         "name": "Dart",
         "added": 2431,
         "removed": 1008
-      },
-      {
-        "name": "Other",
-        "added": 2246,
-        "removed": 101
       },
       {
         "name": "TypeScript",
@@ -219,17 +224,17 @@
       },
       {
         "name": "YAML",
-        "added": 1270,
-        "removed": 10
+        "added": 1349,
+        "removed": 11
       },
       {
         "name": "C++",
-        "added": 551,
-        "removed": 2
+        "added": 560,
+        "removed": 24
       },
       {
         "name": "C",
-        "added": 401,
+        "added": 407,
         "removed": 114
       },
       {
@@ -258,6 +263,16 @@
         "removed": 0
       },
       {
+        "name": "Kotlin",
+        "added": 66,
+        "removed": 0
+      },
+      {
+        "name": "JavaScript",
+        "added": 57,
+        "removed": 28
+      },
+      {
         "name": "C/C++ Header",
         "added": 27,
         "removed": 68
@@ -278,16 +293,6 @@
         "removed": 0
       },
       {
-        "name": "Rust",
-        "added": 8,
-        "removed": 7
-      },
-      {
-        "name": "Kotlin",
-        "added": 6,
-        "removed": 0
-      },
-      {
         "name": "TOML",
         "added": 3,
         "removed": 0
@@ -298,6 +303,11 @@
         "name": "OmdenaAI/omdena-srilanka-tea-quality",
         "added": 14512,
         "removed": 5
+      },
+      {
+        "name": "EL4CTEO/fast-anything",
+        "added": 4627,
+        "removed": 235
       },
       {
         "name": "AmadeusITGroup/ai-primitives-hub",
@@ -350,6 +360,11 @@
         "removed": 36
       },
       {
+        "name": "microsoft/mimalloc",
+        "added": 56,
+        "removed": 4
+      },
+      {
         "name": "sched-ext/scx",
         "added": 26,
         "removed": 70
@@ -360,8 +375,8 @@
         "removed": 3
       },
       {
-        "name": "microsoft/mimalloc",
-        "added": 16,
+        "name": "winsw/winsw",
+        "added": 20,
         "removed": 4
       },
       {
@@ -370,9 +385,9 @@
         "removed": 1
       },
       {
-        "name": "winsw/winsw",
-        "added": 6,
-        "removed": 3
+        "name": "ggml-org/llama.cpp",
+        "added": 9,
+        "removed": 22
       },
       {
         "name": "perses/plugins",
