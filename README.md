@@ -35,10 +35,10 @@
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml/gguf : avoid creating invalid enum values from untrusted file data | [1](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 136.1k |
+| [llvm/llvm-project](https://github.com/llvm/llvm-project) | \[clang\] Convert to a C23 enum with bool underlying type like bool | [1](https://github.com/llvm/llvm-project/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 41.6k |
 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Set page title on the build's Recorded Fingerprints page | [1](https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 26.8k |
 | [systemd/systemd](https://github.com/systemd/systemd) | man: document all LoadState values | [3](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
-| [winsw/winsw](https://github.com/winsw/winsw) | v2 - Do not assert the result of SetConsoleOutputCP | [4](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.5k |
-| [microsoft/mimalloc](https://github.com/microsoft/mimalloc) | Fix the WASI build and add a WASI CI job | [2](https://github.com/microsoft/mimalloc/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 13.6k |
+| [winsw/winsw](https://github.com/winsw/winsw) | v2 - Do not require an elevated token for restart\! | [5](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.5k |
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 50 |
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
-- [winsw/winsw#1540](https://github.com/winsw/winsw/pull/1540): v2 - Do not assert the result of SetConsoleOutputCP, merged 2026-11-24
-- [iamd3vil/blobasaur#54](https://github.com/iamd3vil/blobasaur/pull/54): fix\(protocol\): reject conflicting HSETEX options and extra field arguments, merged 2026-11-24
-- [winsw/winsw#1543](https://github.com/winsw/winsw/pull/1543): v2 - Use a separate test service for each target framework, merged 2026-11-24
-- [iamd3vil/blobasaur#52](https://github.com/iamd3vil/blobasaur/pull/52): fix\(config\): validate cluster slots and gossip interval at load, merged 2026-11-24
-- [EL4CTEO/fast-anything#58](https://github.com/EL4CTEO/fast-anything/pull/58): R: Rscript apps, through the C bridge and base R, merged 2026-11-23
+- [Seafoam-Labs/Shelly-ALPM#2245](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2245): Remove dependencies of build-only packages after AUR builds, merged 2026-11-24
+- [winsw/winsw#1541](https://github.com/winsw/winsw/pull/1541): v2 - Do not require an elevated token for restart\!, merged 2026-11-24
+- [llvm/llvm-project#244494](https://github.com/llvm/llvm-project/pull/244494): \[clang\] Convert to a C23 enum with bool underlying type like bool, merged 2026-11-24
+- [sous-labs/songe#81](https://github.com/sous-labs/songe/pull/81): Agent adapters for songe init \(opencode and pi moved over, no change in output\), merged 2026-11-24
+- [EL4CTEO/fast-anything#94](https://github.com/EL4CTEO/fast-anything/pull/94): java: derive edge cases while recording, merged 2026-11-24
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [EL4CTEO/fast-anything#134](https://github.com/EL4CTEO/fast-anything/pull/134): php: pass NaN and infinity between PHP and the port, opened 2026-11-24
+- [EL4CTEO/fast-anything#132](https://github.com/EL4CTEO/fast-anything/pull/132): C\#: pass NaN and infinity between C\# and the port, opened 2026-11-24
+- [EL4CTEO/fast-anything#130](https://github.com/EL4CTEO/fast-anything/pull/130): go: pass NaN and infinity between Go and the port, opened 2026-11-24
+- [EL4CTEO/fast-anything#128](https://github.com/EL4CTEO/fast-anything/pull/128): python: fix lost worker profiles and recordings in Pool, opened 2026-11-24
 - [winsw/winsw#1544](https://github.com/winsw/winsw/pull/1544): v2 - Do not dispose processes in the exit callback, opened 2026-11-24
-- [EL4CTEO/fast-anything#108](https://github.com/EL4CTEO/fast-anything/pull/108): go: port functions that return a value and an error, opened 2026-11-24
-- [EL4CTEO/fast-anything#106](https://github.com/EL4CTEO/fast-anything/pull/106): C: derive edge cases while recording, in child processes, opened 2026-11-24
-- [EL4CTEO/fast-anything#104](https://github.com/EL4CTEO/fast-anything/pull/104): go: record a function that lives in the same file as main\(\), opened 2026-11-24
-- [EL4CTEO/fast-anything#100](https://github.com/EL4CTEO/fast-anything/pull/100): C/C++: keep the bridge's variables apart from the function's parameters, opened 2026-11-24
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -85,22 +85,22 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
-- [EL4CTEO/fast-anything#107](https://github.com/EL4CTEO/fast-anything/issues/107): Go: functions returning \(T, error\) can't be ported, opened 2026-11-24
-- [EL4CTEO/fast-anything#105](https://github.com/EL4CTEO/fast-anything/issues/105): C: verify derives no edge cases, opened 2026-11-24
-- [EL4CTEO/fast-anything#103](https://github.com/EL4CTEO/fast-anything/issues/103): Go: port records nothing for a function in the same file as main\(\), opened 2026-11-24
-- [EL4CTEO/fast-anything#99](https://github.com/EL4CTEO/fast-anything/issues/99): C/C++: enable fails to build when a parameter is named n, text, out..., opened 2026-11-24
-- [EL4CTEO/fast-anything#97](https://github.com/EL4CTEO/fast-anything/issues/97): C: functions taking an array and its length fail verify on every call, opened 2026-11-24
+- [EL4CTEO/fast-anything#133](https://github.com/EL4CTEO/fast-anything/issues/133): php: NaN and INF are never recorded or sent to the port, opened 2026-11-24
+- [EL4CTEO/fast-anything#131](https://github.com/EL4CTEO/fast-anything/issues/131): C\#: NaN and infinity can't pass between C\# and the port, opened 2026-11-24
+- [EL4CTEO/fast-anything#129](https://github.com/EL4CTEO/fast-anything/issues/129): go: NaN and infinity can't pass between Go and the port, opened 2026-11-24
+- [EL4CTEO/fast-anything#127](https://github.com/EL4CTEO/fast-anything/issues/127): python: Pool workers lose their profile or recording, and the pool tests flake, opened 2026-11-24
+- [sous-labs/songe#64](https://github.com/sous-labs/songe/issues/64): Generic agent adapters for songe init, with Aider as the first new harness \(design record\), opened 2026-11-22
 <!-- OPEN-ISSUES:END -->
 
 <details>
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
-- [winsw/winsw#1542](https://github.com/winsw/winsw/issues/1542): v2 - TestInstall fails intermittently when the target frameworks are tested in parallel, resolved 2026-11-24
-- [iamd3vil/blobasaur#53](https://github.com/iamd3vil/blobasaur/issues/53): HSETEX, HEXPIRE and HEXPIREAT accept conflicting options and extra arguments, resolved 2026-11-24
-- [iamd3vil/blobasaur#51](https://github.com/iamd3vil/blobasaur/issues/51): Invalid cluster config \(zero gossip interval, bad slots\) panics or is accepted, resolved 2026-11-24
-- [EL4CTEO/fast-anything#57](https://github.com/EL4CTEO/fast-anything/issues/57): Support R apps \(Rscript app.R\), resolved 2026-11-23
-- [microsoft/mimalloc#1515](https://github.com/microsoft/mimalloc/issues/1515): WASI build: compile error on dev3 \(getuid/geteuid\) and undefined symbol clock, resolved 2026-11-22
+- [EL4CTEO/fast-anything#125](https://github.com/EL4CTEO/fast-anything/issues/125): ruby: methods with \*rest or keyword arguments can't be ported, resolved 2026-11-24
+- [EL4CTEO/fast-anything#123](https://github.com/EL4CTEO/fast-anything/issues/123): kotlin: functions with an expression body can't be ported, resolved 2026-11-24
+- [EL4CTEO/fast-anything#121](https://github.com/EL4CTEO/fast-anything/issues/121): C++: a derived or edge case that hangs or crashes stops the recording, resolved 2026-11-24
+- [EL4CTEO/fast-anything#119](https://github.com/EL4CTEO/fast-anything/issues/119): python: @classmethods are never portable, resolved 2026-11-24
+- [EL4CTEO/fast-anything#117](https://github.com/EL4CTEO/fast-anything/issues/117): php: functions in braced namespaces can't be ported, resolved 2026-11-24
 <!-- CLOSED-ISSUES:END -->
 
 </details>

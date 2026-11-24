@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T10:28:29Z",
+  "generated_at": "2026-11-24T22:47:52Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 167,
-  "total_repos": 23,
+  "total_merged_prs": 188,
+  "total_repos": 24,
   "repos": [
     {
       "repo": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
-      "stars": 136132,
+      "stars": 136141,
       "description": "LLM inference in C/C++",
       "language": "C++",
       "merged_prs": 1,
@@ -22,9 +22,26 @@
       }
     },
     {
+      "repo": "llvm/llvm-project",
+      "url": "https://github.com/llvm/llvm-project",
+      "stars": 41589,
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "language": "LLVM",
+      "merged_prs": 1,
+      "merged_prs_url": "https://github.com/llvm/llvm-project/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "[clang] Convert to a C23 enum with bool underlying type like bool",
+      "featured": false,
+      "latest_pr": {
+        "number": 244494,
+        "title": "[clang] Convert to a C23 enum with bool underlying type like bool",
+        "url": "https://github.com/llvm/llvm-project/pull/244494",
+        "merged_at": "2026-11-24"
+      }
+    },
+    {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26807,
+      "stars": 26809,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -41,7 +58,7 @@
     {
       "repo": "systemd/systemd",
       "url": "https://github.com/systemd/systemd",
-      "stars": 17060,
+      "stars": 17062,
       "description": "The systemd System and Service Manager ",
       "language": "C",
       "merged_prs": 3,
@@ -58,24 +75,24 @@
     {
       "repo": "winsw/winsw",
       "url": "https://github.com/winsw/winsw",
-      "stars": 14456,
+      "stars": 14455,
       "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
       "language": "C#",
-      "merged_prs": 4,
+      "merged_prs": 5,
       "merged_prs_url": "https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "v2 - Do not assert the result of SetConsoleOutputCP",
+      "summary": "v2 - Do not require an elevated token for restart!",
       "featured": false,
       "latest_pr": {
-        "number": 1540,
-        "title": "v2 - Do not assert the result of SetConsoleOutputCP",
-        "url": "https://github.com/winsw/winsw/pull/1540",
+        "number": 1541,
+        "title": "v2 - Do not require an elevated token for restart!",
+        "url": "https://github.com/winsw/winsw/pull/1541",
         "merged_at": "2026-11-24"
       }
     },
     {
       "repo": "microsoft/mimalloc",
       "url": "https://github.com/microsoft/mimalloc",
-      "stars": 13567,
+      "stars": 13571,
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "merged_prs": 2,
@@ -92,18 +109,18 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 3392,
+      "stars": 3580,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
-      "merged_prs": 26,
+      "merged_prs": 43,
       "merged_prs_url": "https://github.com/EL4CTEO/fast-anything/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "R: Rscript apps, through the C bridge and base R",
+      "summary": "java: derive edge cases while recording",
       "featured": false,
       "latest_pr": {
-        "number": 58,
-        "title": "R: Rscript apps, through the C bridge and base R",
-        "url": "https://github.com/EL4CTEO/fast-anything/pull/58",
-        "merged_at": "2026-11-23"
+        "number": 94,
+        "title": "java: derive edge cases while recording",
+        "url": "https://github.com/EL4CTEO/fast-anything/pull/94",
+        "merged_at": "2026-11-24"
       }
     },
     {
@@ -126,24 +143,24 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1292,
+      "stars": 1293,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
-      "merged_prs": 4,
+      "merged_prs": 5,
       "merged_prs_url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Decompress .flatpakrepo responses",
+      "summary": "Remove dependencies of build-only packages after AUR builds",
       "featured": false,
       "latest_pr": {
-        "number": 2227,
-        "title": "Decompress .flatpakrepo responses",
-        "url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2227",
-        "merged_at": "2026-11-21"
+        "number": 2245,
+        "title": "Remove dependencies of build-only packages after AUR builds",
+        "url": "https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2245",
+        "merged_at": "2026-11-24"
       }
     },
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1047,
+      "stars": 1048,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 7,
@@ -160,7 +177,7 @@
     {
       "repo": "microsoft/nvx",
       "url": "https://github.com/microsoft/nvx",
-      "stars": 866,
+      "stars": 869,
       "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
       "language": "Rust",
       "merged_prs": 2,
@@ -175,9 +192,26 @@
       }
     },
     {
+      "repo": "sous-labs/songe",
+      "url": "https://github.com/sous-labs/songe",
+      "stars": 622,
+      "description": "A training engine for your local model, using your idle compute",
+      "language": "Python",
+      "merged_prs": 20,
+      "merged_prs_url": "https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "Agent adapters for songe init (opencode and pi moved over, no change in output)",
+      "featured": false,
+      "latest_pr": {
+        "number": 81,
+        "title": "Agent adapters for songe init (opencode and pi moved over, no change in output)",
+        "url": "https://github.com/sous-labs/songe/pull/81",
+        "merged_at": "2026-11-24"
+      }
+    },
+    {
       "repo": "iamd3vil/blobasaur",
       "url": "https://github.com/iamd3vil/blobasaur",
-      "stars": 429,
+      "stars": 437,
       "description": "A Blob store based on SQLite compatible with Redis protocol",
       "language": "Rust",
       "merged_prs": 2,
@@ -189,23 +223,6 @@
         "title": "fix(protocol): reject conflicting HSETEX options and extra field arguments",
         "url": "https://github.com/iamd3vil/blobasaur/pull/54",
         "merged_at": "2026-11-24"
-      }
-    },
-    {
-      "repo": "sous-labs/songe",
-      "url": "https://github.com/sous-labs/songe",
-      "stars": 358,
-      "description": "A training engine for your local model, using your idle compute",
-      "language": "Python",
-      "merged_prs": 19,
-      "merged_prs_url": "https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "CI: test Python 3.15 on Ubuntu",
-      "featured": false,
-      "latest_pr": {
-        "number": 75,
-        "title": "CI: test Python 3.15 on Ubuntu",
-        "url": "https://github.com/sous-labs/songe/pull/75",
-        "merged_at": "2026-11-22"
       }
     },
     {
