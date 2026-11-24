@@ -37,7 +37,7 @@
 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml/gguf : avoid creating invalid enum values from untrusted file data | [1](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 136.1k |
 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Set page title on the build's Recorded Fingerprints page | [1](https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 26.8k |
 | [systemd/systemd](https://github.com/systemd/systemd) | man: document all LoadState values | [3](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
-| [winsw/winsw](https://github.com/winsw/winsw) | Build and publish a Windows Arm64 executable | [2](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.5k |
+| [winsw/winsw](https://github.com/winsw/winsw) | v2 - Do not assert the result of SetConsoleOutputCP | [4](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.5k |
 | [microsoft/mimalloc](https://github.com/microsoft/mimalloc) | Fix the WASI build and add a WASI CI job | [2](https://github.com/microsoft/mimalloc/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 13.6k |
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [winsw/winsw#1540](https://github.com/winsw/winsw/pull/1540): v2 - Do not assert the result of SetConsoleOutputCP, merged 2026-11-24
+- [iamd3vil/blobasaur#54](https://github.com/iamd3vil/blobasaur/pull/54): fix\(protocol\): reject conflicting HSETEX options and extra field arguments, merged 2026-11-24
+- [winsw/winsw#1543](https://github.com/winsw/winsw/pull/1543): v2 - Use a separate test service for each target framework, merged 2026-11-24
+- [iamd3vil/blobasaur#52](https://github.com/iamd3vil/blobasaur/pull/52): fix\(config\): validate cluster slots and gossip interval at load, merged 2026-11-24
 - [EL4CTEO/fast-anything#58](https://github.com/EL4CTEO/fast-anything/pull/58): R: Rscript apps, through the C bridge and base R, merged 2026-11-23
-- [winsw/winsw#1534](https://github.com/winsw/winsw/pull/1534): Build and publish a Windows Arm64 executable, merged 2026-11-22
-- [microsoft/mimalloc#1516](https://github.com/microsoft/mimalloc/pull/1516): Fix the WASI build and add a WASI CI job, merged 2026-11-22
-- [microsoft/nvx#1954](https://github.com/microsoft/nvx/pull/1954): doc: name nvx/public-api/ in the pull request template, merged 2026-11-22
-- [EL4CTEO/fast-anything#51](https://github.com/EL4CTEO/fast-anything/pull/51): python: profile and record inside multiprocessing workers, merged 2026-11-22
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
-- [jenkinsci/jenkins#27854](https://github.com/jenkinsci/jenkins/pull/27854): Reject agent names that resolve to the built-in node, opened 2026-11-22
-- [jenkinsci/jenkins#27853](https://github.com/jenkinsci/jenkins/pull/27853): Count jobs with unnormalized label strings in Label\#getTiedJobCount, opened 2026-11-22
-- [kirodotdev/KiroCrew#40711](https://github.com/kirodotdev/KiroCrew/pull/40711): fix: say the gateway is not running in kirocrew artifact, opened 2026-11-22
-- [sous-labs/songe#92](https://github.com/sous-labs/songe/pull/92): Aider in songe init: YAML agent files, codec in the manifest, opened 2026-11-22
-- [sous-labs/songe#83](https://github.com/sous-labs/songe/pull/83): Support llama-swap as a llama.cpp source, opened 2026-11-22
+- [winsw/winsw#1544](https://github.com/winsw/winsw/pull/1544): v2 - Do not dispose processes in the exit callback, opened 2026-11-24
+- [EL4CTEO/fast-anything#108](https://github.com/EL4CTEO/fast-anything/pull/108): go: port functions that return a value and an error, opened 2026-11-24
+- [EL4CTEO/fast-anything#106](https://github.com/EL4CTEO/fast-anything/pull/106): C: derive edge cases while recording, in child processes, opened 2026-11-24
+- [EL4CTEO/fast-anything#104](https://github.com/EL4CTEO/fast-anything/pull/104): go: record a function that lives in the same file as main\(\), opened 2026-11-24
+- [EL4CTEO/fast-anything#100](https://github.com/EL4CTEO/fast-anything/pull/100): C/C++: keep the bridge's variables apart from the function's parameters, opened 2026-11-24
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -85,22 +85,22 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
-- [sous-labs/songe#64](https://github.com/sous-labs/songe/issues/64): Generic agent adapters for songe init, with Aider as the first new harness \(design record\), opened 2026-11-22
-- [sous-labs/songe#60](https://github.com/sous-labs/songe/issues/60): Support llama-swap as a llama.cpp source \(design record\), opened 2026-11-22
-- [kirodotdev/KiroCrew#40647](https://github.com/kirodotdev/KiroCrew/issues/40647): kirocrew artifact shows raw urlopen error text when the gateway is not running, opened 2026-11-22
-- [github/copilot-cli#5547](https://github.com/github/copilot-cli/issues/5547): install.sh: VERSION=prerelease installs an older build than the latest stable release, opened 2026-11-21
-- [github/github-mcp-server#3915](https://github.com/github/github-mcp-server/issues/3915): Notification and search tools ignore owner when repo is missing and act on all…, opened 2026-11-21
+- [EL4CTEO/fast-anything#107](https://github.com/EL4CTEO/fast-anything/issues/107): Go: functions returning \(T, error\) can't be ported, opened 2026-11-24
+- [EL4CTEO/fast-anything#105](https://github.com/EL4CTEO/fast-anything/issues/105): C: verify derives no edge cases, opened 2026-11-24
+- [EL4CTEO/fast-anything#103](https://github.com/EL4CTEO/fast-anything/issues/103): Go: port records nothing for a function in the same file as main\(\), opened 2026-11-24
+- [EL4CTEO/fast-anything#99](https://github.com/EL4CTEO/fast-anything/issues/99): C/C++: enable fails to build when a parameter is named n, text, out..., opened 2026-11-24
+- [EL4CTEO/fast-anything#97](https://github.com/EL4CTEO/fast-anything/issues/97): C: functions taking an array and its length fail verify on every call, opened 2026-11-24
 <!-- OPEN-ISSUES:END -->
 
 <details>
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
+- [winsw/winsw#1542](https://github.com/winsw/winsw/issues/1542): v2 - TestInstall fails intermittently when the target frameworks are tested in parallel, resolved 2026-11-24
+- [iamd3vil/blobasaur#53](https://github.com/iamd3vil/blobasaur/issues/53): HSETEX, HEXPIRE and HEXPIREAT accept conflicting options and extra arguments, resolved 2026-11-24
+- [iamd3vil/blobasaur#51](https://github.com/iamd3vil/blobasaur/issues/51): Invalid cluster config \(zero gossip interval, bad slots\) panics or is accepted, resolved 2026-11-24
 - [EL4CTEO/fast-anything#57](https://github.com/EL4CTEO/fast-anything/issues/57): Support R apps \(Rscript app.R\), resolved 2026-11-23
 - [microsoft/mimalloc#1515](https://github.com/microsoft/mimalloc/issues/1515): WASI build: compile error on dev3 \(getuid/geteuid\) and undefined symbol clock, resolved 2026-11-22
-- [microsoft/nvx#1886](https://github.com/microsoft/nvx/issues/1886): docs: the pull request template points the public API snapshots at a directory that no…, resolved 2026-11-22
-- [github/gh-aw-firewall#11926](https://github.com/github/gh-aw-firewall/issues/11926): --allow-domains accepts host:port, URL paths, and non-lowercase schemes, but the…, resolved 2026-11-22
-- [github/gh-aw-firewall#11927](https://github.com/github/gh-aw-firewall/issues/11927): awf logs: access.log parser splits IPv6 upstream address at the first colon, resolved 2026-11-22
 <!-- CLOSED-ISSUES:END -->
 
 </details>

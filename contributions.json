@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T00:25:03Z",
+  "generated_at": "2026-11-24T10:28:29Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 163,
-  "total_repos": 22,
+  "total_merged_prs": 167,
+  "total_repos": 23,
   "repos": [
     {
       "repo": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
-      "stars": 136083,
+      "stars": 136132,
       "description": "LLM inference in C/C++",
       "language": "C++",
       "merged_prs": 1,
@@ -24,7 +24,7 @@
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26806,
+      "stars": 26807,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -41,7 +41,7 @@
     {
       "repo": "systemd/systemd",
       "url": "https://github.com/systemd/systemd",
-      "stars": 17061,
+      "stars": 17060,
       "description": "The systemd System and Service Manager ",
       "language": "C",
       "merged_prs": 3,
@@ -58,24 +58,24 @@
     {
       "repo": "winsw/winsw",
       "url": "https://github.com/winsw/winsw",
-      "stars": 14453,
+      "stars": 14456,
       "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
       "language": "C#",
-      "merged_prs": 2,
+      "merged_prs": 4,
       "merged_prs_url": "https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Build and publish a Windows Arm64 executable",
+      "summary": "v2 - Do not assert the result of SetConsoleOutputCP",
       "featured": false,
       "latest_pr": {
-        "number": 1534,
-        "title": "Build and publish a Windows Arm64 executable",
-        "url": "https://github.com/winsw/winsw/pull/1534",
-        "merged_at": "2026-11-22"
+        "number": 1540,
+        "title": "v2 - Do not assert the result of SetConsoleOutputCP",
+        "url": "https://github.com/winsw/winsw/pull/1540",
+        "merged_at": "2026-11-24"
       }
     },
     {
       "repo": "microsoft/mimalloc",
       "url": "https://github.com/microsoft/mimalloc",
-      "stars": 13565,
+      "stars": 13567,
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "merged_prs": 2,
@@ -92,7 +92,7 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 3117,
+      "stars": 3392,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
       "merged_prs": 26,
@@ -109,7 +109,7 @@
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2263,
+      "stars": 2264,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 4,
@@ -126,7 +126,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1293,
+      "stars": 1292,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 4,
@@ -143,7 +143,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1046,
+      "stars": 1047,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 7,
@@ -160,7 +160,7 @@
     {
       "repo": "microsoft/nvx",
       "url": "https://github.com/microsoft/nvx",
-      "stars": 865,
+      "stars": 866,
       "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
       "language": "Rust",
       "merged_prs": 2,
@@ -175,9 +175,26 @@
       }
     },
     {
+      "repo": "iamd3vil/blobasaur",
+      "url": "https://github.com/iamd3vil/blobasaur",
+      "stars": 429,
+      "description": "A Blob store based on SQLite compatible with Redis protocol",
+      "language": "Rust",
+      "merged_prs": 2,
+      "merged_prs_url": "https://github.com/iamd3vil/blobasaur/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "fix(protocol): reject conflicting HSETEX options and extra field arguments",
+      "featured": false,
+      "latest_pr": {
+        "number": 54,
+        "title": "fix(protocol): reject conflicting HSETEX options and extra field arguments",
+        "url": "https://github.com/iamd3vil/blobasaur/pull/54",
+        "merged_at": "2026-11-24"
+      }
+    },
+    {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 303,
+      "stars": 358,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
       "merged_prs": 19,
