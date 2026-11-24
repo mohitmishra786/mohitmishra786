@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23",
+  "generated_at": "2026-11-24",
   "total_repositories": 81,
   "total_code_lines": 443631,
   "total_files": 3664,
@@ -193,9 +193,9 @@
     }
   ],
   "contributions": {
-    "prs": 121,
-    "added": 26240,
-    "removed": 2233,
+    "prs": 125,
+    "added": 26731,
+    "removed": 2421,
     "languages": [
       {
         "name": "Python",
@@ -204,13 +204,13 @@
       },
       {
         "name": "Rust",
-        "added": 3480,
-        "removed": 156
+        "added": 3959,
+        "removed": 340
       },
       {
         "name": "Other",
-        "added": 2883,
-        "removed": 103
+        "added": 2895,
+        "removed": 107
       },
       {
         "name": "Dart",
@@ -335,6 +335,11 @@
         "removed": 175
       },
       {
+        "name": "iamd3vil/blobasaur",
+        "added": 479,
+        "removed": 184
+      },
+      {
         "name": "Seafoam-Labs/Shelly-ALPM",
         "added": 243,
         "removed": 21
@@ -365,6 +370,11 @@
         "removed": 4
       },
       {
+        "name": "winsw/winsw",
+        "added": 32,
+        "removed": 8
+      },
+      {
         "name": "sched-ext/scx",
         "added": 26,
         "removed": 70
@@ -373,11 +383,6 @@
         "name": "microsoft/nvx",
         "added": 25,
         "removed": 3
-      },
-      {
-        "name": "winsw/winsw",
-        "added": 20,
-        "removed": 4
       },
       {
         "name": "jenkinsci/jenkins",

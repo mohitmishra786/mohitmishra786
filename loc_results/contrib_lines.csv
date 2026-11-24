@@ -162,6 +162,8 @@ gutsOfDarkness/crave-delivery,18,2026-01-25,Go,75,21
 gutsOfDarkness/crave-delivery,19,2026-01-26,Dart,9,1
 gutsOfDarkness/crave-delivery,20,2026-01-26,Go,18,9
 gutsOfDarkness/crave-delivery,21,2026-01-26,Go,0,43
+iamd3vil/blobasaur,52,2026-11-24,Rust,117,0
+iamd3vil/blobasaur,54,2026-11-24,Rust,362,184
 jenkinsci/jenkins,27821,2026-11-21,Java,11,0
 jenkinsci/jenkins,27821,2026-11-21,Other,1,1
 microsoft/mimalloc,1514,2026-11-21,C,12,0
@@ -202,3 +204,5 @@ systemd/systemd,44961,2026-11-21,C,48,30
 systemd/systemd,44961,2026-11-21,Shell,19,0
 winsw/winsw,1532,2026-11-21,YAML,6,3
 winsw/winsw,1534,2026-11-22,YAML,14,1
+winsw/winsw,1540,2026-11-24,Other,3,2
+winsw/winsw,1543,2026-11-24,Other,9,2
