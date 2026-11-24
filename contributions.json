@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:18:03Z",
+  "generated_at": "2026-11-24T00:25:03Z",
   "username": "mohitmishra786",
   "total_merged_prs": 163,
   "total_repos": 22,
@@ -7,7 +7,7 @@
     {
       "repo": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
-      "stars": 136158,
+      "stars": 136083,
       "description": "LLM inference in C/C++",
       "language": "C++",
       "merged_prs": 1,
@@ -24,7 +24,7 @@
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26804,
+      "stars": 26806,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -41,7 +41,7 @@
     {
       "repo": "systemd/systemd",
       "url": "https://github.com/systemd/systemd",
-      "stars": 17062,
+      "stars": 17061,
       "description": "The systemd System and Service Manager ",
       "language": "C",
       "merged_prs": 3,
@@ -58,7 +58,7 @@
     {
       "repo": "winsw/winsw",
       "url": "https://github.com/winsw/winsw",
-      "stars": 14448,
+      "stars": 14453,
       "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
       "language": "C#",
       "merged_prs": 2,
@@ -75,7 +75,7 @@
     {
       "repo": "microsoft/mimalloc",
       "url": "https://github.com/microsoft/mimalloc",
-      "stars": 13562,
+      "stars": 13565,
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "merged_prs": 2,
@@ -92,7 +92,7 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 2387,
+      "stars": 3117,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
       "merged_prs": 26,
@@ -109,7 +109,7 @@
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2262,
+      "stars": 2263,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 4,
@@ -126,7 +126,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1292,
+      "stars": 1293,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 4,
@@ -143,7 +143,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1045,
+      "stars": 1046,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 7,
@@ -160,7 +160,7 @@
     {
       "repo": "microsoft/nvx",
       "url": "https://github.com/microsoft/nvx",
-      "stars": 860,
+      "stars": 865,
       "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
       "language": "Rust",
       "merged_prs": 2,
@@ -177,7 +177,7 @@
     {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 227,
+      "stars": 303,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
       "merged_prs": 19,
