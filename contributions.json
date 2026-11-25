@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T09:13:58Z",
+  "generated_at": "2026-11-25T22:00:48Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 191,
+  "total_merged_prs": 192,
   "total_repos": 24,
   "repos": [
     {
       "repo": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
-      "stars": 136195,
+      "stars": 136263,
       "description": "LLM inference in C/C++",
       "language": "C++",
       "merged_prs": 1,
@@ -24,7 +24,7 @@
     {
       "repo": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
-      "stars": 41596,
+      "stars": 41597,
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "merged_prs": 1,
@@ -41,7 +41,7 @@
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26810,
+      "stars": 26813,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -75,7 +75,7 @@
     {
       "repo": "winsw/winsw",
       "url": "https://github.com/winsw/winsw",
-      "stars": 14459,
+      "stars": 14460,
       "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
       "language": "C#",
       "merged_prs": 5,
@@ -92,7 +92,7 @@
     {
       "repo": "microsoft/mimalloc",
       "url": "https://github.com/microsoft/mimalloc",
-      "stars": 13572,
+      "stars": 13574,
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "merged_prs": 2,
@@ -109,24 +109,24 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 3759,
+      "stars": 3929,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
-      "merged_prs": 43,
+      "merged_prs": 44,
       "merged_prs_url": "https://github.com/EL4CTEO/fast-anything/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "java: derive edge cases while recording",
+      "summary": "go: pass NaN and infinity between Go and the port",
       "featured": false,
       "latest_pr": {
-        "number": 94,
-        "title": "java: derive edge cases while recording",
-        "url": "https://github.com/EL4CTEO/fast-anything/pull/94",
-        "merged_at": "2026-11-24"
+        "number": 130,
+        "title": "go: pass NaN and infinity between Go and the port",
+        "url": "https://github.com/EL4CTEO/fast-anything/pull/130",
+        "merged_at": "2026-11-25"
       }
     },
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2264,
+      "stars": 2265,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 4,
@@ -143,7 +143,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1293,
+      "stars": 1295,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 5,
@@ -177,7 +177,7 @@
     {
       "repo": "microsoft/nvx",
       "url": "https://github.com/microsoft/nvx",
-      "stars": 869,
+      "stars": 870,
       "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
       "language": "Rust",
       "merged_prs": 2,
@@ -194,7 +194,7 @@
     {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 769,
+      "stars": 852,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
       "merged_prs": 22,
@@ -211,7 +211,7 @@
     {
       "repo": "iamd3vil/blobasaur",
       "url": "https://github.com/iamd3vil/blobasaur",
-      "stars": 446,
+      "stars": 456,
       "description": "A Blob store based on SQLite compatible with Redis protocol",
       "language": "Rust",
       "merged_prs": 3,
@@ -245,7 +245,7 @@
     {
       "repo": "sched-ext/scx-loader",
       "url": "https://github.com/sched-ext/scx-loader",
-      "stars": 50,
+      "stars": 51,
       "description": "",
       "language": "Rust",
       "merged_prs": 1,

@@ -34,14 +34,14 @@
 <!-- FEATURED-CONTRIBUTIONS:START -->
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml/gguf : avoid creating invalid enum values from untrusted file data | [1](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 136.2k |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml/gguf : avoid creating invalid enum values from untrusted file data | [1](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 136.3k |
 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | \[clang\] Convert to a C23 enum with bool underlying type like bool | [1](https://github.com/llvm/llvm-project/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 41.6k |
 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Set page title on the build's Recorded Fingerprints page | [1](https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 26.8k |
 | [systemd/systemd](https://github.com/systemd/systemd) | man: document all LoadState values | [3](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
 | [winsw/winsw](https://github.com/winsw/winsw) | v2 - Do not require an elevated token for restart\! | [5](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.5k |
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
-| [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 50 |
+| [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 51 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
 <sub>Merged PRs into public repositories I don't own, refreshed every 6 hours by <a href=".github/workflows/recent-activity.yml">recent-activity.yml</a> (data: <a href="contributions.json">contributions.json</a>).</sub>
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [EL4CTEO/fast-anything#130](https://github.com/EL4CTEO/fast-anything/pull/130): go: pass NaN and infinity between Go and the port, merged 2026-11-25
 - [sous-labs/songe#83](https://github.com/sous-labs/songe/pull/83): Support llama-swap as a llama.cpp source, merged 2026-11-25
 - [sous-labs/songe#92](https://github.com/sous-labs/songe/pull/92): Aider in songe init: YAML agent files, codec in the manifest, merged 2026-11-25
 - [iamd3vil/blobasaur#62](https://github.com/iamd3vil/blobasaur/pull/62): fix\(migration\): remove drained shard files when reducing the shard count, merged 2026-11-25
 - [Seafoam-Labs/Shelly-ALPM#2245](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2245): Remove dependencies of build-only packages after AUR builds, merged 2026-11-24
-- [winsw/winsw#1541](https://github.com/winsw/winsw/pull/1541): v2 - Do not require an elevated token for restart\!, merged 2026-11-24
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
-- [EL4CTEO/fast-anything#134](https://github.com/EL4CTEO/fast-anything/pull/134): php: pass NaN and infinity between PHP and the port, opened 2026-11-24
-- [EL4CTEO/fast-anything#132](https://github.com/EL4CTEO/fast-anything/pull/132): C\#: pass NaN and infinity between C\# and the port, opened 2026-11-24
-- [EL4CTEO/fast-anything#130](https://github.com/EL4CTEO/fast-anything/pull/130): go: pass NaN and infinity between Go and the port, opened 2026-11-24
-- [EL4CTEO/fast-anything#128](https://github.com/EL4CTEO/fast-anything/pull/128): python: fix lost worker profiles and recordings in Pool, opened 2026-11-24
 - [winsw/winsw#1544](https://github.com/winsw/winsw/pull/1544): v2 - Do not dispose processes in the exit callback, opened 2026-11-24
+- [jenkinsci/jenkins#27854](https://github.com/jenkinsci/jenkins/pull/27854): Reject agent names that resolve to the built-in node, opened 2026-11-22
+- [jenkinsci/jenkins#27853](https://github.com/jenkinsci/jenkins/pull/27853): Count jobs with unnormalized label strings in Label\#getTiedJobCount, opened 2026-11-22
+- [kirodotdev/KiroCrew#40711](https://github.com/kirodotdev/KiroCrew/pull/40711): fix: say the gateway is not running in kirocrew artifact, opened 2026-11-22
+- [kirodotdev/powers#225](https://github.com/kirodotdev/powers/pull/225): feat\(aws-agentcore\): move the power to the AgentCore CLI \(@aws/agentcore\), opened 2026-11-22
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -87,20 +87,20 @@
 <!-- OPEN-ISSUES:START -->
 - [iamd3vil/blobasaur#63](https://github.com/iamd3vil/blobasaur/issues/63): SET: support NX, XX and GET options, opened 2026-11-25
 - [llvm/llvm-project#245877](https://github.com/llvm/llvm-project/issues/245877): \[clang\] Follow-up to \#244494: share the bool enum check with getScalarTypeKind and add…, opened 2026-11-25
-- [EL4CTEO/fast-anything#133](https://github.com/EL4CTEO/fast-anything/issues/133): php: NaN and INF are never recorded or sent to the port, opened 2026-11-24
-- [EL4CTEO/fast-anything#131](https://github.com/EL4CTEO/fast-anything/issues/131): C\#: NaN and infinity can't pass between C\# and the port, opened 2026-11-24
-- [EL4CTEO/fast-anything#129](https://github.com/EL4CTEO/fast-anything/issues/129): go: NaN and infinity can't pass between Go and the port, opened 2026-11-24
+- [kirodotdev/KiroCrew#40647](https://github.com/kirodotdev/KiroCrew/issues/40647): kirocrew artifact shows raw urlopen error text when the gateway is not running, opened 2026-11-22
+- [github/copilot-cli#5547](https://github.com/github/copilot-cli/issues/5547): install.sh: VERSION=prerelease installs an older build than the latest stable release, opened 2026-11-21
+- [github/github-mcp-server#3915](https://github.com/github/github-mcp-server/issues/3915): Notification and search tools ignore owner when repo is missing and act on all…, opened 2026-11-21
 <!-- OPEN-ISSUES:END -->
 
 <details>
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
+- [EL4CTEO/fast-anything#129](https://github.com/EL4CTEO/fast-anything/issues/129): go: NaN and infinity can't pass between Go and the port, resolved 2026-11-25
+- [EL4CTEO/fast-anything#133](https://github.com/EL4CTEO/fast-anything/issues/133): php: NaN and INF are never recorded or sent to the port, resolved 2026-11-25
+- [EL4CTEO/fast-anything#131](https://github.com/EL4CTEO/fast-anything/issues/131): C\#: NaN and infinity can't pass between C\# and the port, resolved 2026-11-25
+- [EL4CTEO/fast-anything#127](https://github.com/EL4CTEO/fast-anything/issues/127): python: Pool workers lose their profile or recording, and the pool tests flake, resolved 2026-11-25
 - [sous-labs/songe#60](https://github.com/sous-labs/songe/issues/60): Support llama-swap as a llama.cpp source \(design record\), resolved 2026-11-25
-- [sous-labs/songe#64](https://github.com/sous-labs/songe/issues/64): Generic agent adapters for songe init, with Aider as the first new harness \(design record\), resolved 2026-11-25
-- [iamd3vil/blobasaur#61](https://github.com/iamd3vil/blobasaur/issues/61): shard migrate to fewer shards leaves the old shard files, so the server won't start, resolved 2026-11-25
-- [EL4CTEO/fast-anything#125](https://github.com/EL4CTEO/fast-anything/issues/125): ruby: methods with \*rest or keyword arguments can't be ported, resolved 2026-11-24
-- [EL4CTEO/fast-anything#123](https://github.com/EL4CTEO/fast-anything/issues/123): kotlin: functions with an expression body can't be ported, resolved 2026-11-24
 <!-- CLOSED-ISSUES:END -->
 
 </details>
