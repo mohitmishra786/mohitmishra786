@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T22:47:52Z",
+  "generated_at": "2026-11-25T09:13:58Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 188,
+  "total_merged_prs": 191,
   "total_repos": 24,
   "repos": [
     {
       "repo": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
-      "stars": 136141,
+      "stars": 136195,
       "description": "LLM inference in C/C++",
       "language": "C++",
       "merged_prs": 1,
@@ -24,7 +24,7 @@
     {
       "repo": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
-      "stars": 41589,
+      "stars": 41596,
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "merged_prs": 1,
@@ -41,7 +41,7 @@
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26809,
+      "stars": 26810,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -58,7 +58,7 @@
     {
       "repo": "systemd/systemd",
       "url": "https://github.com/systemd/systemd",
-      "stars": 17062,
+      "stars": 17063,
       "description": "The systemd System and Service Manager ",
       "language": "C",
       "merged_prs": 3,
@@ -75,7 +75,7 @@
     {
       "repo": "winsw/winsw",
       "url": "https://github.com/winsw/winsw",
-      "stars": 14455,
+      "stars": 14459,
       "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
       "language": "C#",
       "merged_prs": 5,
@@ -92,7 +92,7 @@
     {
       "repo": "microsoft/mimalloc",
       "url": "https://github.com/microsoft/mimalloc",
-      "stars": 13571,
+      "stars": 13572,
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "merged_prs": 2,
@@ -109,7 +109,7 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 3580,
+      "stars": 3759,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
       "merged_prs": 43,
@@ -194,35 +194,35 @@
     {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 622,
+      "stars": 769,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
-      "merged_prs": 20,
+      "merged_prs": 22,
       "merged_prs_url": "https://github.com/sous-labs/songe/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "Agent adapters for songe init (opencode and pi moved over, no change in output)",
+      "summary": "Support llama-swap as a llama.cpp source",
       "featured": false,
       "latest_pr": {
-        "number": 81,
-        "title": "Agent adapters for songe init (opencode and pi moved over, no change in output)",
-        "url": "https://github.com/sous-labs/songe/pull/81",
-        "merged_at": "2026-11-24"
+        "number": 83,
+        "title": "Support llama-swap as a llama.cpp source",
+        "url": "https://github.com/sous-labs/songe/pull/83",
+        "merged_at": "2026-11-25"
       }
     },
     {
       "repo": "iamd3vil/blobasaur",
       "url": "https://github.com/iamd3vil/blobasaur",
-      "stars": 437,
+      "stars": 446,
       "description": "A Blob store based on SQLite compatible with Redis protocol",
       "language": "Rust",
-      "merged_prs": 2,
+      "merged_prs": 3,
       "merged_prs_url": "https://github.com/iamd3vil/blobasaur/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "fix(protocol): reject conflicting HSETEX options and extra field arguments",
+      "summary": "fix(migration): remove drained shard files when reducing the shard count",
       "featured": false,
       "latest_pr": {
-        "number": 54,
-        "title": "fix(protocol): reject conflicting HSETEX options and extra field arguments",
-        "url": "https://github.com/iamd3vil/blobasaur/pull/54",
-        "merged_at": "2026-11-24"
+        "number": 62,
+        "title": "fix(migration): remove drained shard files when reducing the shard count",
+        "url": "https://github.com/iamd3vil/blobasaur/pull/62",
+        "merged_at": "2026-11-25"
       }
     },
     {
