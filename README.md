@@ -39,8 +39,8 @@
 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Set page title on the build's Recorded Fingerprints page | [1](https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 26.8k |
 | [systemd/systemd](https://github.com/systemd/systemd) | man: document all LoadState values | [3](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
 | [winsw/winsw](https://github.com/winsw/winsw) | v2 - Do not require an elevated token for restart\! | [5](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.5k |
-| [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [4](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
-| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1k |
+| [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [5](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
+| [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.1k |
 | [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 51 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
@@ -49,11 +49,11 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [sched-ext/scx#4000](https://github.com/sched-ext/scx/pull/4000): scx\_rusty: Zero freed task\_ctx slots, merged 2026-11-26
 - [EL4CTEO/fast-anything#130](https://github.com/EL4CTEO/fast-anything/pull/130): go: pass NaN and infinity between Go and the port, merged 2026-11-25
 - [sous-labs/songe#83](https://github.com/sous-labs/songe/pull/83): Support llama-swap as a llama.cpp source, merged 2026-11-25
 - [sous-labs/songe#92](https://github.com/sous-labs/songe/pull/92): Aider in songe init: YAML agent files, codec in the manifest, merged 2026-11-25
 - [iamd3vil/blobasaur#62](https://github.com/iamd3vil/blobasaur/pull/62): fix\(migration\): remove drained shard files when reducing the shard count, merged 2026-11-25
-- [Seafoam-Labs/Shelly-ALPM#2245](https://github.com/Seafoam-Labs/Shelly-ALPM/pull/2245): Remove dependencies of build-only packages after AUR builds, merged 2026-11-24
 <!-- RECENT-PRS:END -->
 
 <details>
@@ -96,11 +96,11 @@
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
+- [sched-ext/scx#4001](https://github.com/sched-ext/scx/issues/4001): scx\_rusty: sdt\_free\_idx\(\) never zeroes freed task\_ctx slots, resolved 2026-11-26
 - [EL4CTEO/fast-anything#129](https://github.com/EL4CTEO/fast-anything/issues/129): go: NaN and infinity can't pass between Go and the port, resolved 2026-11-25
 - [EL4CTEO/fast-anything#133](https://github.com/EL4CTEO/fast-anything/issues/133): php: NaN and INF are never recorded or sent to the port, resolved 2026-11-25
 - [EL4CTEO/fast-anything#131](https://github.com/EL4CTEO/fast-anything/issues/131): C\#: NaN and infinity can't pass between C\# and the port, resolved 2026-11-25
 - [EL4CTEO/fast-anything#127](https://github.com/EL4CTEO/fast-anything/issues/127): python: Pool workers lose their profile or recording, and the pool tests flake, resolved 2026-11-25
-- [sous-labs/songe#60](https://github.com/sous-labs/songe/issues/60): Support llama-swap as a llama.cpp source \(design record\), resolved 2026-11-25
 <!-- CLOSED-ISSUES:END -->
 
 </details>

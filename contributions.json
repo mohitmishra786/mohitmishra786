@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T22:00:48Z",
+  "generated_at": "2026-11-26T08:56:57Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 192,
+  "total_merged_prs": 193,
   "total_repos": 24,
   "repos": [
     {
       "repo": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
-      "stars": 136263,
+      "stars": 136327,
       "description": "LLM inference in C/C++",
       "language": "C++",
       "merged_prs": 1,
@@ -24,7 +24,7 @@
     {
       "repo": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
-      "stars": 41597,
+      "stars": 41616,
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "merged_prs": 1,
@@ -41,7 +41,7 @@
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26813,
+      "stars": 26816,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -58,7 +58,7 @@
     {
       "repo": "systemd/systemd",
       "url": "https://github.com/systemd/systemd",
-      "stars": 17063,
+      "stars": 17066,
       "description": "The systemd System and Service Manager ",
       "language": "C",
       "merged_prs": 3,
@@ -75,7 +75,7 @@
     {
       "repo": "winsw/winsw",
       "url": "https://github.com/winsw/winsw",
-      "stars": 14460,
+      "stars": 14465,
       "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
       "language": "C#",
       "merged_prs": 5,
@@ -92,7 +92,7 @@
     {
       "repo": "microsoft/mimalloc",
       "url": "https://github.com/microsoft/mimalloc",
-      "stars": 13574,
+      "stars": 13580,
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "merged_prs": 2,
@@ -109,7 +109,7 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 3929,
+      "stars": 4075,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
       "merged_prs": 44,
@@ -129,21 +129,21 @@
       "stars": 2265,
       "description": "sched_ext schedulers and tools",
       "language": "C",
-      "merged_prs": 4,
+      "merged_prs": 5,
       "merged_prs_url": "https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
       "summary": "scx_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note",
       "featured": true,
       "latest_pr": {
-        "number": 3968,
-        "title": "lib: Drop the unused page fragment allocator",
-        "url": "https://github.com/sched-ext/scx/pull/3968",
-        "merged_at": "2026-11-21"
+        "number": 4000,
+        "title": "scx_rusty: Zero freed task_ctx slots",
+        "url": "https://github.com/sched-ext/scx/pull/4000",
+        "merged_at": "2026-11-26"
       }
     },
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1295,
+      "stars": 1296,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 5,
@@ -160,7 +160,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1048,
+      "stars": 1050,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 7,
@@ -175,26 +175,9 @@
       }
     },
     {
-      "repo": "microsoft/nvx",
-      "url": "https://github.com/microsoft/nvx",
-      "stars": 870,
-      "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
-      "language": "Rust",
-      "merged_prs": 2,
-      "merged_prs_url": "https://github.com/microsoft/nvx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "doc: name nvx/public-api/ in the pull request template",
-      "featured": false,
-      "latest_pr": {
-        "number": 1954,
-        "title": "doc: name nvx/public-api/ in the pull request template",
-        "url": "https://github.com/microsoft/nvx/pull/1954",
-        "merged_at": "2026-11-22"
-      }
-    },
-    {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 852,
+      "stars": 884,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
       "merged_prs": 22,
@@ -209,9 +192,26 @@
       }
     },
     {
+      "repo": "microsoft/nvx",
+      "url": "https://github.com/microsoft/nvx",
+      "stars": 871,
+      "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
+      "language": "Rust",
+      "merged_prs": 2,
+      "merged_prs_url": "https://github.com/microsoft/nvx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
+      "summary": "doc: name nvx/public-api/ in the pull request template",
+      "featured": false,
+      "latest_pr": {
+        "number": 1954,
+        "title": "doc: name nvx/public-api/ in the pull request template",
+        "url": "https://github.com/microsoft/nvx/pull/1954",
+        "merged_at": "2026-11-22"
+      }
+    },
+    {
       "repo": "iamd3vil/blobasaur",
       "url": "https://github.com/iamd3vil/blobasaur",
-      "stars": 456,
+      "stars": 463,
       "description": "A Blob store based on SQLite compatible with Redis protocol",
       "language": "Rust",
       "merged_prs": 3,
