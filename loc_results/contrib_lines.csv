@@ -49,6 +49,42 @@ EL4CTEO/fast-anything,63,2026-11-22,Kotlin,60,0
 EL4CTEO/fast-anything,63,2026-11-22,Other,20,0
 EL4CTEO/fast-anything,63,2026-11-22,Rust,1088,28
 EL4CTEO/fast-anything,63,2026-11-22,YAML,14,0
+EL4CTEO/fast-anything,92,2026-11-24,Ruby,28,2
+EL4CTEO/fast-anything,92,2026-11-24,Rust,623,9
+EL4CTEO/fast-anything,94,2026-11-24,Java,133,1
+EL4CTEO/fast-anything,94,2026-11-24,Rust,57,0
+EL4CTEO/fast-anything,96,2026-11-24,Other,112,1
+EL4CTEO/fast-anything,96,2026-11-24,Rust,57,0
+EL4CTEO/fast-anything,98,2026-11-24,Rust,58,7
+EL4CTEO/fast-anything,100,2026-11-24,Rust,85,49
+EL4CTEO/fast-anything,104,2026-11-24,Rust,38,1
+EL4CTEO/fast-anything,106,2026-11-24,C,180,13
+EL4CTEO/fast-anything,106,2026-11-24,C/C++ Header,16,4
+EL4CTEO/fast-anything,106,2026-11-24,Rust,219,20
+EL4CTEO/fast-anything,108,2026-11-24,Go,75,21
+EL4CTEO/fast-anything,108,2026-11-24,Rust,131,9
+EL4CTEO/fast-anything,110,2026-11-24,Java,3,3
+EL4CTEO/fast-anything,110,2026-11-24,Rust,21,0
+EL4CTEO/fast-anything,112,2026-11-24,Go,2,3
+EL4CTEO/fast-anything,112,2026-11-24,Rust,62,2
+EL4CTEO/fast-anything,114,2026-11-24,Rust,41,5
+EL4CTEO/fast-anything,116,2026-11-24,C,33,0
+EL4CTEO/fast-anything,116,2026-11-24,Go,24,9
+EL4CTEO/fast-anything,116,2026-11-24,Other,27,0
+EL4CTEO/fast-anything,116,2026-11-24,Python,30,0
+EL4CTEO/fast-anything,116,2026-11-24,Ruby,14,1
+EL4CTEO/fast-anything,116,2026-11-24,Rust,473,61
+EL4CTEO/fast-anything,118,2026-11-24,Other,19,3
+EL4CTEO/fast-anything,118,2026-11-24,Rust,64,7
+EL4CTEO/fast-anything,120,2026-11-24,Python,14,2
+EL4CTEO/fast-anything,120,2026-11-24,Rust,31,0
+EL4CTEO/fast-anything,122,2026-11-24,C++,77,28
+EL4CTEO/fast-anything,122,2026-11-24,Rust,57,0
+EL4CTEO/fast-anything,124,2026-11-24,Rust,188,12
+EL4CTEO/fast-anything,126,2026-11-24,Ruby,33,7
+EL4CTEO/fast-anything,126,2026-11-24,Rust,118,11
+EL4CTEO/fast-anything,130,2026-11-25,Go,110,5
+EL4CTEO/fast-anything,130,2026-11-25,Rust,54,1
 OmdenaAI/lagos-chapter-water-availability,2,2022-09-07,Other,0,0
 OmdenaAI/lagos-chapter-water-availability,6,2022-09-08,YAML,27,0
 OmdenaAI/lagos-chapter-water-availability,7,2022-09-08,Python,131,0
@@ -107,6 +143,7 @@ Seafoam-Labs/Shelly-ALPM,2100,2026-10-27,Zig,27,1
 Seafoam-Labs/Shelly-ALPM,2101,2026-10-27,Zig,109,13
 Seafoam-Labs/Shelly-ALPM,2102,2026-11-14,Zig,30,6
 Seafoam-Labs/Shelly-ALPM,2227,2026-11-21,Zig,77,1
+Seafoam-Labs/Shelly-ALPM,2245,2026-11-24,Zig,112,1
 chrinovicmu/netHex,3,2025-03-31,C,89,36
 edgcpp/compiler,206,2026-10-09,C,26,8
 edgcpp/compiler,206,2026-10-09,C++,73,0
@@ -164,8 +201,11 @@ gutsOfDarkness/crave-delivery,20,2026-01-26,Go,18,9
 gutsOfDarkness/crave-delivery,21,2026-01-26,Go,0,43
 iamd3vil/blobasaur,52,2026-11-24,Rust,117,0
 iamd3vil/blobasaur,54,2026-11-24,Rust,362,184
+iamd3vil/blobasaur,62,2026-11-25,Rust,196,6
 jenkinsci/jenkins,27821,2026-11-21,Java,11,0
 jenkinsci/jenkins,27821,2026-11-21,Other,1,1
+llvm/llvm-project,244494,2026-11-24,C,100,0
+llvm/llvm-project,244494,2026-11-24,C++,21,7
 microsoft/mimalloc,1514,2026-11-21,C,12,0
 microsoft/mimalloc,1514,2026-11-21,C/C++ Header,4,4
 microsoft/mimalloc,1516,2026-11-22,C,6,0
@@ -176,6 +216,7 @@ sched-ext/scx,3934,2026-10-25,C (BPF),10,8
 sched-ext/scx,3936,2026-10-29,C (BPF),9,0
 sched-ext/scx,3936,2026-10-29,Rust,7,1
 sched-ext/scx,3968,2026-11-21,C/C++ Header,0,61
+sched-ext/scx,4000,2026-11-26,C (BPF),9,3
 sched-ext/scx-loader,80,2026-10-25,Rust,1,6
 sous-labs/songe,16,2026-11-21,Python,75,4
 sous-labs/songe,17,2026-11-21,Python,95,15
@@ -198,6 +239,10 @@ sous-labs/songe,74,2026-11-22,Python,4,1
 sous-labs/songe,75,2026-11-22,TOML,1,0
 sous-labs/songe,75,2026-11-22,YAML,1,0
 sous-labs/songe,77,2026-11-22,Python,108,18
+sous-labs/songe,81,2026-11-24,Python,477,178
+sous-labs/songe,83,2026-11-25,Python,585,23
+sous-labs/songe,92,2026-11-25,Python,520,15
+sous-labs/songe,92,2026-11-25,TOML,2,0
 systemd/systemd,44957,2026-11-21,C,18,6
 systemd/systemd,44957,2026-11-21,Shell,29,0
 systemd/systemd,44961,2026-11-21,C,48,30
@@ -205,4 +250,5 @@ systemd/systemd,44961,2026-11-21,Shell,19,0
 winsw/winsw,1532,2026-11-21,YAML,6,3
 winsw/winsw,1534,2026-11-22,YAML,14,1
 winsw/winsw,1540,2026-11-24,Other,3,2
+winsw/winsw,1541,2026-11-24,Other,3,6
 winsw/winsw,1543,2026-11-24,Other,9,2

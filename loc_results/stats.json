@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24",
+  "generated_at": "2026-11-26",
   "total_repositories": 81,
   "total_code_lines": 443631,
   "total_files": 3664,
@@ -193,24 +193,24 @@
     }
   ],
   "contributions": {
-    "prs": 125,
-    "added": 26731,
-    "removed": 2421,
+    "prs": 151,
+    "added": 32063,
+    "removed": 2957,
     "languages": [
       {
         "name": "Python",
-        "added": 11999,
-        "removed": 339
+        "added": 13625,
+        "removed": 557
       },
       {
         "name": "Rust",
-        "added": 3959,
-        "removed": 340
+        "added": 6532,
+        "removed": 540
       },
       {
         "name": "Other",
-        "added": 2895,
-        "removed": 107
+        "added": 3056,
+        "removed": 117
       },
       {
         "name": "Dart",
@@ -228,29 +228,29 @@
         "removed": 11
       },
       {
-        "name": "C++",
-        "added": 560,
-        "removed": 24
+        "name": "C",
+        "added": 720,
+        "removed": 127
       },
       {
-        "name": "C",
-        "added": 407,
-        "removed": 114
+        "name": "C++",
+        "added": 658,
+        "removed": 59
       },
       {
         "name": "Java",
-        "added": 302,
-        "removed": 0
-      },
-      {
-        "name": "Zig",
-        "added": 243,
-        "removed": 21
+        "added": 438,
+        "removed": 4
       },
       {
         "name": "Go",
-        "added": 189,
-        "removed": 214
+        "added": 400,
+        "removed": 252
+      },
+      {
+        "name": "Zig",
+        "added": 355,
+        "removed": 22
       },
       {
         "name": "Shell",
@@ -261,6 +261,11 @@
         "name": "HTML",
         "added": 110,
         "removed": 0
+      },
+      {
+        "name": "Ruby",
+        "added": 75,
+        "removed": 10
       },
       {
         "name": "Kotlin",
@@ -274,13 +279,13 @@
       },
       {
         "name": "C/C++ Header",
-        "added": 27,
-        "removed": 68
+        "added": 43,
+        "removed": 72
       },
       {
         "name": "C (BPF)",
-        "added": 19,
-        "removed": 8
+        "added": 28,
+        "removed": 11
       },
       {
         "name": "SQL",
@@ -294,7 +299,7 @@
       },
       {
         "name": "TOML",
-        "added": 3,
+        "added": 5,
         "removed": 0
       }
     ],
@@ -306,8 +311,13 @@
       },
       {
         "name": "EL4CTEO/fast-anything",
-        "added": 4627,
-        "removed": 235
+        "added": 7934,
+        "removed": 532
+      },
+      {
+        "name": "sous-labs/songe",
+        "added": 2552,
+        "removed": 315
       },
       {
         "name": "AmadeusITGroup/ai-primitives-hub",
@@ -320,14 +330,14 @@
         "removed": 1322
       },
       {
-        "name": "sous-labs/songe",
-        "added": 968,
-        "removed": 99
-      },
-      {
         "name": "edgcpp/compiler",
         "added": 865,
         "removed": 60
+      },
+      {
+        "name": "iamd3vil/blobasaur",
+        "added": 675,
+        "removed": 190
       },
       {
         "name": "OmdenaAI/omdena-texas-homelessness",
@@ -335,14 +345,9 @@
         "removed": 175
       },
       {
-        "name": "iamd3vil/blobasaur",
-        "added": 479,
-        "removed": 184
-      },
-      {
         "name": "Seafoam-Labs/Shelly-ALPM",
-        "added": 243,
-        "removed": 21
+        "added": 355,
+        "removed": 22
       },
       {
         "name": "OmdenaAI/omdena-colombia-career-recommender-system",
@@ -353,6 +358,11 @@
         "name": "OmdenaAI/lagos-chapter-water-availability",
         "added": 158,
         "removed": 0
+      },
+      {
+        "name": "llvm/llvm-project",
+        "added": 121,
+        "removed": 7
       },
       {
         "name": "systemd/systemd",
@@ -370,14 +380,14 @@
         "removed": 4
       },
       {
-        "name": "winsw/winsw",
-        "added": 32,
-        "removed": 8
+        "name": "sched-ext/scx",
+        "added": 35,
+        "removed": 73
       },
       {
-        "name": "sched-ext/scx",
-        "added": 26,
-        "removed": 70
+        "name": "winsw/winsw",
+        "added": 35,
+        "removed": 14
       },
       {
         "name": "microsoft/nvx",
