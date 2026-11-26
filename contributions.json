@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-26T08:56:57Z",
+  "generated_at": "2026-11-26T21:58:01Z",
   "username": "mohitmishra786",
-  "total_merged_prs": 193,
+  "total_merged_prs": 197,
   "total_repos": 24,
   "repos": [
     {
       "repo": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
-      "stars": 136327,
+      "stars": 136379,
       "description": "LLM inference in C/C++",
       "language": "C++",
       "merged_prs": 1,
@@ -24,7 +24,7 @@
     {
       "repo": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
-      "stars": 41616,
+      "stars": 41617,
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "merged_prs": 1,
@@ -41,7 +41,7 @@
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26816,
+      "stars": 26818,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -92,7 +92,7 @@
     {
       "repo": "microsoft/mimalloc",
       "url": "https://github.com/microsoft/mimalloc",
-      "stars": 13580,
+      "stars": 13582,
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "merged_prs": 2,
@@ -109,24 +109,24 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 4075,
+      "stars": 4207,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
-      "merged_prs": 44,
+      "merged_prs": 46,
       "merged_prs_url": "https://github.com/EL4CTEO/fast-anything/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "go: pass NaN and infinity between Go and the port",
+      "summary": "java, kotlin: pass NaN and infinity between the app and the port",
       "featured": false,
       "latest_pr": {
-        "number": 130,
-        "title": "go: pass NaN and infinity between Go and the port",
-        "url": "https://github.com/EL4CTEO/fast-anything/pull/130",
-        "merged_at": "2026-11-25"
+        "number": 162,
+        "title": "java, kotlin: pass NaN and infinity between the app and the port",
+        "url": "https://github.com/EL4CTEO/fast-anything/pull/162",
+        "merged_at": "2026-11-26"
       }
     },
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2265,
+      "stars": 2266,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 5,
@@ -143,7 +143,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1296,
+      "stars": 1297,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 5,
@@ -160,7 +160,7 @@
     {
       "repo": "edgcpp/compiler",
       "url": "https://github.com/edgcpp/compiler",
-      "stars": 1050,
+      "stars": 1053,
       "description": "The Open EDG C & C++ Compiler Project",
       "language": "C",
       "merged_prs": 7,
@@ -177,7 +177,7 @@
     {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 884,
+      "stars": 903,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
       "merged_prs": 22,
@@ -194,7 +194,7 @@
     {
       "repo": "microsoft/nvx",
       "url": "https://github.com/microsoft/nvx",
-      "stars": 871,
+      "stars": 872,
       "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
       "language": "Rust",
       "merged_prs": 2,
@@ -211,7 +211,7 @@
     {
       "repo": "iamd3vil/blobasaur",
       "url": "https://github.com/iamd3vil/blobasaur",
-      "stars": 463,
+      "stars": 476,
       "description": "A Blob store based on SQLite compatible with Redis protocol",
       "language": "Rust",
       "merged_prs": 3,
@@ -231,15 +231,15 @@
       "stars": 52,
       "description": "VS Code extension and CLI for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) collections for GitHub Copilot and other AI assistants",
       "language": "TypeScript",
-      "merged_prs": 5,
+      "merged_prs": 6,
       "merged_prs_url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "fix(cli): report failed bundles in the interactive hub install",
+      "summary": "fix(cli): report an unusable profile file in profile publish",
       "featured": false,
       "latest_pr": {
-        "number": 707,
-        "title": "fix(cli): report failed bundles in the interactive hub install",
-        "url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pull/707",
-        "merged_at": "2026-11-20"
+        "number": 706,
+        "title": "fix(cli): report an unusable profile file in profile publish",
+        "url": "https://github.com/AmadeusITGroup/ai-primitives-hub/pull/706",
+        "merged_at": "2026-11-26"
       }
     },
     {
@@ -265,15 +265,15 @@
       "stars": 34,
       "description": "The core and community plugins for Perses",
       "language": "TypeScript",
-      "merged_prs": 1,
+      "merged_prs": 2,
       "merged_prs_url": "https://github.com/perses/plugins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786",
-      "summary": "[BUGFIX] table: migrate thresholds whose base step has no value",
+      "summary": "[BUGFIX] TimeSeriesChart: match byName overrides exactly in the migration",
       "featured": false,
       "latest_pr": {
-        "number": 952,
-        "title": "[BUGFIX] table: migrate thresholds whose base step has no value",
-        "url": "https://github.com/perses/plugins/pull/952",
-        "merged_at": "2026-11-20"
+        "number": 954,
+        "title": "[BUGFIX] TimeSeriesChart: match byName overrides exactly in the migration",
+        "url": "https://github.com/perses/plugins/pull/954",
+        "merged_at": "2026-11-26"
       }
     },
     {

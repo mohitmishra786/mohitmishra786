@@ -34,7 +34,7 @@
 <!-- FEATURED-CONTRIBUTIONS:START -->
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml/gguf : avoid creating invalid enum values from untrusted file data | [1](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 136.3k |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml/gguf : avoid creating invalid enum values from untrusted file data | [1](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 136.4k |
 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | \[clang\] Convert to a C23 enum with bool underlying type like bool | [1](https://github.com/llvm/llvm-project/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 41.6k |
 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Set page title on the build's Recorded Fingerprints page | [1](https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 26.8k |
 | [systemd/systemd](https://github.com/systemd/systemd) | man: document all LoadState values | [3](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
@@ -49,22 +49,22 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [EL4CTEO/fast-anything#162](https://github.com/EL4CTEO/fast-anything/pull/162): java, kotlin: pass NaN and infinity between the app and the port, merged 2026-11-26
+- [EL4CTEO/fast-anything#160](https://github.com/EL4CTEO/fast-anything/pull/160): tests: build the C test apps without FMA contraction, merged 2026-11-26
+- [AmadeusITGroup/ai-primitives-hub#706](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/706): fix\(cli\): report an unusable profile file in profile publish, merged 2026-11-26
+- [perses/plugins#954](https://github.com/perses/plugins/pull/954): \[BUGFIX\] TimeSeriesChart: match byName overrides exactly in the migration, merged 2026-11-26
 - [sched-ext/scx#4000](https://github.com/sched-ext/scx/pull/4000): scx\_rusty: Zero freed task\_ctx slots, merged 2026-11-26
-- [EL4CTEO/fast-anything#130](https://github.com/EL4CTEO/fast-anything/pull/130): go: pass NaN and infinity between Go and the port, merged 2026-11-25
-- [sous-labs/songe#83](https://github.com/sous-labs/songe/pull/83): Support llama-swap as a llama.cpp source, merged 2026-11-25
-- [sous-labs/songe#92](https://github.com/sous-labs/songe/pull/92): Aider in songe init: YAML agent files, codec in the manifest, merged 2026-11-25
-- [iamd3vil/blobasaur#62](https://github.com/iamd3vil/blobasaur/pull/62): fix\(migration\): remove drained shard files when reducing the shard count, merged 2026-11-25
 <!-- RECENT-PRS:END -->
 
 <details>
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [winsw/winsw#1554](https://github.com/winsw/winsw/pull/1554): v3 - Do not require an elevated token for restart\!, opened 2026-11-26
+- [iamd3vil/blobasaur#69](https://github.com/iamd3vil/blobasaur/pull/69): feat\(protocol\): support SET NX, XX and GET, opened 2026-11-26
 - [winsw/winsw#1544](https://github.com/winsw/winsw/pull/1544): v2 - Do not dispose processes in the exit callback, opened 2026-11-24
 - [jenkinsci/jenkins#27854](https://github.com/jenkinsci/jenkins/pull/27854): Reject agent names that resolve to the built-in node, opened 2026-11-22
 - [jenkinsci/jenkins#27853](https://github.com/jenkinsci/jenkins/pull/27853): Count jobs with unnormalized label strings in Label\#getTiedJobCount, opened 2026-11-22
-- [kirodotdev/KiroCrew#40711](https://github.com/kirodotdev/KiroCrew/pull/40711): fix: say the gateway is not running in kirocrew artifact, opened 2026-11-22
-- [kirodotdev/powers#225](https://github.com/kirodotdev/powers/pull/225): feat\(aws-agentcore\): move the power to the AgentCore CLI \(@aws/agentcore\), opened 2026-11-22
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -96,11 +96,11 @@
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
+- [EL4CTEO/fast-anything#161](https://github.com/EL4CTEO/fast-anything/issues/161): Java and Kotlin: calls with NaN or infinity are never recorded, resolved 2026-11-26
+- [EL4CTEO/fast-anything#159](https://github.com/EL4CTEO/fast-anything/issues/159): C typed-values test fails on macOS: clang fuses t += ys\[i\] \* k into an FMA, resolved 2026-11-26
+- [AmadeusITGroup/ai-primitives-hub#704](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/704): \[Bug\]: profile publish crashes \(exit 70\) on an empty or malformed profile file instead…, resolved 2026-11-26
+- [perses/perses#4786](https://github.com/perses/perses/issues/4786): Grafana migration: TimeSeriesChart byName overrides are matched as a regexp, resolved 2026-11-26
 - [sched-ext/scx#4001](https://github.com/sched-ext/scx/issues/4001): scx\_rusty: sdt\_free\_idx\(\) never zeroes freed task\_ctx slots, resolved 2026-11-26
-- [EL4CTEO/fast-anything#129](https://github.com/EL4CTEO/fast-anything/issues/129): go: NaN and infinity can't pass between Go and the port, resolved 2026-11-25
-- [EL4CTEO/fast-anything#133](https://github.com/EL4CTEO/fast-anything/issues/133): php: NaN and INF are never recorded or sent to the port, resolved 2026-11-25
-- [EL4CTEO/fast-anything#131](https://github.com/EL4CTEO/fast-anything/issues/131): C\#: NaN and infinity can't pass between C\# and the port, resolved 2026-11-25
-- [EL4CTEO/fast-anything#127](https://github.com/EL4CTEO/fast-anything/issues/127): python: Pool workers lose their profile or recording, and the pool tests flake, resolved 2026-11-25
 <!-- CLOSED-ISSUES:END -->
 
 </details>
