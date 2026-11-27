@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T06:52:26Z",
+  "generated_at": "2026-11-27T12:50:38Z",
   "username": "mohitmishra786",
   "total_merged_prs": 197,
   "total_repos": 24,
@@ -7,7 +7,7 @@
     {
       "repo": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
-      "stars": 136442,
+      "stars": 136491,
       "description": "LLM inference in C/C++",
       "language": "C++",
       "merged_prs": 1,
@@ -24,7 +24,7 @@
     {
       "repo": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
-      "stars": 41624,
+      "stars": 41627,
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "merged_prs": 1,
@@ -58,7 +58,7 @@
     {
       "repo": "systemd/systemd",
       "url": "https://github.com/systemd/systemd",
-      "stars": 17066,
+      "stars": 17067,
       "description": "The systemd System and Service Manager ",
       "language": "C",
       "merged_prs": 3,
@@ -75,7 +75,7 @@
     {
       "repo": "winsw/winsw",
       "url": "https://github.com/winsw/winsw",
-      "stars": 14466,
+      "stars": 14467,
       "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
       "language": "C#",
       "merged_prs": 5,
@@ -92,7 +92,7 @@
     {
       "repo": "microsoft/mimalloc",
       "url": "https://github.com/microsoft/mimalloc",
-      "stars": 13584,
+      "stars": 13585,
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "merged_prs": 2,
@@ -109,7 +109,7 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 4309,
+      "stars": 4380,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
       "merged_prs": 46,
@@ -177,7 +177,7 @@
     {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 911,
+      "stars": 919,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
       "merged_prs": 22,
@@ -211,7 +211,7 @@
     {
       "repo": "iamd3vil/blobasaur",
       "url": "https://github.com/iamd3vil/blobasaur",
-      "stars": 480,
+      "stars": 487,
       "description": "A Blob store based on SQLite compatible with Redis protocol",
       "language": "Rust",
       "merged_prs": 3,

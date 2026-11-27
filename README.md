@@ -34,7 +34,7 @@
 <!-- FEATURED-CONTRIBUTIONS:START -->
 | Repository | What I worked on | Merged PRs | Stars |
 |---|---|---:|---:|
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml/gguf : avoid creating invalid enum values from untrusted file data | [1](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 136.4k |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml/gguf : avoid creating invalid enum values from untrusted file data | [1](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 136.5k |
 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | \[clang\] Convert to a C23 enum with bool underlying type like bool | [1](https://github.com/llvm/llvm-project/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 41.6k |
 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Set page title on the build's Recorded Fingerprints page | [1](https://github.com/jenkinsci/jenkins/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 26.8k |
 | [systemd/systemd](https://github.com/systemd/systemd) | man: document all LoadState values | [3](https://github.com/systemd/systemd/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 17.1k |
