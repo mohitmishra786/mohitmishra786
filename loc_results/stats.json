@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26",
+  "generated_at": "2026-11-27",
   "total_repositories": 81,
   "total_code_lines": 443631,
   "total_files": 3664,
@@ -193,9 +193,9 @@
     }
   ],
   "contributions": {
-    "prs": 151,
-    "added": 32063,
-    "removed": 2957,
+    "prs": 155,
+    "added": 32244,
+    "removed": 2975,
     "languages": [
       {
         "name": "Python",
@@ -204,13 +204,13 @@
       },
       {
         "name": "Rust",
-        "added": 6532,
-        "removed": 540
+        "added": 6607,
+        "removed": 544
       },
       {
         "name": "Other",
-        "added": 3056,
-        "removed": 117
+        "added": 3065,
+        "removed": 119
       },
       {
         "name": "Dart",
@@ -219,8 +219,8 @@
       },
       {
         "name": "TypeScript",
-        "added": 1922,
-        "removed": 130
+        "added": 1997,
+        "removed": 137
       },
       {
         "name": "YAML",
@@ -239,8 +239,8 @@
       },
       {
         "name": "Java",
-        "added": 438,
-        "removed": 4
+        "added": 460,
+        "removed": 9
       },
       {
         "name": "Go",
@@ -311,8 +311,8 @@
       },
       {
         "name": "EL4CTEO/fast-anything",
-        "added": 7934,
-        "removed": 532
+        "added": 8031,
+        "removed": 541
       },
       {
         "name": "sous-labs/songe",
@@ -321,8 +321,8 @@
       },
       {
         "name": "AmadeusITGroup/ai-primitives-hub",
-        "added": 1922,
-        "removed": 130
+        "added": 1997,
+        "removed": 137
       },
       {
         "name": "gutsOfDarkness/crave-delivery",
@@ -400,14 +400,14 @@
         "removed": 1
       },
       {
+        "name": "perses/plugins",
+        "added": 11,
+        "removed": 4
+      },
+      {
         "name": "ggml-org/llama.cpp",
         "added": 9,
         "removed": 22
-      },
-      {
-        "name": "perses/plugins",
-        "added": 2,
-        "removed": 2
       },
       {
         "name": "OmdenaAI/omdena-pakistan-covid-analysis",

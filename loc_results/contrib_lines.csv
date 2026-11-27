@@ -3,6 +3,7 @@ AmadeusITGroup/ai-primitives-hub,675,2026-11-05,TypeScript,42,0
 AmadeusITGroup/ai-primitives-hub,677,2026-11-06,TypeScript,489,28
 AmadeusITGroup/ai-primitives-hub,680,2026-11-14,TypeScript,1078,78
 AmadeusITGroup/ai-primitives-hub,703,2026-11-20,TypeScript,29,5
+AmadeusITGroup/ai-primitives-hub,706,2026-11-26,TypeScript,75,7
 AmadeusITGroup/ai-primitives-hub,707,2026-11-20,TypeScript,284,19
 EL4CTEO/fast-anything,6,2026-11-22,Python,1,1
 EL4CTEO/fast-anything,6,2026-11-22,Rust,55,9
@@ -85,6 +86,9 @@ EL4CTEO/fast-anything,126,2026-11-24,Ruby,33,7
 EL4CTEO/fast-anything,126,2026-11-24,Rust,118,11
 EL4CTEO/fast-anything,130,2026-11-25,Go,110,5
 EL4CTEO/fast-anything,130,2026-11-25,Rust,54,1
+EL4CTEO/fast-anything,160,2026-11-26,Rust,7,2
+EL4CTEO/fast-anything,162,2026-11-26,Java,22,5
+EL4CTEO/fast-anything,162,2026-11-26,Rust,68,2
 OmdenaAI/lagos-chapter-water-availability,2,2022-09-07,Other,0,0
 OmdenaAI/lagos-chapter-water-availability,6,2022-09-08,YAML,27,0
 OmdenaAI/lagos-chapter-water-availability,7,2022-09-08,Python,131,0
@@ -212,6 +216,7 @@ microsoft/mimalloc,1516,2026-11-22,C,6,0
 microsoft/mimalloc,1516,2026-11-22,YAML,34,0
 microsoft/nvx,1888,2026-11-21,Python,25,3
 perses/plugins,952,2026-11-20,Other,2,2
+perses/plugins,954,2026-11-26,Other,9,2
 sched-ext/scx,3934,2026-10-25,C (BPF),10,8
 sched-ext/scx,3936,2026-10-29,C (BPF),9,0
 sched-ext/scx,3936,2026-10-29,Rust,7,1
