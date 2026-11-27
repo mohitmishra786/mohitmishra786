@@ -41,7 +41,7 @@
 | [winsw/winsw](https://github.com/winsw/winsw) | v2 - Do not require an elevated token for restart\! | [5](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.5k |
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [5](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.1k |
-| [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 51 |
+| [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
 <sub>Merged PRs into public repositories I don't own, refreshed every 6 hours by <a href=".github/workflows/recent-activity.yml">recent-activity.yml</a> (data: <a href="contributions.json">contributions.json</a>).</sub>
@@ -96,8 +96,8 @@
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
-- [EL4CTEO/fast-anything#161](https://github.com/EL4CTEO/fast-anything/issues/161): Java and Kotlin: calls with NaN or infinity are never recorded, resolved 2026-11-26
 - [EL4CTEO/fast-anything#159](https://github.com/EL4CTEO/fast-anything/issues/159): C typed-values test fails on macOS: clang fuses t += ys\[i\] \* k into an FMA, resolved 2026-11-26
+- [EL4CTEO/fast-anything#161](https://github.com/EL4CTEO/fast-anything/issues/161): Java and Kotlin: calls with NaN or infinity are never recorded, resolved 2026-11-26
 - [AmadeusITGroup/ai-primitives-hub#704](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/704): \[Bug\]: profile publish crashes \(exit 70\) on an empty or malformed profile file instead…, resolved 2026-11-26
 - [perses/perses#4786](https://github.com/perses/perses/issues/4786): Grafana migration: TimeSeriesChart byName overrides are matched as a regexp, resolved 2026-11-26
 - [sched-ext/scx#4001](https://github.com/sched-ext/scx/issues/4001): scx\_rusty: sdt\_free\_idx\(\) never zeroes freed task\_ctx slots, resolved 2026-11-26
