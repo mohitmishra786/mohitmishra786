@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:50:38Z",
+  "generated_at": "2026-11-27T18:50:50Z",
   "username": "mohitmishra786",
   "total_merged_prs": 197,
   "total_repos": 24,
@@ -24,7 +24,7 @@
     {
       "repo": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
-      "stars": 41627,
+      "stars": 41629,
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "merged_prs": 1,
@@ -41,7 +41,7 @@
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26821,
+      "stars": 26822,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -58,7 +58,7 @@
     {
       "repo": "systemd/systemd",
       "url": "https://github.com/systemd/systemd",
-      "stars": 17067,
+      "stars": 17069,
       "description": "The systemd System and Service Manager ",
       "language": "C",
       "merged_prs": 3,
@@ -109,7 +109,7 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 4380,
+      "stars": 4427,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
       "merged_prs": 46,
@@ -126,7 +126,7 @@
     {
       "repo": "sched-ext/scx",
       "url": "https://github.com/sched-ext/scx",
-      "stars": 2266,
+      "stars": 2267,
       "description": "sched_ext schedulers and tools",
       "language": "C",
       "merged_prs": 5,
@@ -143,7 +143,7 @@
     {
       "repo": "Seafoam-Labs/Shelly-ALPM",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "stars": 1296,
+      "stars": 1298,
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "merged_prs": 5,
@@ -177,7 +177,7 @@
     {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 919,
+      "stars": 923,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
       "merged_prs": 22,
