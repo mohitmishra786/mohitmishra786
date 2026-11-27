@@ -41,7 +41,7 @@
 | [winsw/winsw](https://github.com/winsw/winsw) | v2 - Do not require an elevated token for restart\! | [5](https://github.com/winsw/winsw/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 14.5k |
 | [sched-ext/scx](https://github.com/sched-ext/scx) | scx\_mlfq fix for RT drain on not-yet-created DSQs; README kernel-config note | [5](https://github.com/sched-ext/scx/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 2.3k |
 | [edgcpp/compiler](https://github.com/edgcpp/compiler) | C++ front-end fixes: auto deduction from void, 128-bit integer limits, \<meta\>/reflection | [7](https://github.com/edgcpp/compiler/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 1.1k |
-| [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 52 |
+| [sched-ext/scx-loader](https://github.com/sched-ext/scx-loader) | Removed leftover scxtui references from README and scxctl | [1](https://github.com/sched-ext/scx-loader/pulls?q=is%3Apr%20is%3Amerged%20author%3Amohitmishra786) | 53 |
 <!-- FEATURED-CONTRIBUTIONS:END -->
 
 <sub>Merged PRs into public repositories I don't own, refreshed every 6 hours by <a href=".github/workflows/recent-activity.yml">recent-activity.yml</a> (data: <a href="contributions.json">contributions.json</a>).</sub>
@@ -60,11 +60,11 @@
 <summary><b>Open PRs</b></summary>
 
 <!-- OPEN-PRS:START -->
+- [sous-labs/songe#284](https://github.com/sous-labs/songe/pull/284): Serve the Responses API \(/v1/responses\) for Codex CLI, opened 2026-11-27
+- [sous-labs/songe#282](https://github.com/sous-labs/songe/pull/282): Continue in songe init: Songe's models in its config.yaml, opened 2026-11-27
 - [winsw/winsw#1554](https://github.com/winsw/winsw/pull/1554): v3 - Do not require an elevated token for restart\!, opened 2026-11-26
 - [iamd3vil/blobasaur#69](https://github.com/iamd3vil/blobasaur/pull/69): feat\(protocol\): support SET NX, XX and GET, opened 2026-11-26
 - [winsw/winsw#1544](https://github.com/winsw/winsw/pull/1544): v2 - Do not dispose processes in the exit callback, opened 2026-11-24
-- [jenkinsci/jenkins#27854](https://github.com/jenkinsci/jenkins/pull/27854): Reject agent names that resolve to the built-in node, opened 2026-11-22
-- [jenkinsci/jenkins#27853](https://github.com/jenkinsci/jenkins/pull/27853): Count jobs with unnormalized label strings in Label\#getTiedJobCount, opened 2026-11-22
 <!-- OPEN-PRS:END -->
 
 </details>
@@ -85,11 +85,11 @@
 ## Issues I've reported
 
 <!-- OPEN-ISSUES:START -->
+- [sous-labs/songe#283](https://github.com/sous-labs/songe/issues/283): Codex CLI: serve the Responses API \(/v1/responses\), opened 2026-11-27
 - [iamd3vil/blobasaur#63](https://github.com/iamd3vil/blobasaur/issues/63): SET: support NX, XX and GET options, opened 2026-11-25
 - [llvm/llvm-project#245877](https://github.com/llvm/llvm-project/issues/245877): \[clang\] Follow-up to \#244494: share the bool enum check with getScalarTypeKind and add…, opened 2026-11-25
 - [kirodotdev/KiroCrew#40647](https://github.com/kirodotdev/KiroCrew/issues/40647): kirocrew artifact shows raw urlopen error text when the gateway is not running, opened 2026-11-22
 - [github/copilot-cli#5547](https://github.com/github/copilot-cli/issues/5547): install.sh: VERSION=prerelease installs an older build than the latest stable release, opened 2026-11-21
-- [github/github-mcp-server#3915](https://github.com/github/github-mcp-server/issues/3915): Notification and search tools ignore owner when repo is missing and act on all…, opened 2026-11-21
 <!-- OPEN-ISSUES:END -->
 
 <details>
