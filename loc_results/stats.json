@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27",
+  "generated_at": "2026-11-28",
   "total_repositories": 81,
   "total_code_lines": 443631,
   "total_files": 3664,
@@ -193,14 +193,14 @@
     }
   ],
   "contributions": {
-    "prs": 155,
-    "added": 32244,
-    "removed": 2975,
+    "prs": 156,
+    "added": 32263,
+    "removed": 2981,
     "languages": [
       {
         "name": "Python",
-        "added": 13625,
-        "removed": 557
+        "added": 13644,
+        "removed": 563
       },
       {
         "name": "Rust",
@@ -393,6 +393,11 @@
         "name": "microsoft/nvx",
         "added": 25,
         "removed": 3
+      },
+      {
+        "name": "kirodotdev/KiroCrew",
+        "added": 19,
+        "removed": 6
       },
       {
         "name": "jenkinsci/jenkins",
