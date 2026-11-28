@@ -49,11 +49,11 @@
 ## Recently merged PRs
 
 <!-- RECENT-PRS:START -->
+- [kirodotdev/KiroCrew#40711](https://github.com/kirodotdev/KiroCrew/pull/40711): fix: say the gateway is not running in kirocrew artifact, merged 2026-11-27
 - [EL4CTEO/fast-anything#162](https://github.com/EL4CTEO/fast-anything/pull/162): java, kotlin: pass NaN and infinity between the app and the port, merged 2026-11-26
 - [EL4CTEO/fast-anything#160](https://github.com/EL4CTEO/fast-anything/pull/160): tests: build the C test apps without FMA contraction, merged 2026-11-26
 - [AmadeusITGroup/ai-primitives-hub#706](https://github.com/AmadeusITGroup/ai-primitives-hub/pull/706): fix\(cli\): report an unusable profile file in profile publish, merged 2026-11-26
 - [perses/plugins#954](https://github.com/perses/plugins/pull/954): \[BUGFIX\] TimeSeriesChart: match byName overrides exactly in the migration, merged 2026-11-26
-- [sched-ext/scx#4000](https://github.com/sched-ext/scx/pull/4000): scx\_rusty: Zero freed task\_ctx slots, merged 2026-11-26
 <!-- RECENT-PRS:END -->
 
 <details>
@@ -88,19 +88,19 @@
 - [sous-labs/songe#283](https://github.com/sous-labs/songe/issues/283): Codex CLI: serve the Responses API \(/v1/responses\), opened 2026-11-27
 - [iamd3vil/blobasaur#63](https://github.com/iamd3vil/blobasaur/issues/63): SET: support NX, XX and GET options, opened 2026-11-25
 - [llvm/llvm-project#245877](https://github.com/llvm/llvm-project/issues/245877): \[clang\] Follow-up to \#244494: share the bool enum check with getScalarTypeKind and add…, opened 2026-11-25
-- [kirodotdev/KiroCrew#40647](https://github.com/kirodotdev/KiroCrew/issues/40647): kirocrew artifact shows raw urlopen error text when the gateway is not running, opened 2026-11-22
 - [github/copilot-cli#5547](https://github.com/github/copilot-cli/issues/5547): install.sh: VERSION=prerelease installs an older build than the latest stable release, opened 2026-11-21
+- [github/github-mcp-server#3915](https://github.com/github/github-mcp-server/issues/3915): Notification and search tools ignore owner when repo is missing and act on all…, opened 2026-11-21
 <!-- OPEN-ISSUES:END -->
 
 <details>
 <summary><b>Recently closed</b></summary>
 
 <!-- CLOSED-ISSUES:START -->
+- [kirodotdev/KiroCrew#40647](https://github.com/kirodotdev/KiroCrew/issues/40647): kirocrew artifact shows raw urlopen error text when the gateway is not running, resolved 2026-11-27
 - [EL4CTEO/fast-anything#159](https://github.com/EL4CTEO/fast-anything/issues/159): C typed-values test fails on macOS: clang fuses t += ys\[i\] \* k into an FMA, resolved 2026-11-26
 - [EL4CTEO/fast-anything#161](https://github.com/EL4CTEO/fast-anything/issues/161): Java and Kotlin: calls with NaN or infinity are never recorded, resolved 2026-11-26
 - [AmadeusITGroup/ai-primitives-hub#704](https://github.com/AmadeusITGroup/ai-primitives-hub/issues/704): \[Bug\]: profile publish crashes \(exit 70\) on an empty or malformed profile file instead…, resolved 2026-11-26
 - [perses/perses#4786](https://github.com/perses/perses/issues/4786): Grafana migration: TimeSeriesChart byName overrides are matched as a regexp, resolved 2026-11-26
-- [sched-ext/scx#4001](https://github.com/sched-ext/scx/issues/4001): scx\_rusty: sdt\_free\_idx\(\) never zeroes freed task\_ctx slots, resolved 2026-11-26
 <!-- CLOSED-ISSUES:END -->
 
 </details>
