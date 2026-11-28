@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:54:56Z",
+  "generated_at": "2026-11-28T06:50:50Z",
   "username": "mohitmishra786",
   "total_merged_prs": 198,
   "total_repos": 25,
@@ -7,7 +7,7 @@
     {
       "repo": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
-      "stars": 136457,
+      "stars": 136471,
       "description": "LLM inference in C/C++",
       "language": "C++",
       "merged_prs": 1,
@@ -24,7 +24,7 @@
     {
       "repo": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
-      "stars": 41630,
+      "stars": 41631,
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "merged_prs": 1,
@@ -41,7 +41,7 @@
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
-      "stars": 26824,
+      "stars": 26825,
       "description": "Jenkins automation server",
       "language": "Java",
       "merged_prs": 1,
@@ -92,7 +92,7 @@
     {
       "repo": "microsoft/mimalloc",
       "url": "https://github.com/microsoft/mimalloc",
-      "stars": 13585,
+      "stars": 13586,
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "merged_prs": 2,
@@ -109,7 +109,7 @@
     {
       "repo": "kirodotdev/KiroCrew",
       "url": "https://github.com/kirodotdev/KiroCrew",
-      "stars": 5114,
+      "stars": 5116,
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
       "language": "Python",
       "merged_prs": 1,
@@ -126,7 +126,7 @@
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "stars": 4466,
+      "stars": 4526,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
       "language": "Rust",
       "merged_prs": 46,
@@ -194,7 +194,7 @@
     {
       "repo": "sous-labs/songe",
       "url": "https://github.com/sous-labs/songe",
-      "stars": 927,
+      "stars": 928,
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
       "merged_prs": 22,
@@ -228,7 +228,7 @@
     {
       "repo": "iamd3vil/blobasaur",
       "url": "https://github.com/iamd3vil/blobasaur",
-      "stars": 491,
+      "stars": 495,
       "description": "A Blob store based on SQLite compatible with Redis protocol",
       "language": "Rust",
       "merged_prs": 3,
